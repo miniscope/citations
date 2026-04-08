@@ -32,7 +32,9 @@ A GitHub Action runs this pipeline automatically whenever `.bib` files are updat
   year      = {2024},
   doi       = {10.1234/example.2024.56789},
   abstract  = {Brief description of the paper...},
-  keywords  = {keyword1, keyword2, keyword3}
+  keywords  = {keyword1, keyword2, keyword3},
+  component = {UCLA Miniscope v4},
+  technique = {Calcium Imaging}
 }
 ```
 
@@ -61,6 +63,12 @@ The entry key becomes the wiki page name — e.g., `Publication/smith_2024_novel
 | `abstract` | Has abstract | |
 | `keywords` | Has keyword | Comma-separated |
 | `url` | Has website | |
+| `project` | Has project | Wiki page name |
+| `component` | Has component | Wiki page name, comma-separated for multiple |
+| `equipment` | Has equipment used | Wiki page name, comma-separated for multiple |
+| `technique` | Has technique | Wiki page name, comma-separated for multiple |
+| `attachment` | Has attachment | File link |
+| `publication_status` | Has publication status | Overrides auto-detected status |
 
 ### Supported entry types
 

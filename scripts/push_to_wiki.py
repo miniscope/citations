@@ -2,8 +2,8 @@
 """Push generated wikitext pages to a MediaWiki instance via the Action API.
 
 Reads the manifest produced by bib_to_wikitext.py, logs in with bot credentials,
-and creates/updates pages. Uses markers to preserve manual edits outside the
-synced region.
+and creates/updates pages. Performs field-level merge: BibTeX fields always win,
+but wiki-only fields added inside the template are preserved.
 """
 
 import json
@@ -41,14 +41,12 @@ class WikiClient:
 
     def login(self, username, password):
         """Log in via the MediaWiki Action API."""
-        # Get login token
         resp = self.session.get(
             self.api_url,
             params={"action": "query", "meta": "tokens", "type": "login", "format": "json"},
         )
         login_token = resp.json()["query"]["tokens"]["logintoken"]
 
-        # Log in
         resp = self.session.post(
             self.api_url,
             data={
@@ -114,26 +112,99 @@ class WikiClient:
         return True, edit_info.get("result", "Unknown")
 
 
-def merge_with_existing(new_content, existing_content):
-    """Replace content between markers in existing page, preserving the rest.
+def parse_template_params(template_block):
+    """Extract parameter key=value pairs from a {{TemplateName|...}} block."""
+    params = {}
+    for match in re.finditer(r"\|([^=|]+)=([^|]*?)(?=\n\||\n\}\}|\}\})", template_block, re.DOTALL):
+        key = match.group(1).strip()
+        value = match.group(2).strip()
+        params[key] = value
+    return params
 
-    If existing page has no markers, return new_content as-is.
+
+def extract_template_blocks(content):
+    """Extract the main Publication template and author subobject blocks from marker content."""
+    # Get content between markers
+    marker_match = re.search(
+        re.escape(MARKER_START) + r"\n(.*?)\n" + re.escape(MARKER_END),
+        content, re.DOTALL,
+    )
+    if not marker_match:
+        return None, []
+
+    inner = marker_match.group(1)
+
+    # Find main Publication template (not the subobject ones)
+    main_match = re.search(r"\{\{Publication\n(.*?)\}\}", inner, re.DOTALL)
+    main_block = main_match.group(0) if main_match else None
+
+    # Find all author subobject blocks
+    author_blocks = re.findall(
+        r"\{\{Publication Has publication author\n.*?\}\}", inner, re.DOTALL
+    )
+
+    return main_block, author_blocks
+
+
+def build_template_call(name, params):
+    """Rebuild a template call from a name and ordered params dict."""
+    lines = ["{{" + name]
+    for key, value in params.items():
+        if value:
+            lines.append(f"|{key}={value}")
+    lines.append("}}")
+    return "\n".join(lines)
+
+
+def merge_with_existing(new_content, existing_content):
+    """Merge new BibTeX content with existing wiki page content.
+
+    Strategy:
+    - Content outside markers is always preserved from existing page
+    - Main Publication template: BibTeX fields override, wiki-only fields preserved
+    - Author subobjects: always replaced from BibTeX (authoritative source)
     """
     if existing_content is None:
         return new_content
 
-    pattern = re.compile(
+    marker_pattern = re.compile(
         re.escape(MARKER_START) + r".*?" + re.escape(MARKER_END),
         re.DOTALL,
     )
 
-    if pattern.search(existing_content):
-        # Extract new marker block from new_content
-        new_match = pattern.search(new_content)
-        if new_match:
-            return pattern.sub(new_match.group(), existing_content)
+    # If existing page has no markers, just use new content
+    if not marker_pattern.search(existing_content):
+        return new_content
 
-    return new_content
+    # Extract template data from both
+    existing_main, _ = extract_template_blocks(existing_content)
+    new_main, new_author_blocks = extract_template_blocks(new_content)
+
+    if not new_main:
+        return new_content
+
+    # Merge main template params: start with existing, overlay with new
+    existing_params = parse_template_params(existing_main) if existing_main else {}
+    new_params = parse_template_params(new_main)
+
+    merged_params = {}
+    # Preserve existing wiki-only fields
+    for key, value in existing_params.items():
+        merged_params[key] = value
+    # BibTeX fields always win
+    for key, value in new_params.items():
+        merged_params[key] = value
+
+    # Rebuild marker block
+    merged_main = build_template_call("Publication", merged_params)
+    marker_content = merged_main
+    if new_author_blocks:
+        marker_content += "\n\n" + "\n\n".join(new_author_blocks)
+
+    new_marker_block = f"{MARKER_START}\n{marker_content}\n{MARKER_END}"
+
+    # Replace marker block in existing page, preserving everything outside
+    return marker_pattern.sub(new_marker_block, existing_content)
 
 
 def main():
