@@ -124,7 +124,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main
-          fetch-depth: ${{ inputs.base_ref && 0 || 2 }}
+          fetch-depth: ${{ inputs.base_ref && '0' || '2' }}
 
       - uses: actions/setup-python@v5
         with:
