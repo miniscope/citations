@@ -1,0 +1,33 @@
+name: Sync citations to wiki
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**.bib"
+      - "scripts/**"
+      - "config.json"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Convert BibTeX to wikitext
+        run: python scripts/bib_to_wikitext.py
+
+      - name: Push to wiki
+        env:
+          WIKI_API_URL: ${{ secrets.WIKI_API_URL }}
+          WIKI_BOT_USERNAME: ${{ secrets.WIKI_BOT_USERNAME }}
+          WIKI_BOT_PASSWORD: ${{ secrets.WIKI_BOT_PASSWORD }}
+        run: python scripts/push_to_wiki.py

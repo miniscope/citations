@@ -1,0 +1,6 @@
+{
+  "wiki_api_url": "https://miniscope.org/api.php",
+  "page_namespace": "OntologyResource",
+  "page_prefix": "Publication/",
+  "bib_files": ["references.bib"]
+}
