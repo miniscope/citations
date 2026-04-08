@@ -140,7 +140,7 @@ def extract_template_blocks(content):
 
     # Find all author subobject blocks
     author_blocks = re.findall(
-        r"\{\{Publication Has publication author\n.*?\}\}", inner, re.DOTALL
+        r"\{\{Subobject/Has publication author\n.*?\}\}", inner, re.DOTALL
     )
 
     return main_block, author_blocks
