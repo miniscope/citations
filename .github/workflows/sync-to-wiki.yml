@@ -38,6 +38,9 @@ jobs:
           git commit -m "Normalize citation keys"
           git push
 
+      - name: Check for duplicates
+        run: python scripts/check_duplicates.py
+
       - name: Convert BibTeX to wikitext
         run: python scripts/bib_to_wikitext.py
 
