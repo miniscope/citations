@@ -111,6 +111,23 @@ class WikiClient:
         edit_info = result.get("edit", {})
         return True, edit_info.get("result", "Unknown")
 
+    def delete_page(self, title, reason, csrf_token):
+        """Delete a wiki page. Returns (success, result_or_error)."""
+        resp = self.session.post(
+            self.api_url,
+            data={
+                "action": "delete",
+                "title": title,
+                "reason": reason,
+                "token": csrf_token,
+                "format": "json",
+            },
+        )
+        result = resp.json()
+        if "error" in result:
+            return False, result["error"]["info"]
+        return True, result.get("delete", {}).get("title", title)
+
 
 def parse_template_params(template_block):
     """Extract parameter key=value pairs from a {{TemplateName|...}} block."""
@@ -219,8 +236,10 @@ def main():
     with open(manifest_path) as f:
         manifest = json.load(f)
 
-    if not manifest:
-        print("No entries to push.")
+    deleted_entries = manifest.pop("_deleted", [])
+
+    if not manifest and not deleted_entries:
+        print("No entries to push or delete.")
         return
 
     api_url, username, password = get_credentials()
@@ -259,7 +278,21 @@ def main():
             errors += 1
             print(f"  ! {title}: {result}", file=sys.stderr)
 
-    print(f"\nDone: {created} created, {updated} updated, {skipped} unchanged, {errors} errors")
+    # Delete pages for removed citations
+    deleted = 0
+    for entry in deleted_entries:
+        title = entry["page_title"]
+        success, result = client.delete_page(
+            title, "citations-sync: removed from BibTeX", csrf_token
+        )
+        if success:
+            deleted += 1
+            print(f"  - {title}")
+        else:
+            errors += 1
+            print(f"  ! {title} (delete): {result}", file=sys.stderr)
+
+    print(f"\nDone: {created} created, {updated} updated, {skipped} unchanged, {deleted} deleted, {errors} errors")
 
 
 if __name__ == "__main__":
