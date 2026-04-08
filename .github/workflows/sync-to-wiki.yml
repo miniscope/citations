@@ -56,6 +56,23 @@ jobs:
           git commit -m "Normalize citation keys"
           git push
 
+      - name: Re-trigger checks on new commit
+        if: steps.normalize.outputs.changed == 'true' && steps.commit.outcome == 'success' && github.event_name == 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          NEW_SHA=$(git rev-parse HEAD)
+          gh api "repos/${{ github.repository }}/check-runs" \
+            -f name="validate" \
+            -f head_sha="$NEW_SHA" \
+            -f status="queued" \
+            -f output='{"title":"Re-running after key normalization","summary":"Keys were normalized, re-triggering validation."}' || true
+          # Also request check suite to re-run
+          SUITE_IDS=$(gh api "repos/${{ github.repository }}/commits/${NEW_SHA}/check-suites" --jq '.check_suites[].id' 2>/dev/null || true)
+          for SID in $SUITE_IDS; do
+            gh api -X POST "repos/${{ github.repository }}/check-suites/${SID}/rerequest" 2>/dev/null || true
+          done
+
       - name: Warn about non-standard keys
         if: steps.normalize.outputs.changed == 'true' && steps.commit.outcome == 'failure'
         run: |
