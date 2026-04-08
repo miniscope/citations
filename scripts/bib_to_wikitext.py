@@ -39,6 +39,13 @@ FIELD_MAP = {
     "keywords": "keyword",
     "url": "website",
     "pmid": "pubmed_id",
+    # Custom fields for ontology cross-links
+    "project": "project",
+    "component": "component",
+    "equipment": "equipment_used",
+    "technique": "technique",
+    "attachment": "attachment",
+    "publication_status": "publication_status",
 }
 
 
