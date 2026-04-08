@@ -294,6 +294,9 @@ def main():
 
     print(f"\nDone: {created} created, {updated} updated, {skipped} unchanged, {deleted} deleted, {errors} errors")
 
+    if errors:
+        sys.exit(1)
+
 
 if __name__ == "__main__":
     main()
