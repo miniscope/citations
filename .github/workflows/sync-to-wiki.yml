@@ -38,13 +38,20 @@ jobs:
           fi
 
       - name: Commit normalized keys
+        id: commit
         if: steps.normalize.outputs.changed == 'true'
+        continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add "*.bib"
           git commit -m "Normalize citation keys"
           git push
+
+      - name: Warn about non-standard keys
+        if: steps.normalize.outputs.changed == 'true' && steps.commit.outcome == 'failure'
+        run: |
+          echo "::warning::Citation keys don't match the expected format (author_year_firstword). Run 'python scripts/normalize_keys.py' locally to fix, or a maintainer will normalize after merge."
 
       - name: Check for duplicates
         run: python scripts/check_duplicates.py
