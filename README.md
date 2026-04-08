@@ -22,17 +22,17 @@ A GitHub Action runs this pipeline automatically whenever `.bib` files are updat
 2. Add a standard BibTeX entry:
 
 ```bibtex
-@article{aharoni2019,
-  title     = {All the light that we can see: a new era in miniaturized microscopy},
-  author    = {Aharoni, Daniel and Bhatt, Denise and Bhatt, Megha and Ghosh, Kunal K.},
-  journal   = {Nature Methods},
-  volume    = {16},
-  number    = {1},
-  pages     = {11--13},
-  year      = {2019},
-  doi       = {10.1038/s41592-018-0266-x},
-  abstract  = {Miniaturized fluorescence microscopes...},
-  keywords  = {calcium imaging, miniscope, neuroscience}
+@article{smith2024,
+  title     = {Title of the paper},
+  author    = {Smith, Jane A. and Doe, John and Lee, Sarah K.},
+  journal   = {Journal Name},
+  volume    = {12},
+  number    = {3},
+  pages     = {100--115},
+  year      = {2024},
+  doi       = {10.1234/example.2024.56789},
+  abstract  = {Brief description of the paper...},
+  keywords  = {keyword1, keyword2, keyword3}
 }
 ```
 
