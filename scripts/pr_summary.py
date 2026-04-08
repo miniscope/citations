@@ -120,7 +120,7 @@ def generate_summary(base_entries, head_entries, keys_normalized, duplicates):
     # Removed
     if removed:
         lines.append("<details>")
-        lines.append(f"<summary><strong>Removed ({len(removed)})</strong></summary>\n")
+        lines.append(f"<summary><strong>Removed ({len(removed)})</strong> — wiki pages will be deleted on merge</summary>\n")
         for key, entry in removed.items():
             lines.append(f"- `{key}` — {format_entry_summary(entry)}")
         lines.append("\n</details>\n")

@@ -244,8 +244,11 @@ def main():
     base_ref = os.environ.get("BASE_REF", "HEAD~1")
     changed_keys = None
 
+    removed_entries = []
+
     if changed_only:
         base_entries = load_base_entries(config["bib_files"], base_ref)
+        current_keys = {e["ID"] for e in entries}
         changed_keys = set()
         for entry in entries:
             key = entry["ID"]
@@ -253,7 +256,16 @@ def main():
                 changed_keys.add(key)  # new entry
             elif entry_changed(base_entries[key], entry):
                 changed_keys.add(key)  # modified entry
+        # Detect entries removed since base
+        for key in base_entries:
+            if key not in current_keys:
+                removed_entries.append({
+                    "key": key,
+                    "page_title": generate_page_title(base_entries[key], config),
+                })
         print(f"Changed entries: {len(changed_keys)} of {len(entries)}")
+        if removed_entries:
+            print(f"Removed entries: {len(removed_entries)}")
 
     output_dir = repo_root / "output"
     output_dir.mkdir(exist_ok=True)
@@ -272,12 +284,16 @@ def main():
         manifest[key] = {"page_title": page_title, "file": filename}
         print(f"  {key} -> {page_title}")
 
+    # Include removed entries so push_to_wiki.py can delete them
+    if removed_entries:
+        manifest["_deleted"] = removed_entries
+
     # Write manifest for the push script
     manifest_path = output_dir / "manifest.json"
     with open(manifest_path, "w") as f:
         json.dump(manifest, f, indent=2)
 
-    count = len(manifest)
+    count = len(manifest) - (1 if "_deleted" in manifest else 0)
     total = len(entries)
     if changed_keys is not None:
         print(f"\nConverted {count} changed entries (of {total} total) -> output/")
