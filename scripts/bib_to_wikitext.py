@@ -210,8 +210,10 @@ def load_base_entries(bib_files, base_ref):
             db = bibtexparser.loads(result.stdout, parser=parser)
             for entry in db.entries:
                 entries[entry["ID"]] = entry
-        except (subprocess.CalledProcessError, FileNotFoundError):
-            pass
+        except subprocess.CalledProcessError:
+            print(f"  Warning: could not read {bib_file} at {base_ref}", file=sys.stderr)
+        except Exception as e:
+            print(f"  Warning: could not parse {bib_file} at {base_ref}: {e}", file=sys.stderr)
     return entries
 
 
