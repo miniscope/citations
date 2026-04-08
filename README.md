@@ -91,6 +91,12 @@ Both standard BibTeX formats are supported:
 
 The first author listed automatically gets the "first author" flag.
 
+## Removing a citation
+
+Delete the BibTeX entry from `references.bib` and open a pull request. The PR summary will list removed entries and note that their wiki pages will be deleted on merge.
+
+When the PR merges, the sync job automatically deletes the corresponding wiki pages via the MediaWiki API. The bot account must have the **Delete pages** permission (see [Creating a bot account](#creating-a-bot-account)).
+
 ## Manual enrichment on the wiki
 
 The converter wraps generated content in markers:
@@ -150,12 +156,23 @@ python scripts/push_to_wiki.py
 The push script:
 - Creates new pages for new entries
 - Updates existing pages by replacing content between markers only
+- Deletes pages for entries removed from the `.bib` files
 - Skips pages where content hasn't changed
-- Reports a summary of created/updated/unchanged/error counts
+- Reports a summary of created/updated/unchanged/deleted/error counts
 
 ## GitHub Action
 
 The workflow at `.github/workflows/sync-to-wiki.yml` runs automatically on pushes to main that modify `.bib` files, `scripts/`, or `config.json`. It can also be triggered manually from the Actions tab.
+
+### Re-syncing older changes
+
+The sync job normally compares against the previous commit (`HEAD~1`). If a sync fails (e.g., the bot lacked permissions) and the changes are already merged, you can re-run it against an older commit:
+
+1. Go to **Actions → Sync citations to wiki → Run workflow**
+2. Enter a commit SHA in the **base_ref** field (e.g., the commit before the failed change)
+3. Click **Run workflow**
+
+This will diff the current state against that older commit and re-apply any creates, updates, or deletions that were missed.
 
 ### Required secrets
 
@@ -172,7 +189,7 @@ Set these in the repository settings under Settings > Secrets and variables > Ac
 1. Log in to the wiki as an admin
 2. Go to `Special:BotPasswords`
 3. Create a new bot with the name `citations-sync`
-4. Grant permissions: **Edit existing pages**, **Create, edit, and move pages**, **High-volume editing**
+4. Grant permissions: **Edit existing pages**, **Create, edit, and move pages**, **Delete pages**, **High-volume editing**
 5. Save the generated password — this is `WIKI_BOT_PASSWORD`
 6. The username is `YourUsername@citations-sync` — this is `WIKI_BOT_USERNAME`
 
