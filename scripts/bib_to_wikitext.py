@@ -181,8 +181,10 @@ def entry_to_wikitext(entry):
 def generate_page_title(entry, config):
     """Generate the wiki page title from a BibTeX entry."""
     prefix = config.get("page_prefix", "Publication/")
-    namespace = config.get("page_namespace", "OntologyResource")
-    return f"{namespace}:{prefix}{entry['ID']}"
+    namespace = config.get("page_namespace", "")
+    if namespace:
+        return f"{namespace}:{prefix}{entry['ID']}"
+    return f"{prefix}{entry['ID']}"
 
 
 def main():

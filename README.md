@@ -42,7 +42,7 @@ The GitHub Action will convert the entry and push it to the wiki as a Publicatio
 
 ### BibTeX entry key
 
-The entry key (e.g., `smith2024`) becomes the wiki page name: `OntologyResource:Publication/smith2024`. Choose keys that are short, unique, and descriptive — typically `firstauthorlastnameYEAR` in lowercase.
+The entry key (e.g., `smith2024`) becomes the wiki page name: `Publication/smith2024`. Choose keys that are short, unique, and descriptive — typically `firstauthorlastnameYEAR` in lowercase.
 
 ### Supported BibTeX fields
 
@@ -175,7 +175,6 @@ Set these in the repository settings under Settings > Secrets and variables > Ac
 ```json
 {
   "wiki_api_url": "https://miniscope.org/api.php",
-  "page_namespace": "OntologyResource",
   "page_prefix": "Publication/",
   "bib_files": ["references.bib"]
 }
@@ -184,8 +183,8 @@ Set these in the repository settings under Settings > Secrets and variables > Ac
 | Field | Description |
 |---|---|
 | `wiki_api_url` | Wiki API URL (used for documentation; the Action uses the secret) |
-| `page_namespace` | MediaWiki namespace for generated pages |
 | `page_prefix` | Page name prefix within the namespace |
+| `page_namespace` | Optional. MediaWiki namespace for generated pages (default: main namespace) |
 | `bib_files` | List of `.bib` files to process (relative to repo root) |
 
 You can organize citations into multiple `.bib` files (e.g., `miniscope-v4.bib`, `calcium-imaging.bib`) and list them all in `bib_files`.
