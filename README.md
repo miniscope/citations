@@ -42,7 +42,7 @@ The GitHub Action will convert the entry and push it to the wiki as a Publicatio
 
 ### BibTeX entry key
 
-The entry key (e.g., `aharoni2019`) becomes the wiki page name: `OntologyResource:Publication/aharoni2019`. Choose keys that are short, unique, and descriptive — typically `firstauthorlastnameYEAR` in lowercase.
+The entry key (e.g., `smith2024`) becomes the wiki page name: `OntologyResource:Publication/smith2024`. Choose keys that are short, unique, and descriptive — typically `firstauthorlastnameYEAR` in lowercase.
 
 ### Supported BibTeX fields
 
@@ -78,8 +78,8 @@ The entry key (e.g., `aharoni2019`) becomes the wiki page name: `OntologyResourc
 
 Both standard BibTeX formats are supported:
 
-- `Last, First Middle` — e.g., `Aharoni, Daniel`, `Ghosh, Kunal K.`
-- `First Middle Last` — e.g., `Daniel Aharoni`, `Kunal K. Ghosh`
+- `Last, First Middle` — e.g., `Smith, Jane A.`, `Lee, Sarah K.`
+- `First Middle Last` — e.g., `Jane A. Smith`, `Sarah K. Lee`
 
 The first author listed automatically gets the "first author" flag.
 
