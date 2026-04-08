@@ -42,7 +42,7 @@ The GitHub Action will convert the entry and push it to the wiki as a Publicatio
 
 ### BibTeX entry key
 
-The entry key (e.g., `smith2024`) becomes the wiki page name: `Publication/smith2024`. Choose keys that are short, unique, and descriptive — typically `firstauthorlastnameYEAR` in lowercase.
+The entry key becomes the wiki page name — e.g., `Publication/smith_2024_novel`. Keys are automatically normalized by CI to the format `{author}_{year}_{first_title_word}`, so you don't need to worry about getting the key right.
 
 ### Supported BibTeX fields
 
@@ -78,8 +78,8 @@ The entry key (e.g., `smith2024`) becomes the wiki page name: `Publication/smith
 
 Both standard BibTeX formats are supported:
 
-- `Last, First Middle` — e.g., `Smith, Jane A.`, `Lee, Sarah K.`
-- `First Middle Last` — e.g., `Jane A. Smith`, `Sarah K. Lee`
+- `Last, First Middle` — e.g., `Smith, Jane A.`
+- `First Middle Last` — e.g., `Jane A. Smith`
 
 The first author listed automatically gets the "first author" flag.
 

@@ -22,6 +22,22 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Normalize citation keys
+        id: normalize
+        run: |
+          if ! python scripts/normalize_keys.py; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit normalized keys
+        if: steps.normalize.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "*.bib"
+          git commit -m "Normalize citation keys"
+          git push
+
       - name: Convert BibTeX to wikitext
         run: python scripts/bib_to_wikitext.py
 
