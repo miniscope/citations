@@ -7,16 +7,14 @@ All lowercase, spaces replaced with underscores. Duplicates get _a, _b suffixes.
 Exits with code 0 if no changes, 1 if keys were rewritten.
 """
 
-import json
 import re
 import sys
 import unicodedata
-from pathlib import Path
 
 import bibtexparser
-from bibtexparser.bparser import BibTexParser
 from bibtexparser.bwriter import BibTexWriter
-from bibtexparser.customization import convert_to_unicode
+
+from bib_utils import clean_latex, load_config, make_parser
 
 STOP_WORDS = {"a", "an", "the", "of", "and", "in", "for", "on", "to", "with", "by", "is", "are"}
 
@@ -34,8 +32,7 @@ def slugify(text):
 
 def get_first_author_lastname(author_str):
     """Extract first author's last name from a BibTeX author string."""
-    first_author = re.split(r"\s+and\s+", author_str)[0].strip()
-    first_author = first_author.replace("{", "").replace("}", "")
+    first_author = clean_latex(re.split(r"\s+and\s+", author_str)[0])
 
     if "," in first_author:
         return first_author.split(",")[0].strip()
@@ -46,7 +43,7 @@ def get_first_author_lastname(author_str):
 
 def get_first_title_word(title):
     """Extract the first significant word from a title (skipping stop words)."""
-    title = title.replace("{", "").replace("}", "")
+    title = clean_latex(title)
     words = re.sub(r"[^\w\s]", "", title).split()
     for word in words:
         if word.lower() not in STOP_WORDS:
@@ -64,8 +61,7 @@ def generate_key(entry):
 
 def normalize_bib_file(bib_path):
     """Normalize keys in a .bib file. Returns True if any keys changed."""
-    parser = BibTexParser(common_strings=True)
-    parser.customization = convert_to_unicode
+    parser = make_parser()
 
     with open(bib_path, encoding="utf-8") as f:
         db = bibtexparser.load(f, parser=parser)
@@ -104,10 +100,7 @@ def normalize_bib_file(bib_path):
 
 
 def main():
-    repo_root = Path(__file__).resolve().parent.parent
-    config_path = repo_root / "config.json"
-    with open(config_path) as f:
-        config = json.load(f)
+    repo_root, config = load_config()
 
     bib_paths = [repo_root / p for p in config["bib_files"]]
     any_changed = False

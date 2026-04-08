@@ -14,8 +14,17 @@ from pathlib import Path
 
 import requests
 
+from bib_utils import build_template_call
+
 MARKER_START = "<!-- citations-sync start -->"
 MARKER_END = "<!-- citations-sync end -->"
+MARKER_PATTERN = re.compile(
+    re.escape(MARKER_START) + r".*?" + re.escape(MARKER_END),
+    re.DOTALL,
+)
+TEMPLATE_PARAMS_RE = re.compile(
+    r"\|([^=|]+)=([^|]*?)(?=\n\||\n\}\}|\}\})", re.DOTALL
+)
 
 
 def get_credentials():
@@ -132,7 +141,7 @@ class WikiClient:
 def parse_template_params(template_block):
     """Extract parameter key=value pairs from a {{TemplateName|...}} block."""
     params = {}
-    for match in re.finditer(r"\|([^=|]+)=([^|]*?)(?=\n\||\n\}\}|\}\})", template_block, re.DOTALL):
+    for match in TEMPLATE_PARAMS_RE.finditer(template_block):
         key = match.group(1).strip()
         value = match.group(2).strip()
         params[key] = value
@@ -163,16 +172,6 @@ def extract_template_blocks(content):
     return main_block, author_blocks
 
 
-def build_template_call(name, params):
-    """Rebuild a template call from a name and ordered params dict."""
-    lines = ["{{" + name]
-    for key, value in params.items():
-        if value:
-            lines.append(f"|{key}={value}")
-    lines.append("}}")
-    return "\n".join(lines)
-
-
 def merge_with_existing(new_content, existing_content):
     """Merge new BibTeX content with existing wiki page content.
 
@@ -184,13 +183,8 @@ def merge_with_existing(new_content, existing_content):
     if existing_content is None:
         return new_content
 
-    marker_pattern = re.compile(
-        re.escape(MARKER_START) + r".*?" + re.escape(MARKER_END),
-        re.DOTALL,
-    )
-
     # If existing page has no markers, just use new content
-    if not marker_pattern.search(existing_content):
+    if not MARKER_PATTERN.search(existing_content):
         return new_content
 
     # Extract template data from both
@@ -200,17 +194,10 @@ def merge_with_existing(new_content, existing_content):
     if not new_main:
         return new_content
 
-    # Merge main template params: start with existing, overlay with new
+    # Merge: start with existing wiki-only fields, BibTeX fields always win
     existing_params = parse_template_params(existing_main) if existing_main else {}
     new_params = parse_template_params(new_main)
-
-    merged_params = {}
-    # Preserve existing wiki-only fields
-    for key, value in existing_params.items():
-        merged_params[key] = value
-    # BibTeX fields always win
-    for key, value in new_params.items():
-        merged_params[key] = value
+    merged_params = {**existing_params, **new_params}
 
     # Rebuild marker block
     merged_main = build_template_call("Publication", merged_params)
@@ -221,7 +208,7 @@ def merge_with_existing(new_content, existing_content):
     new_marker_block = f"{MARKER_START}\n{marker_content}\n{MARKER_END}"
 
     # Replace marker block in existing page, preserving everything outside
-    return marker_pattern.sub(new_marker_block, existing_content)
+    return MARKER_PATTERN.sub(new_marker_block, existing_content)
 
 
 def main():
@@ -234,9 +221,15 @@ def main():
         sys.exit(1)
 
     with open(manifest_path) as f:
-        manifest = json.load(f)
+        raw = json.load(f)
 
-    deleted_entries = manifest.pop("_deleted", [])
+    # Support envelope format {"entries": ..., "deleted": ...}
+    if "entries" in raw:
+        manifest = raw["entries"]
+        deleted_entries = raw.get("deleted", [])
+    else:
+        manifest = raw
+        deleted_entries = []
 
     if not manifest and not deleted_entries:
         print("No entries to push or delete.")

@@ -9,11 +9,15 @@ import json
 import os
 import re
 import sys
-from pathlib import Path
 
-import bibtexparser
-from bibtexparser.bparser import BibTexParser
-from bibtexparser.customization import convert_to_unicode
+from bib_utils import (
+    build_template_call,
+    clean_latex,
+    entry_changed,
+    load_base_entries,
+    load_bib_entries,
+    load_config,
+)
 
 # BibTeX entry type → ontology Has_publication_type allowed value
 ENTRY_TYPE_MAP = {
@@ -50,25 +54,6 @@ FIELD_MAP = {
 }
 
 
-def parse_bib_files(bib_paths):
-    """Parse one or more .bib files into a list of entry dicts."""
-    parser = BibTexParser(common_strings=True)
-    parser.customization = convert_to_unicode
-
-    entries = []
-    for path in bib_paths:
-        with open(path, encoding="utf-8") as f:
-            db = bibtexparser.load(f, parser=parser)
-        entries.extend(db.entries)
-    return entries
-
-
-def clean_latex(value):
-    """Strip common LaTeX artifacts from a string."""
-    if not isinstance(value, str):
-        return str(value)
-    return value.replace("{", "").replace("}", "").strip()
-
 
 def parse_author_name(name_str):
     """Parse a single author name string into first/middle/last parts.
@@ -98,16 +83,6 @@ def parse_author_name(name_str):
         if len(first_parts) > 1:
             result["middle_name"] = " ".join(first_parts[1:])
     return result
-
-
-def build_template_call(name, params):
-    """Build a wikitext template invocation from a name and dict of params."""
-    lines = ["{{" + name]
-    for key, value in params.items():
-        if value:
-            lines.append(f"|{key}={value}")
-    lines.append("}}")
-    return "\n".join(lines)
 
 
 def entry_to_wikitext(entry):
@@ -195,43 +170,8 @@ def generate_page_title(entry, config):
     return f"{prefix}{entry['ID']}"
 
 
-def load_base_entries(bib_files, base_ref):
-    """Load entries from the base branch for comparison."""
-    import subprocess
-    parser = BibTexParser(common_strings=True)
-    parser.customization = convert_to_unicode
-    entries = {}
-    for bib_file in bib_files:
-        try:
-            result = subprocess.run(
-                ["git", "show", f"{base_ref}:{bib_file}"],
-                capture_output=True, text=True, check=True,
-            )
-            db = bibtexparser.loads(result.stdout, parser=parser)
-            for entry in db.entries:
-                entries[entry["ID"]] = entry
-        except subprocess.CalledProcessError:
-            print(f"  Warning: could not read {bib_file} at {base_ref}", file=sys.stderr)
-        except Exception as e:
-            print(f"  Warning: could not parse {bib_file} at {base_ref}: {e}", file=sys.stderr)
-    return entries
-
-
-def entry_changed(old, new):
-    """Check if any fields differ between two entries."""
-    all_fields = set(old.keys()) | set(new.keys())
-    all_fields -= {"ID", "ENTRYTYPE"}
-    for field in all_fields:
-        if old.get(field, "").strip() != new.get(field, "").strip():
-            return True
-    return False
-
-
 def main():
-    repo_root = Path(__file__).resolve().parent.parent
-    config_path = repo_root / "config.json"
-    with open(config_path) as f:
-        config = json.load(f)
+    repo_root, config = load_config()
 
     bib_paths = [repo_root / p for p in config["bib_files"]]
     missing = [p for p in bib_paths if not p.exists()]
@@ -239,7 +179,7 @@ def main():
         print(f"Error: missing bib files: {missing}", file=sys.stderr)
         sys.exit(1)
 
-    entries = parse_bib_files(bib_paths)
+    entries = list(load_bib_entries(bib_paths).values())
 
     # If --changed-only is passed, filter to added/modified entries
     changed_only = "--changed-only" in sys.argv
@@ -286,16 +226,12 @@ def main():
         manifest[key] = {"page_title": page_title, "file": filename}
         print(f"  {key} -> {page_title}")
 
-    # Include removed entries so push_to_wiki.py can delete them
-    if removed_entries:
-        manifest["_deleted"] = removed_entries
-
     # Write manifest for the push script
     manifest_path = output_dir / "manifest.json"
     with open(manifest_path, "w") as f:
-        json.dump(manifest, f, indent=2)
+        json.dump({"entries": manifest, "deleted": removed_entries}, f, indent=2)
 
-    count = len(manifest) - (1 if "_deleted" in manifest else 0)
+    count = len(manifest)
     total = len(entries)
     if changed_keys is not None:
         print(f"\nConverted {count} changed entries (of {total} total) -> output/")
