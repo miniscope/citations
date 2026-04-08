@@ -10,6 +10,8 @@ on:
   pull_request:
     paths:
       - "**.bib"
+      - "scripts/**"
+      - "config.json"
   workflow_dispatch:
 
 permissions:

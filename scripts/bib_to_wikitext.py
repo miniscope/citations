@@ -168,7 +168,7 @@ def entry_to_wikitext(entry):
                 a_params["is_first_author"] = "Yes"
 
             author_blocks.append(
-                build_template_call("Publication Has publication author", a_params)
+                build_template_call("Subobject/Has publication author", a_params)
             )
 
     # -- Assemble page --
