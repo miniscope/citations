@@ -6,6 +6,7 @@ invocations compatible with SemanticSchemas-generated templates.
 """
 
 import json
+import os
 import re
 import sys
 from pathlib import Path
@@ -194,6 +195,36 @@ def generate_page_title(entry, config):
     return f"{prefix}{entry['ID']}"
 
 
+def load_base_entries(bib_files, base_ref):
+    """Load entries from the base branch for comparison."""
+    import subprocess
+    parser = BibTexParser(common_strings=True)
+    parser.customization = convert_to_unicode
+    entries = {}
+    for bib_file in bib_files:
+        try:
+            result = subprocess.run(
+                ["git", "show", f"{base_ref}:{bib_file}"],
+                capture_output=True, text=True, check=True,
+            )
+            db = bibtexparser.loads(result.stdout, parser=parser)
+            for entry in db.entries:
+                entries[entry["ID"]] = entry
+        except (subprocess.CalledProcessError, FileNotFoundError):
+            pass
+    return entries
+
+
+def entry_changed(old, new):
+    """Check if any fields differ between two entries."""
+    all_fields = set(old.keys()) | set(new.keys())
+    all_fields -= {"ID", "ENTRYTYPE"}
+    for field in all_fields:
+        if old.get(field, "").strip() != new.get(field, "").strip():
+            return True
+    return False
+
+
 def main():
     repo_root = Path(__file__).resolve().parent.parent
     config_path = repo_root / "config.json"
@@ -208,14 +239,33 @@ def main():
 
     entries = parse_bib_files(bib_paths)
 
+    # If --changed-only is passed, filter to added/modified entries
+    changed_only = "--changed-only" in sys.argv
+    base_ref = os.environ.get("BASE_REF", "HEAD~1")
+    changed_keys = None
+
+    if changed_only:
+        base_entries = load_base_entries(config["bib_files"], base_ref)
+        changed_keys = set()
+        for entry in entries:
+            key = entry["ID"]
+            if key not in base_entries:
+                changed_keys.add(key)  # new entry
+            elif entry_changed(base_entries[key], entry):
+                changed_keys.add(key)  # modified entry
+        print(f"Changed entries: {len(changed_keys)} of {len(entries)}")
+
     output_dir = repo_root / "output"
     output_dir.mkdir(exist_ok=True)
 
     manifest = {}
     for entry in entries:
+        key = entry["ID"]
+        if changed_keys is not None and key not in changed_keys:
+            continue
+
         wikitext = entry_to_wikitext(entry)
         page_title = generate_page_title(entry, config)
-        key = entry["ID"]
         filename = key + ".wikitext"
 
         (output_dir / filename).write_text(wikitext, encoding="utf-8")
@@ -227,7 +277,12 @@ def main():
     with open(manifest_path, "w") as f:
         json.dump(manifest, f, indent=2)
 
-    print(f"\nConverted {len(entries)} entries -> output/")
+    count = len(manifest)
+    total = len(entries)
+    if changed_keys is not None:
+        print(f"\nConverted {count} changed entries (of {total} total) -> output/")
+    else:
+        print(f"\nConverted {total} entries -> output/")
 
 
 if __name__ == "__main__":
