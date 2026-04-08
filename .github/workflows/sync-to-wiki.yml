@@ -7,13 +7,21 @@ on:
       - "**.bib"
       - "scripts/**"
       - "config.json"
+  pull_request:
+    paths:
+      - "**.bib"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  sync:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref }}
 
       - uses: actions/setup-python@v5
         with:
@@ -40,6 +48,22 @@ jobs:
 
       - name: Check for duplicates
         run: python scripts/check_duplicates.py
+
+  sync:
+    needs: validate
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
       - name: Convert BibTeX to wikitext
         run: python scripts/bib_to_wikitext.py
