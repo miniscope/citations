@@ -5,69 +5,24 @@ Reads the current and base branch .bib files, compares entries, and writes
 a markdown summary to a file (default: output/pr_summary.md).
 """
 
-import json
 import os
 import re
-import subprocess
-import sys
-from pathlib import Path
 
-import bibtexparser
-from bibtexparser.bparser import BibTexParser
-from bibtexparser.customization import convert_to_unicode
-
-
-def load_entries(bib_paths):
-    """Load all entries from a list of .bib file paths."""
-    parser = BibTexParser(common_strings=True)
-    parser.customization = convert_to_unicode
-    entries = {}
-    for path in bib_paths:
-        if not path.exists():
-            continue
-        with open(path, encoding="utf-8") as f:
-            db = bibtexparser.load(f, parser=parser)
-        for entry in db.entries:
-            entries[entry["ID"]] = entry
-    return entries
-
-
-def get_base_entries(config, base_ref):
-    """Load entries from the base branch using git show."""
-    parser = BibTexParser(common_strings=True)
-    parser.customization = convert_to_unicode
-    entries = {}
-    for bib_file in config["bib_files"]:
-        try:
-            result = subprocess.run(
-                ["git", "show", f"{base_ref}:{bib_file}"],
-                capture_output=True, text=True, check=True,
-            )
-            db = bibtexparser.loads(result.stdout, parser=parser)
-            for entry in db.entries:
-                entries[entry["ID"]] = entry
-        except subprocess.CalledProcessError:
-            pass  # file doesn't exist on base branch
-    return entries
-
-
-def entry_changed(old, new):
-    """Check if any fields changed between two entries (ignoring key)."""
-    all_fields = set(old.keys()) | set(new.keys())
-    all_fields -= {"ID", "ENTRYTYPE"}
-    for field in all_fields:
-        if old.get(field, "").strip() != new.get(field, "").strip():
-            return True
-    return False
+from bib_utils import (
+    clean_latex,
+    entry_changed,
+    load_base_entries,
+    load_bib_entries,
+    load_config,
+)
 
 
 def format_entry_summary(entry):
     """Format a one-line summary of an entry."""
     authors = entry.get("author", "Unknown")
-    first_author = re.split(r"\s+and\s+", authors)[0].strip()
-    first_author = first_author.replace("{", "").replace("}", "")
+    first_author = clean_latex(re.split(r"\s+and\s+", authors)[0])
     year = entry.get("year", "????")
-    title = entry.get("title", "Untitled").replace("{", "").replace("}", "")
+    title = clean_latex(entry.get("title", "Untitled"))
     if len(title) > 80:
         title = title[:77] + "..."
     return f"{first_author} ({year}) — {title}"
@@ -139,10 +94,7 @@ def generate_summary(base_entries, head_entries, keys_normalized, duplicates):
 
 
 def main():
-    repo_root = Path(__file__).resolve().parent.parent
-    config_path = repo_root / "config.json"
-    with open(config_path) as f:
-        config = json.load(f)
+    repo_root, config = load_config()
 
     base_ref = os.environ.get("BASE_REF", "origin/main")
     keys_normalized = int(os.environ.get("KEYS_NORMALIZED", "0"))
@@ -151,10 +103,10 @@ def main():
 
     # Load head (current) entries
     bib_paths = [repo_root / p for p in config["bib_files"]]
-    head_entries = load_entries(bib_paths)
+    head_entries = load_bib_entries(bib_paths)
 
     # Load base entries
-    base_entries = get_base_entries(config, base_ref)
+    base_entries = load_base_entries(config["bib_files"], base_ref)
 
     summary = generate_summary(base_entries, head_entries, keys_normalized, duplicates)
 

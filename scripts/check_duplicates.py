@@ -5,19 +5,15 @@ Compares entries by DOI (exact match) and by title+year (fuzzy match).
 Exits with code 1 and prints warnings if duplicates are found.
 """
 
-import json
 import re
 import sys
-from pathlib import Path
 
-import bibtexparser
-from bibtexparser.bparser import BibTexParser
-from bibtexparser.customization import convert_to_unicode
+from bib_utils import clean_latex, load_bib_entries, load_config
 
 
 def normalize_title(title):
     """Normalize a title for comparison: lowercase, strip punctuation/whitespace."""
-    title = title.replace("{", "").replace("}", "")
+    title = clean_latex(title)
     title = re.sub(r"[^\w\s]", "", title)
     return " ".join(title.lower().split())
 
@@ -64,22 +60,10 @@ def check_duplicates(entries):
 
 
 def main():
-    repo_root = Path(__file__).resolve().parent.parent
-    config_path = repo_root / "config.json"
-    with open(config_path) as f:
-        config = json.load(f)
+    repo_root, config = load_config()
 
-    parser = BibTexParser(common_strings=True)
-    parser.customization = convert_to_unicode
-
-    all_entries = []
-    for bib_file in config["bib_files"]:
-        path = repo_root / bib_file
-        if not path.exists():
-            continue
-        with open(path, encoding="utf-8") as f:
-            db = bibtexparser.load(f, parser=parser)
-        all_entries.extend(db.entries)
+    bib_paths = [repo_root / p for p in config["bib_files"]]
+    all_entries = list(load_bib_entries(bib_paths).values())
 
     warnings = check_duplicates(all_entries)
 
