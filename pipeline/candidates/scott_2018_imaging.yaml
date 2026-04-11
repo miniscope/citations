@@ -1,0 +1,51 @@
+doi: 10.1016/j.neuron.2018.09.050
+openalex_id: W2898267661
+pmid: null
+pmcid: null
+title: Imaging Cortical Dynamics in GCaMP Transgenic Rats with a Head-Mounted Widefield
+  Macroscope
+authors:
+- first: Benjamin B.
+  last: Scott
+- first: Stephan Y.
+  last: Thiberge
+- first: Caiying
+  last: Guo
+- first: D. Gowanlock R.
+  last: Tervo
+- first: Carlos D.
+  last: Brody
+- first: Alla Y.
+  last: Karpova
+- first: David W.
+  last: Tank
+journal: Neuron
+publication_year: 2018
+publication_date: '2018-10-25'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.317817+00:00'

@@ -1,0 +1,50 @@
+doi: 10.1016/j.cub.2017.06.057
+openalex_id: W2739310034
+pmid: null
+pmcid: PMC5576038
+title: Overlap among Spatial Memories Triggers Repulsion of Hippocampal Representations
+authors:
+- first: Avi J. H.
+  last: Chanales
+- first: Ashima
+  last: Oza
+- first: Serra E.
+  last: Favila
+- first: Brice A.
+  last: Kuhl
+journal: Current Biology
+publication_year: 2017
+publication_date: '2017-07-20'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.cell.com/article/S0960982217307947/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Chanales_2017, title={Overlap among Spatial Memories Triggers
+  Repulsion of Hippocampal Representations}, volume={27}, ISSN={0960-9822}, url={http://dx.doi.org/10.1016/j.cub.2017.06.057},
+  DOI={10.1016/j.cub.2017.06.057}, number={15}, journal={Current Biology}, publisher={Elsevier
+  BV}, author={Chanales, Avi J.H. and Oza, Ashima and Favila, Serra E. and Kuhl, Brice
+  A.}, year={2017}, month=aug, pages={2307-2317.e5} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.317800+00:00'

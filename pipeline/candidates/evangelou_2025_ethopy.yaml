@@ -1,0 +1,64 @@
+doi: 10.1101/2025.09.08.673974
+openalex_id: W4414258640
+pmid: null
+pmcid: null
+title: 'EthoPy: Reproducible Behavioral Neuroscience Made Simple'
+authors:
+- first: Alexandros
+  last: Evangelou
+- first: Maria
+  last: Diamantaki
+- first: Κωνσταντίνα
+  last: Γεωργέλου
+- first: Zoi
+  last: Drakaki
+- first: Lydia
+  last: Ntanavara
+- first: Gerasimos
+  last: Gerardos
+- first: Sofia
+  last: Morou
+- first: Nikolaos
+  last: Chatziris
+- first: Zoi
+  last: Dogani
+- first: Elissavet Anna
+  last: Petsalaki
+- first: Odysseas Nikolaos
+  last: Raos
+- first: Anastasios
+  last: Gratsakis
+- first: Athanasia
+  last: Papoutsi
+- first: Emmanouil
+  last: Froudarakis
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2025
+publication_date: '2025-09-11'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2025/09/11/2025.09.08.673974.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019827+00:00'

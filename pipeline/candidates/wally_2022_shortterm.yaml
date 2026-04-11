@@ -1,0 +1,46 @@
+doi: 10.1038/s42003-022-04167-1
+openalex_id: W4308485469
+pmid: null
+pmcid: null
+title: A short-term memory trace persists for days in the mouse hippocampus
+authors:
+- first: Maha E.
+  last: Wally
+- first: Masanori
+  last: Nomoto
+- first: Kareem
+  last: Abdou
+- first: Emi
+  last: Murayama
+- first: Kaoru
+  last: Inokuchi
+journal: Communications Biology
+publication_year: 2022
+publication_date: '2022-11-03'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s42003-022-04167-1.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320869+00:00'

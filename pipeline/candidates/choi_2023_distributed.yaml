@@ -1,0 +1,64 @@
+doi: 10.1038/s41467-023-36795-4
+openalex_id: W4362665733
+pmid: null
+pmcid: PMC10079960
+title: Distributed processing for value-based choice by prelimbic circuits targeting
+  anterior-posterior dorsal striatal subregions in male mice
+authors:
+- first: Kyuhyun
+  last: Choi
+- first: Eugenio
+  last: Piasini
+- first: Edgar
+  last: Díaz-Hernández
+- first: Luigim Vargas
+  last: Cifuentes
+- first: Nathan T.
+  last: Henderson
+- first: Elizabeth N.
+  last: Holly
+- first: Manivannan
+  last: Subramaniyan
+- first: Charles R.
+  last: Gerfen
+- first: Marc V.
+  last: Fuccillo
+journal: Nature Communications
+publication_year: 2023
+publication_date: '2023-04-06'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41467-023-36795-4.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Choi_2023, title={Distributed processing for value-based choice
+  by prelimbic circuits targeting anterior-posterior dorsal striatal subregions in
+  male mice}, volume={14}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-023-36795-4},
+  DOI={10.1038/s41467-023-36795-4}, number={1}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Choi, Kyuhyun and Piasini, Eugenio and
+  Díaz-Hernández, Edgar and Cifuentes, Luigim Vargas and Henderson, Nathan T. and
+  Holly, Elizabeth N. and Subramaniyan, Manivannan and Gerfen, Charles R. and Fuccillo,
+  Marc V.}, year={2023}, month=apr }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320167+00:00'

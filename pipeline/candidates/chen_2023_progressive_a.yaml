@@ -1,0 +1,64 @@
+doi: 10.1101/2023.05.30.542838
+openalex_id: W4378834100
+pmid: null
+pmcid: PMC10312508
+title: Progressive excitability changes in the medial entorhinal cortex in the 3xTg
+  mouse model of Alzheimer’s disease pathology
+authors:
+- first: Lingxuan
+  last: Chen
+- first: Zoé Christenson
+  last: Wick
+- first: Lauren M.
+  last: Vetere
+- first: N. D.
+  last: Vaughan
+- first: A
+  last: Jurkowski
+- first: Angelina
+  last: Galas
+- first: Keziah S.
+  last: Diego
+- first: Paul A.
+  last: Philipsberg
+- first: Denise J.
+  last: Cai
+- first: Tristan
+  last: Shuman
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2023
+publication_date: '2023-05-30'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2023/05/30/2023.05.30.542838.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Chen_2023, title={Progressive excitability changes in the medial
+  entorhinal cortex in the 3xTg mouse model of Alzheimer’s disease pathology}, url={http://dx.doi.org/10.1101/2023.05.30.542838},
+  DOI={10.1101/2023.05.30.542838}, publisher={openRxiv}, author={Chen, Lingxuan and
+  Christenson Wick, Zoé and Vetere, Lauren M. and Vaughan, Nick and Jurkowski, Albert
+  and Galas, Angelina and Diego, Keziah S. and Philipsberg, Paul and Cai, Denise J.
+  and Shuman, Tristan}, year={2023}, month=may }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.375365+00:00'

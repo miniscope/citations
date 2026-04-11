@@ -1,0 +1,77 @@
+doi: 10.1101/2025.08.27.672249
+openalex_id: W4413875355
+pmid: null
+pmcid: PMC12407837
+title: Asymmetric Social Representations in the Prefrontal Cortex for Cooperative
+  Behavior
+authors:
+- first: Yuan‐Tso
+  last: Cheng
+- first: Yusi
+  last: Chen
+- first: M. K.
+  last: Kwak
+- first: Ross P.
+  last: Kempner
+- first: Rudramani
+  last: Singha
+- first: James L.
+  last: Winslow
+- first: Runqi
+  last: Liu
+- first: Umais
+  last: Khan
+- first: Tessa
+  last: Spangler
+- first: Abdul Wali
+  last: Khan
+- first: Talmo
+  last: Pereira
+- first: Matthew R
+  last: Whiteway
+- first: Evan
+  last: Schaffer
+- first: Nuttida
+  last: Rungratsameetaweemana
+- first: Nan
+  last: Yang
+- first: H.
+  last: Wu
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2025
+publication_date: '2025-08-31'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2025/08/31/2025.08.27.672249.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Cheng_2025, title={Asymmetric Social Representations in the
+  Prefrontal Cortex for Cooperative Behavior}, url={http://dx.doi.org/10.1101/2025.08.27.672249},
+  DOI={10.1101/2025.08.27.672249}, publisher={openRxiv}, author={Cheng, Yuan and Chen,
+  Yusi and Kwak, Myungji and Kempner, Ross P. and Singha, Rudramani and Winslow, Jared
+  and Liu, Runqi and Khan, Umais and Spangler, Tessa and Khan, Alvi and Pereira, Talmo
+  and Whiteway, Matthew and Schaffer, Evan S. and Rungratsameetaweemana, Nuttida and
+  Yang, Nan and Wu, Herbert Zheng}, year={2025}, month=aug }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.325145+00:00'

@@ -1,0 +1,44 @@
+doi: 10.1101/2022.10.06.511043
+openalex_id: W4303578916
+pmid: null
+pmcid: null
+title: Circular RNAs may embed pieces of real-world sensory information into an episodic
+  memory
+authors:
+- first: Arun
+  last: Asok
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2022
+publication_date: '2022-10-07'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2022/10/07/2022.10.06.511043.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Asok_2022, title={Circular RNAs may embed pieces of real-world
+  sensory information into an episodic memory}, url={http://dx.doi.org/10.1101/2022.10.06.511043},
+  DOI={10.1101/2022.10.06.511043}, publisher={openRxiv}, author={Asok, Arun}, year={2022},
+  month=oct }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324983+00:00'

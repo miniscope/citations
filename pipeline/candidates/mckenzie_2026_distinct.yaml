@@ -1,0 +1,54 @@
+doi: 10.64898/2026.01.14.699532
+openalex_id: W7124418262
+pmid: null
+pmcid: null
+title: Distinct CA1 inputs support shifts in neural dimensionality and memory resolution
+authors:
+- first: Cory
+  last: McKenzie
+- first: Arna
+  last: Ghosh
+- first: Adam I.
+  last: Ramsaran
+- first: B.
+  last: Wu
+- first: Sakthivel
+  last: Srinivasan
+- first: W.T.
+  last: Liu
+- first: Sheena
+  last: Josselyn
+- first: Blake
+  last: Richards
+- first: Paul W.
+  last: Frankland
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2026
+publication_date: '2026-01-15'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2026/01/15/2026.01.14.699532.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.326627+00:00'

@@ -1,0 +1,71 @@
+doi: 10.1038/s41593-025-02014-0
+openalex_id: W4412589690
+pmid: null
+pmcid: null
+title: Noradrenergic activation of the basolateral amygdala facilitates memory specificity
+  for similar events experienced close in time
+authors:
+- first: Erika
+  last: Atucha
+- first: Mariana
+  last: Pais
+- first: G
+  last: Ronzoni
+- first: Chantal
+  last: Schoenmaker
+- first: Piray
+  last: Atsak
+- first: David
+  last: Roura‐Martínez
+- first: Klara J
+  last: Lohkamp
+- first: Gustav
+  last: Schelling
+- first: James L.
+  last: McGaugh
+- first: Jeffrey
+  last: Glennon
+- first: Armaz
+  last: Aschrafi
+- first: Benno
+  last: Roozendaal
+journal: Nature Neuroscience
+publication_year: 2025
+publication_date: '2025-07-23'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Atucha_2025, title={Noradrenergic activation of the basolateral
+  amygdala facilitates memory specificity for similar events experienced close in
+  time}, volume={28}, ISSN={1546-1726}, url={http://dx.doi.org/10.1038/s41593-025-02014-0},
+  DOI={10.1038/s41593-025-02014-0}, number={9}, journal={Nature Neuroscience}, publisher={Springer
+  Science and Business Media LLC}, author={Atucha, Erika and Pais, Mariana and Ronzoni,
+  Giacomo and Schoenmaker, Chantal and Atsak, Piray and Roura, David and Lohkamp,
+  Klara J. and Schelling, Gustav and McGaugh, James L. and Glennon, Jeffrey C. and
+  Aschrafi, Armaz and Roozendaal, Benno}, year={2025}, month=jul, pages={1910–1918}
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321383+00:00'

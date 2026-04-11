@@ -1,0 +1,41 @@
+doi: 10.3410/f.735427704.793559127
+openalex_id: W4250371534
+pmid: null
+pmcid: null
+title: Faculty Opinions recommendation of Distinct hippocampal engrams control extinction
+  and relapse of fear memory.
+authors:
+- first: Sreedharan
+  last: Sajikumar
+- first: Radha
+  last: Raghuraman
+journal: Faculty Opinions – Post-Publication Peer Review of the Biomedical Literature
+publication_year: 2019
+publication_date: '2019-04-18'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.325641+00:00'

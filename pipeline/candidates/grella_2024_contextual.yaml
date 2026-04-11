@@ -1,0 +1,40 @@
+doi: 10.3389/fnmol.2024.1342622
+openalex_id: W4391537811
+pmid: null
+pmcid: null
+title: Contextual memory engrams, and the neuromodulatory influence of the locus coeruleus
+authors:
+- first: Stephanie L.
+  last: Grella
+- first: Tia N.
+  last: Donaldson
+journal: Frontiers in Molecular Neuroscience
+publication_year: 2024
+publication_date: '2024-02-05'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.frontiersin.org/articles/10.3389/fnmol.2024.1342622/pdf?isPublishedV2=False
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319598+00:00'

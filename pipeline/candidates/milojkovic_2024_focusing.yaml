@@ -1,0 +1,52 @@
+doi: 10.1021/acsphotonics.4c01228
+openalex_id: W4402975998
+pmid: null
+pmcid: null
+title: Focusing through Scattering Media Using Integrated Photonics
+authors:
+- first: Filip
+  last: Milojković
+- first: Niels
+  last: Verellen
+- first: Roelof
+  last: Jansen
+- first: Frédéric
+  last: Peyskens
+- first: Mathias
+  last: Prost
+- first: Jon
+  last: Kjellman
+- first: Xavier
+  last: Rottenberg
+- first: Pol Van
+  last: Dorpe
+journal: ACS Photonics
+publication_year: 2024
+publication_date: '2024-09-30'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://lirias.kuleuven.be/retrieve/7f5c0512-ba1f-4c16-b80a-5538db1a487d
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019296+00:00'

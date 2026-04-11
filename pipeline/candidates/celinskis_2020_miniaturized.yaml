@@ -1,0 +1,65 @@
+doi: 10.1109/embc44109.2020.9175375
+openalex_id: W3082018129
+pmid: null
+pmcid: null
+title: Miniaturized Devices for Bioluminescence Imaging in Freely Behaving Animals
+authors:
+- first: Dmitrijs
+  last: Celinskis
+- first: Nina
+  last: Friedman
+- first: Misha
+  last: Koksharov
+- first: Jeremy W.
+  last: Murphy
+- first: Manuel
+  last: Gomez‐Ramirez
+- first: David A.
+  last: Borton
+- first: Nathan C.
+  last: Shaner
+- first: Ute
+  last: Hochgeschwender
+- first: Diane
+  last: Lipscombe
+- first: Christopher I.
+  last: Moore
+journal: null
+publication_year: 2020
+publication_date: '2020-07-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://ieeexplore.ieee.org/ielx7/9167168/9175149/09175375.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @inproceedings{Celinskis_2020, title={Miniaturized Devices for Bioluminescence
+  Imaging in Freely Behaving Animals}, url={http://dx.doi.org/10.1109/embc44109.2020.9175375},
+  DOI={10.1109/embc44109.2020.9175375}, booktitle={2020 42nd Annual International
+  Conference of the IEEE Engineering in Medicine &amp; Biology Society (EMBC)}, publisher={IEEE},
+  author={Celinskis, Dmitrijs and Friedman, Nina and Koksharov, Mikhail and Murphy,
+  Jeremy and Gomez-Ramirez, Manuel and Borton, David and Shaner, Nathan and Hochgeschwender,
+  Ute and Lipscombe, Diane and Moore, Christopher}, year={2020}, month=jul, pages={4385–4389}
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321774+00:00'

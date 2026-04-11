@@ -1,0 +1,61 @@
+doi: 10.1101/2021.06.20.449150
+openalex_id: W3174894439
+pmid: null
+pmcid: null
+title: 'BehaviorDEPOT: a tool for automated behavior classification and analysis in
+  rodents'
+authors:
+- first: Christopher
+  last: Gabriel
+- first: Zachary
+  last: Zeidler
+- first: Benita
+  last: Jin
+- first: Changliang
+  last: Guo
+- first: Anna M.
+  last: Wu
+- first: Molly
+  last: Delaney
+- first: Jovian
+  last: Cheung
+- first: Lauren E.
+  last: DiFazio
+- first: Melissa J.
+  last: Sharpe
+- first: Daniel
+  last: Aharoni
+- first: Scott A.
+  last: Wilke
+- first: Laura A.
+  last: DeNardo
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2021
+publication_date: '2021-06-20'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.375630+00:00'

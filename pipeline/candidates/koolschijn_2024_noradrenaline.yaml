@@ -1,0 +1,54 @@
+doi: 10.1101/2024.08.31.610602
+openalex_id: W4402111890
+pmid: null
+pmcid: null
+title: Noradrenaline causes a spread of association in the hippocampal cognitive map
+authors:
+- first: Renée S.
+  last: Koolschijn
+- first: Prakriti
+  last: Parthasarathy
+- first: Michael
+  last: Browning
+- first: Xenia
+  last: Przygodda
+- first: Liliana P
+  last: Capitão
+- first: William T.
+  last: Clarke
+- first: Tim P
+  last: Vogels
+- first: Jill X.
+  last: O’Reilly
+- first: Helen C.
+  last: Barron
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2024
+publication_date: '2024-09-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2024/09/01/2024.08.31.610602.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.326137+00:00'

@@ -1,0 +1,54 @@
+doi: 10.1101/766311
+openalex_id: W2972337308
+pmid: null
+pmcid: null
+title: 'Representations of complex contexts: A role for hippocampus'
+authors:
+- first: Halle R.
+  last: Dimsdale-Zucker
+- first: Maria E.
+  last: Montchal
+- first: Zachariah M.
+  last: Reagh
+- first: Shao-Fang
+  last: Wang
+- first: Laura A.
+  last: Libby
+- first: Charan
+  last: Ranganath
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2019
+publication_date: '2019-09-12'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2020/11/05/766311.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Dimsdale_Zucker_2019, title={Representations of complex contexts:
+  A role for hippocampus}, url={http://dx.doi.org/10.1101/766311}, DOI={10.1101/766311},
+  publisher={openRxiv}, author={Dimsdale-Zucker, Halle R. and Montchal, Maria E. and
+  Reagh, Zachariah M. and Wang, Shao-Fang and Libby, Laura A. and Ranganath, Charan},
+  year={2019}, month=sep }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324519+00:00'

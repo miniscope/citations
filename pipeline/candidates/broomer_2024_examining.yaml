@@ -1,0 +1,52 @@
+doi: 10.1016/j.addicn.2024.100154
+openalex_id: W4394858495
+pmid: null
+pmcid: PMC11044849
+title: Examining a punishment-related brain circuit with miniature fluorescence microscopes
+  and deep learning
+authors:
+- first: Matthew C.
+  last: Broomer
+- first: Nicholas J.
+  last: Beacher
+- first: Michael W.
+  last: Wang
+- first: Da‐Ting
+  last: Lin
+journal: Addiction Neuroscience
+publication_year: 2024
+publication_date: '2024-04-16'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.addicn.2024.100154
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Broomer_2024, title={Examining a punishment-related brain circuit
+  with miniature fluorescence microscopes and deep learning}, volume={11}, ISSN={2772-3925},
+  url={http://dx.doi.org/10.1016/j.addicn.2024.100154}, DOI={10.1016/j.addicn.2024.100154},
+  journal={Addiction Neuroscience}, publisher={Elsevier BV}, author={Broomer, Matthew
+  C. and Beacher, Nicholas J. and Wang, Michael W. and Lin, Da-Ting}, year={2024},
+  month=jun, pages={100154} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019508+00:00'

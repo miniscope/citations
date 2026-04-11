@@ -1,0 +1,52 @@
+doi: 10.1038/s41598-018-37073-w
+openalex_id: W2911358444
+pmid: null
+pmcid: null
+title: 'Craniobot: A computer numerical controlled robot for cranial microsurgeries'
+authors:
+- first: Leila
+  last: Ghanbari
+- first: Mathew L.
+  last: Rynes
+- first: Jia
+  last: Hu
+- first: Daniel Sousa
+  last: Schulman
+- first: Gregory
+  last: Johnson
+- first: Michael C.
+  last: LaRoque
+- first: Gabriella
+  last: Shull
+- first: Suhasa B.
+  last: Kodandaramaiah
+journal: Scientific Reports
+publication_year: 2019
+publication_date: '2019-01-31'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1038/s41598-018-37073-w
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319834+00:00'

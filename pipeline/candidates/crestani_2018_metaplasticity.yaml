@@ -1,0 +1,60 @@
+doi: 10.1038/s41386-018-0096-7
+openalex_id: W2804845665
+pmid: null
+pmcid: PMC6300591
+title: Metaplasticity contributes to memory formation in the hippocampus
+authors:
+- first: Ana Paula
+  last: Crestani
+- first: Jamie N.
+  last: Krueger
+- first: Eden V.
+  last: Barragan
+- first: Yuki
+  last: Nakazawa
+- first: Sonya E.
+  last: Nemes
+- first: Jorge Alberto
+  last: Quillfeldt
+- first: J.A.
+  last: Gray
+- first: Brian J.
+  last: Wiltgen
+journal: Neuropsychopharmacology
+publication_year: 2018
+publication_date: '2018-05-16'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41386-018-0096-7.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Crestani_2018, title={Metaplasticity contributes to memory
+  formation in the hippocampus}, volume={44}, ISSN={1740-634X}, url={http://dx.doi.org/10.1038/s41386-018-0096-7},
+  DOI={10.1038/s41386-018-0096-7}, number={2}, journal={Neuropsychopharmacology},
+  publisher={Springer Science and Business Media LLC}, author={Crestani, Ana P. and
+  Krueger, Jamie N. and Barragan, Eden V. and Nakazawa, Yuki and Nemes, Sonya E. and
+  Quillfeldt, Jorge A. and Gray, John A. and Wiltgen, Brian J.}, year={2018}, month=may,
+  pages={408–414} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320014+00:00'

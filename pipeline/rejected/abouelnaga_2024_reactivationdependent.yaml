@@ -1,0 +1,67 @@
+doi: 10.1101/2024.06.02.597068
+openalex_id: W4399304443
+pmid: null
+pmcid: null
+title: Reactivation-dependent transfer of fear memory between contexts requires M1
+  muscarinic receptor stimulation in dorsal hippocampus
+authors:
+- first: Karim H.
+  last: Abouelnaga
+- first: Andrew E.
+  last: Huff
+- first: Kristen H.
+  last: Jardine
+- first: Olivia S
+  last: O'Neill
+- first: Boyer D.
+  last: Winters
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2024
+publication_date: '2024-06-03'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2024/06/03/2024.06.02.597068.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: abstract_only
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.45
+  tools_identified: []
+  evidence:
+  - source: abstract
+    text: "Following brief re-exposure to a previously fear conditioned context, male
+      rats (n=8-10/group) were placed into a neutral context to evaluate the transfer
+      of fear memory. We also infused the selective M1 receptor antagonist pirenzepine
+      into the dorsal hippocampus prior to memory reactivation to try to block this
+      effect."
+    assessment: "Methods describe behavioral fear conditioning and pharmacological
+      (drug microinjection) manipulations only. No mention of calcium imaging, miniscope,
+      miniature microscope, or any in vivo imaging tool."
+  paper_type: behavioral_pharmacology
+  suggested_component: null
+  suggested_technique: null
+  reasoning: "This paper studies reactivation-dependent fear memory transfer using
+    contextual fear conditioning and M1 muscarinic receptor antagonism in dorsal hippocampus.
+    The methods are purely behavioral (freezing observation) and pharmacological (cannula
+    drug infusion). The abstract contains no mention of any Miniscope, miniature microscope,
+    calcium imaging, or any imaging tool from the Miniscope project. The paper likely
+    cites seed paper Cai et al. 2016 for its conceptual work on memory engrams, not
+    for the Miniscope hardware. Confidence capped below 0.5 due to abstract-only analysis,
+    but strong negative signal from methods description."
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.326077+00:00'
+- stage: reviewed
+  timestamp: '2026-04-10T00:00:00+00:00'
+  result: rejected
+  reason: "No evidence of Miniscope tool usage. Behavioral pharmacology study only."

@@ -1,0 +1,67 @@
+doi: 10.1038/s41467-023-42083-y
+openalex_id: W4387579493
+pmid: null
+pmcid: PMC10570384
+title: Large-scale recording of neuronal activity in freely-moving mice at cellular
+  resolution
+authors:
+- first: Aniruddha
+  last: Das
+- first: Sarah
+  last: Holden
+- first: Julie
+  last: Borovicka
+- first: Jacob
+  last: Icardi
+- first: Abigail
+  last: O’Niel
+- first: Ariel
+  last: Chaklai
+- first: Davina
+  last: Patel
+- first: Rushik
+  last: Patel
+- first: Stefanie
+  last: Kaech
+- first: Jacob
+  last: Raber
+- first: Hod
+  last: Dana
+journal: Nature Communications
+publication_year: 2023
+publication_date: '2023-10-12'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41467-023-42083-y.pdf
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Das_2023, title={Large-scale recording of neuronal activity
+  in freely-moving mice at cellular resolution}, volume={14}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-023-42083-y},
+  DOI={10.1038/s41467-023-42083-y}, number={1}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Das, Aniruddha and Holden, Sarah and Borovicka,
+  Julie and Icardi, Jacob and O’Niel, Abigail and Chaklai, Ariel and Patel, Davina
+  and Patel, Rushik and Kaech Petrie, Stefanie and Raber, Jacob and Dana, Hod}, year={2023},
+  month=oct }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019171+00:00'

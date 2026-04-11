@@ -1,0 +1,54 @@
+doi: 10.1371/journal.pone.0161655
+openalex_id: W2510252460
+pmid: null
+pmcid: null
+title: Molecular and Cellular Mechanisms for Trapping and Activating Emotional Memories
+authors:
+- first: Thomas
+  last: Rogerson
+- first: J.
+  last: Balaji
+- first: Denise J.
+  last: Cai
+- first: Yoshitake
+  last: Sano
+- first: Yong‐Seok
+  last: Lee
+- first: Yu
+  last: Zhou
+- first: Pallavi
+  last: Bekal
+- first: Karl
+  last: Deisseroth
+- first: Alcino J.
+  last: Silva
+journal: PLoS ONE
+publication_year: 2016
+publication_date: '2016-08-31'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0161655&type=printable
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320134+00:00'

@@ -1,0 +1,54 @@
+doi: 10.1101/2025.08.29.673029
+openalex_id: W4413994999
+pmid: null
+pmcid: null
+title: Layer 5 lateral entorhinal cortex neurons encode updating of object-place associations
+authors:
+- first: Paul J.
+  last: Banks
+- first: G.R.
+  last: Barker
+- first: Clair A.
+  last: Booth
+- first: Lisa
+  last: Kinnavane
+- first: Elizabeth C.
+  last: Warburton
+- first: Zafar I.
+  last: Bashir
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2025
+publication_date: '2025-09-03'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2025/09/03/2025.08.29.673029.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Banks_2025, title={Layer 5 lateral entorhinal cortex neurons
+  encode updating of object-place associations}, url={http://dx.doi.org/10.1101/2025.08.29.673029},
+  DOI={10.1101/2025.08.29.673029}, publisher={openRxiv}, author={Banks, PJ and Barker,
+  GRI and Booth, CA and Kinnavane, L and Warburton, EC and Bashir, ZI}, year={2025},
+  month=sep }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.326440+00:00'

@@ -1,0 +1,47 @@
+doi: 10.3390/ijms23116286
+openalex_id: W4281779729
+pmid: null
+pmcid: null
+title: Formation of False Context Fear Memory Is Regulated by Hypothalamic Corticotropin-Releasing
+  Factor in Mice
+authors:
+- first: Emi
+  last: Kasama
+- first: Miho
+  last: Moriya
+- first: Ryuma
+  last: Kamimura
+- first: Tohru
+  last: Matsuki
+- first: Kenjiro
+  last: Seki
+journal: International Journal of Molecular Sciences
+publication_year: 2022
+publication_date: '2022-06-03'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.mdpi.com/1422-0067/23/11/6286/pdf?version=1654510257
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321921+00:00'

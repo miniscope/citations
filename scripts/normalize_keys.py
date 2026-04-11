@@ -7,56 +7,12 @@ All lowercase, spaces replaced with underscores. Duplicates get _a, _b suffixes.
 Exits with code 0 if no changes, 1 if keys were rewritten.
 """
 
-import re
 import sys
-import unicodedata
 
 import bibtexparser
 from bibtexparser.bwriter import BibTexWriter
 
-from bib_utils import clean_latex, load_config, make_parser
-
-STOP_WORDS = {"a", "an", "the", "of", "and", "in", "for", "on", "to", "with", "by", "is", "are"}
-
-
-def slugify(text):
-    """Convert text to a clean slug: lowercase, underscores, ascii only."""
-    text = unicodedata.normalize("NFKD", text)
-    text = text.encode("ascii", "ignore").decode("ascii")
-    text = text.lower().strip()
-    text = re.sub(r"[^\w\s-]", "", text)
-    text = re.sub(r"[\s-]+", "_", text)
-    text = text.strip("_")
-    return text
-
-
-def get_first_author_lastname(author_str):
-    """Extract first author's last name from a BibTeX author string."""
-    first_author = clean_latex(re.split(r"\s+and\s+", author_str)[0])
-
-    if "," in first_author:
-        return first_author.split(",")[0].strip()
-    else:
-        parts = first_author.split()
-        return parts[-1] if parts else "unknown"
-
-
-def get_first_title_word(title):
-    """Extract the first significant word from a title (skipping stop words)."""
-    title = clean_latex(title)
-    words = re.sub(r"[^\w\s]", "", title).split()
-    for word in words:
-        if word.lower() not in STOP_WORDS:
-            return word.lower()
-    return words[0].lower() if words else "untitled"
-
-
-def generate_key(entry):
-    """Generate a normalized citation key from entry metadata."""
-    author = get_first_author_lastname(entry.get("author", "unknown"))
-    year = entry.get("year", "0000")
-    title_word = get_first_title_word(entry.get("title", "untitled"))
-    return slugify(f"{author} {year} {title_word}")
+from bib_utils import generate_key, load_config, make_parser
 
 
 def normalize_bib_file(bib_path):

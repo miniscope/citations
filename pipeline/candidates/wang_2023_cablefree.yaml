@@ -1,0 +1,53 @@
+doi: 10.1117/1.jbo.28.2.026503
+openalex_id: W4319879867
+pmid: null
+pmcid: null
+title: Cable-free brain imaging for multiple free-moving animals with miniature wireless
+  microscopes
+authors:
+- first: Yangzhen
+  last: Wang
+- first: Zhongtian
+  last: Ma
+- first: Wenzhao
+  last: Li
+- first: Feng
+  last: Su
+- first: Chong
+  last: Wang
+- first: Wei
+  last: Xiong
+- first: Changhui
+  last: Li
+- first: Chen
+  last: Zhang
+journal: Journal of Biomedical Optics
+publication_year: 2023
+publication_date: '2023-02-10'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-28/issue-2/026503/Cable-free-brain-imaging-for-multiple-free-moving-animals-with/10.1117/1.JBO.28.2.026503.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374798+00:00'

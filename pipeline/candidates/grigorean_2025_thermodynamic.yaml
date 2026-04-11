@@ -1,0 +1,57 @@
+doi: 10.3390/ijms262211022
+openalex_id: W4416199645
+pmid: null
+pmcid: null
+title: 'Thermodynamic Biomarkers of Neuroinflammation: Nanothermometry, Energy–Stress
+  Dynamics, and Predictive Entropy in Glial–Vascular Networks'
+authors:
+- first: Valentin Titus
+  last: Grigorean
+- first: Adrian
+  last: Dumitru
+- first: Cătălina-Ioana
+  last: Tătaru
+- first: Matei
+  last: Șerban
+- first: Alexandru Vlad
+  last: Ciurea
+- first: Octavian
+  last: Munteanu
+- first: Mugurel Petrinel
+  last: Rădoi
+- first: Răzvan-Adrian
+  last: Covache-Busuioc
+- first: Ariana-Stefana
+  last: Cosac
+- first: George
+  last: Pariza
+journal: International Journal of Molecular Sciences
+publication_year: 2025
+publication_date: '2025-11-14'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.mdpi.com/1422-0067/26/22/11022/pdf?version=1763113670
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374513+00:00'

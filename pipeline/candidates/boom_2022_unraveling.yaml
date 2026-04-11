@@ -1,0 +1,56 @@
+doi: 10.1101/2022.12.23.521799
+openalex_id: W4312212738
+pmid: null
+pmcid: null
+title: Unraveling the therapeutic mechanism of deep-brain stimulation
+authors:
+- first: Bastijn J.G. van den
+  last: Boom
+- first: Alfredo Elhazaz
+  last: Fernandez
+- first: Peter A.
+  last: Rasmussen
+- first: Enny H. van
+  last: Beest
+- first: Aishwarya
+  last: Parthasarathy
+- first: Damiaan
+  last: Denys
+- first: Ingo
+  last: Willuhn
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2022
+publication_date: '2022-12-23'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2022/12/23/2022.12.23.521799.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{van_den_Boom_2022, title={Unraveling the therapeutic mechanism
+  of deep-brain stimulation}, url={http://dx.doi.org/10.1101/2022.12.23.521799}, DOI={10.1101/2022.12.23.521799},
+  publisher={openRxiv}, author={van den Boom, Bastijn J.G. and Fernandez, Alfredo
+  Elhazaz and Rasmussen, Peter A. and van Beest, Enny H. and Parthasarathy, Aishwarya
+  and Denys, Damiaan and Willuhn, Ingo}, year={2022}, month=dec }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324997+00:00'

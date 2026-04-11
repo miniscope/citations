@@ -1,0 +1,50 @@
+doi: 10.1117/1.nph.9.4.041402
+openalex_id: W4289755079
+pmid: null
+pmcid: null
+title: Review of data processing of functional optical microscopy for neuroscience
+authors:
+- first: Hadas
+  last: Benisty
+- first: Alexander
+  last: Song
+- first: Gal
+  last: Mishne
+- first: Adam S.
+  last: Charles
+journal: Neurophotonics
+publication_year: 2022
+publication_date: '2022-08-04'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1117/1.nph.9.4.041402
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Benisty_2022, title={Review of data processing of functional
+  optical microscopy for neuroscience}, volume={9}, ISSN={2329-423X}, url={http://dx.doi.org/10.1117/1.nph.9.4.041402},
+  DOI={10.1117/1.nph.9.4.041402}, number={04}, journal={Neurophotonics}, publisher={SPIE-Intl
+  Soc Optical Eng}, author={Benisty, Hadas and Song, Alexander and Mishne, Gal and
+  Charles, Adam S.}, year={2022}, month=aug }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321099+00:00'

@@ -1,0 +1,44 @@
+doi: 10.1177/09567976221129533
+openalex_id: W4310124508
+pmid: null
+pmcid: null
+title: Mnemonic Content and Hippocampal Patterns Shape Judgments of Time
+authors:
+- first: Brynn E.
+  last: Sherman
+- first: Sarah
+  last: DuBrow
+- first: Jonathan
+  last: Winawer
+- first: Lila
+  last: Davachi
+journal: Psychological Science
+publication_year: 2022
+publication_date: '2022-11-28'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10068509/pdf/10.1177_09567976221129533.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320522+00:00'

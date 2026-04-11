@@ -1,0 +1,49 @@
+doi: 10.1145/3289602.3293919
+openalex_id: W2916023982
+pmid: null
+pmcid: null
+title: LANMC
+authors:
+- first: Zhe
+  last: Chen
+- first: Hugh T.
+  last: Blair
+- first: Jason
+  last: Cong
+journal: null
+publication_year: 2019
+publication_date: '2019-02-20'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://dl.acm.org/doi/pdf/10.1145/3289602.3293919
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @inproceedings{Chen_2019, series={FPGA ’19}, title={LANMC: LSTM-Assisted
+  Non-Rigid Motion Correction on FPGA for Calcium Image Stabilization}, url={http://dx.doi.org/10.1145/3289602.3293919},
+  DOI={10.1145/3289602.3293919}, booktitle={Proceedings of the 2019 ACM/SIGDA International
+  Symposium on Field-Programmable Gate Arrays}, publisher={ACM}, author={Chen, Zhe
+  and Blair, Hugh T. and Cong, Jason}, year={2019}, month=feb, pages={104–109}, collection={FPGA
+  ’19} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322134+00:00'

@@ -1,0 +1,41 @@
+doi: 10.1016/j.pneurobio.2024.102653
+openalex_id: W4400253405
+pmid: null
+pmcid: null
+title: 'The homogenous hippocampus: How hippocampal cells process available and potential
+  goals'
+authors:
+- first: Neil
+  last: McNaughton
+- first: David M.
+  last: Bannerman
+journal: Progress in Neurobiology
+publication_year: 2024
+publication_date: '2024-07-02'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.pneurobio.2024.102653
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319330+00:00'

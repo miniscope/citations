@@ -1,0 +1,49 @@
+doi: 10.1371/journal.pcbi.1012085
+openalex_id: W4396667405
+pmid: null
+pmcid: PMC11098488
+title: Differential disruptions in population coding along the dorsal-ventral axis
+  of CA1 in the APP/PS1 mouse model of Aβ pathology
+authors:
+- first: Udaysankar
+  last: Chockanathan
+- first: Krishnan
+  last: Padmanabhan
+journal: PLoS Computational Biology
+publication_year: 2024
+publication_date: '2024-05-06'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1012085&type=printable
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Chockanathan_2024, title={Differential disruptions in population
+  coding along the dorsal-ventral axis of CA1 in the APP/PS1 mouse model of Aβ pathology},
+  volume={20}, ISSN={1553-7358}, url={http://dx.doi.org/10.1371/journal.pcbi.1012085},
+  DOI={10.1371/journal.pcbi.1012085}, number={5}, journal={PLOS Computational Biology},
+  publisher={Public Library of Science (PLoS)}, author={Chockanathan, Udaysankar and
+  Padmanabhan, Krishnan}, editor={Graham, Lyle J.}, year={2024}, month=may, pages={e1012085}
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.375147+00:00'

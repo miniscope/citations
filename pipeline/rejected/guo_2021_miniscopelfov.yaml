@@ -1,0 +1,71 @@
+doi: 10.1101/2021.11.21.469394
+openalex_id: W3217565828
+pmid: null
+pmcid: null
+title: 'Miniscope-LFOV: A large field of view, single cell resolution, miniature microscope
+  for wired and wire-free imaging of neural dynamics in freely behaving animals'
+authors:
+- first: Changliang
+  last: Guo
+- first: Garrett J.
+  last: Blair
+- first: Megha
+  last: Sehgal
+- first: Federico N. Sangiuliano
+  last: Jimka
+- first: Arash
+  last: Bellafard
+- first: Alcino J.
+  last: Silva
+- first: Peyman
+  last: Golshani
+- first: Michele A.
+  last: Basso
+- first: Hugh T.
+  last: Blair
+- first: Daniel
+  last: Aharoni
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2021
+publication_date: '2021-11-22'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2021/11/22/2021.11.21.469394.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: bioRxiv_abstract
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.99
+  tools_identified:
+  - MiniLFOV
+  evidence:
+  - "Abstract: 'We present a large field of view open-source miniature microscope (MiniLFOV)'"
+  - "This is the bioRxiv preprint of the MiniLFOV tool paper (seed paper DOI: 10.1126/sciadv.adg3918)"
+  - "The published version already exists in references.bib as guo_2023_miniscopelfov"
+  paper_type: tool_paper
+  suggested_component: null
+  suggested_technique: null
+  reasoning: >-
+    This candidate (DOI 10.1101/2021.11.21.469394) is the bioRxiv preprint version of the
+    MiniLFOV tool paper by Guo et al., which was subsequently published in Science Advances
+    (DOI 10.1126/sciadv.adg3918). The published version is already present in references.bib
+    and is listed as a seed paper in discovery_config.yaml. This paper does not USE the
+    Miniscope tools -- it INTRODUCES the MiniLFOV. It is a duplicate of an existing seed
+    paper and should be rejected.
+  rejection_reason: duplicate_seed_paper
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.375327+00:00'
+- stage: rejected
+  timestamp: '2026-04-10T00:00:00+00:00'
+  reason: 'Duplicate: bioRxiv preprint of seed paper 10.1126/sciadv.adg3918 already in references.bib'

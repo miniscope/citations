@@ -1,0 +1,49 @@
+doi: 10.1002/hipo.23364
+openalex_id: W3165240954
+pmid: null
+pmcid: null
+title: Linking minimal and detailed models of <scp>CA1</scp> microcircuits reveals
+  how theta rhythms emerge and their frequencies controlled
+authors:
+- first: Alexandra Pierri
+  last: Chatzikalymniou
+- first: Melisa
+  last: Gumus
+- first: Frances K.
+  last: Skinner
+journal: Hippocampus
+publication_year: 2021
+publication_date: '2021-06-04'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: " @article{Chatzikalymniou_2021, title={Linking minimal and detailed models\
+  \ of\n                    <scp>CA1</scp>\n                    microcircuits reveals\
+  \ how theta rhythms emerge and their frequencies controlled}, volume={31}, ISSN={1098-1063},\
+  \ url={http://dx.doi.org/10.1002/hipo.23364}, DOI={10.1002/hipo.23364}, number={9},\
+  \ journal={Hippocampus}, publisher={Wiley}, author={Chatzikalymniou, Alexandra Pierri\
+  \ and Gumus, Melisa and Skinner, Frances K.}, year={2021}, month=jun, pages={982–1002}\
+  \ }\n"
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374271+00:00'

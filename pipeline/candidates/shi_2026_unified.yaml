@@ -1,0 +1,47 @@
+doi: 10.1364/oe.583744
+openalex_id: W7118379281
+pmid: null
+pmcid: null
+title: Unified ray-wave model for end-to-end imaging in refractive–diffractive hybrid
+  optics
+authors:
+- first: jintao
+  last: shi
+- first: Desheng
+  last: Li
+- first: Jingang
+  last: Zhang
+- first: Xiaoxiao
+  last: Wei
+- first: Yunfeng
+  last: Nie
+journal: Optics Express
+publication_year: 2026
+publication_date: '2026-01-06'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1364/oe.583744
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019908+00:00'

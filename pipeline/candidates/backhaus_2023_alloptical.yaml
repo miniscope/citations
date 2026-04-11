@@ -1,0 +1,52 @@
+doi: 10.1007/978-1-0716-2764-8_5
+openalex_id: W4321609432
+pmid: null
+pmcid: null
+title: An All-Optical Physiology Pipeline Toward Highly Specific and Artifact-Free
+  Circuit Mapping
+authors:
+- first: Hendrik
+  last: Backhaus
+- first: Nicolas
+  last: Ruffini
+- first: Anna
+  last: Wierczeiko
+- first: Albrecht
+  last: Stroh
+journal: Neuromethods
+publication_year: 2023
+publication_date: '2023-01-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://link.springer.com/content/pdf/10.1007/978-1-0716-2764-8_5.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @inbook{Backhaus_2023, title={An All-Optical Physiology Pipeline Toward
+  Highly Specific and Artifact-Free Circuit Mapping}, ISBN={9781071627648}, ISSN={1940-6045},
+  url={http://dx.doi.org/10.1007/978-1-0716-2764-8_5}, DOI={10.1007/978-1-0716-2764-8_5},
+  booktitle={All-Optical Methods to Study Neuronal Function}, publisher={Springer
+  US}, author={Backhaus, Hendrik and Ruffini, Nicolas and Wierczeiko, Anna and Stroh,
+  Albrecht}, year={2023}, pages={137–163} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322709+00:00'

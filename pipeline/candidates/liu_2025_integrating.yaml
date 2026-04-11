@@ -1,0 +1,44 @@
+doi: 10.1016/j.biopsych.2025.03.019
+openalex_id: W4409201538
+pmid: null
+pmcid: null
+title: Integrating Aversive Memories in the Basolateral Amygdala
+authors:
+- first: Jianfeng
+  last: Liu
+- first: Michael S.
+  last: Totty
+- first: Hugo
+  last: Bayer
+- first: Stephen
+  last: Maren
+journal: Biological Psychiatry
+publication_year: 2025
+publication_date: '2025-04-06'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biologicalpsychiatryjournal.com/article/S0006-3223(25)01107-2/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321286+00:00'

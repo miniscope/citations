@@ -1,0 +1,46 @@
+doi: 10.1098/rstb.2017.0029
+openalex_id: W2785727065
+pmid: null
+pmcid: PMC5790827
+title: The mysteries of remote memory
+authors:
+- first: Zimbul
+  last: Albo
+- first: Johannes
+  last: Gräff
+journal: Philosophical Transactions of the Royal Society B Biological Sciences
+publication_year: 2018
+publication_date: '2018-01-29'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1098/rstb.2017.0029
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Albo_2018, title={The mysteries of remote memory}, volume={373},
+  ISSN={1471-2970}, url={http://dx.doi.org/10.1098/rstb.2017.0029}, DOI={10.1098/rstb.2017.0029},
+  number={1742}, journal={Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, publisher={The Royal Society}, author={Albo, Zimbul and Gräff, Johannes},
+  year={2018}, month=jan, pages={20170029} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319792+00:00'

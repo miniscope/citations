@@ -1,0 +1,55 @@
+doi: 10.1016/j.mex.2020.101024
+openalex_id: W3048290875
+pmid: null
+pmcid: PMC7479347
+title: An open-source capacitive touch sensing device for three chamber social behavior
+  test
+authors:
+- first: Giovanni
+  last: Barbera
+- first: Bo
+  last: Liang
+- first: Yan
+  last: Zhang
+- first: Casey
+  last: Moffitt
+- first: Yun
+  last: Li
+- first: Da‐Ting
+  last: Lin
+journal: MethodsX
+publication_year: 2020
+publication_date: '2020-01-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.mex.2020.101024
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Barbera_2020, title={An open-source capacitive touch sensing
+  device for three chamber social behavior test}, volume={7}, ISSN={2215-0161}, url={http://dx.doi.org/10.1016/j.mex.2020.101024},
+  DOI={10.1016/j.mex.2020.101024}, journal={MethodsX}, publisher={Elsevier BV}, author={Barbera,
+  Giovanni and Liang, Bo and Zhang, Yan and Moffitt, Casey and Li, Yun and Lin, Da-Ting},
+  year={2020}, pages={101024} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321302+00:00'

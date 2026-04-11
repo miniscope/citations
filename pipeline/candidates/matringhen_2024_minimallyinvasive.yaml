@@ -1,0 +1,47 @@
+doi: 10.1101/2024.08.02.606307
+openalex_id: W4401351855
+pmid: null
+pmcid: null
+title: Minimally-invasive Manipulation of Spared and Hypoactive Interneurons reduces
+  CA1 Synchronization and Nonspatial Behavior alterations in Epilepsy models
+authors:
+- first: Célanie
+  last: Matringhen
+- first: Alexandre
+  last: Vigier
+- first: Nikoleta
+  last: Bourtouli
+- first: Michel
+  last: François
+- first: Thomas
+  last: Marissal
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2024
+publication_date: '2024-08-06'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2024/08/06/2024.08.02.606307.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.376262+00:00'

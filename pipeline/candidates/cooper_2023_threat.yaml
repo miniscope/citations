@@ -1,0 +1,54 @@
+doi: 10.31234/osf.io/c7zyh
+openalex_id: W4387670838
+pmid: null
+pmcid: null
+title: 'Threat learning by proxy: Semantic structures facilitate emotional memory
+  integration throughout the MTL and medial prefrontal cortex'
+authors:
+- first: Samuel E.
+  last: Cooper
+- first: Augustin C.
+  last: Hennings
+- first: Sophia A.
+  last: Bibb
+- first: Jarrod A.
+  last: Lewis‐Peacock
+- first: Joseph E.
+  last: Dunsmoor
+journal: null
+publication_year: 2023
+publication_date: '2023-10-15'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://osf.io/c7zyh/download
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Cooper_2023, title={Threat learning by proxy: Semantic structures
+  facilitate emotional memory integration throughout the MTL and medial prefrontal
+  cortex}, url={http://dx.doi.org/10.31234/osf.io/c7zyh}, DOI={10.31234/osf.io/c7zyh},
+  publisher={Center for Open Science}, author={Cooper, Samuel Emerson and Hennings,
+  Augustin C. and Bibb, Sophia and Lewis-Peacock, Jarrod and Dunsmoor, Joseph E.},
+  year={2023}, month=oct }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321943+00:00'

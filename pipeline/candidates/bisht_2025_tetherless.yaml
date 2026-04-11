@@ -1,0 +1,56 @@
+doi: 10.1117/1.jbo.30.s2.s23904
+openalex_id: W4408598899
+pmid: null
+pmcid: null
+title: Tetherless miniaturized point detector device for monitoring cortical surface
+  hemodynamics in mice
+authors:
+- first: Anupam
+  last: Bisht
+- first: Govind
+  last: Peringod
+- first: Linhui
+  last: Yu
+- first: Ning
+  last: Cheng
+- first: Grant R.
+  last: Gordon
+- first: Kartikeya
+  last: Murari
+journal: Journal of Biomedical Optics
+publication_year: 2025
+publication_date: '2025-03-19'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-30/issue-S2/S23904/Tetherless-miniaturized-point-detector-device-for-monitoring-cortical-surface-hemodynamics/10.1117/1.JBO.30.S2.S23904.pdf
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Bisht_2025, title={Tetherless miniaturized point detector device
+  for monitoring cortical surface hemodynamics in mice}, volume={30}, ISSN={1083-3668},
+  url={http://dx.doi.org/10.1117/1.jbo.30.s2.s23904}, DOI={10.1117/1.jbo.30.s2.s23904},
+  number={S2}, journal={Journal of Biomedical Optics}, publisher={SPIE-Intl Soc Optical
+  Eng}, author={Bisht, Anupam and Peringod, Govind and Yu, Linhui and Cheng, Ning
+  and Gordon, Grant R. and Murari, Kartikeya}, year={2025}, month=mar }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019765+00:00'

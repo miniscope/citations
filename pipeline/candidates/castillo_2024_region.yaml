@@ -1,0 +1,64 @@
+doi: 10.1371/journal.pone.0308573
+openalex_id: W4402556771
+pmid: null
+pmcid: PMC11407621
+title: Region of interest determination algorithm of lensless calcium imaging datasets
+authors:
+- first: Virgil Christian Garcia
+  last: Castillo
+- first: Latiful
+  last: Akbar
+- first: Ronnakorn
+  last: Siwadamrongpong
+- first: Yasumi
+  last: Ohta
+- first: Mamiko
+  last: Kawahara
+- first: Yoshinori
+  last: Sunaga
+- first: Hironari
+  last: Takehara
+- first: Hiroyuki
+  last: Tashiro
+- first: Kiyotaka
+  last: Sasagawa
+- first: Jun
+  last: Ohta
+journal: PLoS ONE
+publication_year: 2024
+publication_date: '2024-09-17'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://dx.doi.org/10.1371/journal.pone.0308573
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Castillo_2024, title={Region of interest determination algorithm
+  of lensless calcium imaging datasets}, volume={19}, ISSN={1932-6203}, url={http://dx.doi.org/10.1371/journal.pone.0308573},
+  DOI={10.1371/journal.pone.0308573}, number={9}, journal={PLOS ONE}, publisher={Public
+  Library of Science (PLoS)}, author={Castillo, Virgil Christian Garcia and Akbar,
+  Latiful and Siwadamrongpong, Ronnakorn and Ohta, Yasumi and Kawahara, Mamiko and
+  Sunaga, Yoshinori and Takehara, Hironari and Tashiro, Hiroyuki and Sasagawa, Kiyotaka
+  and Ohta, Jun}, editor={Pesce, Luca}, year={2024}, month=sep, pages={e0308573} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.376301+00:00'

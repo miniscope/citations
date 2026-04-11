@@ -1,0 +1,51 @@
+doi: 10.1111/ejn.15937
+openalex_id: W4320712060
+pmid: null
+pmcid: null
+title: Characterization of ventromedial hypothalamus activity during exposure to innate
+  and conditioned threats
+authors:
+- first: Brooke C
+  last: Tobias
+- first: Peter J.
+  last: Schuette
+- first: Sandra
+  last: Maesta‐Pereira
+- first: Anita
+  last: Torossian
+- first: Weisheng
+  last: Wang
+- first: Ekayana
+  last: Sethi
+- first: Avishek
+  last: Adhikari
+journal: European Journal of Neuroscience
+publication_year: 2023
+publication_date: '2023-02-14'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ejn.15937
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320893+00:00'

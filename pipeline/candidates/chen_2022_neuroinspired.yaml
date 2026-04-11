@@ -1,0 +1,74 @@
+doi: 10.1142/s0129065722500381
+openalex_id: W4281676865
+pmid: null
+pmcid: null
+title: Neuro-Inspired Reinforcement Learning to Improve Trajectory Prediction in Reward-Guided
+  Behavior
+authors:
+- first: Bowei
+  last: Chen
+- first: Shih‐Hung
+  last: Yang
+- first: Chao‐Hung
+  last: Kuo
+- first: Jiawei
+  last: Chen
+- first: Yu‐Chun
+  last: Lo
+- first: Yun-Ting
+  last: Kuo
+- first: Yi-Chen
+  last: Lin
+- first: Hao-Cheng
+  last: Chang
+- first: Sheng-Huang
+  last: Lin
+- first: Xiao
+  last: Yu
+- first: Boyi
+  last: Qu
+- first: Shuan-Chu Vina
+  last: Ro
+- first: Hsin-Yi
+  last: Lai
+- first: You‐Yin
+  last: Chen
+journal: International Journal of Neural Systems
+publication_year: 2022
+publication_date: '2022-06-08'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Chen_2022, title={Neuro-Inspired Reinforcement Learning to
+  Improve Trajectory Prediction in Reward-Guided Behavior}, volume={32}, ISSN={1793-6462},
+  url={http://dx.doi.org/10.1142/s0129065722500381}, DOI={10.1142/s0129065722500381},
+  number={09}, journal={International Journal of Neural Systems}, publisher={World
+  Scientific Pub Co Pte Ltd}, author={Chen, Bo-Wei and Yang, Shih-Hung and Kuo, Chao-Hung
+  and Chen, Jia-Wei and Lo, Yu-Chun and Kuo, Yun-Ting and Lin, Yi-Chen and Chang,
+  Hao-Cheng and Lin, Sheng-Huang and Yu, Xiao and Qu, Boyi and Ro, Shuan-Chu Vina
+  and Lai, Hsin-Yi and Chen, You-Yin}, year={2022}, month=aug }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374372+00:00'

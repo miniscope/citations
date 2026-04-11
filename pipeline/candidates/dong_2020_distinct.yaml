@@ -1,0 +1,47 @@
+doi: 10.1101/2020.09.10.292177
+openalex_id: W3083901019
+pmid: null
+pmcid: null
+title: Distinct place cell dynamics in CA1 and CA3 encode experience in new environments
+authors:
+- first: Can
+  last: Dong
+- first: Antoine D.
+  last: Madar
+- first: Mark
+  last: Sheffield
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2020
+publication_date: '2020-09-11'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2021/02/11/2020.09.10.292177.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Dong_2020, title={Distinct place cell dynamics in CA1 and CA3
+  encode experience in new environments}, url={http://dx.doi.org/10.1101/2020.09.10.292177},
+  DOI={10.1101/2020.09.10.292177}, publisher={openRxiv}, author={Dong, Can and Madar,
+  Antoine D. and Sheffield, Mark E. J.}, year={2020}, month=sep }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.323151+00:00'

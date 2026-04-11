@@ -1,0 +1,54 @@
+doi: 10.1038/s41598-022-21022-9
+openalex_id: W4302293656
+pmid: null
+pmcid: PMC9537509
+title: A miniature fluorescence microscope for multi-plane imaging
+authors:
+- first: Giovanni
+  last: Barbera
+- first: Rachel
+  last: Jun
+- first: Yan
+  last: Zhang
+- first: Bo
+  last: Liang
+- first: Yun
+  last: Li
+- first: Da‐Ting
+  last: Lin
+journal: Scientific Reports
+publication_year: 2022
+publication_date: '2022-10-06'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41598-022-21022-9.pdf
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Barbera_2022, title={A miniature fluorescence microscope for
+  multi-plane imaging}, volume={12}, ISSN={2045-2322}, url={http://dx.doi.org/10.1038/s41598-022-21022-9},
+  DOI={10.1038/s41598-022-21022-9}, number={1}, journal={Scientific Reports}, publisher={Springer
+  Science and Business Media LLC}, author={Barbera, Giovanni and Jun, Rachel and Zhang,
+  Yan and Liang, Bo and Li, Yun and Lin, Da-Ting}, year={2022}, month=oct }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019187+00:00'

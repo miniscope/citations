@@ -1,0 +1,48 @@
+doi: 10.1101/lm.044446.116
+openalex_id: W2601947439
+pmid: null
+pmcid: PMC5362696
+title: Brain-wide maps of <i>Fos</i> expression during fear learning and recall
+authors:
+- first: Jin-Hyung
+  last: Cho
+- first: Sam
+  last: Rendall
+- first: Jesse
+  last: Gray
+journal: Learning & Memory
+publication_year: 2017
+publication_date: '2017-03-22'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://learnmem.cshlp.org/content/24/4/169.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Cho_2017, title={Brain-wide maps of Fos expression during fear
+  learning and recall}, volume={24}, ISSN={1549-5485}, url={http://dx.doi.org/10.1101/lm.044446.116},
+  DOI={10.1101/lm.044446.116}, number={4}, journal={Learning &amp; Memory}, publisher={Cold
+  Spring Harbor Laboratory}, author={Cho, Jin-Hyung and Rendall, Sam D. and Gray,
+  Jesse M.}, year={2017}, month=mar, pages={169–181} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.323144+00:00'

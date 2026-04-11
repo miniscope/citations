@@ -1,0 +1,45 @@
+doi: 10.1096/fj.201902274r
+openalex_id: W2999760194
+pmid: null
+pmcid: null
+title: Induction of activity synchronization among primed hippocampal neurons out
+  of random dynamics is key for trace memory formation and retrieval
+authors:
+- first: Yuxin
+  last: Zhou
+- first: Liyan
+  last: Qiu
+- first: HaiYing
+  last: Wang
+- first: Xuanmao
+  last: Chen
+journal: The FASEB Journal
+publication_year: 2020
+publication_date: '2020-01-15'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fj.201902274R
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320654+00:00'

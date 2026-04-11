@@ -1,0 +1,47 @@
+doi: 10.1101/2023.12.13.571122
+openalex_id: W4389722787
+pmid: null
+pmcid: null
+title: Functional imaging of nine distinct neuronal populations under a miniscope
+  in freely behaving animals
+authors:
+- first: Mary L.
+  last: Phillips
+- first: Nicolai T.
+  last: Urban
+- first: Taddeo
+  last: Salemi
+- first: Zhe
+  last: Dong
+- first: Ryohei
+  last: Yasuda
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2023
+publication_date: '2023-12-14'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2023/12/14/2023.12.13.571122.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019652+00:00'

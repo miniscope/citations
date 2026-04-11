@@ -1,0 +1,92 @@
+doi: 10.1126/science.ado8316
+openalex_id: W4408704260
+pmid: null
+pmcid: null
+title: Synaptic architecture of a memory engram in the mouse hippocampus
+authors:
+- first: Marco
+  last: Uytiepo
+- first: Yongchuan
+  last: Zhu
+- first: Eric A.
+  last: Bushong
+- first: Ken-Ching
+  last: Chou
+- first: Filip S.
+  last: Polli
+- first: Elise E.
+  last: Zhao
+- first: Keunyoung
+  last: Kim
+- first: Danielle
+  last: Luu
+- first: Lyanne
+  last: Chang
+- first: Dong Uk
+  last: Yang
+- first: Tsz
+  last: Ching
+- first: M.-J.
+  last: Kim
+- first: Yuting
+  last: Zhang
+- first: Gerald
+  last: Walton
+- first: Tam
+  last: Quach
+- first: Matthias G.
+  last: Haberl
+- first: Luca
+  last: Patapoutian
+- first: Ali
+  last: Shahbazi
+- first: Yuxuan
+  last: Zhang
+- first: Elizabeth
+  last: Beutter
+- first: Weiheng
+  last: Zhang
+- first: Bo
+  last: Dong
+- first: Aram El
+  last: Khoury
+- first: A.
+  last: Gu
+- first: Elle
+  last: McCue
+- first: Lisa
+  last: Stowers
+- first: Mark H.
+  last: Ellisman
+- first: Anton
+  last: Maximov
+journal: Science
+publication_year: 2025
+publication_date: '2025-03-20'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.ncbi.nlm.nih.gov/pmc/articles/12233322
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319392+00:00'

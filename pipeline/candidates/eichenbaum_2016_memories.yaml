@@ -1,0 +1,44 @@
+doi: 10.1038/536405a
+openalex_id: W2514871860
+pmid: null
+pmcid: null
+title: Memories linked within a window of time
+authors:
+- first: Howard
+  last: Eichenbaum
+journal: Nature
+publication_year: 2016
+publication_date: '2016-08-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/536405a.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Eichenbaum_2016, title={Memories linked within a window of
+  time}, volume={536}, ISSN={1476-4687}, url={http://dx.doi.org/10.1038/536405a},
+  DOI={10.1038/536405a}, number={7617}, journal={Nature}, publisher={Springer Science
+  and Business Media LLC}, author={Eichenbaum, Howard}, year={2016}, month=aug, pages={405–406}
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322862+00:00'

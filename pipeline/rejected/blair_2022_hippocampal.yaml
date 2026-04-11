@@ -1,0 +1,71 @@
+doi: 10.1101/2022.05.26.493592
+openalex_id: W4281852152
+pmid: null
+pmcid: null
+title: Hippocampal place cell remapping occurs with memory storage of aversive experiences
+authors:
+- first: Garrett J.
+  last: Blair
+- first: Changliang
+  last: Guo
+- first: Shiyun
+  last: Wang
+- first: Michael S.
+  last: Fanselow
+- first: Peyman
+  last: Golshani
+- first: Daniel
+  last: Aharoni
+- first: Hugh T.
+  last: Blair
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2022
+publication_date: '2022-05-29'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1101/2022.05.26.493592
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Blair_2022, title={Hippocampal place cell remapping occurs
+  with memory storage of aversive experiences}, url={http://dx.doi.org/10.1101/2022.05.26.493592},
+  DOI={10.1101/2022.05.26.493592}, publisher={openRxiv}, author={Blair, Garrett J.
+  and Guo, Changliang and Wang, Shiyun and Fanselow, Michael S. and Golshani, Peyman
+  and Aharoni, Daniel and Blair, Hugh T.}, year={2022}, month=may }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  related_to_project: true
+  uses_tool: true
+  confidence: 0.95
+  tools_identified:
+  - UCLA Miniscope v4
+  evidence:
+  - 'performing in-vivo calcium imaging of CA1 place cells in freely behaving rats'
+  - 'Daniel Aharoni is a co-author (Miniscope creator/developer)'
+  - 'Cites seed paper 10.1038/s41593-019-0559-0 (Shuman et al. 2019, the UCLA Miniscope
+    v4 paper)'
+  paper_type: science
+  suggested_component: UCLA Miniscope v4
+  suggested_technique: calcium imaging
+  reasoning: 'Duplicate preprint: this is the bioRxiv preprint version of the published
+    eLife paper (10.7554/elife.80661), which exists as a separate candidate (blair_2023_hippocampal.yaml).
+    The paper itself is clearly related -- it performs in-vivo calcium imaging of hippocampal
+    place cells in freely behaving rats, is co-authored by Daniel Aharoni (Miniscope
+    creator), and cites the UCLA Miniscope v4 seed paper. However, rejecting this
+    preprint in favor of the published version.'
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.375861+00:00'
+- stage: rejected
+  timestamp: '2026-04-10T00:00:00+00:00'
+  reason: 'duplicate_preprint: published version exists as blair_2023_hippocampal.yaml
+    (10.7554/elife.80661)'

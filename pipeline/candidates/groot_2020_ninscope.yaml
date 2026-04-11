@@ -1,0 +1,58 @@
+doi: 10.7554/elife.49987
+openalex_id: W3000396208
+pmid: null
+pmcid: null
+title: NINscope, a versatile miniscope for multi-region circuit investigations
+authors:
+- first: Andres de
+  last: Groot
+- first: Bastijn J.G. van den
+  last: Boom
+- first: Romano M. van
+  last: Genderen
+- first: Joris E.
+  last: Coppens
+- first: John van
+  last: Veldhuijzen
+- first: Joop
+  last: Bos
+- first: Hugo
+  last: Hoedemaker
+- first: Mario
+  last: Negrello
+- first: Ingo
+  last: Willuhn
+- first: Chris I. De
+  last: Zeeuw
+- first: Tycho M.
+  last: Hoogland
+journal: eLife
+publication_year: 2020
+publication_date: '2020-01-14'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://elifesciences.org/articles/49987.bib
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.373311+00:00'

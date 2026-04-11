@@ -1,0 +1,42 @@
+doi: 10.2139/ssrn.4100721
+openalex_id: W4285117571
+pmid: null
+pmcid: null
+title: The Impact of Familiarity on Cortical Taste Coding
+authors:
+- first: Stephanie M.
+  last: Staszko
+- first: John D.
+  last: Boughter
+- first: Max L.
+  last: Fletcher
+journal: SSRN Electronic Journal
+publication_year: 2022
+publication_date: '2022-01-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.2139/ssrn.4100721
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.325669+00:00'

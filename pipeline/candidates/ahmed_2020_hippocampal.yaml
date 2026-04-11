@@ -1,0 +1,65 @@
+doi: 10.1016/j.neuron.2020.04.013
+openalex_id: W3022936629
+pmid: null
+pmcid: PMC7643350
+title: Hippocampal Network Reorganization Underlies the Formation of a Temporal Association
+  Memory
+authors:
+- first: Mohsin
+  last: Ahmed
+- first: James B.
+  last: Priestley
+- first: Angel
+  last: Castro
+- first: Fabio
+  last: Stefanini
+- first: Ana Sofia Solis
+  last: Canales
+- first: Elizabeth M.
+  last: Balough
+- first: Erin
+  last: Lavoie
+- first: Luca
+  last: Mazzucato
+- first: Stefano
+  last: Fusi
+- first: Attila
+  last: Losonczy
+journal: Neuron
+publication_year: 2020
+publication_date: '2020-05-08'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.cell.com/article/S0896627320302828/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Ahmed_2020, title={Hippocampal Network Reorganization Underlies
+  the Formation of a Temporal Association Memory}, volume={107}, ISSN={0896-6273},
+  url={http://dx.doi.org/10.1016/j.neuron.2020.04.013}, DOI={10.1016/j.neuron.2020.04.013},
+  number={2}, journal={Neuron}, publisher={Elsevier BV}, author={Ahmed, Mohsin S.
+  and Priestley, James B. and Castro, Angel and Stefanini, Fabio and Solis Canales,
+  Ana Sofia and Balough, Elizabeth M. and Lavoie, Erin and Mazzucato, Luca and Fusi,
+  Stefano and Losonczy, Attila}, year={2020}, month=jul, pages={283-291.e6} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.318315+00:00'

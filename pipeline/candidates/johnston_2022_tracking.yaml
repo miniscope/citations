@@ -1,0 +1,49 @@
+doi: 10.1016/j.crmeth.2022.100207
+openalex_id: W4226095048
+pmid: null
+pmcid: null
+title: Tracking longitudinal population dynamics of single neuronal calcium signal
+  using SCOUT
+authors:
+- first: Kevin G.
+  last: Johnston
+- first: Steven F.
+  last: Grieco
+- first: Hai
+  last: Zhang
+- first: Suoqin
+  last: Jin
+- first: Xiangmin
+  last: Xu
+- first: Qing
+  last: Nie
+journal: Cell Reports Methods
+publication_year: 2022
+publication_date: '2022-04-29'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.crmeth.2022.100207
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321007+00:00'

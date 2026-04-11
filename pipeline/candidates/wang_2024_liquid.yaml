@@ -1,0 +1,61 @@
+doi: 10.1038/s41377-024-01410-8
+openalex_id: W4392298148
+pmid: null
+pmcid: null
+title: Liquid lens based holographic camera for real 3D scene hologram acquisition
+  using end-to-end physical model-driven network
+authors:
+- first: Di
+  last: Wang
+- first: Zhaosong
+  last: Li
+- first: Yi
+  last: Zheng
+- first: You‐Ran
+  last: Zhao
+- first: Chao
+  last: Liu
+- first: Jin-Bo
+  last: Xu
+- first: Yi‐Wei
+  last: Zheng
+- first: Qian
+  last: Huang
+- first: Chenliang
+  last: Chang
+- first: Dawei
+  last: Zhang
+- first: Songlin
+  last: Zhuang
+- first: Qiong‐Hua
+  last: Wang
+journal: Light Science & Applications
+publication_year: 2024
+publication_date: '2024-02-29'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41377-024-01410-8.pdf
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019004+00:00'

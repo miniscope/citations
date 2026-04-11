@@ -1,0 +1,41 @@
+doi: 10.1016/j.conb.2017.08.003
+openalex_id: W2751609835
+pmid: null
+pmcid: null
+title: 'Dopaminergic dysfunction in neurodevelopmental disorders: recent advances
+  and synergistic technologies to aid basic research'
+authors:
+- first: J. Elliott
+  last: Robinson
+- first: Viviana
+  last: Gradinaru
+journal: Current Opinion in Neurobiology
+publication_year: 2017
+publication_date: '2017-08-30'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://resolver.caltech.edu/CaltechAUTHORS:20170918-075519928
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320151+00:00'

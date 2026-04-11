@@ -1,0 +1,57 @@
+doi: 10.31857/s0006302923060157
+openalex_id: W4394750492
+pmid: null
+pmcid: null
+title: 'Biosensor systems: determination of optimal time parameters of olfactory stimulation'
+authors:
+- first: А. Е.
+  last: Матухно
+- first: Mikhail
+  last: Petrushan
+- first: Larisa V.
+  last: Lysenko
+- first: V. N.
+  last: Kiroy
+journal: Биофизика
+publication_year: 2023
+publication_date: '2023-12-15'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://journals.rcsi.science/0006-3029/article/download/249701/227802
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: none
+  pdf_local_path: null
+analysis:
+  status: completed
+  uses_tool: false
+  confidence: 0.5
+  tools_identified: []
+  evidence: []
+  paper_type: biosensor_development
+  suggested_component: null
+  suggested_technique: null
+  reasoning: >-
+    Abstract-only analysis (full text unavailable: no PMCID, not a bioRxiv preprint,
+    PDF access denied). The paper describes a biosensor system based on optical imaging
+    of odor-evoked glomerular activity patterns in macrosmatic animal olfactory bulbs.
+    The abstract contains no mention of UCLA Miniscope, Miniscope v4, MiniLFOV,
+    MiniXL, miniature microscope, open-source miniscope, calcium imaging, GCaMP, or
+    freely behaving animals. The paper cites the MiniLFOV seed paper
+    (10.1126/sciadv.adg3918) but appears to reference it only as related neural imaging
+    work, not as a tool actually used. The imaging described (intrinsic optical signal
+    imaging of olfactory bulb glomeruli) is fundamentally different from miniscope-based
+    calcium imaging. Confidence capped at 0.5 due to abstract-only analysis.
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019723+00:00'
+- stage: rejected
+  timestamp: '2026-04-10T00:00:00+00:00'
+  reason: 'No evidence of tool usage found in abstract-only analysis'

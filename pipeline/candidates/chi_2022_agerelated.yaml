@@ -1,0 +1,50 @@
+doi: 10.1016/j.bandc.2022.105877
+openalex_id: W4229030177
+pmid: null
+pmcid: null
+title: Age-related volumetric alterations in hippocampal subiculum region are associated
+  with reduced retention of the “when” memory component
+authors:
+- first: Chia-Hsing
+  last: Chi
+- first: Fu‐Chi
+  last: Yang
+- first: Yu‐Ling
+  last: Chang
+journal: Brain and Cognition
+publication_year: 2022
+publication_date: '2022-05-05'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Chi_2022, title={Age-related volumetric alterations in hippocampal
+  subiculum region are associated with reduced retention of the “when” memory component},
+  volume={160}, ISSN={0278-2626}, url={http://dx.doi.org/10.1016/j.bandc.2022.105877},
+  DOI={10.1016/j.bandc.2022.105877}, journal={Brain and Cognition}, publisher={Elsevier
+  BV}, author={Chi, Chia-Hsing and Yang, Fu-Chi and Chang, Yu-Ling}, year={2022},
+  month=jul, pages={105877} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320910+00:00'

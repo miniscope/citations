@@ -1,0 +1,58 @@
+doi: 10.1016/j.celrep.2018.09.064
+openalex_id: W2897299948
+pmid: null
+pmcid: null
+title: Long-Term Consolidation of Ensemble Neural Plasticity Patterns in Hippocampal
+  Area CA1
+authors:
+- first: Alessio
+  last: Attardo
+- first: Ju
+  last: Lu
+- first: Takashi
+  last: Kawashima
+- first: Hiroyuki
+  last: Okuno
+- first: James E.
+  last: Fitzgerald
+- first: Haruhiko
+  last: Bito
+- first: Mark J.
+  last: Schnitzer
+journal: Cell Reports
+publication_year: 2018
+publication_date: '2018-10-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.cell.com/article/S2211124718315249/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Attardo_2018, title={Long-Term Consolidation of Ensemble Neural
+  Plasticity Patterns in Hippocampal Area CA1}, volume={25}, ISSN={2211-1247}, url={http://dx.doi.org/10.1016/j.celrep.2018.09.064},
+  DOI={10.1016/j.celrep.2018.09.064}, number={3}, journal={Cell Reports}, publisher={Elsevier
+  BV}, author={Attardo, Alessio and Lu, Ju and Kawashima, Takashi and Okuno, Hiroyuki
+  and Fitzgerald, James E. and Bito, Haruhiko and Schnitzer, Mark J.}, year={2018},
+  month=oct, pages={640-650.e2} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.318678+00:00'

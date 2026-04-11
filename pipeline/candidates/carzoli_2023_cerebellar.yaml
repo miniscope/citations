@@ -1,0 +1,52 @@
+doi: 10.1016/j.celrep.2023.113057
+openalex_id: W4386306595
+pmid: null
+pmcid: PMC10616818
+title: Cerebellar interneurons control fear memory consolidation via learning-induced
+  HCN plasticity
+authors:
+- first: Kathryn L.
+  last: Carzoli
+- first: Georgios
+  last: Kogias
+- first: Jessica M.
+  last: Fawcett‐Patel
+- first: Siqiong June
+  last: Liu
+journal: Cell Reports
+publication_year: 2023
+publication_date: '2023-08-31'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.cell.com/article/S2211124723010689/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Carzoli_2023, title={Cerebellar interneurons control fear memory
+  consolidation via learning-induced HCN plasticity}, volume={42}, ISSN={2211-1247},
+  url={http://dx.doi.org/10.1016/j.celrep.2023.113057}, DOI={10.1016/j.celrep.2023.113057},
+  number={9}, journal={Cell Reports}, publisher={Elsevier BV}, author={Carzoli, Kathryn
+  Lynn and Kogias, Georgios and Fawcett-Patel, Jessica and Liu, Siqiong June}, year={2023},
+  month=sep, pages={113057} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321077+00:00'

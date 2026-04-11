@@ -1,0 +1,59 @@
+doi: 10.1371/journal.pbio.3000928
+openalex_id: W3097315636
+pmid: null
+pmcid: PMC7665705
+title: Hippocampal neurons with stable excitatory connectivity become part of neuronal
+  representations
+authors:
+- first: Tim P.
+  last: Castello-Waldow
+- first: Ghabiba
+  last: Weston
+- first: A.F.
+  last: Ulivi
+- first: Alireza
+  last: Chenani
+- first: Yonatan
+  last: Loewenstein
+- first: Alon
+  last: Chen
+- first: Alessio
+  last: Attardo
+journal: PLoS Biology
+publication_year: 2020
+publication_date: '2020-11-03'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3000928&type=printable
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Castello_Waldow_2020, title={Hippocampal neurons with stable
+  excitatory connectivity become part of neuronal representations}, volume={18}, ISSN={1545-7885},
+  url={http://dx.doi.org/10.1371/journal.pbio.3000928}, DOI={10.1371/journal.pbio.3000928},
+  number={11}, journal={PLOS Biology}, publisher={Public Library of Science (PLoS)},
+  author={Castello-Waldow, Tim P. and Weston, Ghabiba and Ulivi, Alessandro F. and
+  Chenani, Alireza and Loewenstein, Yonatan and Chen, Alon and Attardo, Alessio},
+  editor={Csicsvari, Jozsef}, year={2020}, month=nov, pages={e3000928} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320047+00:00'

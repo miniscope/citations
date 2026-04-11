@@ -2,13 +2,17 @@
 """Shared utilities for BibTeX processing scripts."""
 
 import json
+import re
 import subprocess
 import sys
+import unicodedata
 from pathlib import Path
 
 import bibtexparser
 from bibtexparser.bparser import BibTexParser
 from bibtexparser.customization import convert_to_unicode
+
+STOP_WORDS = {"a", "an", "the", "of", "and", "in", "for", "on", "to", "with", "by", "is", "are"}
 
 
 def load_config():
@@ -86,3 +90,53 @@ def build_template_call(name, params):
             lines.append(f"|{key}={value}")
     lines.append("}}")
     return "\n".join(lines)
+
+
+# --- Functions extracted from normalize_keys.py and check_duplicates.py ---
+
+
+def slugify(text):
+    """Convert text to a clean slug: lowercase, underscores, ascii only."""
+    text = unicodedata.normalize("NFKD", text)
+    text = text.encode("ascii", "ignore").decode("ascii")
+    text = text.lower().strip()
+    text = re.sub(r"[^\w\s-]", "", text)
+    text = re.sub(r"[\s-]+", "_", text)
+    text = text.strip("_")
+    return text
+
+
+def get_first_author_lastname(author_str):
+    """Extract first author's last name from a BibTeX author string."""
+    first_author = clean_latex(re.split(r"\s+and\s+", author_str)[0])
+
+    if "," in first_author:
+        return first_author.split(",")[0].strip()
+    else:
+        parts = first_author.split()
+        return parts[-1] if parts else "unknown"
+
+
+def get_first_title_word(title):
+    """Extract the first significant word from a title (skipping stop words)."""
+    title = clean_latex(title)
+    words = re.sub(r"[^\w\s]", "", title).split()
+    for word in words:
+        if word.lower() not in STOP_WORDS:
+            return word.lower()
+    return words[0].lower() if words else "untitled"
+
+
+def generate_key(entry):
+    """Generate a normalized citation key from entry metadata."""
+    author = get_first_author_lastname(entry.get("author", "unknown"))
+    year = entry.get("year", "0000")
+    title_word = get_first_title_word(entry.get("title", "untitled"))
+    return slugify(f"{author} {year} {title_word}")
+
+
+def normalize_title(title):
+    """Normalize a title for comparison: lowercase, strip punctuation/whitespace."""
+    title = clean_latex(title)
+    title = re.sub(r"[^\w\s]", "", title)
+    return " ".join(title.lower().split())

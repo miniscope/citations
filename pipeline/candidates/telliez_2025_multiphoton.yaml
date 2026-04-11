@@ -1,0 +1,51 @@
+doi: 10.1021/acsphotonics.4c02101
+openalex_id: W4409168138
+pmid: null
+pmcid: null
+title: 'Multiphoton Neurophotonics: Recent Advances in Imaging and Manipulating Neuronal
+  Circuits'
+authors:
+- first: Cécile
+  last: Telliez
+- first: Ruth R.
+  last: Sims
+- first: Giulia
+  last: Faini
+- first: Pascal
+  last: Berto
+- first: Eirini
+  last: Papagiakoumou
+- first: Dimitrii
+  last: Tanese
+- first: Nicolò
+  last: Accanto
+journal: ACS Photonics
+publication_year: 2025
+publication_date: '2025-04-04'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1021/acsphotonics.4c02101
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019442+00:00'

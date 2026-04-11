@@ -1,0 +1,47 @@
+doi: 10.1101/2020.10.05.327049
+openalex_id: W3090427581
+pmid: null
+pmcid: null
+title: Representational drift in the mouse visual cortex
+authors:
+- first: Daniel
+  last: Deitch
+- first: Alon
+  last: Rubin
+- first: Yaniv
+  last: Ziv
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2020
+publication_date: '2020-10-05'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2020/10/05/2020.10.05.327049.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Deitch_2020, title={Representational drift in the mouse visual
+  cortex}, url={http://dx.doi.org/10.1101/2020.10.05.327049}, DOI={10.1101/2020.10.05.327049},
+  publisher={openRxiv}, author={Deitch, Daniel and Rubin, Alon and Ziv, Yaniv}, year={2020},
+  month=oct }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.323193+00:00'

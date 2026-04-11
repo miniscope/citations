@@ -1,0 +1,51 @@
+doi: 10.1098/rstb.2016.0161
+openalex_id: W2577948325
+pmid: null
+pmcid: PMC5247593
+title: Variance and invariance of neuronal long-term representations
+authors:
+- first: Claudia
+  last: Clopath
+- first: Tobias
+  last: Bonhoeffer
+- first: Mark
+  last: Hübener
+- first: Tobias
+  last: Rose
+journal: Philosophical Transactions of the Royal Society B Biological Sciences
+publication_year: 2017
+publication_date: '2017-01-17'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2016.0161
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Clopath_2017, title={Variance and invariance of neuronal long-term
+  representations}, volume={372}, ISSN={1471-2970}, url={http://dx.doi.org/10.1098/rstb.2016.0161},
+  DOI={10.1098/rstb.2016.0161}, number={1715}, journal={Philosophical Transactions
+  of the Royal Society B: Biological Sciences}, publisher={The Royal Society}, author={Clopath,
+  Claudia and Bonhoeffer, Tobias and Hübener, Mark and Rose, Tobias}, year={2017},
+  month=mar, pages={20160161} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.317903+00:00'

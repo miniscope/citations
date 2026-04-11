@@ -1,0 +1,48 @@
+doi: 10.3389/fpsyt.2022.876749
+openalex_id: W4283259904
+pmid: null
+pmcid: null
+title: Dysbindin-1, BDNF, and GABAergic Transmission in Schizophrenia
+authors:
+- first: Rachel
+  last: Jun
+- first: Wen
+  last: Zhang
+- first: Nicholas J.
+  last: Beacher
+- first: Yan
+  last: Zhang
+- first: Yun
+  last: Li
+- first: Da‐Ting
+  last: Lin
+journal: Frontiers in Psychiatry
+publication_year: 2022
+publication_date: '2022-06-22'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.frontiersin.org/articles/10.3389/fpsyt.2022.876749/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320789+00:00'

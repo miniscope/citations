@@ -1,0 +1,71 @@
+doi: 10.7554/elife.69178
+openalex_id: W3197861017
+pmid: null
+pmcid: null
+title: Dorsal premammillary projection to periaqueductal gray controls escape vigor
+  from innate and conditioned threats
+authors:
+- first: Weisheng
+  last: Wang
+- first: Peter J.
+  last: Schuette
+- first: Mimi Q
+  last: La-Vu
+- first: Anita
+  last: Torossian
+- first: Brooke C
+  last: Tobias
+- first: Marta
+  last: Čeko
+- first: Philip A.
+  last: Kragel
+- first: Fernando MCV
+  last: Reis
+- first: Shiyu
+  last: Ji
+- first: Megha
+  last: Sehgal
+- first: Sandra
+  last: Maesta‐Pereira
+- first: Meghmik
+  last: Chakerian
+- first: Alcino J.
+  last: Silva
+- first: Newton S.
+  last: Canteras
+- first: Tor D.
+  last: Wager
+- first: Jonathan C.
+  last: Kao
+- first: Avishek
+  last: Adhikari
+journal: eLife
+publication_year: 2021
+publication_date: '2021-09-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.7554/elife.69178
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319998+00:00'

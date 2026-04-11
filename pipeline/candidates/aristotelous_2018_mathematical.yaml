@@ -1,0 +1,53 @@
+doi: 10.1016/j.pbiomolbio.2018.05.009
+openalex_id: W2806106946
+pmid: null
+pmcid: PMC6109426
+title: Mathematical models of dorsal closure
+authors:
+- first: Andreas C.
+  last: Aristotelous
+- first: Jennifer
+  last: Crawford
+- first: Glenn S.
+  last: Edwards
+- first: Daniel P.
+  last: Kiehart
+- first: Stephanos
+  last: Venakides
+journal: Progress in Biophysics and Molecular Biology
+publication_year: 2018
+publication_date: '2018-05-28'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Aristotelous_2018, title={Mathematical models of dorsal closure},
+  volume={137}, ISSN={0079-6107}, url={http://dx.doi.org/10.1016/j.pbiomolbio.2018.05.009},
+  DOI={10.1016/j.pbiomolbio.2018.05.009}, journal={Progress in Biophysics and Molecular
+  Biology}, publisher={Elsevier BV}, author={Aristotelous, A.C. and Crawford, J.M.
+  and Edwards, G.S. and Kiehart, D.P. and Venakides, S.}, year={2018}, month=sep,
+  pages={111–131} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322120+00:00'

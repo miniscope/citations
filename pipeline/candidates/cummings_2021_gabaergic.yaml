@@ -1,0 +1,48 @@
+doi: 10.1016/j.nlm.2021.107504
+openalex_id: W3196047694
+pmid: null
+pmcid: PMC8640988
+title: GABAergic microcircuitry of fear memory encoding
+authors:
+- first: Kirstie A.
+  last: Cummings
+- first: Anthony F.
+  last: Lacagnina
+- first: Roger L.
+  last: Clem
+journal: Neurobiology of Learning and Memory
+publication_year: 2021
+publication_date: '2021-08-20'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.ncbi.nlm.nih.gov/pmc/articles/8640988
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Cummings_2021, title={GABAergic microcircuitry of fear memory
+  encoding}, volume={184}, ISSN={1074-7427}, url={http://dx.doi.org/10.1016/j.nlm.2021.107504},
+  DOI={10.1016/j.nlm.2021.107504}, journal={Neurobiology of Learning and Memory},
+  publisher={Elsevier BV}, author={Cummings, Kirstie A. and Lacagnina, Anthony F.
+  and Clem, Roger L.}, year={2021}, month=oct, pages={107504} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320575+00:00'

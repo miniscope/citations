@@ -1,0 +1,105 @@
+doi: 10.1016/j.neuron.2020.05.029
+openalex_id: W3037807978
+pmid: null
+pmcid: null
+title: Precision Calcium Imaging of Dense Neural Populations via a Cell-Body-Targeted
+  Calcium Indicator
+authors:
+- first: Or A.
+  last: Shemesh
+- first: Changyang
+  last: Linghu
+- first: Kiryl D.
+  last: Piatkevich
+- first: Daniel
+  last: Goodwin
+- first: Orhan T.
+  last: Celiker
+- first: Howard J.
+  last: Gritton
+- first: Michael F.
+  last: Romano
+- first: Ruixuan
+  last: Gao
+- first: Chih-Chieh
+  last: Yu
+- first: Hua-an
+  last: Tseng
+- first: Seth
+  last: Bensussen
+- first: Sujatha
+  last: Narayan
+- first: Chao-Tsung
+  last: Yang
+- first: Limor
+  last: Freifeld
+- first: Cody A.
+  last: Siciliano
+- first: Ishan
+  last: Gupta
+- first: Joyce
+  last: Wang
+- first: Nikita
+  last: Pak
+- first: Young-Gyu
+  last: Yoon
+- first: Jeremy F.P.
+  last: Ullmann
+- first: Burcu
+  last: Guner‐Ataman
+- first: Habiba
+  last: Noamany
+- first: Zoe R.
+  last: Sheinkopf
+- first: Won Min
+  last: Park
+- first: Shoh
+  last: Asano
+- first: Amy E.
+  last: Keating
+- first: James S.
+  last: Trimmer
+- first: Jacob
+  last: Reimer
+- first: Andreas S.
+  last: Tolias
+- first: Mark F.
+  last: Bear
+- first: Kay M.
+  last: Tye
+- first: Xue
+  last: Han
+- first: Misha B.
+  last: Ahrens
+- first: Edward S.
+  last: Boyden
+journal: Neuron
+publication_year: 2020
+publication_date: '2020-06-26'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.cell.com/article/S0896627320303986/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.318009+00:00'

@@ -1,0 +1,50 @@
+doi: 10.1016/j.xpro.2024.103534
+openalex_id: W4405638276
+pmid: null
+pmcid: PMC11726781
+title: Protocol for in vivo recording of neural activity in deep structures of mice
+  brain via gradient lenses by calcium imaging
+authors:
+- first: Stanislav M.
+  last: Cherepanov
+- first: Patrice
+  last: Mollard
+- first: A.
+  last: Martin
+journal: STAR Protocols
+publication_year: 2024
+publication_date: '2024-12-20'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.xpro.2024.103534
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Cherepanov_2025, title={Protocol for in vivo recording of neural
+  activity in deep structures of mice brain via gradient lenses by calcium imaging},
+  volume={6}, ISSN={2666-1667}, url={http://dx.doi.org/10.1016/j.xpro.2024.103534},
+  DOI={10.1016/j.xpro.2024.103534}, number={1}, journal={STAR Protocols}, publisher={Elsevier
+  BV}, author={Cherepanov, Stanislav and Mollard, Patrice and Martin, Agnes O.}, year={2025},
+  month=mar, pages={103534} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.326235+00:00'

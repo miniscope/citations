@@ -1,0 +1,77 @@
+doi: 10.1002/hipo.22616
+openalex_id: W2464730063
+pmid: null
+pmcid: PMC5367855
+title: Hippocampus at 25
+authors:
+- first: Howard
+  last: Eichenbaum
+- first: David G.
+  last: Amaral
+- first: Elizabeth A.
+  last: Buffalo
+- first: György
+  last: Buzsáki
+- first: Neal J.
+  last: Cohen
+- first: Lila
+  last: Davachi
+- first: Loren M.
+  last: Frank
+- first: Stephan
+  last: Heckers
+- first: Richard
+  last: Morris
+- first: Edvard I
+  last: Moser
+- first: Lynn
+  last: Nadel
+- first: John
+  last: O’Keefe
+- first: Alison R.
+  last: Preston
+- first: Charan
+  last: Ranganath
+- first: Alcino J.
+  last: Silva
+- first: Menno P.
+  last: Witter
+journal: Hippocampus
+publication_year: 2016
+publication_date: '2016-07-11'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.research.ed.ac.uk/en/publications/9d929bcd-037d-4b5e-b27d-2bfd89f8141e
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Eichenbaum_2016, title={Hippocampus at 25}, volume={26}, ISSN={1098-1063},
+  url={http://dx.doi.org/10.1002/hipo.22616}, DOI={10.1002/hipo.22616}, number={10},
+  journal={Hippocampus}, publisher={Wiley}, author={Eichenbaum, Howard and Amaral,
+  David G. and Buffalo, Elizabeth A. and Buzsáki, György and Cohen, Neal and Davachi,
+  Lila and Frank, Loren and Heckers, Stephan and Morris, Richard G. M. and Moser,
+  Edvard I. and Nadel, Lynn and O’Keefe, John and Preston, Alison and Ranganath, Charan
+  and Silva, Alcino and Witter, Menno}, year={2016}, month=jul, pages={1238–1249}
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.318884+00:00'

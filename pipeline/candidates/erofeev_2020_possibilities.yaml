@@ -1,0 +1,53 @@
+doi: 10.1051/e3sconf/202022402005
+openalex_id: W3115510536
+pmid: null
+pmcid: null
+title: Possibilities of using a miniature fluorescence microscope
+authors:
+- first: Alexander
+  last: Erofeev
+- first: E. I.
+  last: Gerasimov
+- first: Dmytro
+  last: Barinov
+- first: Marina
+  last: Bolsunovskaya
+- first: Ilya
+  last: Bezprozvanny
+journal: E3S Web of Conferences
+publication_year: 2020
+publication_date: '2020-01-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.e3s-conferences.org/articles/e3sconf/pdf/2020/84/e3sconf_TPACEE2020_02005.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Erofeev_2020, title={Possibilities of using a miniature fluorescence
+  microscope}, volume={224}, ISSN={2267-1242}, url={http://dx.doi.org/10.1051/e3sconf/202022402005},
+  DOI={10.1051/e3sconf/202022402005}, journal={E3S Web of Conferences}, publisher={EDP
+  Sciences}, author={Erofeev, Alexander and Gerasimov, Evgeny and Barinov, Dmitry
+  and Bolsunovskaya, Marina and Bezprozvanny, Ilya}, editor={Breskich, V. and Zheltenkov,
+  A. and Dreizis, Y.}, year={2020}, pages={02005} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.375686+00:00'

@@ -1,0 +1,55 @@
+doi: 10.1101/2024.10.10.617655
+openalex_id: W4403361241
+pmid: null
+pmcid: null
+title: Prefrontal representations of retrospective spatial working memory in a rodent
+  radial maze task
+authors:
+- first: Joshua P
+  last: Taliaferro
+- first: Lorenzo
+  last: Posani
+- first: Julia
+  last: Greenwald
+- first: Sean C.
+  last: Lim
+- first: Josephine C.
+  last: McGowan
+- first: Elizabeth A.
+  last: Pekarskaya
+- first: Clay
+  last: Lacefield
+- first: Stefano
+  last: Fusi
+- first: Christoph
+  last: Kellendonk
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2024
+publication_date: '2024-10-12'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2024/10/12/2024.10.10.617655.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019661+00:00'

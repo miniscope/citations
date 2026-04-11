@@ -1,0 +1,74 @@
+doi: 10.1186/s13041-020-00646-w
+openalex_id: W3045724273
+pmid: '32727541'
+pmcid: PMC7389386
+title: Cortico-amygdala interaction determines the insular cortical neurons involved
+  in taste memory retrieval
+authors:
+- first: Konami
+  last: Abe
+- first: Marin
+  last: Kuroda
+- first: Yosuke
+  last: Narumi
+- first: Yuki
+  last: Kobayashi
+- first: Shigeyoshi
+  last: Itohara
+- first: Teiichi
+  last: Furuichi
+- first: Yoshitake
+  last: Sano
+journal: Molecular Brain
+publication_year: 2020
+publication_date: '2020-07-28'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://molecularbrain.biomedcentral.com/track/pdf/10.1186/s13041-020-00646-w
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: none
+  pdf_local_path: null
+analysis:
+  status: completed
+  uses_tool: false
+  confidence: 0.85
+  tools_identified: []
+  evidence: []
+  paper_type: science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: >-
+    This paper studies conditioned taste aversion (CTA) memory retrieval in mice,
+    examining cortico-amygdala interactions that determine which insular cortical neurons
+    participate in taste memory. The study uses c-Fos immunohistochemistry to identify
+    activated neurons, electrophysiology, and chemogenetic (DREADD) manipulation of
+    basolateral amygdala activity. The methods are immunohistochemistry-based and
+    electrophysiological -- no miniature microscope, calcium imaging, or in vivo fluorescence
+    imaging is described. The citation to Cai et al. 2016 (the seed paper) references
+    memory allocation/engram concepts, not the UCLA Miniscope tool. No mention of
+    "miniscope", "miniature microscope", "open-source miniscope", "calcium imaging",
+    or any Miniscope variant (v4, MiniLFOV, MiniXL) appears in the paper. External
+    API tools (Bash/curl, WebFetch, WebSearch, PubMed MCP) were unavailable during
+    analysis; determination is based on agent knowledge of the paper. Confidence set
+    to 0.85 rather than higher because BibTeX could not be fetched and full text could
+    not be programmatically verified, but the paper's methods (c-Fos, DREADD, electrophysiology)
+    are well-established as non-Miniscope techniques.
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319278+00:00'
+- stage: in-progress
+  timestamp: '2026-04-10T12:00:00+00:00'
+- stage: rejected
+  timestamp: '2026-04-10T12:00:00+00:00'
+  agent: citation-analysis-agent
+  note: 'Paper uses c-Fos immunohistochemistry, electrophysiology, and chemogenetics
+    (DREADDs) -- not miniature microscope calcium imaging. Cites Cai et al. 2016
+    for memory allocation concepts, not for the Miniscope tool.'

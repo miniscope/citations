@@ -1,0 +1,54 @@
+doi: 10.3389/fnsys.2019.00020
+openalex_id: W2944054712
+pmid: null
+pmcid: PMC6513883
+title: 'DeepBehavior: A Deep Learning Toolbox for Automated Analysis of Animal and
+  Human Behavior Imaging Data'
+authors:
+- first: Ahmet
+  last: Arac
+- first: Pingping
+  last: Zhao
+- first: Bruce H.
+  last: Dobkin
+- first: S. Thomas
+  last: Carmichael
+- first: Peyman
+  last: Golshani
+journal: Frontiers in Systems Neuroscience
+publication_year: 2019
+publication_date: '2019-05-07'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.3389/fnsys.2019.00020
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Arac_2019, title={DeepBehavior: A Deep Learning Toolbox for
+  Automated Analysis of Animal and Human Behavior Imaging Data}, volume={13}, ISSN={1662-5137},
+  url={http://dx.doi.org/10.3389/fnsys.2019.00020}, DOI={10.3389/fnsys.2019.00020},
+  journal={Frontiers in Systems Neuroscience}, publisher={Frontiers Media SA}, author={Arac,
+  Ahmet and Zhao, Pingping and Dobkin, Bruce H. and Carmichael, S. Thomas and Golshani,
+  Peyman}, year={2019}, month=may }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.318141+00:00'

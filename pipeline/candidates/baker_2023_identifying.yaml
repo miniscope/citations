@@ -1,0 +1,48 @@
+doi: 10.1371/journal.pcbi.1011167
+openalex_id: W4379536795
+pmid: null
+pmcid: PMC10275485
+title: Identifying properties of pattern completion neurons in a computational model
+  of the visual cortex
+authors:
+- first: Casey M.
+  last: Baker
+- first: Yiyang
+  last: Gong
+journal: PLoS Computational Biology
+publication_year: 2023
+publication_date: '2023-06-06'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1011167&type=printable
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Baker_2023, title={Identifying properties of pattern completion
+  neurons in a computational model of the visual cortex}, volume={19}, ISSN={1553-7358},
+  url={http://dx.doi.org/10.1371/journal.pcbi.1011167}, DOI={10.1371/journal.pcbi.1011167},
+  number={6}, journal={PLOS Computational Biology}, publisher={Public Library of Science
+  (PLoS)}, author={Baker, Casey M. and Gong, Yiyang}, editor={Yang, Tianming}, year={2023},
+  month=jun, pages={e1011167} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321983+00:00'

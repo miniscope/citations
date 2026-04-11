@@ -1,0 +1,61 @@
+doi: 10.21203/rs.3.rs-3304483/v1
+openalex_id: W4386833048
+pmid: null
+pmcid: null
+title: Functional networks of inhibitory neurons orchestrate synchrony in the hippocampus
+authors:
+- first: Rosa
+  last: Cossart
+- first: Marco
+  last: Bocchio
+- first: Artem
+  last: Vorobyev
+- first: Sadra
+  last: Sadeh
+- first: Sophie
+  last: Brustlein
+- first: Susanne
+  last: Reichinnek
+- first: Valentina
+  last: Emiliani
+- first: Claudia
+  last: Clopath
+- first: Robin F.
+  last: Dard
+journal: Research Square
+publication_year: 2023
+publication_date: '2023-09-18'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.researchsquare.com/article/rs-3304483/latest.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Cossart_2023, title={Functional networks of inhibitory neurons
+  orchestrate synchrony in the hippocampus}, url={http://dx.doi.org/10.21203/rs.3.rs-3304483/v1},
+  DOI={10.21203/rs.3.rs-3304483/v1}, publisher={Springer Science and Business Media
+  LLC}, author={Cossart, Rosa and Bocchio, Marco and Vorobyev, Artem and Sadeh, Sadra
+  and Brustlein, Sophie and Reichinnek, Susanne and Emiliani, Valentina and Clopath,
+  Claudia and Dard, Robin}, year={2023}, month=sep }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.376083+00:00'

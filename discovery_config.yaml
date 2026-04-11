@@ -1,0 +1,82 @@
+# Citation discovery configuration
+# Other groups: clone this repo, clear references.bib, and edit this file
+# with your own seed papers, tools, and keywords.
+
+# Seed papers: your lab's published tool papers.
+# All papers that cite these will be checked as potential tool-usage papers.
+seed_papers:
+  - doi: "10.1038/s41593-019-0559-0"
+    short_name: "Shuman et al. 2019"
+    openalex_id: null
+  - doi: "10.1038/nature17955"
+    short_name: "Cai et al. 2016"
+    openalex_id: null
+  - doi: "10.1126/sciadv.ads4995"
+    short_name: "Zhao et al. - MiniXL"
+    openalex_id: null
+  - doi: "10.1126/sciadv.adg3918"
+    short_name: "Guo et al. - MiniLFOV"
+    openalex_id: null
+
+# Tools: what to look for in paper full text.
+# Each tool has a canonical name (used in BibTeX component field) and aliases.
+tools:
+  - name: "UCLA Miniscope v4"
+    aliases:
+      - "Miniscope v4"
+      - "open-source miniscope"
+      - "miniature microscope"
+    wiki_component: "UCLA Miniscope v4"
+  - name: "MiniLFOV"
+    aliases:
+      - "Miniscope-LFOV"
+      - "large field of view miniscope"
+      - "large-field-of-view miniature microscope"
+    wiki_component: "MiniLFOV"
+  - name: "MiniXL"
+    aliases:
+      - "Miniscope-XL"
+      - "large field of view miniscope"
+      - "large-field-of-view miniature microscope"
+    wiki_component: "MiniXL"
+  - name: "Minian"
+    aliases:
+      - "MiniAn"
+      - "miniscope analysis pipeline"
+    wiki_component: "Minian"
+  - name: "UCLA 2P Miniscope"
+    aliases:
+      - "2-photon miniscope"
+      - "two-photon miniscope"
+      - "2P Miniscope"
+    wiki_component: "UCLA 2P Miniscope"
+  - name: "Miniscope DAQ"
+    aliases:
+      - "Miniscope data acquisition"
+      - "UCLA Miniscope DAQ"
+      - "coax cable serdes"
+      - "coaxial cable serializer/deserializer"
+    wiki_component: "Miniscope DAQ"
+
+# Keywords for supplemental PubMed search (catches papers that cite tools
+# without citing a seed paper directly).
+search_keywords:
+  - "UCLA Miniscope"
+  - "miniscope"
+  - "v3 Miniscope"
+  - "v4 Miniscope"
+  - "Miniscope v3"
+  - "Miniscope v4"
+
+# API configuration
+apis:
+  openalex_email: dbaharoni@gmail.com    # Set to your email for faster API rate limits
+  unpaywall_email: dbaharoni@gmail.com   # Required by Unpaywall API
+
+# Processing settings
+processing:
+  max_parallel_agents: 5
+  abstract_only_max_confidence: 0.5
+
+# Updated automatically after each weekly discovery run
+last_discovery_run: null

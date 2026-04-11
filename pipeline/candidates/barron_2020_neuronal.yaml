@@ -1,0 +1,68 @@
+doi: 10.1016/j.cell.2020.08.035
+openalex_id: W3070427138
+pmid: null
+pmcid: PMC7116148
+title: Neuronal Computation Underlying Inferential Reasoning in Humans and Mice
+authors:
+- first: Helen C.
+  last: Barron
+- first: Hayley M.
+  last: Reeve
+- first: Renée S.
+  last: Koolschijn
+- first: Pavel V.
+  last: Perestenko
+- first: Anna
+  last: Shpektor
+- first: Hamed
+  last: Nili
+- first: Roman
+  last: Rothaermel
+- first: Natalia
+  last: Campo-Urriza
+- first: Jill X.
+  last: O’Reilly
+- first: David M.
+  last: Bannerman
+- first: Timothy E.J.
+  last: Behrens
+- first: David
+  last: Dupret
+journal: Cell
+publication_year: 2020
+publication_date: '2020-09-17'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.cell.com/article/S0092867420310771/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Barron_2020, title={Neuronal Computation Underlying Inferential
+  Reasoning in Humans and Mice}, volume={183}, ISSN={0092-8674}, url={http://dx.doi.org/10.1016/j.cell.2020.08.035},
+  DOI={10.1016/j.cell.2020.08.035}, number={1}, journal={Cell}, publisher={Elsevier
+  BV}, author={Barron, Helen C. and Reeve, Hayley M. and Koolschijn, Renée S. and
+  Perestenko, Pavel V. and Shpektor, Anna and Nili, Hamed and Rothaermel, Roman and
+  Campo-Urriza, Natalia and O’Reilly, Jill X. and Bannerman, David M. and Behrens,
+  Timothy E.J. and Dupret, David}, year={2020}, month=oct, pages={228-243.e21} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.317809+00:00'

@@ -1,0 +1,55 @@
+doi: 10.1101/2025.04.08.647787
+openalex_id: W4409502185
+pmid: null
+pmcid: null
+title: Experience reorganizes content-specific memory traces in macaques
+authors:
+- first: Saman
+  last: Abbaspoor
+- first: Ayman
+  last: Aljishi
+- first: Kari L.
+  last: Hoffman
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2025
+publication_date: '2025-04-14'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2025/04/14/2025.04.08.647787.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Abbaspoor_2025, title={Experience reorganizes content-specific
+  memory traces in macaques}, url={http://dx.doi.org/10.1101/2025.04.08.647787}, DOI={10.1101/2025.04.08.647787},
+  publisher={openRxiv}, author={Abbaspoor, Saman and Aljishi, Ayman and Hoffman, Kari
+  L.}, year={2025}, month=apr }'
+bibtex_source: crossref
+fulltext:
+  source: biorxiv
+  pdf_local_path: null
+analysis:
+  status: completed
+  uses_tool: false
+  confidence: 0.95
+  tools_identified: []
+  evidence: []
+  paper_type: science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: >-
+    This paper studies memory formation via electrophysiology in freely moving
+    macaques (primates), recording neural ensemble activity from hippocampal regions.
+    The abstract mentions cell assemblies, CA1 pyramidal cells, and sleep reactivation
+    but makes no reference to any Miniscope, miniature microscope, or calcium imaging.
+    The UCLA Miniscope is designed for mice/rats, not macaques. The citation to Cai et al.
+    2016 is about memory linking concepts, not the Miniscope tool.
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.326355+00:00'
+- stage: in-progress
+  timestamp: '2026-04-11T05:19:55+00:00'
+- stage: rejected
+  timestamp: '2026-04-11T05:25:00+00:00'

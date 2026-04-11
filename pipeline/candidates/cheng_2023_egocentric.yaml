@@ -1,0 +1,56 @@
+doi: 10.1016/j.neuron.2023.11.018
+openalex_id: W4389729875
+pmid: null
+pmcid: null
+title: Egocentric processing of items in spines, dendrites, and somas in the retrosplenial
+  cortex
+authors:
+- first: Ning
+  last: Cheng
+- first: Qiqi
+  last: Dong
+- first: Zhen
+  last: Zhang
+- first: Wang
+  last: Li
+- first: Xiaojing
+  last: Chen
+- first: Cheng
+  last: Wang
+journal: Neuron
+publication_year: 2023
+publication_date: '2023-12-14'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Cheng_2024, title={Egocentric processing of items in spines,
+  dendrites, and somas in the retrosplenial cortex}, volume={112}, ISSN={0896-6273},
+  url={http://dx.doi.org/10.1016/j.neuron.2023.11.018}, DOI={10.1016/j.neuron.2023.11.018},
+  number={4}, journal={Neuron}, publisher={Elsevier BV}, author={Cheng, Ning and Dong,
+  Qiqi and Zhang, Zhen and Wang, Li and Chen, Xiaojing and Wang, Cheng}, year={2024},
+  month=feb, pages={646-660.e8} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320835+00:00'

@@ -1,0 +1,46 @@
+doi: 10.1088/1741-2552/abe805
+openalex_id: W3133310505
+pmid: null
+pmcid: null
+title: Soft, wireless and subdermally implantable recording and neuromodulation tools
+authors:
+- first: Le
+  last: Cai
+- first: Philipp
+  last: Gutruf
+journal: Journal of Neural Engineering
+publication_year: 2021
+publication_date: '2021-02-19'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Cai_2021, title={Soft, wireless and subdermally implantable
+  recording and neuromodulation tools}, volume={18}, ISSN={1741-2552}, url={http://dx.doi.org/10.1088/1741-2552/abe805},
+  DOI={10.1088/1741-2552/abe805}, number={4}, journal={Journal of Neural Engineering},
+  publisher={IOP Publishing}, author={Cai, Le and Gutruf, Philipp}, year={2021}, month=mar,
+  pages={041001} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374640+00:00'

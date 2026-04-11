@@ -1,0 +1,38 @@
+doi: 10.1016/j.conb.2023.102778
+openalex_id: W4386281625
+pmid: null
+pmcid: null
+title: Nonlinear slow-timescale mechanisms in synaptic plasticity
+authors:
+- first: Cian
+  last: O’Donnell
+journal: Current Opinion in Neurobiology
+publication_year: 2023
+publication_date: '2023-08-30'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://pure.ulster.ac.uk/ws/files/127139640/Slow_timescales_synaptic_plasticity_resub_clean.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321847+00:00'

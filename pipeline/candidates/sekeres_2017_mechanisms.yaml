@@ -1,0 +1,42 @@
+doi: 10.1007/978-3-319-45066-7_2
+openalex_id: W2586614630
+pmid: null
+pmcid: null
+title: Mechanisms of Memory Consolidation and Transformation
+authors:
+- first: Melanie J.
+  last: Sekeres
+- first: Morris
+  last: Moscovitch
+- first: Gordon
+  last: Winocur
+journal: Studies in neuroscience, psychology and behavioral economics
+publication_year: 2017
+publication_date: '2017-01-01'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319730+00:00'

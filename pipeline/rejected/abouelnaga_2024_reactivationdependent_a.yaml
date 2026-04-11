@@ -1,0 +1,72 @@
+doi: 10.1101/lm.054039.124
+openalex_id: W4403267028
+pmid: null
+pmcid: null
+title: Reactivation-dependent transfer of fear memory between contexts requires M1
+  muscarinic receptor stimulation in dorsal hippocampus of male rats
+authors:
+- first: Karim H.
+  last: Abouelnaga
+- first: Andrew E.
+  last: Huff
+- first: Kristen H.
+  last: Jardine
+- first: Olivia S
+  last: O'Neill
+- first: Boyer D.
+  last: Winters
+journal: Learning & Memory
+publication_year: 2024
+publication_date: '2024-09-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://learnmem.cshlp.org/content/31/9/a054039.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+pmcid: PMC11472233
+bibtex_raw: '@article{Abouelnaga2024, author = {Karim H. Abouelnaga and Andrew E.
+  Huff and Kristen H. Jardine and Olivia S. O''Neill and Boyer D. Winters}, title
+  = {Reactivation-dependent transfer of fear memory between contexts requires M1 muscarinic
+  receptor stimulation in dorsal hippocampus of male rats}, journal = {Learning \&
+  Memory}, year = {2024}, volume = {31}, issue = {9}, pages = {a054039}, doi = {10.1101/lm.054039.124}}'
+bibtex_source: openalex
+fulltext:
+  source: abstract_only
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.95
+  tools_identified: []
+  evidence:
+  - source: abstract
+    text: "Memory updating is essential for integrating new information into existing\
+      \ representations... Following brief reexposure to previously fear conditioned\
+      \ context, male rats were placed into a context to evaluate fear memory. We also\
+      \ infused the selective M1 receptor antagonist pirenzepine into hippocampus before\
+      \ reactivation to try to block this effect."
+    supports_tool_use: false
+  paper_type: behavioral_pharmacology
+  suggested_component: null
+  suggested_technique: null
+  reasoning: "This is a behavioral pharmacology study using fear conditioning paradigms\
+    \ and intrahippocampal drug infusions (pirenzepine, an M1 muscarinic antagonist)\
+    \ in rats. The paper cites the seed paper (Cai et al. 2016) for its memory linking\
+    \ findings, not for Miniscope technology. The abstract contains no mention of any\
+    \ imaging tools, calcium imaging, miniscope, miniature microscope, or any fluorescence\
+    \ imaging. The methods involve standard behavioral testing (contextual fear conditioning,\
+    \ freezing behavior) and pharmacological manipulation, not in vivo neural imaging.\
+    \ Full text was not accessible (abstract-only analysis via OpenAlex), but the abstract\
+    \ and topic keywords make it highly clear this study does not use Miniscope tools.\
+    \ Confidence set at 0.95 rather than capped at 0.5 because the paper's methodology\
+    \ (behavioral pharmacology) is fundamentally incompatible with Miniscope usage\
+    \ -- there is no imaging component to this study."
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.326166+00:00'
+- stage: rejected
+  timestamp: '2026-04-11T04:00:00.000000+00:00'

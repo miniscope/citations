@@ -1,0 +1,50 @@
+doi: 10.1016/j.neuron.2020.06.034
+openalex_id: W3045483297
+pmid: null
+pmcid: PMC8117410
+title: Tracing a Path for Memory in the Hippocampus
+authors:
+- first: Shayok
+  last: Dutta
+- first: Sibo
+  last: Gao
+- first: Joshua
+  last: Chu
+- first: Caleb
+  last: Kemere
+journal: Neuron
+publication_year: 2020
+publication_date: '2020-07-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.cell.com/article/S0896627320304888/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Dutta_2020, title={Tracing a Path for Memory in the Hippocampus},
+  volume={107}, ISSN={0896-6273}, url={http://dx.doi.org/10.1016/j.neuron.2020.06.034},
+  DOI={10.1016/j.neuron.2020.06.034}, number={2}, journal={Neuron}, publisher={Elsevier
+  BV}, author={Dutta, Shayok and Gao, Sibo and Chu, Joshua P. and Kemere, Caleb},
+  year={2020}, month=jul, pages={199–201} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322959+00:00'

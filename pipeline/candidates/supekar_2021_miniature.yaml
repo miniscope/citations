@@ -1,0 +1,63 @@
+doi: 10.1101/2021.12.02.470995
+openalex_id: W4200492446
+pmid: null
+pmcid: null
+title: Miniature Structured Illumination Microscope for <i>in vivo</i> 3D Imaging
+  of Brain Structures with Optical Sectioning
+authors:
+- first: Omkar D.
+  last: Supekar
+- first: Andrew N.
+  last: Sias
+- first: Sean R.
+  last: Hansen
+- first: Gabriel
+  last: Martinez
+- first: Graham C.
+  last: Peet
+- first: Xiaoyu
+  last: Peng
+- first: Victor M.
+  last: Bright
+- first: Ethan G.
+  last: Hughes
+- first: Diego
+  last: Restrepo
+- first: Douglas P.
+  last: Shepherd
+- first: Cristin G.
+  last: Welle
+- first: Juliet T.
+  last: Gopinath
+- first: Emily A.
+  last: Gibson
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2021
+publication_date: '2021-12-03'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2021/12/03/2021.12.02.470995.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.375835+00:00'

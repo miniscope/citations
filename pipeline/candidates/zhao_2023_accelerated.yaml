@@ -1,0 +1,51 @@
+doi: 10.1101/2023.08.05.552133
+openalex_id: W4385614785
+pmid: null
+pmcid: null
+title: Accelerated social representational drift in the nucleus accumbens in a model
+  of autism
+authors:
+- first: P.
+  last: Zhao
+- first: Xing
+  last: Chen
+- first: Arash
+  last: Bellafard
+- first: Avaneesh
+  last: Murugesan
+- first: Jonathan
+  last: Quan
+- first: Daniel
+  last: Aharoni
+- first: Peyman
+  last: Golshani
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2023
+publication_date: '2023-08-06'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2023/08/06/2023.08.05.552133.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.375355+00:00'

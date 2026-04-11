@@ -1,0 +1,62 @@
+doi: 10.1101/2021.03.29.437441
+openalex_id: W3140651060
+pmid: null
+pmcid: null
+title: Shared and unique properties of place cells in anterior cingulate cortex and
+  hippocampus
+authors:
+- first: Ayaka
+  last: Bota
+- first: Akihiro
+  last: Goto
+- first: Suzune
+  last: Tsukamoto
+- first: Alexander
+  last: Schmidt
+- first: Fred
+  last: Wolf
+- first: Alessandro
+  last: Luchetti
+- first: Junichi
+  last: Nakai
+- first: Hajime
+  last: Hirase
+- first: Yasunori
+  last: Hayashi
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2021
+publication_date: '2021-03-30'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2021/09/15/2021.03.29.437441.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Bota_2021, title={Shared and unique properties of place cells
+  in anterior cingulate cortex and hippocampus}, url={http://dx.doi.org/10.1101/2021.03.29.437441},
+  DOI={10.1101/2021.03.29.437441}, publisher={openRxiv}, author={Bota, Ayaka and Goto,
+  Akihiro and Tsukamoto, Suzune and Schmidt, Alexander and Wolf, Fred and Luchetti,
+  Alessandro and Nakai, Junichi and Hirase, Hajime and Hayashi, Yasunori}, year={2021},
+  month=mar }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.323222+00:00'

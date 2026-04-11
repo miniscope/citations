@@ -1,0 +1,68 @@
+doi: 10.1093/nsr/nwab004
+openalex_id: W3118842600
+pmid: null
+pmcid: null
+title: Input associativity underlies fear memory renewal
+authors:
+- first: Wei‐Guang
+  last: Li
+- first: Yan‐Jiao
+  last: Wu
+- first: Xue
+  last: Gu
+- first: Hui-Ran
+  last: Fan
+- first: Qi
+  last: Wang
+- first: Jia‐Jie
+  last: Zhu
+- first: Xin
+  last: Yi
+- first: Qin
+  last: Wang
+- first: Qin
+  last: Jiang
+- first: Ying
+  last: Li
+- first: Ti‐Fei
+  last: Yuan
+- first: Han
+  last: Xu
+- first: Jiangteng
+  last: Lu
+- first: Nan‐Jie
+  last: Xu
+- first: Michael X.
+  last: Zhu
+- first: Tian‐Le
+  last: Xu
+journal: National Science Review
+publication_year: 2021
+publication_date: '2021-01-05'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://academic.oup.com/nsr/article-pdf/8/9/nwab004/40346401/nwab004.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320608+00:00'

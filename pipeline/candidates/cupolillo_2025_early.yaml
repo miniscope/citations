@@ -1,0 +1,60 @@
+doi: 10.7554/elife.105452.3
+openalex_id: W4417334346
+pmid: null
+pmcid: null
+title: Early changes in the properties of CA3 engram cells explored with a novel viral
+  tool in mice
+authors:
+- first: Dario
+  last: Cupolillo
+- first: Noëlle
+  last: Grosjean
+- first: Catherine
+  last: Marneffe
+- first: Julio
+  last: Viotti
+- first: C.
+  last: Reynaud
+- first: Séverine
+  last: Deforges
+- first: Mario
+  last: Carta
+- first: Christophe
+  last: Mulle
+journal: eLife
+publication_year: 2025
+publication_date: '2025-12-15'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.7554/elife.105452.3
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Cupolillo_2025, title={Early changes in the properties of CA3
+  engram cells explored with a novel viral tool in mice}, volume={14}, ISSN={2050-084X},
+  url={http://dx.doi.org/10.7554/elife.105452.3}, DOI={10.7554/elife.105452.3}, journal={eLife},
+  publisher={eLife Sciences Publications, Ltd}, author={Cupolillo, Dario and Grosjean,
+  Noelle and Marneffe, Catherine and Viotti, Julio and Reynaud, Celia and Deforges,
+  Severine and Carta, Mario and Mulle, Christophe}, year={2025}, month=dec }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.326585+00:00'

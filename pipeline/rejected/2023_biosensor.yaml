@@ -1,0 +1,60 @@
+doi: 10.1134/s000635092306012x
+openalex_id: W4392906543
+pmid: null
+pmcid: null
+title: 'Biosensor Systems: Determination of Optimal Time Parameters of Olfactory Stimulation'
+authors:
+- first: А. Е.
+  last: Матухно
+- first: Mikhail
+  last: Petrushan
+- first: Larisa V.
+  last: Lysenko
+- first: V. N.
+  last: Kiroy
+journal: BIOPHYSICS
+publication_year: 2023
+publication_date: '2023-12-01'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: none
+  pdf_local_path: null
+analysis:
+  status: needs_fulltext
+  uses_tool: false
+  confidence: 0.1
+  tools_identified: []
+  evidence: []
+  paper_type: research
+  suggested_component: null
+  suggested_technique: null
+  reasoning: >-
+    Paper is about biosensor systems for olfactory stimulation timing parameters,
+    published in the Russian journal BIOPHYSICS. The subject matter (olfactory
+    biosensors) is unrelated to calcium imaging or miniature microscopy. No abstract
+    text was available in the candidate record. The paper is closed access (confirmed
+    via Unpaywall: is_oa=false, no OA locations). No PMCID or PMID available for
+    full text retrieval. BibTeX could not be fetched from CrossRef due to tool
+    restrictions. Based on the title and journal alone, there is no indication this
+    paper uses any UCLA Miniscope tool (v4, MiniLFOV, or MiniXL). It likely cites
+    the MiniLFOV seed paper in a references/background context rather than as a tool
+    used in the study. Confidence is low (0.1) rather than 0.0 because full text was
+    not reviewed.
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019705+00:00'
+- stage: in-progress
+  timestamp: '2026-04-10T00:00:00+00:00'
+- stage: rejected
+  timestamp: '2026-04-10T00:00:00+00:00'
+  reason: 'No evidence of Miniscope tool usage; paper topic (olfactory biosensors) unrelated to miniature microscopy'

@@ -1,0 +1,43 @@
+doi: 10.1086/727893
+openalex_id: W4390062988
+pmid: null
+pmcid: null
+title: Modalities and Criteria of Shared Memory
+authors:
+- first: Joël
+  last: Candau
+journal: Current Anthropology
+publication_year: 2023
+publication_date: '2023-12-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://hdl.handle.net/2013/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/372475
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Candau_2023, title={Modalities and Criteria of Shared Memory},
+  volume={64}, ISSN={1537-5382}, url={http://dx.doi.org/10.1086/727893}, DOI={10.1086/727893},
+  number={6}, journal={Current Anthropology}, publisher={University of Chicago Press},
+  author={Candau, Joël}, year={2023}, month=dec, pages={711–729} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321406+00:00'

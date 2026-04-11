@@ -1,0 +1,50 @@
+doi: 10.1101/lm.046573.117
+openalex_id: W2808223951
+pmid: null
+pmcid: PMC6004066
+title: Differential development of retroactive and proactive interference during post-learning
+  wakefulness
+authors:
+- first: Timothy P.
+  last: Brawn
+- first: Howard C.
+  last: Nusbaum
+- first: Daniel
+  last: Margoliash
+journal: Learning & Memory
+publication_year: 2018
+publication_date: '2018-06-15'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://learnmem.cshlp.org/content/25/7/325.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Brawn_2018, title={Differential development of retroactive
+  and proactive interference during post-learning wakefulness}, volume={25}, ISSN={1549-5485},
+  url={http://dx.doi.org/10.1101/lm.046573.117}, DOI={10.1101/lm.046573.117}, number={7},
+  journal={Learning &amp; Memory}, publisher={Cold Spring Harbor Laboratory}, author={Brawn,
+  Timothy P. and Nusbaum, Howard C. and Margoliash, Daniel}, year={2018}, month=jun,
+  pages={325–329} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324189+00:00'

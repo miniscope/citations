@@ -1,0 +1,46 @@
+doi: 10.3389/fnmol.2021.803856
+openalex_id: W4200562279
+pmid: null
+pmcid: PMC8716760
+title: Optogenetic Interrogation of Circuits Following Neurotrauma
+authors:
+- first: Steven
+  last: Ceto
+- first: Grégoire
+  last: Courtine
+journal: Frontiers in Molecular Neuroscience
+publication_year: 2021
+publication_date: '2021-12-16'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.3389/fnmol.2021.803856
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Ceto_2021, title={Optogenetic Interrogation of Circuits Following
+  Neurotrauma}, volume={14}, ISSN={1662-5099}, url={http://dx.doi.org/10.3389/fnmol.2021.803856},
+  DOI={10.3389/fnmol.2021.803856}, journal={Frontiers in Molecular Neuroscience},
+  publisher={Frontiers Media SA}, author={Ceto, Steven and Courtine, Grégoire}, year={2021},
+  month=dec }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322738+00:00'

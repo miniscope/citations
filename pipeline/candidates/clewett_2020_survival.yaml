@@ -1,0 +1,53 @@
+doi: 10.1101/2020.07.07.192252
+openalex_id: W3041058975
+pmid: null
+pmcid: null
+title: 'Survival of the salient: Emotion rescues otherwise forgettable memories via
+  neural reactivation and post-encoding hippocampal connectivity'
+authors:
+- first: David
+  last: Clewett
+- first: Joseph E.
+  last: Dunsmoor
+- first: Shelby L.
+  last: Bachman
+- first: Elizabeth A.
+  last: Phelps
+- first: Lila
+  last: Davachi
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2020
+publication_date: '2020-07-08'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2020/07/08/2020.07.07.192252.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Clewett_2020, title={Survival of the salient: Emotion rescues
+  otherwise forgettable memories via neural reactivation and post-encoding hippocampal
+  connectivity}, url={http://dx.doi.org/10.1101/2020.07.07.192252}, DOI={10.1101/2020.07.07.192252},
+  publisher={openRxiv}, author={Clewett, David and Dunsmoor, Joseph and Bachman, Shelby
+  and Phelps, Elizabeth and Davachi, Lila}, year={2020}, month=jul }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.323619+00:00'

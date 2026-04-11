@@ -1,0 +1,77 @@
+doi: 10.1093/nsr/nwae402
+openalex_id: W4404420538
+pmid: null
+pmcid: null
+title: Chronic implantable flexible serpentine probe reveals impaired spatial coding
+  of place cells in epilepsy
+authors:
+- first: Yu
+  last: Wang
+- first: Meiqi
+  last: Han
+- first: Zhaojie
+  last: Xu
+- first: Shiya
+  last: Lv
+- first: Gucheng
+  last: Yang
+- first: Fan
+  last: Mo
+- first: Luyi
+  last: Jing
+- first: Qianli
+  last: Jia
+- first: Yimin
+  last: Duan
+- first: Wei
+  last: Xu
+- first: Peiyao
+  last: Jiao
+- first: Yaoyao
+  last: Liu
+- first: Jin
+  last: Shan
+- first: Ming
+  last: Li
+- first: Mixia
+  last: Wang
+- first: Jinping
+  last: Luo
+- first: Yilin
+  last: Song
+- first: Juntao
+  last: Liu
+- first: Yirong
+  last: Wu
+- first: Xinxia
+  last: Cai
+journal: National Science Review
+publication_year: 2024
+publication_date: '2024-11-15'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://academic.oup.com/nsr/advance-article-pdf/doi/10.1093/nsr/nwae402/60687506/nwae402.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374395+00:00'

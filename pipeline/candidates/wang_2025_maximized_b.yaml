@@ -1,0 +1,46 @@
+doi: 10.7554/elife.108991.1
+openalex_id: W4417507404
+pmid: null
+pmcid: null
+title: Maximized field-of-view deep-brain calcium imaging through gradient-index lenses
+authors:
+- first: Chenmao
+  last: Wang
+- first: Zongyue
+  last: Cheng
+- first: Y.
+  last: Li
+- first: Jianian
+  last: Lin
+- first: Meng
+  last: Cui
+journal: eLife
+publication_year: 2025
+publication_date: '2025-12-19'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.7554/elife.108991.1
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019890+00:00'

@@ -1,0 +1,62 @@
+doi: 10.1101/613638
+openalex_id: W2939854297
+pmid: null
+pmcid: null
+title: Hippocampal network reorganization underlies the formation of a temporal association
+  memory
+authors:
+- first: Mohsin
+  last: Ahmed
+- first: James B.
+  last: Priestley
+- first: Angel
+  last: Castro
+- first: Fabio
+  last: Stefanini
+- first: Elizabeth M.
+  last: Balough
+- first: Erin
+  last: Lavoie
+- first: Luca
+  last: Mazzucato
+- first: Stefano
+  last: Fusi
+- first: Attila
+  last: Losonczy
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2019
+publication_date: '2019-04-18'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2019/04/18/613638.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Ahmed_2019, title={Hippocampal network reorganization underlies
+  the formation of a temporal association memory}, url={http://dx.doi.org/10.1101/613638},
+  DOI={10.1101/613638}, publisher={openRxiv}, author={Ahmed, Mohsin S. and Priestley,
+  James B. and Castro, Angel and Stefanini, Fabio and Balough, Elizabeth M. and Lavoie,
+  Erin and Mazzucato, Luca and Fusi, Stefano and Losonczy, Attila}, year={2019}, month=apr
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.323342+00:00'

@@ -1,0 +1,53 @@
+doi: 10.1016/j.biopsych.2023.11.008
+openalex_id: W4388686868
+pmid: null
+pmcid: null
+title: 'Shaping Memories via Stress: A Synaptic Engram Perspective'
+authors:
+- first: Niek
+  last: Brosens
+- first: Sylvie L.
+  last: Lesuis
+- first: Priyanka
+  last: Rao‐Ruiz
+- first: Michel C. van den
+  last: Oever
+- first: Harm J.
+  last: Krugers
+journal: Biological Psychiatry
+publication_year: 2023
+publication_date: '2023-11-15'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.biologicalpsychiatryjournal.com/article/S0006322323017201/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Brosens_2024, title={Shaping Memories via Stress: A Synaptic
+  Engram Perspective}, volume={95}, ISSN={0006-3223}, url={http://dx.doi.org/10.1016/j.biopsych.2023.11.008},
+  DOI={10.1016/j.biopsych.2023.11.008}, number={8}, journal={Biological Psychiatry},
+  publisher={Elsevier BV}, author={Brosens, Niek and Lesuis, Sylvie L. and Rao-Ruiz,
+  Priyanka and van den Oever, Michel C. and Krugers, Harm J.}, year={2024}, month=apr,
+  pages={721–731} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320935+00:00'

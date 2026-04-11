@@ -1,0 +1,42 @@
+doi: 10.1016/j.neuron.2021.06.014
+openalex_id: W3178483553
+pmid: null
+pmcid: null
+title: Dimensions and mechanisms of memory organization
+authors:
+- first: André F. de
+  last: Sousa
+- first: Ananya
+  last: Chowdhury
+- first: Alcino J.
+  last: Silva
+journal: Neuron
+publication_year: 2021
+publication_date: '2021-07-08'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.cell.com/article/S0896627321004554/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319096+00:00'

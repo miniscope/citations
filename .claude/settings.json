@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl *)",
+      "Bash(curl:*)",
+      "Bash(mv pipeline/*)",
+      "Bash(mv pipeline:*)",
+      "Bash(mv \"pipeline:*)",
+      "Bash(ls pipeline:*)",
+      "Bash(cat pipeline:*)",
+      "Bash(.venv/bin/pip:*)",
+      "Bash(.venv/bin/pytest:*)",
+      "Bash(.venv/bin/python:*)",
+      "WebFetch(domain:doi.org)",
+      "WebFetch(domain:dx.doi.org)",
+      "WebFetch(domain:api.crossref.org)",
+      "WebFetch(domain:api.openalex.org)",
+      "WebFetch(domain:api.unpaywall.org)",
+      "WebFetch(domain:unpaywall.org)",
+      "WebFetch(domain:citation.crosscite.org)",
+      "WebFetch(domain:citation.doi.org)",
+      "WebFetch(domain:eutils.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:www.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:europepmc.org)",
+      "mcp__claude_ai_PubMed__convert_article_ids",
+      "mcp__claude_ai_PubMed__get_full_text_article",
+      "mcp__claude_ai_PubMed__get_article_metadata",
+      "mcp__claude_ai_PubMed__search_articles",
+      "mcp__claude_ai_bioRxiv__get_preprint"
+    ]
+  }
+}
