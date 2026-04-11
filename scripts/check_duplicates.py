@@ -5,17 +5,9 @@ Compares entries by DOI (exact match) and by title+year (fuzzy match).
 Exits with code 1 and prints warnings if duplicates are found.
 """
 
-import re
 import sys
 
-from bib_utils import clean_latex, load_bib_entries, load_config
-
-
-def normalize_title(title):
-    """Normalize a title for comparison: lowercase, strip punctuation/whitespace."""
-    title = clean_latex(title)
-    title = re.sub(r"[^\w\s]", "", title)
-    return " ".join(title.lower().split())
+from bib_utils import load_bib_entries, load_config, normalize_title
 
 
 def check_duplicates(entries):
