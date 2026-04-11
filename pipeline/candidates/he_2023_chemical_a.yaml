@@ -1,0 +1,48 @@
+doi: 10.21203/rs.3.rs-2462098/v1
+openalex_id: W4323827986
+pmid: null
+pmcid: null
+title: Chemical composition and anticonvulsant activities of herb pair of Gastrodia
+  elata Blume-Acorus tatarinowii Schott decoction on experimentally induced seizures
+  in mice
+authors:
+- first: Xirui
+  last: He
+- first: Yan
+  last: Yang
+- first: Xufang
+  last: Yuan
+- first: Yin
+  last: Sun
+- first: Yongsheng
+  last: Li
+journal: Research Square
+publication_year: 2023
+publication_date: '2023-03-10'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.researchsquare.com/article/rs-2462098/latest.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.376022+00:00'

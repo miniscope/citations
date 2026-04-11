@@ -1,0 +1,44 @@
+doi: 10.1016/j.semcdb.2021.04.004
+openalex_id: W3155255999
+pmid: null
+pmcid: null
+title: Neuronal ensembles in memory processes
+authors:
+- first: Luis
+  last: Carrillo‐Reid
+journal: Seminars in Cell and Developmental Biology
+publication_year: 2021
+publication_date: '2021-04-13'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Carrillo_Reid_2022, title={Neuronal ensembles in memory processes},
+  volume={125}, ISSN={1084-9521}, url={http://dx.doi.org/10.1016/j.semcdb.2021.04.004},
+  DOI={10.1016/j.semcdb.2021.04.004}, journal={Seminars in Cell &amp; Developmental
+  Biology}, publisher={Elsevier BV}, author={Carrillo-Reid, Luis}, year={2022}, month=may,
+  pages={136–143} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320450+00:00'

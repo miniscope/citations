@@ -1,0 +1,207 @@
+doi: 10.1117/1.nph.9.s1.013001
+openalex_id: W4285684864
+pmid: null
+pmcid: null
+title: 'Neurophotonic Tools for Microscopic Measurements and Manipulation: Status
+  Report'
+authors:
+- first: Ahmed S.
+  last: Abdelfattah
+- first: Srinivasa Rao
+  last: Allu
+- first: Robert E.
+  last: Campbell
+- first: Xiaojun
+  last: Cheng
+- first: Tomáš
+  last: Čižmár
+- first: Irene
+  last: Costantini
+- first: Valentina
+  last: Emiliani
+- first: Natalie
+  last: Fomin-Thunemann
+- first: Ariel
+  last: Gilad
+- first: Tomás
+  last: Fernández-Alfonso
+- first: Christopher
+  last: Ferri
+- first: Andrew
+  last: Harris
+- first: Elizabeth M. C.
+  last: Hillman
+- first: Matthew G.
+  last: Holt
+- first: Kıvılcım
+  last: Kılıç
+- first: Evan W.
+  last: Miller
+- first: Rickson C.
+  last: Mesquita
+- first: K. M. Naga Srinivas
+  last: Nadella
+- first: U. Valentin
+  last: Nägerl
+- first: Citlali Pérez
+  last: Campos
+- first: Francesca
+  last: Puppo
+- first: Shy
+  last: Shoham
+- first: R. Angus
+  last: Silver
+- first: Vivek J.
+  last: Srinivasan
+- first: Martin
+  last: Thunemann
+- first: Lei
+  last: Tian
+- first: Sergei A.
+  last: Vinogradov
+- first: Flavia
+  last: Vitale
+- first: Hana
+  last: Uhlířová
+- first: Chris
+  last: Xu
+- first: Mu-Han
+  last: Yang
+- first: Yongxin
+  last: Zhao
+- first: Sapna
+  last: Ahuja
+- first: Taner
+  last: Akkin
+- first: Joshua
+  last: Brake
+- first: David A.
+  last: Boas
+- first: Erin M.
+  last: Buckley
+- first: Anderson I.
+  last: Chen
+- first: Massimo De
+  last: Vittorio
+- first: Anna
+  last: Devor
+- first: Patrick
+  last: Doran
+- first: Mirna El
+  last: Khatib
+- first: Yeshaiahu
+  last: Fainman
+- first: Xue
+  last: Han
+- first: Ute
+  last: Hochgeschwender
+- first: Na
+  last: Ji
+- first: Evelyn
+  last: Lake
+- first: Lei
+  last: Li
+- first: Tianqi
+  last: Li
+- first: Philipp
+  last: Mächler
+- first: Yusuke
+  last: Nasu
+- first: Axel
+  last: Nimmerjahn
+- first: Petra
+  last: Ondráčková
+- first: Francesco S.
+  last: Pavone
+- first: Darcy S.
+  last: Peterka
+- first: Filippo
+  last: Pisano
+- first: Ferruccio
+  last: Pisanello
+- first: Bernardo L.
+  last: Sabatini
+- first: Sanaz
+  last: Sadegh
+- first: Sava
+  last: Sakadžić
+- first: Sanaya N.
+  last: Shroff
+- first: Ruth R.
+  last: Sims
+- first: Spencer L.
+  last: Smith
+- first: Lin
+  last: Tian
+- first: Thomas
+  last: Troxler
+- first: Antoine M.
+  last: Valera
+- first: Alipasha
+  last: Vaziri
+- first: Lihong V.
+  last: Wang
+- first: Changhuei
+  last: Yang
+- first: Gary
+  last: Yellen
+- first: Ofer
+  last: Yizhar
+journal: Neurophotonics
+publication_year: 2022
+publication_date: '2022-04-27'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.spiedigitallibrary.org/journals/neurophotonics/volume-9/issue-S1/013001/Neurophotonic-tools-for-microscopic-measurements-and-manipulation-status-report/10.1117/1.NPh.9.S1.013001.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: '@article{Abdelfattah_2022, doi = {10.1117/1.nph.9.s1.013001}, url = {https://doi.org/10.1117/1.nph.9.s1.013001},
+  year = 2022, month = {apr}, publisher = {{SPIE}-Intl Soc Optical Eng}, volume = {9},
+  number = {S1}, pages = {013001}, author = {Ahmed S. Abdelfattah and Srinivasa Rao
+  Allu and Robert E. Campbell and others}, title = {Neurophotonic Tools for Microscopic
+  Measurements and Manipulation: Status Report}, journal = {Neurophotonics}}'
+bibtex_source: crossref
+fulltext:
+  source: abstract_only
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.45
+  tools_identified: []
+  evidence:
+  - type: abstract
+    text: 'Abstract: "this status report reviews an extensive and diverse toolkit to
+      explore brain function that have emerged from BRAIN related large-scale efforts
+      of measurement and manipulation of structure and function"'
+    assessment: Paper is a multi-author review/status report that catalogs neurophotonic
+      tools; does not describe using any specific tool in experiments.
+  - type: citation_analysis
+    text: 'Paper cites Miniscope-LFOV papers (10.1126/sciadv.adg3918 and 10.1101/2021.11.21.469394)
+      and the Miniscope v4 seed paper (Shuman et al. 2019, 10.1038/s41593-019-0559-0),
+      but as references in a review context.'
+    assessment: Citing a tool paper in a review does not constitute using the tool.
+  paper_type: review
+  suggested_component: null
+  suggested_technique: null
+  reasoning: This is a large multi-author (70+) review/status report paper published
+    in Neurophotonics that surveys neurophotonic tools for brain studies. The abstract
+    explicitly states it "reviews an extensive and diverse toolkit" rather than reporting
+    original experimental work. While it cites Miniscope-related papers (MiniLFOV
+    and Miniscope v4), these are referenced as part of a broad survey, not as tools
+    used in the authors' own experiments. No mention of miniscope or miniature microscope
+    appears in the abstract. Full text was not accessible to confirm whether the Miniscope
+    is discussed in detail, but the paper type (review/status report) means it would
+    be describing rather than using the tools. Confidence capped below 0.5 due to
+    abstract-only analysis.
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.373784+00:00'
+- stage: reviewed
+  timestamp: '2026-04-10T00:00:00+00:00'
+  action: analyzed_by_agent
+  result: rejected_review_paper

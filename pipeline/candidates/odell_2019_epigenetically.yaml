@@ -1,0 +1,71 @@
+doi: 10.1101/2019.12.13.874347
+openalex_id: W2995002382
+pmid: null
+pmcid: null
+title: Epigenetically bistable regions across neuron-specific genes govern neuron
+  eligibility to a coding ensemble in the hippocampus
+authors:
+- first: Shannon C.
+  last: Odell
+- first: Faten
+  last: Taki
+- first: Shifra
+  last: Klein
+- first: R. J.
+  last: Chen
+- first: Olivia B.
+  last: Levine
+- first: Mary Jane
+  last: Skelly
+- first: A.
+  last: Nabila
+- first: Elizabeth
+  last: Brindley
+- first: Judit Gal
+  last: Toth
+- first: Friederike
+  last: Dündar
+- first: Caroline
+  last: Sheridan
+- first: Robert N.
+  last: Fetcho
+- first: Alicia
+  last: Alonso
+- first: Conor
+  last: Liston
+- first: Dan A.
+  last: Landau
+- first: Kristen E.
+  last: Pleil
+- first: Miklós
+  last: Tóth
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2019
+publication_date: '2019-12-13'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2019/12/13/2019.12.13.874347.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.325251+00:00'

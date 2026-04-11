@@ -1,0 +1,44 @@
+doi: 10.1080/09515089.2025.2571449
+openalex_id: W4414919503
+pmid: null
+pmcid: null
+title: Memory traces and the (anti)causalism debate
+authors:
+- first: José Carlos
+  last: Camillo
+journal: Philosophical Psychology
+publication_year: 2025
+publication_date: '2025-10-06'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Camillo_2025, title={Memory traces and the (anti)causalism
+  debate}, ISSN={1465-394X}, url={http://dx.doi.org/10.1080/09515089.2025.2571449},
+  DOI={10.1080/09515089.2025.2571449}, journal={Philosophical Psychology}, publisher={Informa
+  UK Limited}, author={Camillo, José Carlos}, year={2025}, month=oct, pages={1–33}
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.326484+00:00'

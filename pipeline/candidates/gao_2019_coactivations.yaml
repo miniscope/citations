@@ -1,0 +1,61 @@
+doi: 10.1016/j.brainres.2019.146333
+openalex_id: W2959668605
+pmid: null
+pmcid: null
+title: Coactivations of barrel and piriform cortices induce their mutual synapse innervations
+  and recruit associative memory cells
+authors:
+- first: Zilong
+  last: Gao
+- first: Ruixiang
+  last: Wu
+- first: Changfeng
+  last: Chen
+- first: Bo
+  last: Wen
+- first: Yahui
+  last: Liu
+- first: Wei
+  last: Lü
+- first: Na
+  last: Chen
+- first: Jing
+  last: Feng
+- first: Ruichen
+  last: Fan
+- first: Dangui
+  last: Wang
+- first: Shan
+  last: Cui
+- first: Jinhui
+  last: Wang
+journal: Brain Research
+publication_year: 2019
+publication_date: '2019-07-11'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320757+00:00'

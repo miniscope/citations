@@ -1,0 +1,56 @@
+doi: 10.1016/j.celrep.2024.114151
+openalex_id: W4395063183
+pmid: null
+pmcid: null
+title: Hippocampus-to-amygdala pathway drives the separation of remote memories of
+  related events
+authors:
+- first: Giulia
+  last: Concina
+- first: Luisella
+  last: Milano
+- first: Annamaria
+  last: Renna
+- first: Eugenio
+  last: Manassero
+- first: Francesca
+  last: Stabile
+- first: Benedetto
+  last: Sacchetti
+journal: Cell Reports
+publication_year: 2024
+publication_date: '2024-04-23'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.cell.com/article/S2211124724004790/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Concina_2024, title={Hippocampus-to-amygdala pathway drives
+  the separation of remote memories of related events}, volume={43}, ISSN={2211-1247},
+  url={http://dx.doi.org/10.1016/j.celrep.2024.114151}, DOI={10.1016/j.celrep.2024.114151},
+  number={5}, journal={Cell Reports}, publisher={Elsevier BV}, author={Concina, Giulia
+  and Milano, Luisella and Renna, Annamaria and Manassero, Eugenio and Stabile, Francesca
+  and Sacchetti, Benedetto}, year={2024}, month=may, pages={114151} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321201+00:00'

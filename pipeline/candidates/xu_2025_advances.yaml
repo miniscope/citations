@@ -1,0 +1,58 @@
+doi: 10.1360/ssi-2024-0398
+openalex_id: W4412012326
+pmid: null
+pmcid: null
+title: Advances in the detection and applications of spatial cognitive neural information
+authors:
+- first: Zhaojie
+  last: Xu
+- first: Mingchuan
+  last: Wang
+- first: Wei
+  last: Xu
+- first: Yu
+  last: Wang
+- first: S.
+  last: Lu
+- first: Yilin
+  last: Song
+- first: Mixia
+  last: Wang
+- first: Juntao
+  last: Liu
+- first: Yu
+  last: Wang
+- first: Yirong
+  last: Wu
+- first: Xinxia
+  last: Cai
+journal: Scientia Sinica Informationis
+publication_year: 2025
+publication_date: '2025-07-03'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.sciengine.com/doi/pdfView/8255FEA4F2DD44FF9B0989FCD9C17ABC
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.376360+00:00'

@@ -1,0 +1,64 @@
+doi: 10.7554/elife.38173
+openalex_id: W2805271873
+pmid: null
+pmcid: null
+title: CaImAn an open source tool for scalable calcium imaging data analysis
+authors:
+- first: Andrea
+  last: Giovannucci
+- first: Johannes
+  last: Friedrich
+- first: Pat
+  last: Gunn
+- first: Jérémie
+  last: Kalfon
+- first: Brandon
+  last: Brown
+- first: Sue Ann
+  last: Koay
+- first: Jiannis
+  last: Taxidis
+- first: Farzaneh
+  last: Najafi
+- first: Jeffrey L.
+  last: Gauthier
+- first: Pengcheng
+  last: Zhou
+- first: Baljit S.
+  last: Khakh
+- first: David W.
+  last: Tank
+- first: Dmitri B.
+  last: Chklovskii
+- first: Eftychios A.
+  last: Pnevmatikakis
+journal: eLife
+publication_year: 2019
+publication_date: '2019-01-14'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.7554/elife.38173
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.317504+00:00'

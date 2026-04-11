@@ -1,0 +1,48 @@
+doi: 10.1038/s41467-018-06516-3
+openalex_id: W2895630969
+pmid: null
+pmcid: PMC6175937
+title: Time units for learning involving maintenance of system-wide cFos expression
+  in neuronal assemblies
+authors:
+- first: Ananya
+  last: Chowdhury
+- first: Pico
+  last: Caroni
+journal: Nature Communications
+publication_year: 2018
+publication_date: '2018-10-02'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41467-018-06516-3.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Chowdhury_2018, title={Time units for learning involving maintenance
+  of system-wide cFos expression in neuronal assemblies}, volume={9}, ISSN={2041-1723},
+  url={http://dx.doi.org/10.1038/s41467-018-06516-3}, DOI={10.1038/s41467-018-06516-3},
+  number={1}, journal={Nature Communications}, publisher={Springer Science and Business
+  Media LLC}, author={Chowdhury, Ananya and Caroni, Pico}, year={2018}, month=oct
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320031+00:00'

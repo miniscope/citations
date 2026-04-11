@@ -1,0 +1,59 @@
+doi: 10.3389/fncel.2017.00168
+openalex_id: W2625608811
+pmid: null
+pmcid: null
+title: Associative Memory Extinction Is Accompanied by Decayed Plasticity at Motor
+  Cortical Neurons and Persistent Plasticity at Sensory Cortical Neurons
+authors:
+- first: Rui
+  last: Guo
+- first: Rongjing
+  last: Ge
+- first: Shidi
+  last: Zhao
+- first: Yulong
+  last: Liu
+- first: Xin
+  last: Zhao
+- first: Li
+  last: Huang
+- first: Sodong
+  last: Guan
+- first: Wei
+  last: Lü
+- first: Shan
+  last: Cui
+- first: Shirlene
+  last: Wang
+- first: Jinhui
+  last: Wang
+journal: Frontiers in Cellular Neuroscience
+publication_year: 2017
+publication_date: '2017-06-13'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.frontiersin.org/articles/10.3389/fncel.2017.00168/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320260+00:00'

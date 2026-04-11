@@ -1,0 +1,71 @@
+doi: 10.1073/pnas.2108239118
+openalex_id: W3203866315
+pmid: null
+pmcid: null
+title: Recurrent rewiring of the adult hippocampal mossy fiber system by a single
+  transcriptional regulator, Id2
+authors:
+- first: Wenshu
+  last: Luo
+- first: Matteo
+  last: Egger
+- first: Andor
+  last: Domonkos
+- first: Lin
+  last: Que
+- first: David
+  last: Lukacsovich
+- first: Natalia
+  last: Cruz-Ochoa
+- first: Szilárd
+  last: Szőcs
+- first: Charlotte
+  last: Seng
+- first: Antónia
+  last: Arszovszki
+- first: Eszter
+  last: Sipos
+- first: Irmgard
+  last: Amrein
+- first: Jochen
+  last: Winterer
+- first: Tamás
+  last: Lukácsovich
+- first: János
+  last: Szabadics
+- first: David P
+  last: Wolfer
+- first: Csaba
+  last: Varga
+- first: Csaba
+  last: Földy
+journal: Proceedings of the National Academy of Sciences
+publication_year: 2021
+publication_date: '2021-10-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.pnas.org/content/pnas/118/40/e2108239118.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.373895+00:00'

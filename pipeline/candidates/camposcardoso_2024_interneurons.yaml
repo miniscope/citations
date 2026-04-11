@@ -1,0 +1,55 @@
+doi: 10.1016/b978-0-443-15754-7.00055-9
+openalex_id: W4404314981
+pmid: null
+pmcid: null
+title: Interneurons in learning and memory
+authors:
+- first: Rodrigo
+  last: Campos‐Cardoso
+- first: Zephyr R.
+  last: Desa
+- first: B.
+  last: Fitzgerald
+- first: Hunter T.
+  last: Franks
+- first: Júlia Lopes
+  last: Gonçalez
+- first: Kirstie A.
+  last: Cummings
+journal: Elsevier eBooks
+publication_year: 2024
+publication_date: '2024-11-13'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @inbook{Campos_Cardoso_2025, title={Interneurons in learning and memory},
+  ISBN={9780443157554}, url={http://dx.doi.org/10.1016/b978-0-443-15754-7.00055-9},
+  DOI={10.1016/b978-0-443-15754-7.00055-9}, booktitle={Learning and Memory: A Comprehensive
+  Reference}, publisher={Elsevier}, author={Campos-Cardoso, Rodrigo and Desa, Zephyr
+  R. and Fitzgerald, Brianna L. and Franks, Hunter T. and Gonçalez, Julia Lopes and
+  Cummings, Kirstie A.}, year={2025}, pages={304–326} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.326195+00:00'

@@ -1,0 +1,50 @@
+doi: 10.1016/j.bbr.2022.114250
+openalex_id: W4310894985
+pmid: null
+pmcid: null
+title: Immune activation attenuates memory acquisition and consolidation of conditioned
+  disgust (anticipatory nausea) in rats
+authors:
+- first: Indra R.
+  last: Bishnoi
+- first: Martin
+  last: Kavaliers
+- first: Klaus‐Peter
+  last: Ossenkopp
+journal: Behavioural Brain Research
+publication_year: 2022
+publication_date: '2022-12-08'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Bishnoi_2023, title={Immune activation attenuates memory acquisition
+  and consolidation of conditioned disgust (anticipatory nausea) in rats}, volume={439},
+  ISSN={0166-4328}, url={http://dx.doi.org/10.1016/j.bbr.2022.114250}, DOI={10.1016/j.bbr.2022.114250},
+  journal={Behavioural Brain Research}, publisher={Elsevier BV}, author={Bishnoi,
+  Indra R. and Kavaliers, Martin and Ossenkopp, Klaus-Peter}, year={2023}, month=feb,
+  pages={114250} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321168+00:00'

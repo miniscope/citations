@@ -1,0 +1,44 @@
+doi: 10.1016/j.cobeha.2017.06.010
+openalex_id: W2736189377
+pmid: null
+pmcid: PMC5565219
+title: Time (and space) in the hippocampus
+authors:
+- first: Howard
+  last: Eichenbaum
+journal: Current Opinion in Behavioral Sciences
+publication_year: 2017
+publication_date: '2017-07-12'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Eichenbaum_2017, title={Time (and space) in the hippocampus},
+  volume={17}, ISSN={2352-1546}, url={http://dx.doi.org/10.1016/j.cobeha.2017.06.010},
+  DOI={10.1016/j.cobeha.2017.06.010}, journal={Current Opinion in Behavioral Sciences},
+  publisher={Elsevier BV}, author={Eichenbaum, Howard}, year={2017}, month=oct, pages={65–70}
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.318413+00:00'

@@ -1,0 +1,52 @@
+doi: 10.1371/journal.pone.0275059
+openalex_id: W4296796506
+pmid: null
+pmcid: PMC9506666
+title: A computational model to explore how temporal stimulation patterns affect synapse
+  plasticity
+authors:
+- first: Ryota
+  last: Amano
+- first: Mitsuyuki
+  last: Nakao
+- first: Kazumichi
+  last: Matsumiya
+- first: Fumikazu
+  last: Miwakeichi
+journal: PLoS ONE
+publication_year: 2022
+publication_date: '2022-09-23'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0275059&type=printable
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Amano_2022, title={A computational model to explore how temporal
+  stimulation patterns affect synapse plasticity}, volume={17}, ISSN={1932-6203},
+  url={http://dx.doi.org/10.1371/journal.pone.0275059}, DOI={10.1371/journal.pone.0275059},
+  number={9}, journal={PLOS ONE}, publisher={Public Library of Science (PLoS)}, author={Amano,
+  Ryota and Nakao, Mitsuyuki and Matsumiya, Kazumichi and Miwakeichi, Fumikazu}, editor={Cymbalyuk,
+  Gennady S.}, year={2022}, month=sep, pages={e0275059} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.325706+00:00'

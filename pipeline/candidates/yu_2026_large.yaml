@@ -1,0 +1,57 @@
+doi: 10.1038/s41377-025-02155-8
+openalex_id: W7133311701
+pmid: null
+pmcid: null
+title: Large zoom ratio and adaptive aberration correction microscope using 4DPSF-aware
+  Physical Degradation-guided Network
+authors:
+- first: Dong-Xu
+  last: Yu
+- first: Zhao
+  last: Jiang
+- first: Yi
+  last: Zheng
+- first: Hao-Ran
+  last: Zhang
+- first: Rong-Qiang
+  last: Li
+- first: You-ran
+  last: ZHAO
+- first: Xin
+  last: Lu
+- first: Yu-Cheng
+  last: Lin
+- first: Chao
+  last: Liu
+- first: Qiong-Hua
+  last: Wang
+journal: Light Science & Applications
+publication_year: 2026
+publication_date: '2026-03-03'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41377-025-02155-8.pdf
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019939+00:00'

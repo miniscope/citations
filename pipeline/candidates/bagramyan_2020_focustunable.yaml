@@ -1,0 +1,55 @@
+doi: 10.1101/2020.10.31.363507
+openalex_id: W3095789873
+pmid: null
+pmcid: null
+title: Focus-tunable microscope for imaging small neuronal processes in freely moving
+  animals
+authors:
+- first: Arutyun
+  last: Bagramyan
+- first: Loïc
+  last: Tabourin
+- first: Ali
+  last: Rastqar
+- first: Narges
+  last: Karimi
+- first: Frédéric
+  last: Bretzner
+- first: Tigran
+  last: Galstian
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2020
+publication_date: '2020-11-02'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2020/11/02/2020.10.31.363507.1.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Bagramyan_2020, title={Focus-tunable microscope for imaging
+  small neuronal processes in freely moving animals}, url={http://dx.doi.org/10.1101/2020.10.31.363507},
+  DOI={10.1101/2020.10.31.363507}, publisher={openRxiv}, author={Bagramyan, Arutyun
+  and Tabourin, Loïc and Rastqar, Ali and Karimi, Narges and Bretzner, Frédéric and
+  Galstian, Tigran}, year={2020}, month=nov }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324550+00:00'

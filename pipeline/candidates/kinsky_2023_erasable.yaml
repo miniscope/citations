@@ -1,0 +1,50 @@
+doi: 10.1101/2023.02.02.526824
+openalex_id: W4319231002
+pmid: null
+pmcid: null
+title: Erasable Hippocampal Neural Signatures Predict Memory Discrimination
+authors:
+- first: Nathaniel R.
+  last: Kinsky
+- first: Daniel J.
+  last: Orlin
+- first: Evan A.
+  last: Ruesch
+- first: Brian
+  last: Kim
+- first: Siria
+  last: Coello
+- first: Kamran
+  last: Diba
+- first: Steve
+  last: Ramirez
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2023
+publication_date: '2023-02-03'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2023/03/04/2023.02.02.526824.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324634+00:00'

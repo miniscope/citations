@@ -1,0 +1,56 @@
+doi: 10.1063/5.0285668
+openalex_id: W4416362367
+pmid: null
+pmcid: null
+title: Application of tunable liquid lens in imaging and display
+authors:
+- first: Chao
+  last: Liu
+- first: Yu‐Cheng
+  last: Lin
+- first: Yi
+  last: Zheng
+- first: Rongqiang
+  last: Li
+- first: Zhengchao
+  last: Wang
+- first: Xin
+  last: Lu
+- first: Xiao-Hao
+  last: Zhang
+- first: Fan
+  last: Chu
+- first: Haoran
+  last: Zhang
+- first: Qiong‐Hua
+  last: Wang
+journal: Applied Physics Reviews
+publication_year: 2025
+publication_date: '2025-11-19'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019358+00:00'

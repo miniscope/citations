@@ -1,0 +1,56 @@
+doi: 10.1101/2020.07.28.225557
+openalex_id: W3045702126
+pmid: null
+pmcid: null
+title: Linking minimal and detailed models of CA1 microcircuits reveals how theta
+  rhythms emerge and how their frequencies are controlled
+authors:
+- first: Alexandra Pierri
+  last: Chatzikalymniou
+- first: Melisa
+  last: Gumus
+- first: Anton R
+  last: Lunyov
+- first: Scott
+  last: Rich
+- first: Jérémie
+  last: Lefebvre
+- first: Frances K.
+  last: Skinner
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2020
+publication_date: '2020-07-29'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2020/07/29/2020.07.28.225557.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Chatzikalymniou_2020, title={Linking minimal and detailed models
+  of CA1 microcircuits reveals how theta rhythms emerge and how their frequencies
+  are controlled}, url={http://dx.doi.org/10.1101/2020.07.28.225557}, DOI={10.1101/2020.07.28.225557},
+  publisher={openRxiv}, author={Chatzikalymniou, Alexandra P and Gumus, Melisa and
+  Lunyov, Anton R and Rich, Scott and Lefebvre, Jeremie and Skinner, Frances K}, year={2020},
+  month=jul }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.375492+00:00'

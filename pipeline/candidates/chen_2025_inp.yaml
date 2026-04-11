@@ -1,0 +1,56 @@
+doi: 10.1364/ol.563500
+openalex_id: W4410779091
+pmid: null
+pmcid: null
+title: InP optical phased array for high-speed wavefront shaping through scattering
+  media
+authors:
+- first: Zhiyu
+  last: Chen
+- first: Marco
+  last: Gagino
+- first: Yuchen
+  last: Song
+- first: Victor
+  last: Dolores-Calzadilla
+- first: E.
+  last: Tangdiongga
+- first: O.
+  last: Raz
+journal: Optics Letters
+publication_year: 2025
+publication_date: '2025-05-27'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://pure.tue.nl/ws/files/381698330/ol-50-12-4122.pdf
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Chen_2025, title={InP optical phased array for high-speed wavefront
+  shaping through scattering media}, volume={50}, ISSN={1539-4794}, url={http://dx.doi.org/10.1364/ol.563500},
+  DOI={10.1364/ol.563500}, number={12}, journal={Optics Letters}, publisher={Optica
+  Publishing Group}, author={Chen, Zhiyu and Gagino, Marco and Song, Yuchen and Dolores-Calzadilla,
+  Victor and Tangdiongga, Eduward and Raz, Oded}, year={2025}, month=jun, pages={4122}
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019450+00:00'

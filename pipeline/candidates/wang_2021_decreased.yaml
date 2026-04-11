@@ -1,0 +1,58 @@
+doi: 10.3389/fnhum.2021.772365
+openalex_id: W4200016971
+pmid: null
+pmcid: null
+title: Decreased Intrinsic Neural Timescales in Mesial Temporal Lobe Epilepsy
+authors:
+- first: Kefan
+  last: Wang
+- first: Xiaonan
+  last: Zhang
+- first: Chengru
+  last: Song
+- first: Keran
+  last: Ma
+- first: Man
+  last: Bai
+- first: Ruiping
+  last: Zheng
+- first: Yarui
+  last: Wei
+- first: Jingli
+  last: Chen
+- first: Jingliang
+  last: Cheng
+- first: Yong
+  last: Zhang
+- first: Shaoqiang
+  last: Han
+journal: Frontiers in Human Neuroscience
+publication_year: 2021
+publication_date: '2021-12-08'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.3389/fnhum.2021.772365
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374207+00:00'

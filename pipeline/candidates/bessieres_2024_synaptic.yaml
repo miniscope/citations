@@ -1,0 +1,54 @@
+doi: 10.1126/sciadv.ado1148
+openalex_id: W4402039864
+pmid: null
+pmcid: PMC11364093
+title: Synaptic rearrangement of NMDA receptors controls memory engram formation and
+  malleability in the cortex
+authors:
+- first: Benjamin
+  last: Bessières
+- first: Julien P.
+  last: Dupuis
+- first: Laurent
+  last: Groc
+- first: Bruno
+  last: Bontempi
+- first: Olivier
+  last: Nicole
+journal: Science Advances
+publication_year: 2024
+publication_date: '2024-08-30'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1126/sciadv.ado1148
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Bessi_res_2024, title={Synaptic rearrangement of NMDA receptors
+  controls memory engram formation and malleability in the cortex}, volume={10}, ISSN={2375-2548},
+  url={http://dx.doi.org/10.1126/sciadv.ado1148}, DOI={10.1126/sciadv.ado1148}, number={35},
+  journal={Science Advances}, publisher={American Association for the Advancement
+  of Science (AAAS)}, author={Bessières, Benjamin and Dupuis, Julien and Groc, Laurent
+  and Bontempi, Bruno and Nicole, Olivier}, year={2024}, month=aug }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319493+00:00'

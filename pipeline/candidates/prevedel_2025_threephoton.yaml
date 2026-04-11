@@ -1,0 +1,54 @@
+doi: 10.1038/s41583-025-00937-y
+openalex_id: W4411468685
+pmid: null
+pmcid: null
+title: 'Three-photon microscopy: an emerging technique for deep intravital brain imaging'
+authors:
+- first: Robert
+  last: Prevedel
+- first: Júlia Ferrer
+  last: Ortas
+- first: Jason N. D.
+  last: Kerr
+- first: Jack
+  last: Waters
+- first: Michael O.
+  last: Breckwoldt
+- first: Benjamin
+  last: Deneen
+- first: Michelle
+  last: Monje
+- first: Stella J
+  last: Soyka
+- first: Varun
+  last: Venkataramani
+journal: Nature reviews. Neuroscience
+publication_year: 2025
+publication_date: '2025-06-20'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319667+00:00'

@@ -1,0 +1,63 @@
+doi: 10.1101/2023.06.27.546748
+openalex_id: W4382517325
+pmid: null
+pmcid: null
+title: Pixel-wise programmability enables dynamic high-SNR cameras for high-speed
+  microscopy
+authors:
+- first: Jie
+  last: Zhang
+- first: Jonathan P.
+  last: Newman
+- first: Zeguan
+  last: Wang
+- first: Yong
+  last: Qian
+- first: Pedro A.
+  last: Feliciano‐Ramos
+- first: Wei
+  last: Guo
+- first: Takato
+  last: Honda
+- first: Zhe
+  last: Chen
+- first: Changyang
+  last: Linghu
+- first: Ralph
+  last: Etienne‐Cummings
+- first: Eric R.
+  last: Fossum
+- first: Edward S.
+  last: Boyden
+- first: Matthew A.
+  last: Wilson
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2023
+publication_date: '2023-06-29'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2023/06/29/2023.06.27.546748.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019618+00:00'

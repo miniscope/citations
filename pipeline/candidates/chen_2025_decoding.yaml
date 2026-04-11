@@ -1,0 +1,66 @@
+doi: 10.1016/j.bpsgos.2025.100531
+openalex_id: W4410221330
+pmid: null
+pmcid: PMC12284276
+title: 'Decoding Secondary Motor Cortex Neuronal Activity During Cocaine Self-Administration:
+  Insights From Longitudinal In Vivo Calcium Imaging'
+authors:
+- first: Yingying
+  last: Chen
+- first: Haoying
+  last: Fu
+- first: Amith
+  last: Korada
+- first: Michal A
+  last: Lange
+- first: Chandrashekar
+  last: Rayanki
+- first: Tao
+  last: Lu
+- first: Dongbing
+  last: Lai
+- first: Shiaofen
+  last: Fang
+- first: Changyong
+  last: Guo
+- first: Yao‐Ying
+  last: Ma
+journal: Biological Psychiatry Global Open Science
+publication_year: 2025
+publication_date: '2025-05-09'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.bpsgos.2025.100531
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Chen_2025, title={Decoding Secondary Motor Cortex Neuronal
+  Activity During Cocaine Self-Administration: Insights From Longitudinal In Vivo
+  Calcium Imaging}, volume={5}, ISSN={2667-1743}, url={http://dx.doi.org/10.1016/j.bpsgos.2025.100531},
+  DOI={10.1016/j.bpsgos.2025.100531}, number={5}, journal={Biological Psychiatry Global
+  Open Science}, publisher={Elsevier BV}, author={Chen, Yingying and Fu, Haoying and
+  Korada, Amith and Lange, Michal A. and Rayanki, Chandrashekar and Lu, Tao and Lai,
+  Dongbing and Fang, Shiaofen and Guo, Changyong and Ma, Yao-Ying}, year={2025}, month=sep,
+  pages={100531} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322840+00:00'

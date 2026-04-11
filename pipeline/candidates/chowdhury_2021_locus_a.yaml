@@ -1,0 +1,64 @@
+doi: 10.2139/ssrn.3985190
+openalex_id: W4251258141
+pmid: null
+pmcid: null
+title: A Locus Coeruleus- Dorsal CA1 Dopaminergic Circuit Modulates Memory Linking
+authors:
+- first: Ananya
+  last: Chowdhury
+- first: Alessandro
+  last: Luchetti
+- first: Giselle
+  last: Fernandes
+- first: Daniel Almeida
+  last: Filho
+- first: George
+  last: Kastellakis
+- first: Alexandra
+  last: Tzilivaki
+- first: Erica M.
+  last: Ramirez
+- first: Mary Y.
+  last: Tran
+- first: Panayiota
+  last: Poirazi
+- first: Alcino J.
+  last: Silva
+journal: SSRN Electronic Journal
+publication_year: 2021
+publication_date: '2021-01-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=3985190
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Chowdhury_2021, title={A Locus Coeruleus- Dorsal CA1 Dopaminergic
+  Circuit Modulates Memory Linking}, ISSN={1556-5068}, url={http://dx.doi.org/10.2139/ssrn.3985190},
+  DOI={10.2139/ssrn.3985190}, journal={SSRN Electronic Journal}, publisher={Elsevier
+  BV}, author={Chowdhury, Ananya and Luchetti, Alessandro and Fernandes, Giselle and
+  Almeida Filho, Daniel and Kastellakis, George and Tzilivaki, Alexandra and Ramirez,
+  Erica M. and Tran, Mary Y. and Poirazi, Panayiota and Silva, Alcino}, year={2021}
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324927+00:00'

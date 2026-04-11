@@ -1,0 +1,61 @@
+doi: 10.7554/elife.93804.3
+openalex_id: W4400914779
+pmid: null
+pmcid: null
+title: Aberrant hippocampal Ca2+ microwaves following synapsin-dependent adeno-associated
+  viral expression of Ca2+ indicators
+authors:
+- first: Nicola
+  last: Masala
+- first: Manuel
+  last: Mittag
+- first: Eleonora Ambrad
+  last: Giovannetti
+- first: Darik A.
+  last: O’Neil
+- first: Fabian
+  last: Distler
+- first: Peter
+  last: Rupprecht
+- first: Fritjof
+  last: Helmchen
+- first: Rafael
+  last: Yuste
+- first: Martin
+  last: Fuhrmann
+- first: Heinz
+  last: Beck
+- first: Michael
+  last: Wenzel
+- first: T.
+  last: Kelly
+journal: eLife
+publication_year: 2024
+publication_date: '2024-07-23'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.7554/elife.93804.3
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321975+00:00'

@@ -1,0 +1,74 @@
+doi: 10.1007/s11055-021-01179-y
+openalex_id: W3215614625
+pmid: null
+pmcid: null
+title: 'NeuroInfoViewer: A Software Package for Analysis of Miniscope Data'
+authors:
+- first: A. I.
+  last: Erofeev
+- first: D. S.
+  last: Barinov
+- first: E. I.
+  last: Gerasimov
+- first: E. I.
+  last: Pchitskaya
+- first: M. V.
+  last: Bolsunovskaja
+- first: O. L.
+  last: Vlasova
+- first: I. B.
+  last: Bezprozvanny
+journal: Neuroscience and Behavioral Physiology
+publication_year: 2021
+publication_date: '2021-10-01'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: '@article{Erofeev_Barinov_Gerasimov_Pchitskaya_Bolsunovskaja_Vlasova_Bezprozvanny_2021,
+  title={NeuroInfoViewer: A Software Package for Analysis of Miniscope Data}, volume={51},
+  url={http://dx.doi.org/10.1007/s11055-021-01179-y}, DOI={10.1007/s11055-021-01179-y},
+  number={8}, journal={Neuroscience and Behavioral Physiology}, publisher={Springer
+  Science and Business Media LLC}, author={Erofeev, A. I. and Barinov, D. S. and
+  Gerasimov, E. I. and Pchitskaya, E. I. and Bolsunovskaja, M. V. and Vlasova, O.
+  L. and Bezprozvanny, I. B.}, year={2021}, month=oct, pages={1199--1205}, language={en}
+  }'
+bibtex_source: crossref
+fulltext:
+  source: none
+  pdf_local_path: null
+analysis:
+  status: needs_fulltext
+  uses_tool: true
+  confidence: 0.35
+  tools_identified:
+  - UCLA Miniscope v4
+  evidence:
+  - source: title
+    text: '"A Software Package for Analysis of Miniscope Data"'
+    note: Title explicitly references "Miniscope" (capitalized as proper noun) data
+      analysis. Paper cites the UCLA Miniscope v4 seed paper (Shuman et al. 2019).
+      No abstract or full text available to confirm direct tool usage.
+  paper_type: methods/software
+  suggested_component: UCLA Miniscope v4
+  suggested_technique: calcium imaging
+  reasoning: The paper title explicitly references "Miniscope Data" with Miniscope
+    capitalized as a proper noun, and the paper cites the UCLA Miniscope v4 paper
+    (Shuman et al. 2019). This strongly suggests the software was built for UCLA Miniscope
+    data. However, no abstract or full text was available from any source (OpenAlex,
+    Unpaywall, CrossRef). The paper is closed access with no OA copy. Confidence is
+    capped well below 0.5 due to absence of both abstract and full text. Manual review
+    with full text access is recommended.
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374829+00:00'
+- stage: reviewed
+  timestamp: '2026-04-11T04:00:00+00:00'
+  agent: citation-analysis-agent
+  note: 'Marked needs_fulltext: no abstract or full text available. Title and seed
+    paper citation suggest UCLA Miniscope usage but cannot confirm with direct quotes.'

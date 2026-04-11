@@ -1,0 +1,58 @@
+doi: 10.1007/s12264-020-00561-z
+openalex_id: W3049349502
+pmid: null
+pmcid: PMC7532237
+title: Miniature Fluorescence Microscopy for Imaging Brain Activity in Freely-Behaving
+  Animals
+authors:
+- first: Shiyuan
+  last: Chen
+- first: Zichen
+  last: Wang
+- first: Dong
+  last: Zhang
+- first: Aimin
+  last: Wang
+- first: Liangyi
+  last: Chen
+- first: Heping
+  last: Cheng
+- first: Runlong
+  last: Wu
+journal: Neuroscience Bulletin
+publication_year: 2020
+publication_date: '2020-08-14'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.ncbi.nlm.nih.gov/pmc/articles/7532237
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Chen_2020, title={Miniature Fluorescence Microscopy for Imaging
+  Brain Activity in Freely-Behaving Animals}, volume={36}, ISSN={1995-8218}, url={http://dx.doi.org/10.1007/s12264-020-00561-z},
+  DOI={10.1007/s12264-020-00561-z}, number={10}, journal={Neuroscience Bulletin},
+  publisher={Springer Science and Business Media LLC}, author={Chen, Shiyuan and Wang,
+  Zichen and Zhang, Dong and Wang, Aiming and Chen, Liangyi and Cheng, Heping and
+  Wu, Runlong}, year={2020}, month=aug, pages={1182–1190} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320103+00:00'

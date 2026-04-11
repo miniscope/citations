@@ -1,0 +1,59 @@
+doi: 10.1101/2023.09.26.559559
+openalex_id: W4387100556
+pmid: null
+pmcid: null
+title: Absolute number of three populations of interneurons and all GABAergic synapses
+  in the human hippocampus
+authors:
+- first: Virág T.
+  last: Takács
+- first: Péter
+  last: Papp
+- first: Áron
+  last: Orosz
+- first: Zsuzsanna
+  last: Bardóczi
+- first: Tamás
+  last: Zsoldos
+- first: Krisztián
+  last: Zichó
+- first: Masahiko
+  last: Watanabe
+- first: Zsófia
+  last: Maglóczky
+- first: Péter
+  last: Gombás
+- first: Tamás F.
+  last: Freund
+- first: Gábor
+  last: Nyíri
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2023
+publication_date: '2023-09-27'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2023/10/25/2023.09.26.559559.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324683+00:00'

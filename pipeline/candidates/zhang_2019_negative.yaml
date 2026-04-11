@@ -1,0 +1,49 @@
+doi: 10.1523/jneurosci.1958-18.2019
+openalex_id: W2967925629
+pmid: null
+pmcid: null
+title: Negative Memory Engrams in the Hippocampus Enhance the Susceptibility to Chronic
+  Social Defeat Stress
+authors:
+- first: Tian Rui
+  last: Zhang
+- first: Amanda
+  last: Larosa
+- first: Marie-Eve Di
+  last: Raddo
+- first: Vanessa
+  last: Wong
+- first: Alice S.
+  last: Wong
+- first: Tak Pan
+  last: Wong
+journal: Journal of Neuroscience
+publication_year: 2019
+publication_date: '2019-08-12'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.jneurosci.org/content/jneuro/39/38/7576.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.318549+00:00'

@@ -1,0 +1,63 @@
+doi: null
+openalex_id: W4226224758
+pmid: null
+pmcid: null
+title: Modular head-mounted cortical imaging device for chronic monitoring of intrinsic
+  signals in mice
+authors:
+- first: Mark Christian
+  last: Guinto
+- first: Makito
+  last: Haruta
+- first: Yuki
+  last: Kurauchi
+- first: Taisuke
+  last: Saigo
+- first: Kazuki
+  last: Kurasawa
+- first: Sumika
+  last: Ryu
+- first: Yasumi
+  last: Ohta
+- first: Mamiko
+  last: Kawahara
+- first: Hironari
+  last: Takehara
+- first: Hiroyuki
+  last: Tashiro
+- first: Kiyotaka
+  last: Sasagawa
+- first: Hiroshi
+  last: Katsuki
+- first: Jun
+  last: Ohta
+journal: Institutional Repositories DataBase (IRDB)
+publication_year: 2022
+publication_date: '2022-12-15'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://naist.repo.nii.ac.jp/records/9885
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374702+00:00'

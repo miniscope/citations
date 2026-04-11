@@ -1,0 +1,43 @@
+doi: 10.1101/2020.08.05.238741
+openalex_id: W3047040413
+pmid: null
+pmcid: null
+title: Dynamic patterns of correlated activity in the prefrontal cortex encode information
+  about social behavior
+authors:
+- first: Nicholas A.
+  last: Frost
+- first: Anna
+  last: Haggart
+- first: Vikaas S.
+  last: Sohal
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2020
+publication_date: '2020-08-06'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2020/11/04/2020.08.05.238741.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.323627+00:00'

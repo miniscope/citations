@@ -1,0 +1,39 @@
+doi: 10.3410/f.732025071.793538262
+openalex_id: W4232306937
+pmid: null
+pmcid: null
+title: Faculty Opinions recommendation of Silent memory engrams as the basis for retrograde
+  amnesia.
+authors:
+- first: Sheena A.
+  last: Josselyn
+journal: Faculty Opinions – Post-Publication Peer Review of the Biomedical Literature
+publication_year: 2017
+publication_date: '2017-10-25'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://facultyopinions.com/download/732025071
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.325613+00:00'

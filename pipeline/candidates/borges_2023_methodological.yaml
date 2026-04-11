@@ -1,0 +1,43 @@
+doi: 10.53962/hkvp-xkx7
+openalex_id: W4385835741
+pmid: null
+pmcid: null
+title: Methodological comparison between fiber photometry and miniaturized endoscopes
+authors:
+- first: Vinicius Pereira Mateus
+  last: Borges
+journal: ResearchEquals
+publication_year: 2023
+publication_date: '2023-08-15'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://ucarecdn.com/bb443485-a765-4c62-93e2-1eb9435cd7ea/
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @misc{Pereira_Mateus_Borges_2023, title={Methodological comparison between
+  fiber photometry and miniaturized endoscopes}, url={http://dx.doi.org/10.53962/hkvp-xkx7},
+  DOI={10.53962/hkvp-xkx7}, journal={ResearchEquals}, publisher={Liberate Science
+  GmbH}, author={Pereira Mateus Borges, Vinicius}, year={2023}, month=aug }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.376051+00:00'

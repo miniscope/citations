@@ -1,0 +1,61 @@
+doi: 10.1111/epi.17326
+openalex_id: W4282836414
+pmid: null
+pmcid: null
+title: Evidence supporting deep brain stimulation of the medial septum in the treatment
+  of temporal lobe epilepsy
+authors:
+- first: Eric R.
+  last: Cole
+- first: Dayton
+  last: Grogan
+- first: Nealen G.
+  last: Laxpati
+- first: Alejandra M.
+  last: Fernandez
+- first: Henry M.
+  last: Skelton
+- first: Faiçal
+  last: Isbaine
+- first: Claire‐Anne
+  last: Gutekunst
+- first: Robert E.
+  last: Gross
+journal: Epilepsia
+publication_year: 2022
+publication_date: '2022-06-14'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Cole_2022, title={Evidence supporting deep brain stimulation
+  of the medial septum in the treatment of temporal lobe epilepsy}, volume={63}, ISSN={1528-1167},
+  url={http://dx.doi.org/10.1111/epi.17326}, DOI={10.1111/epi.17326}, number={9},
+  journal={Epilepsia}, publisher={Wiley}, author={Cole, Eric R. and Grogan, Dayton
+  P. and Laxpati, Nealen G. and Fernandez, Alejandra M. and Skelton, Henry M. and
+  Isbaine, Faical and Gutekunst, Claire‐Anne and Gross, Robert E.}, year={2022}, month=jun,
+  pages={2192–2213} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374115+00:00'

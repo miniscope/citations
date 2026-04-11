@@ -1,0 +1,66 @@
+doi: 10.1016/j.neuron.2021.10.001
+openalex_id: W3206931409
+pmid: null
+pmcid: null
+title: A synaptic temperature sensor for body cooling
+authors:
+- first: Gretel B.
+  last: Kamm
+- first: Juan Carlos
+  last: Boffi
+- first: Kristina
+  last: Zuza
+- first: Sara
+  last: Nencini
+- first: Joaquín
+  last: Campos
+- first: Katrin
+  last: Schrenk-Siemens
+- first: Ivo
+  last: Sonntag
+- first: Burçe
+  last: Kabaoğlu
+- first: Muad Y Abd El
+  last: Hay
+- first: Yvonne
+  last: Schwarz
+- first: Anke
+  last: Tappe‐Theodor
+- first: Dieter
+  last: Bruns
+- first: Claudio
+  last: Acuna
+- first: Thomas
+  last: Kuner
+- first: Jan
+  last: Siemens
+journal: Neuron
+publication_year: 2021
+publication_date: '2021-10-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.ncbi.nlm.nih.gov/pmc/articles/7613177
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.318794+00:00'

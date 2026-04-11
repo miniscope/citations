@@ -1,0 +1,50 @@
+doi: 10.1016/j.jneumeth.2020.108905
+openalex_id: W3048585446
+pmid: null
+pmcid: null
+title: Functional interrogation of neural circuits with virally transmitted optogenetic
+  tools
+authors:
+- first: Brice de la
+  last: Crompe
+- first: Philippe
+  last: Coulon
+- first: Ilka
+  last: Diester
+journal: Journal of Neuroscience Methods
+publication_year: 2020
+publication_date: '2020-08-11'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.jneumeth.2020.108905
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{De_La_Crompe_2020, title={Functional interrogation of neural
+  circuits with virally transmitted optogenetic tools}, volume={345}, ISSN={0165-0270},
+  url={http://dx.doi.org/10.1016/j.jneumeth.2020.108905}, DOI={10.1016/j.jneumeth.2020.108905},
+  journal={Journal of Neuroscience Methods}, publisher={Elsevier BV}, author={De La
+  Crompe, Brice and Coulon, Philippe and Diester, Ilka}, year={2020}, month=nov, pages={108905}
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322106+00:00'

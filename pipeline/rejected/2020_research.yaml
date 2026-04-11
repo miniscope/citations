@@ -1,0 +1,53 @@
+doi: null
+openalex_id: W3194591893
+pmid: null
+pmcid: null
+title: Research on emergent physical properties of integrated nanomaterials
+authors:
+- first: チャオ
+  last: リ
+- first: Qiao
+  last: Li
+journal: null
+publication_year: 2020
+publication_date: '2020-01-01'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: none
+  pdf_local_path: null
+analysis:
+  status: completed
+  uses_tool: false
+  confidence: 0.95
+  tools_identified: []
+  evidence: []
+  paper_type: materials_science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: >-
+    Paper title "Research on emergent physical properties of integrated nanomaterials"
+    is clearly a materials science paper, not neuroscience. No DOI available to fetch
+    BibTeX or full text. No abstract available. OpenAlex topics are "Advanced Memory
+    and Neural Computing" (referring to memristors/neuromorphic computing, not
+    biological neural imaging), "Transition Metal Oxide Nanomaterials", and "2D
+    Materials and Applications". No PMID/PMCID indicating it is not indexed in
+    biomedical databases. The citation of seed paper Cai et al. 2016 was likely
+    tangential. There is no evidence this paper uses any UCLA Miniscope tools.
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.325399+00:00'
+- stage: in_progress
+  timestamp: '2026-04-10T00:00:00+00:00'
+- stage: rejected
+  timestamp: '2026-04-10T00:00:00+00:00'
+  reason: No evidence of Miniscope tool usage; nanomaterials paper unrelated to neuroscience

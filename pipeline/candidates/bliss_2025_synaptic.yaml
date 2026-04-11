@@ -1,0 +1,53 @@
+doi: 10.1093/med/9780190065324.003.0010
+openalex_id: W4406986524
+pmid: null
+pmcid: null
+title: Synaptic Plasticity in the Hippocampus
+authors:
+- first: Tim
+  last: Bliss
+- first: Graham L.
+  last: Collingridge
+- first: Samuel F.
+  last: Cooke
+- first: John
+  last: Georgiou
+- first: Richard
+  last: Morris
+journal: null
+publication_year: 2025
+publication_date: '2025-01-01'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @inbook{Bliss_2025, title={Synaptic Plasticity in the Hippocampus},
+  ISBN={9780197691212}, url={http://dx.doi.org/10.1093/med/9780190065324.003.0010},
+  DOI={10.1093/med/9780190065324.003.0010}, booktitle={The Hippocampus Book}, publisher={Oxford
+  University PressNew York}, author={Bliss, Tim and Collingridge, Graham and Cooke,
+  Sam and Georgiou, John and Morris, Richard}, year={2025}, month=jan, pages={405–500}
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322807+00:00'

@@ -1,0 +1,52 @@
+doi: 10.1073/pnas.2416214122
+openalex_id: W4406983481
+pmid: null
+pmcid: PMC11804539
+title: Impaired spatial coding of the hippocampus in a dentate gyrus hypoplasia mouse
+  model
+authors:
+- first: Xiaojing
+  last: Chen
+- first: Ning
+  last: Cheng
+- first: Cheng
+  last: Wang
+- first: James
+  last: Knierim
+journal: Proceedings of the National Academy of Sciences
+publication_year: 2025
+publication_date: '2025-01-30'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.pnas.org/doi/pdf/10.1073/pnas.2416214122
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Chen_2025, title={Impaired spatial coding of the hippocampus
+  in a dentate gyrus hypoplasia mouse model}, volume={122}, ISSN={1091-6490}, url={http://dx.doi.org/10.1073/pnas.2416214122},
+  DOI={10.1073/pnas.2416214122}, number={5}, journal={Proceedings of the National
+  Academy of Sciences}, publisher={Proceedings of the National Academy of Sciences},
+  author={Chen, Xiaojing and Cheng, Ning and Wang, Cheng and Knierim, James J.}, year={2025},
+  month=jan }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322386+00:00'

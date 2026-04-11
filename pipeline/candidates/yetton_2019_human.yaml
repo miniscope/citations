@@ -1,0 +1,46 @@
+doi: 10.3389/fnhum.2019.00315
+openalex_id: W2969359332
+pmid: null
+pmcid: null
+title: Human Memories Can Be Linked by Temporal Proximity
+authors:
+- first: Benjamin D.
+  last: Yetton
+- first: Denise J.
+  last: Cai
+- first: Victor I.
+  last: Spoormaker
+- first: Alcino J.
+  last: Silva
+- first: Sara C.
+  last: Mednick
+journal: Frontiers in Human Neuroscience
+publication_year: 2019
+publication_date: '2019-09-13'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.frontiersin.org/articles/10.3389/fnhum.2019.00315/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321549+00:00'

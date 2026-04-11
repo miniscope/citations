@@ -1,0 +1,77 @@
+doi: 10.1126/science.ade6530
+openalex_id: W4368347608
+pmid: null
+pmcid: null
+title: A shift in the mechanisms controlling hippocampal engram formation during brain
+  maturation
+authors:
+- first: Adam I.
+  last: Ramsaran
+- first: Ying
+  last: Wang
+- first: Ali
+  last: Golbabaei
+- first: Stepan
+  last: Aleshin
+- first: Mitchell L. de
+  last: Snoo
+- first: Bi-ru Amy
+  last: Yeung
+- first: Asim J.
+  last: Rashid
+- first: Ankit
+  last: Awasthi
+- first: Jocelyn
+  last: Lau
+- first: Lina
+  last: Tran
+- first: Sangyoon Y.
+  last: Ko
+- first: Andrin
+  last: Abegg
+- first: Lana Chunan
+  last: Duan
+- first: Cory
+  last: McKenzie
+- first: Julia
+  last: Gallucci
+- first: Moriam
+  last: Ahmed
+- first: Rahul
+  last: Kaushik
+- first: Alexander
+  last: Dityatev
+- first: Sheena A.
+  last: Josselyn
+- first: Paul W.
+  last: Frankland
+journal: Science
+publication_year: 2023
+publication_date: '2023-05-04'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.318093+00:00'

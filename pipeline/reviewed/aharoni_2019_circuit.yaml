@@ -1,0 +1,63 @@
+doi: 10.3389/fncel.2019.00141
+openalex_id: W2930741432
+pmid: null
+pmcid: PMC6461004
+title: 'Circuit Investigations With Open-Source Miniaturized Microscopes: Past, Present
+  and Future'
+authors:
+- first: Daniel
+  last: Aharoni
+- first: Tycho M.
+  last: Hoogland
+journal: Frontiers in Cellular Neuroscience
+publication_year: 2019
+publication_date: '2019-04-05'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.frontiersin.org/articles/10.3389/fncel.2019.00141/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Aharoni_2019, title={Circuit Investigations With Open-Source
+  Miniaturized Microscopes: Past, Present and Future}, volume={13}, ISSN={1662-5102},
+  url={http://dx.doi.org/10.3389/fncel.2019.00141}, DOI={10.3389/fncel.2019.00141},
+  journal={Frontiers in Cellular Neuroscience}, publisher={Frontiers Media SA}, author={Aharoni,
+  Daniel and Hoogland, Tycho M.}, year={2019}, month=apr }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: completed
+  uses_tool: true
+  confidence: 0.99
+  tools_identified:
+  - UCLA Miniscope v4
+  evidence:
+  - "the UCLA Miniscope project has probably been the most impactful in terms of its reach, with over 400 labs around the world building and applying these imaging devices"
+  - "A wire-free version of the UCLA Miniscope (4.5 g) has also been developed"
+  - "As part of the UCLA Miniscope project"
+  - "Making use of the UCLA Miniscope imaging and data"
+  - "An MLA was implemented in a reconfigured UCLA Miniscope"
+  paper_type: review
+  suggested_component: UCLA Miniscope v4
+  suggested_technique: calcium imaging
+  reasoning: >-
+    This is a review paper authored by Daniel Aharoni (UCLA Miniscope project lead)
+    and Tycho Hoogland. The paper is a comprehensive review of open-source miniaturized
+    microscopes with the UCLA Miniscope as the central focus. It covers the history,
+    current state, and future directions of the UCLA Miniscope platform including
+    wire-free recording, electrophysiology integration, two-color imaging, and
+    wide-field/volumetric imaging capabilities. This is a core tool paper from
+    the project developers themselves.
+  related_to_project: true
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.317696+00:00'
+- stage: reviewed
+  timestamp: '2026-04-10'

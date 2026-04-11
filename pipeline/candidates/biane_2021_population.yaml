@@ -1,0 +1,64 @@
+doi: 10.1101/2021.11.16.468862
+openalex_id: W3211356378
+pmid: null
+pmcid: null
+title: Population dynamics underlying associative learning in the dorsal and ventral
+  hippocampus
+authors:
+- first: Jeremy S.
+  last: Biane
+- first: Max
+  last: Ladow
+- first: Fabio
+  last: Stefanini
+- first: Sayi P.
+  last: Boddu
+- first: Austin
+  last: Fan
+- first: Shazreh
+  last: Hassan
+- first: Naz
+  last: Dundar
+- first: Daniel L.
+  last: Apodaca-Montano
+- first: Nicholas I.
+  last: Woods
+- first: Mazen A.
+  last: Kheirbek
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2021
+publication_date: '2021-11-18'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1101/2021.11.16.468862
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Biane_2021, title={Population dynamics underlying associative
+  learning in the dorsal and ventral hippocampus}, url={http://dx.doi.org/10.1101/2021.11.16.468862},
+  DOI={10.1101/2021.11.16.468862}, publisher={openRxiv}, author={Biane, Jeremy S.
+  and Ladow, Max A. and Stefanini, Fabio and Boddu, Sayi P. and Fan, Austin and Hassan,
+  Shazreh and Dundar, Naz and Apodaca-Montano, Daniel L. and Woods, Nicholas I. and
+  Kheirbek, Mazen A.}, year={2021}, month=nov }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324882+00:00'

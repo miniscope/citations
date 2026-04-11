@@ -1,0 +1,44 @@
+doi: 10.1080/02699931.2025.2608124
+openalex_id: W7117588617
+pmid: null
+pmcid: null
+title: Distorted temporal position memory under negative emotional states
+authors:
+- first: Qun
+  last: Ye
+- first: Chuang
+  last: Ke
+- first: Yuanchun
+  last: Wu
+- first: Zhiwei
+  last: Cao
+journal: Cognition & Emotion
+publication_year: 2025
+publication_date: '2025-12-29'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322098+00:00'

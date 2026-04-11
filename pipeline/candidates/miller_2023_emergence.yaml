@@ -1,0 +1,48 @@
+doi: 10.1016/j.neuron.2023.03.011
+openalex_id: W4362589255
+pmid: null
+pmcid: null
+title: Emergence of a predictive model in the hippocampus
+authors:
+- first: Adam M.
+  last: Miller
+- first: Alex
+  last: Jacob
+- first: Adam I.
+  last: Ramsaran
+- first: Mitchell L. de
+  last: Snoo
+- first: Sheena A.
+  last: Josselyn
+- first: Paul W.
+  last: Frankland
+journal: Neuron
+publication_year: 2023
+publication_date: '2023-04-03'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10293047/pdf/nihms-1883977.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319122+00:00'

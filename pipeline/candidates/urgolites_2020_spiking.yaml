@@ -1,0 +1,51 @@
+doi: 10.1073/pnas.2001338117
+openalex_id: W3032160040
+pmid: null
+pmcid: null
+title: Spiking activity in the human hippocampus prior to encoding predicts subsequent
+  memory
+authors:
+- first: Zhisen J.
+  last: Urgolites
+- first: John T.
+  last: Wixted
+- first: Stephen D.
+  last: Goldinger
+- first: Megan H.
+  last: Papesh
+- first: David M.
+  last: Treiman
+- first: Larry R.
+  last: Squire
+- first: Peter N.
+  last: Steinmetz
+journal: Proceedings of the National Academy of Sciences
+publication_year: 2020
+publication_date: '2020-06-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.pnas.org/content/pnas/117/24/13767.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320190+00:00'

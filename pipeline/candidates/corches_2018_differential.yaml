@@ -1,0 +1,58 @@
+doi: 10.1016/j.bbr.2018.11.042
+openalex_id: W2903186459
+pmid: null
+pmcid: PMC6324971
+title: Differential fear conditioning generates prefrontal neural ensembles of safety
+  signals
+authors:
+- first: Alex
+  last: Corches
+- first: Alex
+  last: Hiroto
+- first: Tyler W.
+  last: Bailey
+- first: John H.
+  last: Speigel
+- first: Justin
+  last: Pastore
+- first: Mark
+  last: Mayford
+- first: Edward
+  last: Korzus
+journal: Behavioural Brain Research
+publication_year: 2018
+publication_date: '2018-11-28'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Corches_2019, title={Differential fear conditioning generates
+  prefrontal neural ensembles of safety signals}, volume={360}, ISSN={0166-4328},
+  url={http://dx.doi.org/10.1016/j.bbr.2018.11.042}, DOI={10.1016/j.bbr.2018.11.042},
+  journal={Behavioural Brain Research}, publisher={Elsevier BV}, author={Corches,
+  Alex and Hiroto, Alex and Bailey, Tyler W. and Speigel, John H. and Pastore, Justin
+  and Mayford, Mark and Korzus, Edward}, year={2019}, month=mar, pages={169–184} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320087+00:00'

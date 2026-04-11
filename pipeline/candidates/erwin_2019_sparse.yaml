@@ -1,0 +1,55 @@
+doi: 10.1101/804393
+openalex_id: W2981168425
+pmid: null
+pmcid: null
+title: A sparse, spatially biased subtype of mature granule cell is preferentially
+  recruited in hippocampal-associated behaviors
+authors:
+- first: Sarah R.
+  last: Erwin
+- first: Weinan
+  last: Sun
+- first: Monique
+  last: Copeland
+- first: Sarah
+  last: Lindo
+- first: Nelson
+  last: Spruston
+- first: Mark S.
+  last: Cembrowski
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2019
+publication_date: '2019-10-17'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2019/10/17/804393.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Erwin_2019, title={A sparse, spatially biased subtype of mature
+  granule cell is preferentially recruited in hippocampal-associated behaviors}, url={http://dx.doi.org/10.1101/804393},
+  DOI={10.1101/804393}, publisher={openRxiv}, author={Erwin, Sarah R. and Sun, Weinan
+  and Copeland, Monique and Lindo, Sarah and Spruston, Nelson and Cembrowski, Mark
+  S.}, year={2019}, month=oct }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324277+00:00'

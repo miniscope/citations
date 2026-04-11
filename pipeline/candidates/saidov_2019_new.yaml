@@ -1,0 +1,49 @@
+doi: 10.21926/obm.genet.1901065
+openalex_id: W2921765580
+pmid: null
+pmcid: null
+title: 'New Tools in Cognitive Neurobiology: Biotin-Digoxigenin Detection of Overlapping
+  Active Neuronal Populations by Two-Color &lt;i&gt;c-fos&lt;/i&gt; Compartment Analysis
+  of Temporal Activity by Fluorescent &lt;i&gt;in situ&lt;/i&gt; Hybridization (catFISH)
+  and c-Fos Immunohistochemistry'
+authors:
+- first: Khalid
+  last: Saidov
+- first: А. А.
+  last: Тиунова
+- first: Oksana M.
+  last: Subach
+- first: Fedor V.
+  last: Subach
+- first: K. V.
+  last: Anokhin
+journal: OBM Genetics
+publication_year: 2019
+publication_date: '2019-03-04'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.lidsen.com/journals/genetics/genetics-03-01-065/obm.genet.1901065.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322256+00:00'

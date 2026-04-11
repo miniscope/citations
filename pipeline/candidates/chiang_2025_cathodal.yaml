@@ -1,0 +1,61 @@
+doi: 10.1113/jp287969
+openalex_id: W4409231904
+pmid: null
+pmcid: null
+title: Cathodal weak direct current decreases epileptic excitability with reduced
+  neuronal activity and enhanced delta oscillations
+authors:
+- first: Chia‐Chu
+  last: Chiang
+- first: Miao‐Er
+  last: Chien
+- first: Ying H
+  last: Huang
+- first: Jen Fin
+  last: Lin
+- first: Sheng‐Fu
+  last: Liang
+- first: Kuei‐Sen
+  last: Hsu
+- first: Dominique M.
+  last: Durand
+- first: Yi‐Jen
+  last: Wu
+journal: The Journal of Physiology
+publication_year: 2025
+publication_date: '2025-04-07'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1113/JP287969
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Chiang_2025, title={Cathodal weak direct current decreases
+  epileptic excitability with reduced neuronal activity and enhanced delta oscillations},
+  volume={603}, ISSN={1469-7793}, url={http://dx.doi.org/10.1113/jp287969}, DOI={10.1113/jp287969},
+  number={9}, journal={The Journal of Physiology}, publisher={Wiley}, author={Chiang,
+  Chia‐Chu and Chien, Miao‐Er and Huang, Yu‐Chieh and Lin, Jyun‐Ting and Liang, Sheng‐Fu
+  and Hsu, Kuei‐Sen and Durand, Dominique M. and Wu, Yi‐Jen}, year={2025}, month=apr,
+  pages={2763–2782} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374742+00:00'

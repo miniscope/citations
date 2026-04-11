@@ -1,0 +1,49 @@
+doi: 10.3389/fnmol.2025.1751677
+openalex_id: W7124886868
+pmid: null
+pmcid: null
+title: Distinct spatial distribution of potentiated dendritic spines in encoding-
+  and recall-activated hippocampal neurons
+authors:
+- first: Francesco
+  last: Gobbo
+- first: Ajesh
+  last: Jacob
+- first: Bruno
+  last: Pinto
+- first: Marco
+  last: Mainardi
+- first: Laura
+  last: Cancedda
+- first: Antonino
+  last: Cattaneo
+journal: Frontiers in Molecular Neuroscience
+publication_year: 2026
+publication_date: '2026-01-20'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://public-pages-files-2025.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2025.1751677/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321528+00:00'

@@ -1,0 +1,43 @@
+doi: 10.1016/j.neuron.2017.06.036
+openalex_id: W2753444673
+pmid: null
+pmcid: PMC5662113
+title: On the Integration of Space, Time, and Memory
+authors:
+- first: Howard
+  last: Eichenbaum
+journal: Neuron
+publication_year: 2017
+publication_date: '2017-08-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.cell.com/article/S0896627317305603/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Eichenbaum_2017, title={On the Integration of Space, Time,
+  and Memory}, volume={95}, ISSN={0896-6273}, url={http://dx.doi.org/10.1016/j.neuron.2017.06.036},
+  DOI={10.1016/j.neuron.2017.06.036}, number={5}, journal={Neuron}, publisher={Elsevier
+  BV}, author={Eichenbaum, Howard}, year={2017}, month=aug, pages={1007–1018} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.317564+00:00'

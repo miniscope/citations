@@ -1,0 +1,50 @@
+doi: 10.1016/j.celrep.2023.112999
+openalex_id: W4385879793
+pmid: null
+pmcid: null
+title: Adaptive expression of engrams by retroactive interference
+authors:
+- first: Livia
+  last: Autore
+- first: James D.
+  last: O’Leary
+- first: Clara Ortega‐de San
+  last: Luis
+- first: Tomás J.
+  last: Ryan
+journal: Cell Reports
+publication_year: 2023
+publication_date: '2023-08-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.cell.com/article/S2211124723010100/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Autore_2023, title={Adaptive expression of engrams by retroactive
+  interference}, volume={42}, ISSN={2211-1247}, url={http://dx.doi.org/10.1016/j.celrep.2023.112999},
+  DOI={10.1016/j.celrep.2023.112999}, number={8}, journal={Cell Reports}, publisher={Elsevier
+  BV}, author={Autore, Livia and O’Leary, James D. and Ortega-de San Luis, Clara and
+  Ryan, Tomás J.}, year={2023}, month=aug, pages={112999} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319221+00:00'

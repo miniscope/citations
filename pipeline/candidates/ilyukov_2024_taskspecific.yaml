@@ -1,0 +1,55 @@
+doi: 10.1140/epjs/s11734-023-01082-2
+openalex_id: W4391883401
+pmid: null
+pmcid: null
+title: Task-specific approach in customized design of EEG system for small laboratory
+  animals
+authors:
+- first: Egor
+  last: Ilyukov
+- first: Dmitry
+  last: Myagkov
+- first: Dmitry
+  last: Tuktarov
+- first: Sergey
+  last: Popov
+- first: Timofey
+  last: Inozemtsev
+- first: Inna
+  last: Blokhina
+- first: Andrey
+  last: Terskov
+- first: Viktoria
+  last: Adushkina
+- first: Daria
+  last: Zlatogorskaya
+journal: The European Physical Journal Special Topics
+publication_year: 2024
+publication_date: '2024-02-16'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019556+00:00'

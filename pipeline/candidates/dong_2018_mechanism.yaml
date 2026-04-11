@@ -1,0 +1,57 @@
+doi: 10.7554/elife.33417
+openalex_id: W2795153441
+pmid: null
+pmcid: null
+title: Mechanism and consequence of abnormal calcium homeostasis in Rett syndrome
+  astrocytes
+authors:
+- first: Qiping
+  last: Dong
+- first: Qing
+  last: Liu
+- first: Ronghui
+  last: Li
+- first: Anxin
+  last: Wang
+- first: Qian
+  last: Bu
+- first: Kuan Hong
+  last: Wang
+- first: Qiang
+  last: Chang
+journal: eLife
+publication_year: 2018
+publication_date: '2018-03-29'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.7554/elife.33417
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Dong_2018, title={Mechanism and consequence of abnormal calcium
+  homeostasis in Rett syndrome astrocytes}, volume={7}, ISSN={2050-084X}, url={http://dx.doi.org/10.7554/elife.33417},
+  DOI={10.7554/elife.33417}, journal={eLife}, publisher={eLife Sciences Publications,
+  Ltd}, author={Dong, Qiping and Liu, Qing and Li, Ronghui and Wang, Anxin and Bu,
+  Qian and Wang, Kuan Hong and Chang, Qiang}, year={2018}, month=mar }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320006+00:00'

@@ -1,0 +1,50 @@
+doi: 10.1371/journal.pone.0289649
+openalex_id: W4385732647
+pmid: null
+pmcid: null
+title: Time separating spatial memories does not influence their integration in humans
+authors:
+- first: Xiaoping
+  last: Fang
+- first: Benjamin
+  last: Alsbury-Nealy
+- first: Ying
+  last: Wang
+- first: Paul W.
+  last: Frankland
+- first: Sheena A.
+  last: Josselyn
+- first: Margaret L.
+  last: Schlichting
+- first: Katherine
+  last: Duncan
+journal: PLoS ONE
+publication_year: 2023
+publication_date: '2023-08-10'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://dx.doi.org/10.1371/journal.pone.0289649
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.325891+00:00'

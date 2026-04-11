@@ -1,0 +1,45 @@
+doi: 10.3390/ijms25020711
+openalex_id: W4390608129
+pmid: null
+pmcid: null
+title: Neuroligin-3-Mediated Synapse Formation Strengthens Interactions between Hippocampus
+  and Barrel Cortex in Associative Memory
+authors:
+- first: Huajuan
+  last: Xiao
+- first: Yang
+  last: Xu
+- first: Shan
+  last: Cui
+- first: Jin-Hui
+  last: Wang
+journal: International Journal of Molecular Sciences
+publication_year: 2024
+publication_date: '2024-01-05'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.mdpi.com/1422-0067/25/2/711/pdf?version=1704450388
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322613+00:00'

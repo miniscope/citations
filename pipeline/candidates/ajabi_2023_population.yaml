@@ -1,0 +1,50 @@
+doi: 10.1038/s41586-023-05813-2
+openalex_id: W4353055589
+pmid: null
+pmcid: PMC10060160
+title: Population dynamics of head-direction neurons during drift and reorientation
+authors:
+- first: Zaki
+  last: Ajabi
+- first: Alexandra T.
+  last: Keinath
+- first: Xue-Xin
+  last: Wei
+- first: Mark P.
+  last: Brandon
+journal: Nature
+publication_year: 2023
+publication_date: '2023-03-22'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41586-023-05813-2.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Ajabi_2023, title={Population dynamics of head-direction neurons
+  during drift and reorientation}, volume={615}, ISSN={1476-4687}, url={http://dx.doi.org/10.1038/s41586-023-05813-2},
+  DOI={10.1038/s41586-023-05813-2}, number={7954}, journal={Nature}, publisher={Springer
+  Science and Business Media LLC}, author={Ajabi, Zaki and Keinath, Alexandra T. and
+  Wei, Xue-Xin and Brandon, Mark P.}, year={2023}, month=mar, pages={892–899} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.318877+00:00'

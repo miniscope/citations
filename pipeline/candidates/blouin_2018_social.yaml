@@ -1,0 +1,57 @@
+doi: 10.1111/adb.12666
+openalex_id: W2888224664
+pmid: null
+pmcid: PMC6375809
+title: Social stress‐potentiated methamphetamine seeking
+authors:
+- first: Ashley M.
+  last: Blouin
+- first: Swathi
+  last: Pisupati
+- first: Colton G.
+  last: Hoffer
+- first: Madalyn
+  last: Hafenbreidel
+- first: Sarah E.
+  last: Jamieson
+- first: Gavin
+  last: Rumbaugh
+- first: Courtney A.
+  last: Miller
+journal: Addiction Biology
+publication_year: 2018
+publication_date: '2018-08-14'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.ncbi.nlm.nih.gov/pmc/articles/6375809
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Blouin_2018, title={Social stress‐potentiated methamphetamine
+  seeking}, volume={24}, ISSN={1369-1600}, url={http://dx.doi.org/10.1111/adb.12666},
+  DOI={10.1111/adb.12666}, number={5}, journal={Addiction Biology}, publisher={Wiley},
+  author={Blouin, Ashley M. and Pisupati, Swathi and Hoffer, Colton G. and Hafenbreidel,
+  Madalyn and Jamieson, Sarah E. and Rumbaugh, Gavin and Miller, Courtney A.}, year={2018},
+  month=aug, pages={958–968} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322127+00:00'

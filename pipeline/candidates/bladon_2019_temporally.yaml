@@ -1,0 +1,52 @@
+doi: 10.1523/jneurosci.1420-18.2019
+openalex_id: W2954000323
+pmid: null
+pmcid: null
+title: In a Temporally Segmented Experience Hippocampal Neurons Represent Temporally
+  Drifting Context But Not Discrete Segments
+authors:
+- first: John
+  last: Bladon
+- first: Daniel J.
+  last: Sheehan
+- first: Camila S. De
+  last: Freitas
+- first: Marc W.
+  last: Howard
+journal: Journal of Neuroscience
+publication_year: 2019
+publication_date: '2019-06-28'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.jneurosci.org/content/jneuro/39/35/6936.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Bladon_2019, title={In a Temporally Segmented Experience Hippocampal
+  Neurons Represent Temporally Drifting Context But Not Discrete Segments}, volume={39},
+  ISSN={1529-2401}, url={http://dx.doi.org/10.1523/jneurosci.1420-18.2019}, DOI={10.1523/jneurosci.1420-18.2019},
+  number={35}, journal={The Journal of Neuroscience}, publisher={Society for Neuroscience},
+  author={Bladon, John H. and Sheehan, Daniel Joseph and De Freitas, Camila S. and
+  Howard, Marc W.}, year={2019}, month=jun, pages={6936–6952} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321564+00:00'

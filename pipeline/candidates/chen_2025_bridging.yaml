@@ -1,0 +1,61 @@
+doi: 10.1016/j.cell.2025.10.012
+openalex_id: W4416179695
+pmid: null
+pmcid: PMC12769888
+title: 'Bridging single cells to organs: Mesoscale modules as fundamental units of
+  tissue function'
+authors:
+- first: Yun
+  last: Chen
+- first: Ronald N.
+  last: Germain
+- first: Ginger
+  last: Hunter
+- first: Rajan P.
+  last: Kulkarni
+- first: Arthur D.
+  last: Lander
+- first: Pedro R.
+  last: Löwenstein
+- first: Jeremy E.
+  last: Purvis
+- first: Harikesh S.
+  last: Wong
+journal: Cell
+publication_year: 2025
+publication_date: '2025-11-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.cell.2025.10.012
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Chen_2025, title={Bridging single cells to organs: Mesoscale
+  modules as fundamental units of tissue function}, volume={188}, ISSN={0092-8674},
+  url={http://dx.doi.org/10.1016/j.cell.2025.10.012}, DOI={10.1016/j.cell.2025.10.012},
+  number={23}, journal={Cell}, publisher={Elsevier BV}, author={Chen, Yun and Germain,
+  Ronald N. and Hunter, Ginger L. and Kulkarni, Rajan P. and Lander, Arthur D. and
+  Lowenstein, Pedro and Purvis, Jeremy E. and Wong, Harikesh S.}, year={2025}, month=nov,
+  pages={6393–6410} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374028+00:00'

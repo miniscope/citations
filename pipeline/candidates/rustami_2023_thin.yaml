@@ -1,0 +1,53 @@
+doi: 10.3390/s23073695
+openalex_id: W4362584415
+pmid: null
+pmcid: null
+title: Thin and Scalable Hybrid Emission Filter via Plasma Etching for Low-Invasive
+  Fluorescence Detection
+authors:
+- first: Erus
+  last: Rustami
+- first: Kiyotaka
+  last: Sasagawa
+- first: Kenji
+  last: Sugie
+- first: Yasumi
+  last: Ohta
+- first: Hironari
+  last: Takehara
+- first: Makito
+  last: Haruta
+- first: Hiroyuki
+  last: Tashiro
+- first: Jun
+  last: Ohta
+journal: Sensors
+publication_year: 2023
+publication_date: '2023-04-03'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.mdpi.com/1424-8220/23/7/3695/pdf?version=1680500609
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322543+00:00'

@@ -1,0 +1,45 @@
+doi: 10.3791/63049-v
+openalex_id: W4286907663
+pmid: null
+pmcid: null
+title: Stereotaxic Viral Injection and Gradient-Index Lens Implantation for Deep Brain
+  &lt;em&gt;In Vivo&lt;/em&gt; Calcium Imaging
+authors:
+- first: Rashmi
+  last: Thapa
+- first: Bo
+  last: Liang
+- first: Rongsong
+  last: Liu
+- first: Yun
+  last: Li
+journal: Journal of Visualized Experiments
+publication_year: 2021
+publication_date: '2021-10-08'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.jove.com/pdf/63049/stereotaxic-viral-injection-gradient-index-lens-implantation-for-deep
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.375943+00:00'

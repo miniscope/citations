@@ -1,0 +1,48 @@
+doi: 10.1016/j.conb.2017.06.001
+openalex_id: W2725138628
+pmid: null
+pmcid: null
+title: 'Hebbian plasticity in vivo: relevance and induction'
+authors:
+- first: Niels
+  last: Andersen
+- first: Nathalie
+  last: Krauth
+- first: Sadegh
+  last: Nabavi
+journal: Current Opinion in Neurobiology
+publication_year: 2017
+publication_date: '2017-07-03'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Andersen_2017, title={Hebbian plasticity in vivo: relevance
+  and induction}, volume={45}, ISSN={0959-4388}, url={http://dx.doi.org/10.1016/j.conb.2017.06.001},
+  DOI={10.1016/j.conb.2017.06.001}, journal={Current Opinion in Neurobiology}, publisher={Elsevier
+  BV}, author={Andersen, Niels and Krauth, Nathalie and Nabavi, Sadegh}, year={2017},
+  month=aug, pages={188–192} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319738+00:00'

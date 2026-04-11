@@ -1,0 +1,59 @@
+doi: 10.1038/s41380-020-01001-0
+openalex_id: W3130009767
+pmid: null
+pmcid: null
+title: Neurotrophin receptor activation rescues cognitive and synaptic abnormalities
+  caused by hemizygosity of the psychiatric risk gene Cacna1c
+authors:
+- first: Cezar M.
+  last: Tigaret
+- first: Tzu‐Ching E.
+  last: Lin
+- first: Edward
+  last: Morrell
+- first: Lucy
+  last: Sykes
+- first: Anna
+  last: Moon
+- first: Michael
+  last: O’Donovan
+- first: Michael J.
+  last: Owen
+- first: Lawrence S.
+  last: Wilkinson
+- first: Matthew W.
+  last: Jones
+- first: Kerrie L.
+  last: Thomas
+- first: Jérémy
+  last: Hall
+journal: Molecular Psychiatry
+publication_year: 2021
+publication_date: '2021-02-17'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41380-020-01001-0.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320198+00:00'

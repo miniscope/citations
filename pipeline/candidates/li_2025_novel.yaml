@@ -1,0 +1,65 @@
+doi: 10.3389/fpsyt.2025.1692751
+openalex_id: W4416390641
+pmid: null
+pmcid: null
+title: 'Novel and emerging anesthetic drugs for the treatments of major depression:
+  a comprehensive review of efficacy, mechanism, and outlook'
+authors:
+- first: Chao
+  last: Li
+- first: Zhihui
+  last: Wang
+- first: X.
+  last: Ye
+- first: Jiahui
+  last: Lv
+- first: Fang‐Ming
+  last: Chen
+- first: Yining
+  last: Zhang
+- first: Jianhua
+  last: Liu
+- first: Xin
+  last: Li
+- first: Jingjing
+  last: Duan
+- first: Ying
+  last: Wang
+- first: Bin
+  last: Wang
+- first: Wei
+  last: Tang
+- first: Jinghui
+  last: Zhang
+- first: Yun
+  last: Teng
+journal: Frontiers in Psychiatry
+publication_year: 2025
+publication_date: '2025-11-18'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://public-pages-files-2025.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1692751/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.326542+00:00'

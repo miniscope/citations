@@ -1,0 +1,50 @@
+doi: 10.1016/j.conb.2022.102609
+openalex_id: W4290098532
+pmid: null
+pmcid: null
+title: 'Representational drift: Emerging theories for continual learning and experimental
+  future directions'
+authors:
+- first: Laura
+  last: Driscoll
+- first: Lea
+  last: Duncker
+- first: Christopher D.
+  last: Harvey
+journal: Current Opinion in Neurobiology
+publication_year: 2022
+publication_date: '2022-08-05'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.conb.2022.102609
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Driscoll_2022, title={Representational drift: Emerging theories
+  for continual learning and experimental future directions}, volume={76}, ISSN={0959-4388},
+  url={http://dx.doi.org/10.1016/j.conb.2022.102609}, DOI={10.1016/j.conb.2022.102609},
+  journal={Current Opinion in Neurobiology}, publisher={Elsevier BV}, author={Driscoll,
+  Laura N. and Duncker, Lea and Harvey, Christopher D.}, year={2022}, month=oct, pages={102609}
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.317841+00:00'

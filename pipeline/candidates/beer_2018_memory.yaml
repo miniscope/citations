@@ -1,0 +1,57 @@
+doi: 10.1371/journal.pbio.2006100
+openalex_id: W2889000691
+pmid: null
+pmcid: PMC6136809
+title: The memory for time and space differentially engages the proximal and distal
+  parts of the hippocampal subfields CA1 and CA3
+authors:
+- first: Zachery
+  last: Beer
+- first: Peter
+  last: Vavra
+- first: Erika
+  last: Atucha
+- first: Katja
+  last: Rentzing
+- first: Hans‐Jochen
+  last: Heinze
+- first: Magdalena
+  last: Sauvage
+journal: PLoS Biology
+publication_year: 2018
+publication_date: '2018-08-28'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pbio.2006100/2/pbio.2006100.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210222%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210222T021850Z&X-Goog-Expires=3600&X-Goog-SignedHeaders=host&X-Goog-Signature=15e523087b838f51481accf399d67725784e64560b26e39f4b4a539f8d255c1ff7a47409ce7357d2380453a30ab301434c11ee139f04464461d9c4d3e9b7ef10ecb4c21b3d56d34b1365f08e4cfb2c61cc32e6bde26267a9d25e653c90c2d9f32a29662ab3ef2f1974deda3aeab7d2f5b04dd4cc06c7ea05c5c7e8de6d2e85d91ad64d628dedf5ef79a03c2f19e7357bd95b4b2952eac71b2f5394efb7ff24b9d4b6d72255e897c24d7a00aa8b0e1eda3691dadcd794b72c59b183d9e49bf7c178560838ed53e8b366ef8eea0fb6eb8d45c4bd7266e9850850cdcac6f6cde4afe78e332b1290a79e60c2ef5e2cdcb26a1ac70552e0ad9b840bd43c33d37e7630
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Beer_2018, title={The memory for time and space differentially
+  engages the proximal and distal parts of the hippocampal subfields CA1 and CA3},
+  volume={16}, ISSN={1545-7885}, url={http://dx.doi.org/10.1371/journal.pbio.2006100},
+  DOI={10.1371/journal.pbio.2006100}, number={8}, journal={PLOS Biology}, publisher={Public
+  Library of Science (PLoS)}, author={Beer, Zachery and Vavra, Peter and Atucha, Erika
+  and Rentzing, Katja and Heinze, Hans-Jochen and Sauvage, Magdalena M.}, editor={Csicsvari,
+  Jozsef}, year={2018}, month=aug, pages={e2006100} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319810+00:00'

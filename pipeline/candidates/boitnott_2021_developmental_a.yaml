@@ -1,0 +1,74 @@
+doi: 10.1101/2021.01.22.427482
+openalex_id: W3125993797
+pmid: null
+pmcid: null
+title: Developmental and behavioral phenotypes in a new mouse model of DDX3X syndrome
+authors:
+- first: Andrea
+  last: Boitnott
+- first: Dévina C.
+  last: Ung
+- first: Marta
+  last: García-Forn
+- first: Kristi
+  last: Niblo
+- first: Danielle
+  last: Mendonca
+- first: Michael
+  last: Flores
+- first: Sylvia
+  last: Maxwell
+- first: Jacob
+  last: Ellegood
+- first: Lily R.
+  last: Qiu
+- first: Dorothy E.
+  last: Grice
+- first: Jason P.
+  last: Lerch
+- first: Mladen‐Roko
+  last: Rašin
+- first: Joseph D.
+  last: Buxbaum
+- first: Elodie
+  last: Drapeau
+- first: Silvia De
+  last: Rubeis
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2021
+publication_date: '2021-01-23'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Boitnott_2021, title={Developmental and behavioral phenotypes
+  in a new mouse model of DDX3X syndrome}, url={http://dx.doi.org/10.1101/2021.01.22.427482},
+  DOI={10.1101/2021.01.22.427482}, publisher={openRxiv}, author={Boitnott, Andrea
+  and Ung, Dévina C and Garcia-Forn, Marta and Niblo, Kristi and Mendonca, Danielle
+  and Flores, Michael and Maxwell, Sylvia and Ellegood, Jacob and Qiu, Lily R and
+  Grice, Dorothy E and Lerch, Jason P and Rasin, Mladen-Roko and Buxbaum, Joseph D
+  and Drapeau, Elodie and Rubeis, Silvia De}, year={2021}, month=jan }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324578+00:00'

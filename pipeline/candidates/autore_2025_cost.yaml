@@ -1,0 +1,48 @@
+doi: 10.1016/j.tins.2025.07.011
+openalex_id: W4413137436
+pmid: null
+pmcid: null
+title: 'The cost of remembering: engram competition as a flexible mechanism of forgetting'
+authors:
+- first: Livia
+  last: Autore
+- first: Michael R.
+  last: Drew
+- first: Tomás J.
+  last: Ryan
+journal: Trends in Neurosciences
+publication_year: 2025
+publication_date: '2025-08-14'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.tins.2025.07.011
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Autore_2025, title={The cost of remembering: engram competition
+  as a flexible mechanism of forgetting}, volume={48}, ISSN={0166-2236}, url={http://dx.doi.org/10.1016/j.tins.2025.07.011},
+  DOI={10.1016/j.tins.2025.07.011}, number={10}, journal={Trends in Neurosciences},
+  publisher={Elsevier BV}, author={Autore, Livia and Drew, Michael R. and Ryan, Tomás
+  J.}, year={2025}, month=oct, pages={728–738} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319675+00:00'

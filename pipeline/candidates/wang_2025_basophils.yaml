@@ -1,0 +1,56 @@
+doi: 10.1016/j.jaci.2025.10.027
+openalex_id: W4416007903
+pmid: null
+pmcid: null
+title: Basophils activate oncostatin M receptor–expressing vagal sensory neurons
+authors:
+- first: Jo-Chiao
+  last: Wang
+- first: Kicheon
+  last: Park
+- first: A.
+  last: Roger
+- first: Amin Reza
+  last: Nikpoor
+- first: Théo
+  last: Crosson
+- first: Hoon H.
+  last: Sunwoo
+- first: Eva
+  last: Kaufmann
+- first: Moutih
+  last: Rafei
+- first: Eric H.
+  last: Chang
+- first: Sébastien
+  last: Talbot
+journal: Journal of Allergy and Clinical Immunology
+publication_year: 2025
+publication_date: '2025-11-07'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.jaci.2025.10.027
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322068+00:00'

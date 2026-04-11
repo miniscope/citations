@@ -1,0 +1,61 @@
+doi: 10.31083/jin40000
+openalex_id: W4415057584
+pmid: null
+pmcid: null
+title: Time-dependent Potentiation of False Context Fear Memory Through Glucocorticoid
+  Receptor Activation and Mineralocorticoid Receptor Inactivation
+authors:
+- first: H.
+  last: Asano
+- first: K
+  last: Midorikawa
+- first: Yayako
+  last: Karino
+- first: Fuka
+  last: Ohnuma
+- first: Emi
+  last: Kasama
+- first: Miho
+  last: Moriya
+- first: Tohru
+  last: Matsuki
+- first: Kenjiro
+  last: Seki
+journal: Journal of Integrative Neuroscience
+publication_year: 2025
+publication_date: '2025-09-28'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.imrpress.com/journal/JIN/24/9/10.31083/JIN40000/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Asano_2025, title={Time-dependent Potentiation of False Context
+  Fear Memory Through Glucocorticoid Receptor Activation and Mineralocorticoid Receptor
+  Inactivation}, volume={24}, ISSN={1757-448X}, url={http://dx.doi.org/10.31083/jin40000},
+  DOI={10.31083/jin40000}, number={9}, journal={Journal of Integrative Neuroscience},
+  publisher={IMR Press}, author={Asano, Haruka and Midorikawa, Kotono and Karino,
+  Yayako and Ohnuma, Fuka and Kasama, Emi and Moriya, Miho and Matsuki, Tohru and
+  Seki, Kenjiro}, year={2025}, month=sep }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.326499+00:00'

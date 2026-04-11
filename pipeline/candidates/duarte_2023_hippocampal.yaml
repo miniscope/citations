@@ -1,0 +1,49 @@
+doi: 10.1101/2023.05.12.540475
+openalex_id: W4376256567
+pmid: null
+pmcid: null
+title: Hippocampal contextualization of social rewards
+authors:
+- first: Joana Mendes
+  last: Duarte
+- first: Kaizhen
+  last: Li
+- first: Robin
+  last: Nguyen
+- first: Stéphane
+  last: Ciocchi
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2023
+publication_date: '2023-05-12'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2023/05/12/2023.05.12.540475.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Duarte_2023, title={Hippocampal contextualization of social
+  rewards}, url={http://dx.doi.org/10.1101/2023.05.12.540475}, DOI={10.1101/2023.05.12.540475},
+  publisher={openRxiv}, author={Duarte, Joana Mendes and Li, Kaizhen and Nguyen, Robin
+  and Ciocchi, Stéphane}, year={2023}, month=may }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.325018+00:00'

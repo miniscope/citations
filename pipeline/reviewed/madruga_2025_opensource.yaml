@@ -1,0 +1,104 @@
+doi: 10.1038/s41467-025-62534-y
+openalex_id: W4412866180
+pmid: null
+pmcid: PMC12318034
+title: Open-source, high performance miniature 2-photon microscopy systems for freely
+  behaving animals
+authors:
+- first: Blake
+  last: Madruga
+- first: Conor C.
+  last: Dorian
+- first: Long
+  last: Yang
+- first: Megha
+  last: Sehgal
+- first: Alcino J.
+  last: Silva
+- first: Matthew
+  last: Shtrahman
+- first: Daniel
+  last: Aharoni
+- first: Peyman
+  last: Golshani
+journal: Nature Communications
+publication_year: 2025
+publication_date: '2025-08-03'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41467-025-62534-y.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Madruga_2025, title={Open-source, high performance miniature
+  2-photon microscopy systems for freely behaving animals}, volume={16}, ISSN={2041-1723},
+  url={http://dx.doi.org/10.1038/s41467-025-62534-y}, DOI={10.1038/s41467-025-62534-y},
+  number={1}, journal={Nature Communications}, publisher={Springer Science and Business
+  Media LLC}, author={Madruga, Blake A. and Dorian, Conor C. and Yang, Long and Sehgal,
+  Megha and Silva, Alcino J. and Shtrahman, Matthew and Aharoni, Daniel and Golshani,
+  Peyman}, year={2025}, month=aug }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: true
+  confidence: 0.99
+  tools_identified:
+  - UCLA 2P Miniscope
+  evidence:
+  - source: abstract
+    text: '"Here we describe the UCLA 2P Miniscope, an open-source miniature 2-photon
+      microscope capable of recording calcium dynamics from neurons in deep structures
+      and from dendrites over a 445 um x 380 um field of view."'
+    note: This paper introduces the UCLA 2P Miniscope, which is an explicitly tracked
+      tool in the Miniscope project's discovery_config.yaml.
+  - source: metadata
+    text: Daniel Aharoni and Peyman Golshani are co-authors (Miniscope project PIs)
+    note: Paper is from the tool developers' lab. Per review guidelines, papers from
+      the tool developers' lab must not be rejected.
+  - source: full_text
+    text: '"The miniature microscope itself and all supporting equipment are open-source
+      and all files needed for building the scope can be accessed through the Golshani
+      Lab GitHub repository."'
+    note: Open-source tool release with GitHub repository at https://github.com/golshanilab/UCLA_2P_Miniscope.
+  - source: full_text
+    text: '"In this work, we describe the development of the UCLA 2P Miniscope, an
+      open-source miniature 2P microscope that weighs ~4 g and is designed to be easily
+      implemented by neuroscientists."'
+    note: Describes design, fabrication, and validation of the UCLA 2P Miniscope system
+      including optical, mechanical, and electronic subsystems.
+  - source: references
+    text: 'Cites seed papers: Shuman et al. 2020 (ref 5), Cai et al. 2016 (ref 2),
+      Guo et al. MiniLFOV 2023 (ref 7)'
+    note: References multiple Miniscope family papers as foundational 1P work that
+      motivated this 2P system.
+  paper_type: tool_paper
+  suggested_component: UCLA 2P Miniscope
+  suggested_technique: two-photon calcium imaging
+  reasoning: This paper introduces the UCLA 2P Miniscope, which is explicitly listed
+    as a tracked tool in discovery_config.yaml. It is authored by the Miniscope project's
+    core PIs (Daniel Aharoni, Peyman Golshani). The paper describes the complete design,
+    fabrication, and in vivo validation of this new open-source miniature two-photon
+    microscope, demonstrating calcium imaging in hippocampal CA1, retrosplenial cortex
+    dendrites, and dentate gyrus at depths over 620 um. As a tool paper that introduces
+    a tracked instrument in the Miniscope family, it is clearly related to the project.
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374449+00:00'
+- stage: rejected
+  timestamp: '2026-04-10T00:00:00+00:00'
+  agent: citation-analysis-agent
+  reason: 'Tool paper from Miniscope lab: describes development of UCLA 2P Miniscope,
+    does not USE any tracked tool (v4, MiniLFOV, MiniXL)'
+- stage: reviewed
+  timestamp: '2026-04-10T00:00:00+00:00'
+  agent: citation-analysis-agent
+  reason: 'Tool paper introducing UCLA 2P Miniscope, a tracked tool in the Miniscope
+    family. From the tool developers'' lab (Aharoni/Golshani). Related: true.'

@@ -1,0 +1,51 @@
+doi: 10.1101/2024.06.06.596654
+openalex_id: W4399443539
+pmid: null
+pmcid: null
+title: Refinement of efficient encodings of movement in the dorsolateral striatum
+  throughout learning
+authors:
+- first: Omar
+  last: Jáidar
+- first: Eddy
+  last: Albarran
+- first: Eddy
+  last: Albarran
+- first: Eli Nathan
+  last: Albarran
+- first: Eli Nathan
+  last: Albarran
+- first: Yuwei
+  last: Wu
+- first: Jun
+  last: Ding
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2024
+publication_date: '2024-06-06'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2024/06/06/2024.06.06.596654.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.325076+00:00'

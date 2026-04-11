@@ -1,0 +1,53 @@
+doi: 10.64898/2025.12.17.694941
+openalex_id: W7116394308
+pmid: null
+pmcid: PMC12746068
+title: Unique deficits in place coding across subfields of the hippocampus in a mouse
+  model of temporal lobe epilepsy
+authors:
+- first: Brittney L.
+  last: Boublil
+- first: Margaret M.
+  last: Donahue
+- first: Cathy
+  last: Dang
+- first: Gergely
+  last: Tarcsay
+- first: Laura A.
+  last: Ewell
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2025
+publication_date: '2025-12-19'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.64898/2025.12.17.694941
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Boublil_2025, title={Unique deficits in place coding across
+  subfields of the hippocampus in a mouse model of temporal lobe epilepsy}, url={http://dx.doi.org/10.64898/2025.12.17.694941},
+  DOI={10.64898/2025.12.17.694941}, publisher={openRxiv}, author={Boublil, Brittney
+  L. and Donahue, Margaret M. and Dang, Cathy B. and Tarcsay, Gergely and Ewell, Laura
+  A.}, year={2025}, month=dec }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.376450+00:00'

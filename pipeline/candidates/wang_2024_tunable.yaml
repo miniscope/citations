@@ -1,0 +1,49 @@
+doi: 10.1002/adfm.202415918
+openalex_id: W4403700047
+pmid: null
+pmcid: null
+title: Tunable Imaging Distance Focusing Module Directly Driven by a Thin‐plate Piezoelectric
+  Actuator
+authors:
+- first: Yingzhi
+  last: Wang
+- first: Jie
+  last: Deng
+- first: Shuo
+  last: Ma
+- first: Weishan
+  last: Chen
+- first: Shijing
+  last: Zhang
+- first: Yingxiang
+  last: Liu
+journal: Advanced Functional Materials
+publication_year: 2024
+publication_date: '2024-10-22'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202415918
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019091+00:00'

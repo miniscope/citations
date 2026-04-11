@@ -1,0 +1,46 @@
+doi: 10.3389/fnins.2018.00412
+openalex_id: W2806066696
+pmid: null
+pmcid: null
+title: 'Common Defects of Spine Dynamics and Circuit Function in Neurodevelopmental
+  Disorders: A Systematic Review of Findings From in Vivo Optical Imaging of Mouse
+  Models'
+authors:
+- first: Nobuhiro
+  last: Nakai
+- first: Toru
+  last: Takumi
+- first: Junichi
+  last: Nakai
+- first: Masaaki
+  last: Sato
+journal: Frontiers in Neuroscience
+publication_year: 2018
+publication_date: '2018-06-19'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.frontiersin.org/articles/10.3389/fnins.2018.00412/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319857+00:00'

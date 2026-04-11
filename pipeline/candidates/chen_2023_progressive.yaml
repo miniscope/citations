@@ -1,0 +1,70 @@
+doi: 10.1523/jneurosci.1204-23.2023
+openalex_id: W4386766499
+pmid: null
+pmcid: null
+title: Progressive Excitability Changes in the Medial Entorhinal Cortex in the 3xTg
+  Mouse Model of Alzheimer's Disease Pathology
+authors:
+- first: Lingxuan
+  last: Chen
+- first: Zoé Christenson
+  last: Wick
+- first: Lauren M.
+  last: Vetere
+- first: N. D.
+  last: Vaughan
+- first: A
+  last: Jurkowski
+- first: Angelina
+  last: Galas
+- first: Keziah S.
+  last: Diego
+- first: Paul A.
+  last: Philipsberg
+- first: Iván
+  last: Soler
+- first: Yu
+  last: Feng
+- first: Denise J.
+  last: Cai
+- first: Tristan
+  last: Shuman
+journal: Journal of Neuroscience
+publication_year: 2023
+publication_date: '2023-09-15'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://escholarship.org/content/qt65z2n3m8/qt65z2n3m8.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Chen_2023, title={Progressive Excitability Changes in the Medial
+  Entorhinal Cortex in the 3xTg Mouse Model of Alzheimer’s Disease Pathology}, volume={43},
+  ISSN={1529-2401}, url={http://dx.doi.org/10.1523/jneurosci.1204-23.2023}, DOI={10.1523/jneurosci.1204-23.2023},
+  number={44}, journal={The Journal of Neuroscience}, publisher={Society for Neuroscience},
+  author={Chen, Lingxuan and Christenson Wick, Zoé and Vetere, Lauren M. and Vaughan,
+  Nick and Jurkowski, Albert and Galas, Angelina and Diego, Keziah S. and Philipsberg,
+  Paul A. and Soler, Ivan and Feng, Yu and Cai, Denise J. and Shuman, Tristan}, year={2023},
+  month=sep, pages={7441–7454} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374228+00:00'

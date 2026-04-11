@@ -1,0 +1,51 @@
+doi: 10.1101/2022.01.13.476247
+openalex_id: W4206475713
+pmid: null
+pmcid: null
+title: Lateral entorhinal cortex inputs modulate hippocampal dendritic excitability
+  by recruiting a local disinhibitory microcircuit
+authors:
+- first: Olesia M.
+  last: Bilash
+- first: Spyridon
+  last: Chavlis
+- first: Panayiota
+  last: Poirazi
+- first: Jayeeta
+  last: Basu
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2022
+publication_date: '2022-01-14'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2022/01/14/2022.01.13.476247.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Bilash_2022, title={Lateral entorhinal cortex inputs modulate
+  hippocampal dendritic excitability by recruiting a local disinhibitory microcircuit},
+  url={http://dx.doi.org/10.1101/2022.01.13.476247}, DOI={10.1101/2022.01.13.476247},
+  publisher={openRxiv}, author={Bilash, Olesia M. and Chavlis, Spyridon and Poirazi,
+  Panayiota and Basu, Jayeeta}, year={2022}, month=jan }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.375435+00:00'

@@ -1,0 +1,49 @@
+doi: 10.1101/2024.08.16.608328
+openalex_id: W4401690749
+pmid: null
+pmcid: null
+title: 'MiniXL: An open-source, large field-of-view epifluorescence miniature microscope
+  for mice capable of single-cell resolution and multi-brain region imaging'
+authors:
+- first: Pingping
+  last: Zhao
+- first: Changliang
+  last: Guo
+- first: Mian
+  last: Xie
+- first: Liangyi
+  last: Chen
+- first: Peyman
+  last: Golshani
+- first: Daniel
+  last: Aharoni
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2024
+publication_date: '2024-08-19'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2024/08/19/2024.08.16.608328.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.375464+00:00'

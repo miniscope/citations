@@ -1,0 +1,69 @@
+doi: 10.7554/elife.100642
+openalex_id: W4402780104
+pmid: null
+pmcid: null
+title: Disrupted Hippocampal Theta-Gamma Coupling and Spike-Field Coherence Following
+  Experimental Traumatic Brain Injury
+authors:
+- first: Christopher D.
+  last: Adam
+- first: Ehsan
+  last: Mirzakhalili
+- first: Kimberly G.
+  last: Gagnon
+- first: Carlo
+  last: Cottone
+- first: John D.
+  last: Arena
+- first: Alexandra V.
+  last: Ulyanova
+- first: Victoria E.
+  last: Johnson
+- first: John A.
+  last: Wolf
+journal: null
+publication_year: 2024
+publication_date: '2024-09-16'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://elifesciences.org/reviewed-preprints/100642.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: abstract_only
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.95
+  tools_identified: []
+  evidence:
+  - source: abstract
+    text: "Using high-density laminar electrophysiology, we identified diminished oscillatory
+      magnitude throughout CA1 regions, alongside substantial reductions in theta-gamma
+      phase-amplitude interactions in injured subjects."
+    assessment: "Paper explicitly uses laminar electrophysiology (electrode-based recording),
+      not miniature microscope calcium imaging. No mention of Miniscope, miniature
+      microscope, calcium imaging, GCaMP, or any optical imaging tool."
+  paper_type: primary_research
+  suggested_component: null
+  suggested_technique: electrophysiology
+  reasoning: "This paper studies hippocampal theta-gamma coupling and spike-field coherence
+    after traumatic brain injury using high-density laminar electrophysiology. It cites
+    the seed paper (Shuman et al. 2019) for scientific context but does not use any
+    Miniscope lab tools. The methodology is entirely electrode-based (laminar probes,
+    spike sorting, LFP analysis), not optical imaging. Abstract-only analysis but
+    high confidence because the methods are explicitly stated as electrophysiology."
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.375188+00:00'
+- stage: reviewed
+  timestamp: '2026-04-11T04:00:00.000000+00:00'
+  result: rejected
+  reason: "Paper uses electrophysiology, not Miniscope tools"

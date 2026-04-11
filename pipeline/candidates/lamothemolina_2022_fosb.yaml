@@ -1,0 +1,65 @@
+doi: 10.1038/s41467-022-33947-w
+openalex_id: W4307771761
+pmid: null
+pmcid: null
+title: ΔFosB accumulation in hippocampal granule cells drives cFos pattern separation
+  during spatial learning
+authors:
+- first: Paul J.
+  last: Lamothe‐Molina
+- first: Andreas
+  last: Franzelin
+- first: Lennart
+  last: Beck
+- first: Dong
+  last: Li
+- first: Lea
+  last: Auksutat
+- first: Tim
+  last: Fieblinger
+- first: Laura
+  last: Laprell
+- first: Joachim
+  last: Alhbeck
+- first: Christine E.
+  last: Gee
+- first: Matthias
+  last: Kneussel
+- first: Andreas K.
+  last: Engel
+- first: Claus C.
+  last: Hilgetag
+- first: Fabio
+  last: Morellini
+- first: Thomas G.
+  last: Oertner
+journal: Nature Communications
+publication_year: 2022
+publication_date: '2022-10-26'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41467-022-33947-w.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319116+00:00'

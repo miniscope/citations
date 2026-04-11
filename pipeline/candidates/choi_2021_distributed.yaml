@@ -1,0 +1,60 @@
+doi: 10.1101/2021.12.01.469698
+openalex_id: W3217027228
+pmid: null
+pmcid: null
+title: Distributed processing for action control by prelimbic circuits targeting anterior-posterior
+  dorsal striatal subregions
+authors:
+- first: Kyuhyun
+  last: Choi
+- first: Eugenio
+  last: Piasini
+- first: Luigim Vargas
+  last: Cifuentes
+- first: Edgar
+  last: Díaz-Hernández
+- first: Nathan T.
+  last: Henderson
+- first: Manivannan
+  last: Subramaniyan
+- first: Charles R.
+  last: Gerfen
+- first: Marc V.
+  last: Fuccillo
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2021
+publication_date: '2021-12-02'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2021/12/02/2021.12.01.469698.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Choi_2021, title={Distributed processing for action control
+  by prelimbic circuits targeting anterior-posterior dorsal striatal subregions},
+  url={http://dx.doi.org/10.1101/2021.12.01.469698}, DOI={10.1101/2021.12.01.469698},
+  publisher={openRxiv}, author={Choi, Kyuhyun and Piasini, Eugenio and Cifuentes-Vargas,
+  Luigim and Díaz-Hernández, Edgar and Henderson, Nathan T. and Subramaniyan, Manivannan
+  and Gerfen, Charles R. and Fuccillo, Marc V.}, year={2021}, month=dec }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.323270+00:00'

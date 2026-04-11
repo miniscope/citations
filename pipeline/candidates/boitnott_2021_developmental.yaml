@@ -1,0 +1,77 @@
+doi: 10.1016/j.biopsych.2021.05.027
+openalex_id: W3172682706
+pmid: null
+pmcid: PMC8571043
+title: Developmental and Behavioral Phenotypes in a Mouse Model of DDX3X Syndrome
+authors:
+- first: Andrea
+  last: Boitnott
+- first: Marta
+  last: García-Forn
+- first: Dévina C.
+  last: Ung
+- first: Kristi
+  last: Niblo
+- first: Danielle
+  last: Mendonca
+- first: Yeaji
+  last: Park
+- first: Michael
+  last: Flores
+- first: Sylvia
+  last: Maxwell
+- first: Jacob
+  last: Ellegood
+- first: Lily R.
+  last: Qiu
+- first: Dorothy E.
+  last: Grice
+- first: Jason P.
+  last: Lerch
+- first: Mladen‐Roko
+  last: Rašin
+- first: Joseph D.
+  last: Buxbaum
+- first: Elodie
+  last: Drapeau
+- first: Silvia De
+  last: Rubeis
+journal: Biological Psychiatry
+publication_year: 2021
+publication_date: '2021-06-07'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.biopsych.2021.05.027
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Boitnott_2021, title={Developmental and Behavioral Phenotypes
+  in a Mouse Model of DDX3X Syndrome}, volume={90}, ISSN={0006-3223}, url={http://dx.doi.org/10.1016/j.biopsych.2021.05.027},
+  DOI={10.1016/j.biopsych.2021.05.027}, number={11}, journal={Biological Psychiatry},
+  publisher={Elsevier BV}, author={Boitnott, Andrea and Garcia-Forn, Marta and Ung,
+  Dévina C. and Niblo, Kristi and Mendonca, Danielle and Park, Yeaji and Flores, Michael
+  and Maxwell, Sylvia and Ellegood, Jacob and Qiu, Lily R. and Grice, Dorothy E. and
+  Lerch, Jason P. and Rasin, Mladen-Roko and Buxbaum, Joseph D. and Drapeau, Elodie
+  and De Rubeis, Silvia}, year={2021}, month=dec, pages={742–755} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319990+00:00'

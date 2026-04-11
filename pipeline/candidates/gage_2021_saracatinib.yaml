@@ -1,0 +1,52 @@
+doi: 10.3390/antiox11010061
+openalex_id: W4200104255
+pmid: null
+pmcid: null
+title: 'Saracatinib, a Src Tyrosine Kinase Inhibitor, as a Disease Modifier in the
+  Rat DFP Model: Sex Differences, Neurobehavior, Gliosis, Neurodegeneration, and Nitro-Oxidative
+  Stress'
+authors:
+- first: Meghan
+  last: Gage
+- first: Marson
+  last: Putra
+- first: Logan
+  last: Wachter
+- first: Kylie
+  last: Dishman
+- first: Megan
+  last: Gard
+- first: Crystal
+  last: Gomez-Estrada
+- first: Thimmasettappa
+  last: Thippeswamy
+journal: Antioxidants
+publication_year: 2021
+publication_date: '2021-12-28'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.mdpi.com/2076-3921/11/1/61/pdf?version=1640845104
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374128+00:00'

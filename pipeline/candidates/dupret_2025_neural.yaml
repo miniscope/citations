@@ -1,0 +1,48 @@
+doi: 10.1016/j.neuron.2025.11.007
+openalex_id: W7116739514
+pmid: null
+pmcid: null
+title: 'Neural population activity for memory: Properties, computations, and codes'
+authors:
+- first: David
+  last: Dupret
+- first: Stefano
+  last: Fusi
+- first: Stefano
+  last: Panzeri
+journal: Neuron
+publication_year: 2025
+publication_date: '2025-12-22'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.neuron.2025.11.007
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Dupret_2026, title={Neural population activity for memory:
+  Properties, computations, and codes}, volume={114}, ISSN={0896-6273}, url={http://dx.doi.org/10.1016/j.neuron.2025.11.007},
+  DOI={10.1016/j.neuron.2025.11.007}, number={3}, journal={Neuron}, publisher={Elsevier
+  BV}, author={Dupret, David and Fusi, Stefano and Panzeri, Stefano}, year={2026},
+  month=feb, pages={390–407} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.326591+00:00'

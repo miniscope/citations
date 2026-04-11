@@ -1,0 +1,54 @@
+doi: 10.1162/jocn_a_02216
+openalex_id: W4400524405
+pmid: null
+pmcid: PMC11887591
+title: Causal and Chronological Relationships Predict Memory Organization for Nonlinear
+  Narratives
+authors:
+- first: James W.
+  last: Antony
+- first: Angelo
+  last: Lozano
+- first: Pahul
+  last: Dhoat
+- first: Janice
+  last: Chen
+- first: Kelly A.
+  last: Bennion
+journal: Journal of Cognitive Neuroscience
+publication_year: 2024
+publication_date: '2024-01-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://direct.mit.edu/jocn/article-pdf/36/11/2368/2475621/jocn_a_02216.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Antony_2024, title={Causal and Chronological Relationships
+  Predict Memory Organization for Nonlinear Narratives}, volume={36}, ISSN={1530-8898},
+  url={http://dx.doi.org/10.1162/jocn_a_02216}, DOI={10.1162/jocn_a_02216}, number={11},
+  journal={Journal of Cognitive Neuroscience}, publisher={MIT Press}, author={Antony,
+  James and Lozano, Angelo and Dhoat, Pahul and Chen, Janice and Bennion, Kelly},
+  year={2024}, pages={2368–2385} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321084+00:00'

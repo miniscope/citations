@@ -1,0 +1,79 @@
+doi: 10.1101/2022.10.28.514263
+openalex_id: W4307739425
+pmid: null
+pmcid: null
+title: Amygdalostriatal transition zone neurons encode sustained valence to direct
+  conditioned behaviors
+authors:
+- first: Fergil
+  last: Mills
+- first: Christopher R.
+  last: Lee
+- first: J.R.
+  last: Howe
+- first: Hao
+  last: Li
+- first: Shan
+  last: Shao
+- first: Maria N.
+  last: Keisler
+- first: Mackenzie
+  last: Lemieux
+- first: Felix
+  last: Taschbach
+- first: Laurel R.
+  last: Keyes
+- first: Matilde
+  last: Borio
+- first: Hannah S.
+  last: Chen
+- first: Reesha R.
+  last: Patel
+- first: Alexa L.
+  last: Gross
+- first: Jeremy
+  last: Delahanty
+- first: Christian
+  last: Cazares
+- first: Liezl
+  last: Maree
+- first: Romy
+  last: Wichmann
+- first: Talmo
+  last: Pereira
+- first: Marcus K.
+  last: Benna
+- first: Cory M.
+  last: Root
+- first: Kay M.
+  last: Tye
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2022
+publication_date: '2022-10-29'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2022/10/29/2022.10.28.514263.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.323551+00:00'

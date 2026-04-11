@@ -1,0 +1,76 @@
+doi: 10.1101/2024.07.03.601770
+openalex_id: W4400345579
+pmid: null
+pmcid: PMC11244962
+title: Simultaneous dual-color calcium imaging in freely-behaving mice
+authors:
+- first: Zhe
+  last: Dong
+- first: Yu
+  last: Feng
+- first: Keziah S.
+  last: Diego
+- first: Austin M.
+  last: Baggetta
+- first: Brian M.
+  last: Sweis
+- first: Zachary T.
+  last: Pennington
+- first: Sophia I.
+  last: Lamsifer
+- first: Yosif
+  last: Zaki
+- first: Federico
+  last: Sangiuliano
+- first: Paul A.
+  last: Philipsberg
+- first: Denisse
+  last: Morales-Rodriguez
+- first: Daniel M.
+  last: Kircher
+- first: Paul A.
+  last: Slesinger
+- first: Tristan
+  last: Shuman
+- first: Daniel
+  last: Aharoni
+- first: Denise J.
+  last: Cai
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2024
+publication_date: '2024-07-05'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2024/07/05/2024.07.03.601770.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Dong_2024, title={Simultaneous dual-color calcium imaging in
+  freely-behaving mice}, url={http://dx.doi.org/10.1101/2024.07.03.601770}, DOI={10.1101/2024.07.03.601770},
+  publisher={openRxiv}, author={Dong, Zhe and Feng, Yu and Diego, Keziah and Baggetta,
+  Austin M. and Sweis, Brian M. and Pennington, Zachary T. and Lamsifer, Sophia I.
+  and Zaki, Yosif and Sangiuliano, Federico and Philipsberg, Paul A. and Morales-Rodriguez,
+  Denisse and Kircher, Daniel and Slesinger, Paul and Shuman, Tristan and Aharoni,
+  Daniel and Cai, Denise J.}, year={2024}, month=jul }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.375453+00:00'

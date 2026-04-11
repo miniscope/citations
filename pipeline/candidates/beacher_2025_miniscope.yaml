@@ -1,0 +1,64 @@
+doi: 10.1002/cpz1.70090
+openalex_id: W4406252109
+pmid: null
+pmcid: PMC11718238
+title: 'Miniscope Imaging of Nucleus Accumbens Neural Activity in Freely Behaving
+  Rats: Virus Injection, Gradient Index Lens Implantation, Recording Strategies, and
+  Analytical Methods'
+authors:
+- first: Nicholas J.
+  last: Beacher
+- first: Michael W.
+  last: Wang
+- first: Matthew C.
+  last: Broomer
+- first: Jessica Y.
+  last: Kuo
+- first: Kayden A.
+  last: Washington
+- first: Miranda
+  last: Targum
+- first: Yan
+  last: Zhang
+- first: Giovanni
+  last: Barbera
+- first: Da‐Ting
+  last: Lin
+journal: Current Protocols
+publication_year: 2025
+publication_date: '2025-01-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cpz1.70090
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Beacher_2025, title={Miniscope Imaging of Nucleus Accumbens
+  Neural Activity in Freely Behaving Rats: Virus Injection, Gradient Index Lens Implantation,
+  Recording Strategies, and Analytical Methods}, volume={5}, ISSN={2691-1299}, url={http://dx.doi.org/10.1002/cpz1.70090},
+  DOI={10.1002/cpz1.70090}, number={1}, journal={Current Protocols}, publisher={Wiley},
+  author={Beacher, Nicholas J. and Wang, Michael W. and Broomer, Matthew C. and Kuo,
+  Jessica Y. and Washington, Kayden A. and Targum, Miranda and Zhang, Yan and Barbera,
+  Giovanni and Lin, Da‐Ting}, year={2025}, month=jan }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019401+00:00'

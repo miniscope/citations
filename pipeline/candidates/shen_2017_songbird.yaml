@@ -1,0 +1,53 @@
+doi: 10.1101/164228
+openalex_id: W2739414040
+pmid: null
+pmcid: null
+title: Songbird organotypic culture as an <i>in vitro</i> model for interrogating
+  sparse sequencing networks
+authors:
+- first: Jun
+  last: Shen
+- first: Todd
+  last: Blute
+- first: William A.
+  last: Liberti
+- first: William
+  last: Yen
+- first: Derek C.
+  last: Liberti
+- first: Darrell N.
+  last: Kotten
+- first: Alberto
+  last: Cruz‐Martín
+- first: Timothy J.
+  last: Gardner
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2017
+publication_date: '2017-07-17'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2017/07/17/164228.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324744+00:00'

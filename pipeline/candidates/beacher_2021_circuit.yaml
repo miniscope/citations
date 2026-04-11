@@ -1,0 +1,58 @@
+doi: 10.3389/fncir.2021.762441
+openalex_id: W3204394584
+pmid: null
+pmcid: PMC8523886
+title: Circuit Investigation of Social Interaction and Substance Use Disorder Using
+  Miniscopes
+authors:
+- first: Nicholas J.
+  last: Beacher
+- first: Kayden A.
+  last: Washington
+- first: Craig
+  last: Werner
+- first: Yan
+  last: Zhang
+- first: Giovanni
+  last: Barbera
+- first: Yun
+  last: Li
+- first: Da‐Ting
+  last: Lin
+journal: Frontiers in Neural Circuits
+publication_year: 2021
+publication_date: '2021-10-05'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.frontiersin.org/articles/10.3389/fncir.2021.762441/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Beacher_2021, title={Circuit Investigation of Social Interaction
+  and Substance Use Disorder Using Miniscopes}, volume={15}, ISSN={1662-5110}, url={http://dx.doi.org/10.3389/fncir.2021.762441},
+  DOI={10.3389/fncir.2021.762441}, journal={Frontiers in Neural Circuits}, publisher={Frontiers
+  Media SA}, author={Beacher, Nicholas J. and Washington, Kayden A. and Werner, Craig
+  T. and Zhang, Yan and Barbera, Giovanni and Li, Yun and Lin, Da-Ting}, year={2021},
+  month=oct }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374316+00:00'

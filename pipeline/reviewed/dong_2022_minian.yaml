@@ -1,0 +1,105 @@
+doi: 10.7554/elife.70661
+openalex_id: W4281722909
+pmid: '35642786'
+pmcid: PMC9205633
+title: Minian, an open-source miniscope analysis pipeline
+authors:
+- first: Zhe
+  last: Dong
+- first: William
+  last: Mau
+- first: Yu
+  last: Feng
+- first: Zachary T.
+  last: Pennington
+- first: Lingxuan
+  last: Chen
+- first: Yosif
+  last: Zaki
+- first: Kanaka
+  last: Rajan
+- first: Tristan
+  last: Shuman
+- first: Daniel
+  last: Aharoni
+- first: Denise J.
+  last: Cai
+journal: eLife
+publication_year: 2022
+publication_date: '2022-06-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.7554/elife.70661
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Dong_2022, title={Minian, an open-source miniscope analysis
+  pipeline}, volume={11}, ISSN={2050-084X}, url={http://dx.doi.org/10.7554/elife.70661},
+  DOI={10.7554/elife.70661}, journal={eLife}, publisher={eLife Sciences Publications,
+  Ltd}, author={Dong, Zhe and Mau, William and Feng, Yu and Pennington, Zachary T
+  and Chen, Lingxuan and Zaki, Yosif and Rajan, Kanaka and Shuman, Tristan and Aharoni,
+  Daniel and Cai, Denise J}, year={2022}, month=jun }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  related_to_project: true
+  confidence: 0.99
+  tools_identified:
+  - Minian
+  - UCLA Miniscope v4
+  evidence:
+  - source: title
+    text: '"Minian, an open-source miniscope analysis pipeline"'
+    note: The paper title names Minian, which is one of the project's listed tools.
+  - source: fulltext
+    text: '"Our open-source analysis pipeline, Minian (miniscope analysis), facilitates
+      the transparency and accessibility of single-photon calcium imaging analysis"'
+    note: Paper introduces and describes the Minian software pipeline in detail.
+  - source: fulltext
+    text: '"Currently Minian supports .avi movies, the default output from the UCLA
+      Miniscopes, and .tif stacks, the default output from Inscopix miniscopes."'
+    note: Minian is explicitly built to process UCLA Miniscope data.
+  - source: fulltext
+    text: '"The UCLA Miniscope project, a user-friendly miniature head-mounted microscope
+      for in vivo calcium imaging in freely behaving animals, is one such project
+      that has been accessible to a large number of users"'
+    note: Paper directly references the UCLA Miniscope project as the hardware platform.
+  - source: fulltext
+    text: '"complements previous open-sourced tools built by the authors (e.g. the
+      UCLA Miniscope), as well as other, similar systems"'
+    note: Reviewers explicitly acknowledge Minian as complementing the UCLA Miniscope.
+  - source: metadata
+    text: Daniel Aharoni is a co-author
+    note: Paper is from the Miniscope project team. Tool developer papers must not
+      be rejected.
+  paper_type: software
+  suggested_component: Minian
+  suggested_technique: calcium imaging analysis
+  reasoning: This paper introduces Minian, which is explicitly listed as one of the
+    Miniscope project's tools in discovery_config.yaml. Minian is an open-source
+    analysis pipeline purpose-built for processing calcium imaging data from miniature
+    microscopes, with explicit support for UCLA Miniscope .avi output files. Daniel
+    Aharoni is a co-author, making this a tool developer paper that must not be
+    rejected per the analysis rules. The paper describes the software's architecture,
+    validation, and interactive visualization features. Confidence is 0.99 as this
+    is unambiguously a core project tool paper.
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.373490+00:00'
+- stage: rejected
+  timestamp: '2026-04-10T00:00:00+00:00'
+  agent: citation-analysis-agent
+  reason: Lab tool paper (Minian software pipeline) authored by Aharoni; does not
+    use Miniscope hardware
+- stage: reviewed
+  timestamp: '2026-04-10T00:00:00+00:00'
+  agent: citation-analysis-agent
+  reason: Minian is a listed project tool; paper introduces it; authored by tool developers

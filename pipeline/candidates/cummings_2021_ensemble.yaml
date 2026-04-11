@@ -1,0 +1,50 @@
+doi: 10.1101/2021.07.18.452791
+openalex_id: W3183720099
+pmid: null
+pmcid: null
+title: Ensemble encoding of conditioned fear by prefrontal somatostatin interneurons
+authors:
+- first: Kirstie A.
+  last: Cummings
+- first: Sabina
+  last: Bayshtok
+- first: Paul J.
+  last: Kenny
+- first: Roger L.
+  last: Clem
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2021
+publication_date: '2021-07-19'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2021/07/19/2021.07.18.452791.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Cummings_2021, title={Ensemble encoding of conditioned fear
+  by prefrontal somatostatin interneurons}, url={http://dx.doi.org/10.1101/2021.07.18.452791},
+  DOI={10.1101/2021.07.18.452791}, publisher={openRxiv}, author={Cummings, Kirstie
+  A. and Bayshtok, Sabina and Kenny, Paul J. and Clem, Roger L.}, year={2021}, month=jul
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324300+00:00'

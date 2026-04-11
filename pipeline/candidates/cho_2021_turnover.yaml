@@ -1,0 +1,65 @@
+doi: 10.1016/j.cub.2021.10.004
+openalex_id: W3208406449
+pmid: null
+pmcid: null
+title: Turnover of fear engram cells by repeated experience
+authors:
+- first: Hye-Yeon
+  last: Cho
+- first: Wangyong
+  last: Shin
+- first: Han-Sol
+  last: Lee
+- first: Yeji
+  last: Lee
+- first: Mujun
+  last: Kim
+- first: Jung-Pyo
+  last: Oh
+- first: Junho
+  last: Han
+- first: Yire
+  last: Jeong
+- first: Boin
+  last: Suh
+- first: Eunjoon
+  last: Kim
+- first: Jin‐Hee
+  last: Han
+journal: Current Biology
+publication_year: 2021
+publication_date: '2021-10-22'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Cho_2021, title={Turnover of fear engram cells by repeated
+  experience}, volume={31}, ISSN={0960-9822}, url={http://dx.doi.org/10.1016/j.cub.2021.10.004},
+  DOI={10.1016/j.cub.2021.10.004}, number={24}, journal={Current Biology}, publisher={Elsevier
+  BV}, author={Cho, Hye-Yeon and Shin, Wangyong and Lee, Han-Sol and Lee, Yeji and
+  Kim, Mujun and Oh, Jung-Pyo and Han, Junho and Jeong, Yire and Suh, Boin and Kim,
+  Eunjoon and Han, Jin-Hee}, year={2021}, month=dec, pages={5450-5461.e4} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320292+00:00'

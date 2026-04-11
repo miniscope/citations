@@ -1,0 +1,52 @@
+doi: 10.7554/elife.75353
+openalex_id: W4306406729
+pmid: null
+pmcid: null
+title: Internally generated time in the rodent hippocampus is logarithmically compressed
+authors:
+- first: Rui
+  last: Cao
+- first: John
+  last: Bladon
+- first: Stephen J.
+  last: Charczynski
+- first: Michael E.
+  last: Hasselmo
+- first: Marc W.
+  last: Howard
+journal: eLife
+publication_year: 2022
+publication_date: '2022-10-17'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.7554/elife.75353
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Cao_2022, title={Internally generated time in the rodent hippocampus
+  is logarithmically compressed}, volume={11}, ISSN={2050-084X}, url={http://dx.doi.org/10.7554/elife.75353},
+  DOI={10.7554/elife.75353}, journal={eLife}, publisher={eLife Sciences Publications,
+  Ltd}, author={Cao, Rui and Bladon, John H and Charczynski, Stephen J and Hasselmo,
+  Michael E and Howard, Marc W}, year={2022}, month=oct }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319315+00:00'

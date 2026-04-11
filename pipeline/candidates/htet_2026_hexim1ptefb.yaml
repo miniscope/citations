@@ -1,0 +1,71 @@
+doi: 10.1016/j.jbc.2026.111325
+openalex_id: W7131406967
+pmid: null
+pmcid: null
+title: HEXIM1/P–TEFb complex controls RNA polymerase II pause release and immediate
+  early gene induction following neuronal depolarization
+authors:
+- first: Myo
+  last: Htet
+- first: Camila
+  last: Estay-Olmos
+- first: Lan
+  last: Hu
+- first: Yiyang
+  last: Wu
+- first: Brian E.
+  last: Powers
+- first: Clorissa D.
+  last: Campbell
+- first: Aishwarya
+  last: Rameshwar
+- first: Mohamed R.
+  last: Ahmed
+- first: Timothy J.
+  last: Hohman
+- first: Yanling
+  last: Wang
+- first: Julie A.
+  last: Schneider
+- first: David A.
+  last: Bennett
+- first: Vilas
+  last: Menon
+- first: Philip L. De
+  last: Jager
+- first: Garrett A.
+  last: Kaas
+- first: G. Winder
+  last: Danny
+- first: Celeste B.
+  last: Greer
+journal: Journal of Biological Chemistry
+publication_year: 2026
+publication_date: '2026-02-25'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.jbc.2026.111325
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.326687+00:00'

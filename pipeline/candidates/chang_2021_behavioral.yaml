@@ -1,0 +1,54 @@
+doi: 10.1101/2021.04.15.440055
+openalex_id: W3154359900
+pmid: null
+pmcid: null
+title: Behavioral clusters revealed by end-to-end decoding from microendoscopic imaging
+authors:
+- first: Chia-Jung
+  last: Chang
+- first: Wei
+  last: Guo
+- first: J. X.
+  last: Zhang
+- first: Jon O.
+  last: Newman
+- first: Shaohua
+  last: Sun
+- first: Matt
+  last: Wilson
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2021
+publication_date: '2021-04-16'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2021/04/16/2021.04.15.440055.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Chang_2021, title={Behavioral clusters revealed by end-to-end
+  decoding from microendoscopic imaging}, url={http://dx.doi.org/10.1101/2021.04.15.440055},
+  DOI={10.1101/2021.04.15.440055}, publisher={openRxiv}, author={Chang, Chia-Jung
+  and Guo, Wei and Zhang, Jie and Newman, Jon and Sun, Shao-Hua and Wilson, Matt},
+  year={2021}, month=apr }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.375407+00:00'

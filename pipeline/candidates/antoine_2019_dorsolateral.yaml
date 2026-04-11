@@ -1,0 +1,70 @@
+doi: 10.1038/s41593-018-0330-y
+openalex_id: W2914213517
+pmid: null
+pmcid: PMC6387640
+title: Dorsolateral septum somatostatin interneurons gate mobility to calibrate context-specific
+  behavioral fear responses
+authors:
+- first: B
+  last: Antoine
+- first: Yuan
+  last: Gao
+- first: Michael TaeWoo
+  last: Kim
+- first: Hannah
+  last: Twarkowski
+- first: Alexander
+  last: Reed
+- first: Tomer
+  last: Langberg
+- first: Wendy
+  last: Feng
+- first: Xiangmin
+  last: Xu
+- first: Dieter
+  last: Saur
+- first: Larry S.
+  last: Zweifel
+- first: Ian G.
+  last: Davison
+- first: Amar
+  last: Sahay
+journal: Nature Neuroscience
+publication_year: 2019
+publication_date: '2019-02-04'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://escholarship.org/uc/item/8mm1w9z3
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Besnard_2019, title={Dorsolateral septum somatostatin interneurons
+  gate mobility to calibrate context-specific behavioral fear responses}, volume={22},
+  ISSN={1546-1726}, url={http://dx.doi.org/10.1038/s41593-018-0330-y}, DOI={10.1038/s41593-018-0330-y},
+  number={3}, journal={Nature Neuroscience}, publisher={Springer Science and Business
+  Media LLC}, author={Besnard, Antoine and Gao, Yuan and TaeWoo Kim, Michael and Twarkowski,
+  Hannah and Reed, Alexander Keith and Langberg, Tomer and Feng, Wendy and Xu, Xiangmin
+  and Saur, Dieter and Zweifel, Larry S. and Davison, Ian and Sahay, Amar}, year={2019},
+  month=feb, pages={436–446} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.318265+00:00'

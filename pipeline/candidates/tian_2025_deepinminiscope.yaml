@@ -1,0 +1,42 @@
+doi: 10.1126/sciadv.adr6687
+openalex_id: W4414162346
+pmid: null
+pmcid: null
+title: 'DeepInMiniscope: Deep learning–powered physics-informed integrated miniscope'
+authors:
+- first: Feng
+  last: Tian
+- first: Ben
+  last: Mattison
+- first: Weijian
+  last: Yang
+journal: Science Advances
+publication_year: 2025
+publication_date: '2025-09-12'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1126/sciadv.adr6687
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019343+00:00'

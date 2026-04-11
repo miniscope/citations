@@ -1,0 +1,44 @@
+doi: 10.1210/en.2018-00594
+openalex_id: W2897372754
+pmid: null
+pmcid: null
+title: Optical Approaches for Interrogating Neural Circuits Controlling Hormone Secretion
+authors:
+- first: Su Young
+  last: Han
+- first: Jenny
+  last: Clarkson
+- first: Richard
+  last: Piet
+- first: Allan E.
+  last: Herbison
+journal: Endocrinology
+publication_year: 2018
+publication_date: '2018-10-09'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://academic.oup.com/endo/article-pdf/159/11/3822/26182491/en.2018-00594.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321636+00:00'

@@ -1,0 +1,97 @@
+doi: 10.1172/jci166408
+openalex_id: W4313544526
+pmid: null
+pmcid: null
+title: Highly synchronized cortical circuit dynamics mediate spontaneous pain in mice
+authors:
+- first: Weihua
+  last: Ding
+- first: Lukas
+  last: Fischer
+- first: Qian
+  last: Chen
+- first: Ziyi
+  last: Li
+- first: Liuyue
+  last: Yang
+- first: Zerong
+  last: You
+- first: Kun
+  last: Hu
+- first: Xinbo
+  last: Wu
+- first: Xue
+  last: Zhou
+- first: Wei
+  last: Chao
+- first: Peter
+  last: Hu
+- first: Tewodros Mulugeta
+  last: Dagnew
+- first: D
+  last: Dubreuil
+- first: Shiyu
+  last: Wang
+- first: Suyun
+  last: Xia
+- first: Caroline
+  last: Bao
+- first: Shengmei
+  last: Zhu
+- first: Lucy
+  last: Chen
+- first: Changning
+  last: Wang
+- first: Brian J.
+  last: Wainger
+- first: Peng
+  last: Jin
+- first: Jianren
+  last: Mao
+- first: Guoping
+  last: Feng
+- first: Mark T.
+  last: Harnett
+- first: Shiqian
+  last: Shen
+journal: Journal of Clinical Investigation
+publication_year: 2023
+publication_date: '2023-01-05'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.jci.org/articles/view/166408/files/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Ding_2023, title={Highly synchronized cortical circuit dynamics
+  mediate spontaneous pain in mice}, volume={133}, ISSN={1558-8238}, url={http://dx.doi.org/10.1172/jci166408},
+  DOI={10.1172/jci166408}, number={5}, journal={Journal of Clinical Investigation},
+  publisher={American Society for Clinical Investigation}, author={Ding, Weihua and
+  Fischer, Lukas and Chen, Qian and Li, Ziyi and Yang, Liuyue and You, Zerong and
+  Hu, Kun and Wu, Xinbo and Zhou, Xue and Chao, Wei and Hu, Peter and Dagnew, Tewodros
+  Mulugeta and Dubreuil, Daniel M. and Wang, Shiyu and Xia, Suyun and Bao, Caroline
+  and Zhu, Shengmei and Chen, Lucy and Wang, Changning and Wainger, Brian and Jin,
+  Peng and Mao, Jianren and Feng, Guoping and Harnett, Mark T. and Shen, Shiqian},
+  year={2023}, month=mar }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374197+00:00'

@@ -1,0 +1,66 @@
+doi: 10.1101/2023.12.25.573323
+openalex_id: W4390343351
+pmid: null
+pmcid: PMC10793404
+title: 'Towards a Brighter Constellation: Multi-Organ Neuroimaging of Neural and Vascular
+  Dynamics in the Spinal Cord and Brain'
+authors:
+- first: Dmitrijs
+  last: Celinskis
+- first: Christopher J.
+  last: Black
+- first: Jeremy W.
+  last: Murphy
+- first: Adriel
+  last: Barrios-Anderson
+- first: Nina
+  last: Friedman
+- first: Nathan C.
+  last: Shaner
+- first: Carl Y.
+  last: Saab
+- first: Manuel
+  last: Gomez‐Ramirez
+- first: Diane
+  last: Lipscombe
+- first: David A.
+  last: Borton
+- first: Christopher I.
+  last: Moore
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2023
+publication_date: '2023-12-27'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2023/12/27/2023.12.25.573323.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Celinskis_2023, title={Towards a Brighter Constellation: Multi-Organ
+  Neuroimaging of Neural and Vascular Dynamics in the Spinal Cord and Brain}, url={http://dx.doi.org/10.1101/2023.12.25.573323},
+  DOI={10.1101/2023.12.25.573323}, publisher={openRxiv}, author={Celinskis, Dmitrijs
+  and Black, Christopher J. and Murphy, Jeremy and Barrios-Anderson, Adriel and Friedman,
+  Nina and Shaner, Nathan C. and Saab, Carl and Gomez-Ramirez, Manuel and Lipscombe,
+  Diane and Borton, David A. and Moore, Christopher I.}, year={2023}, month=dec }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019628+00:00'

@@ -1,0 +1,45 @@
+doi: 10.1101/534743
+openalex_id: W2914708195
+pmid: null
+pmcid: null
+title: The development of spatiotemporal organization of episodic memory in children
+  and its disruption in Williams Syndrome
+authors:
+- first: Marilina
+  last: Mastrogiuseppe
+- first: Natasha
+  last: Bertelsen
+- first: Maria Francesca
+  last: Bedeschi
+- first: Sang Ah
+  last: Lee
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2019
+publication_date: '2019-01-30'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2019/02/07/534743.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324768+00:00'

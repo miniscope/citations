@@ -1,0 +1,46 @@
+doi: 10.1109/lpt.2020.3004283
+openalex_id: W3036017900
+pmid: null
+pmcid: null
+title: Lightweight 1-photon Miniscope for Imaging in Freely Behaving Animals at Subcellular
+  Resolution
+authors:
+- first: Arutyun
+  last: Bagramyan
+journal: IEEE Photonics Technology Letters
+publication_year: 2020
+publication_date: '2020-06-22'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Bagramyan_2020, title={Lightweight 1-photon Miniscope for Imaging
+  in Freely Behaving Animals at Subcellular Resolution}, volume={32}, ISSN={1941-0174},
+  url={http://dx.doi.org/10.1109/lpt.2020.3004283}, DOI={10.1109/lpt.2020.3004283},
+  number={15}, journal={IEEE Photonics Technology Letters}, publisher={Institute of
+  Electrical and Electronics Engineers (IEEE)}, author={Bagramyan, Arutyun}, year={2020},
+  month=aug, pages={909–912} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322220+00:00'

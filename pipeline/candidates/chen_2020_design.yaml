@@ -1,0 +1,55 @@
+doi: 10.1364/boe.384673
+openalex_id: W3007508039
+pmid: null
+pmcid: null
+title: Design of a high-resolution light field miniscope for volumetric imaging in
+  scattering tissue
+authors:
+- first: Yanqin
+  last: Chen
+- first: Bo
+  last: Xiong
+- first: Yujia
+  last: Xue
+- first: Xin
+  last: Jin
+- first: J. E.
+  last: Greene
+- first: Lei
+  last: Tian
+journal: Biomedical Optics Express
+publication_year: 2020
+publication_date: '2020-02-25'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1364/boe.384673
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Chen_2020, title={Design of a high-resolution light field miniscope
+  for volumetric imaging in scattering tissue}, volume={11}, ISSN={2156-7085}, url={http://dx.doi.org/10.1364/boe.384673},
+  DOI={10.1364/boe.384673}, number={3}, journal={Biomedical Optics Express}, publisher={Optica
+  Publishing Group}, author={Chen, Yanqin and Xiong, Bo and Xue, Yujia and Jin, Xin
+  and Greene, Joseph and Tian, Lei}, year={2020}, month=feb, pages={1662} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374138+00:00'

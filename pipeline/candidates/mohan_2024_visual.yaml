@@ -1,0 +1,49 @@
+doi: 10.1101/2024.01.05.574412
+openalex_id: W4390689448
+pmid: null
+pmcid: null
+title: Visual familiarity learning at multiple timescales in the primate inferotemporal
+  cortex
+authors:
+- first: Krithika
+  last: Mohan
+- first: Ulises
+  last: Pereira-Obilinovic
+- first: Stanislav
+  last: Srednyak
+- first: Yali
+  last: Amit
+- first: Nicolas
+  last: Brunel
+- first: David J.
+  last: Freedman
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2024
+publication_date: '2024-01-06'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2024/01/06/2024.01.05.574412.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324459+00:00'

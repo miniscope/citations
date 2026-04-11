@@ -1,0 +1,46 @@
+doi: 10.1007/s13311-017-0528-9
+openalex_id: W2613222887
+pmid: null
+pmcid: PMC5509626
+title: Modulation of Aversive Memory by Adult Hippocampal Neurogenesis
+authors:
+- first: Michael R.
+  last: Drew
+- first: Kylie A.
+  last: Huckleberry
+journal: Neurotherapeutics
+publication_year: 2017
+publication_date: '2017-05-09'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://link.springer.com/content/pdf/10.1007/s13311-017-0528-9.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Drew_2017, title={Modulation of Aversive Memory by Adult Hippocampal
+  Neurogenesis}, volume={14}, ISSN={1878-7479}, url={http://dx.doi.org/10.1007/s13311-017-0528-9},
+  DOI={10.1007/s13311-017-0528-9}, number={3}, journal={Neurotherapeutics}, publisher={Elsevier
+  BV}, author={Drew, Michael R. and Huckleberry, Kylie A.}, year={2017}, month=jul,
+  pages={646–661} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319915+00:00'

@@ -1,0 +1,53 @@
+doi: 10.1101/2022.08.05.502947
+openalex_id: W4290005681
+pmid: null
+pmcid: null
+title: 'EDoF-Miniscope: pupil engineering for extended depth-of-field imaging in a
+  fluorescence miniscope'
+authors:
+- first: J. E.
+  last: Greene
+- first: Yujia
+  last: Xue
+- first: Jeffrey
+  last: Alido
+- first: Alex
+  last: Matlock
+- first: Guorong
+  last: Hu
+- first: Kıvılcım
+  last: Kılıç
+- first: Ian G.
+  last: Davison
+- first: Lei
+  last: Tian
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2022
+publication_date: '2022-08-05'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2022/08/05/2022.08.05.502947.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: pending
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+stage: candidate
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324444+00:00'
