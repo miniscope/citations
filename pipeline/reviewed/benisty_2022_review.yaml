@@ -46,7 +46,7 @@ analysis:
     lens system and compact head-mounted endoscope papers. Also cites CaImAn and numerous
     calcium imaging analysis pipeline papers.'
   paper_type: review
-  suggested_component: UCLA Miniscope v4
+  suggested_project: UCLA Miniscope v4
   suggested_technique: calcium imaging
   reasoning: This is a comprehensive review of data processing pipelines for functional
     optical microscopy in neuroscience. It directly cites the UCLA Miniscope seed paper

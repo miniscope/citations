@@ -25,7 +25,13 @@ Read the candidate YAML file and its companion files (if they exist):
 - `pipeline/in-progress/{name}.txt` -- pre-fetched full text (if available)
 - `pipeline/in-progress/{name}.bib` -- pre-fetched BibTeX (if available)
 
-Also read `discovery_config.yaml` to get the list of tools and their aliases.
+Also read:
+- `discovery_config.yaml` -- the list of tools and their aliases (for full-text matching).
+- `vocabulary.yaml` -- the controlled vocabulary for `suggested_project`,
+  `paper_type`, and `suggested_keywords`. Only emit values that appear in
+  vocabulary.yaml; if the paper needs a tag that isn't there, append a
+  `pending_suggestions` entry to vocabulary.yaml instead of inventing the
+  term inline.
 
 ### 2. Check for duplicates
 
@@ -72,12 +78,16 @@ For each tool found, record:
 - The section where evidence was found
 - Direct quotes as evidence (EXACT text from the paper, not paraphrased)
 
-Set these fields:
+Set these fields under `analysis:` in the YAML:
 - `related_to_project`: true/false
 - `confidence`: 0.0 to 1.0 (cap at 0.5 if abstract-only for science papers)
-- `paper_type`: "science" | "methods" | "software" | "tool_paper" | "review" | "unrelated"
-- `suggested_component`: comma-separated tool names for BibTeX component field
-- `suggested_technique`: e.g. "Calcium Imaging"
+- `paper_type`: one of `science | methods | software | tool_paper | review | opinion | protocol | unrelated`
+  (these lowercase forms are normalized to the canonical `vocabulary.yaml` Title Case during approval)
+- `suggested_project`: canonical project name from `vocabulary.yaml/projects` (e.g. "UCLA Miniscope v4")
+- `suggested_keywords`: YAML list of keyword strings, each one matching an entry
+  in `vocabulary.yaml/keywords`. Apply as many as fit. If a paper needs a tag
+  that's not in the vocab, propose it via `pending_suggestions` in vocabulary.yaml
+  rather than emitting a free-text keyword here.
 - `reasoning`: 2-3 sentence explanation
 
 **CRITICAL: Evidence MUST be direct quotes, never paraphrased.**

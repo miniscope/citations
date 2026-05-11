@@ -79,7 +79,7 @@ analysis:
     note: References multiple Miniscope family papers as foundational 1P work that
       motivated this 2P system.
   paper_type: tool_paper
-  suggested_component: UCLA 2P Miniscope
+  suggested_project: UCLA 2P Miniscope
   suggested_technique: two-photon calcium imaging
   reasoning: This paper introduces the UCLA 2P Miniscope, which is explicitly listed
     as a tracked tool in discovery_config.yaml. It is authored by the Miniscope project's

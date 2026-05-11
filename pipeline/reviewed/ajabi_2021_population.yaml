@@ -44,7 +44,7 @@ analysis:
   - "PDF reference link: Aharoni, 2019 #153 (the UCLA Miniscope v4 paper, DOI 10.1038/s41593-019-0559-0)"
   - "Abstract: we performed large population recordings of mouse thalamic HD cells using calcium imaging"
   paper_type: science
-  suggested_component: UCLA Miniscope v4
+  suggested_project: UCLA Miniscope v4
   suggested_technique: calcium imaging
   reasoning: >-
     This paper studies population dynamics of the thalamic head direction system

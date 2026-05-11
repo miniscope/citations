@@ -51,7 +51,7 @@ analysis:
   - 'Abstract: "Deep-brain calcium imaging shows that the peak of trace activity in
     the CA1 and subiculum is extended toward the US"'
   paper_type: science
-  suggested_component: UCLA Miniscope v4
+  suggested_project: UCLA Miniscope v4
   suggested_technique: deep-brain calcium imaging
   reasoning: >-
     Paper uses miniscope calcium imaging for deep-brain recordings in CA1 and

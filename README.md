@@ -61,12 +61,10 @@ The entry key becomes the wiki page name — e.g., `Publication/smith_2024_novel
 | `number` | Has issue | |
 | `pages` | Has pages | `--` converted to en-dash |
 | `abstract` | Has abstract | Full paper abstract |
-| `keywords` | Has keyword | Free-text author-supplied keywords (one value per `,`). Curators add canonical `Has research topic` tags manually on the wiki for the faceted library browse. |
+| `keywords` | Has keyword | Tags drawn from `vocabulary.yaml/keywords`. Comma-separated for multiple. |
 | `url` | Has website | |
-| `project` | Has project | Wiki page name |
-| `component` | Has component | Wiki page name, comma-separated for multiple |
-| `equipment` | Has equipment used | Wiki page name, comma-separated for multiple |
-| `technique` | Has technique | Wiki page name, comma-separated for multiple |
+| `project` | Has project | Wiki page name. Drawn from `vocabulary.yaml/projects` (the umbrella tool family — e.g. UCLA Miniscope v4). |
+| `paper_type` | Has paper type | The *intent* of the paper (Science / Methods / Software / Tool Paper / Review / Opinion / Protocol) from `vocabulary.yaml/paper_types`. Distinct from `Has publication type` which captures *format* (auto-derived from `@type`). |
 | `attachment` | Has attachment | File link |
 | `publication_status` | Has publication status | Overrides auto-detected status |
 

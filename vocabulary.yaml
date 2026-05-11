@@ -1,0 +1,107 @@
+# Controlled vocabulary for citation tagging
+#
+# This is the single source of truth for the values that go into:
+#   - the `project=`     BibTeX field → `Has project`     wiki property
+#   - the `paper_type=`  BibTeX field → `Has paper type`  wiki property
+#   - the `keywords=`    BibTeX field → `Has keyword`     wiki property
+#
+# Consumers:
+#   - `/analyze-citation` and `/run-discovery` LLM agents (during analysis)
+#   - Human curator (during reviewed/ → approved/ triage)
+#   - `discovery/approve.py` (when writing BibTeX into references.bib)
+#
+# To propose a new term that doesn't fit any existing entry, append to
+# `pending_suggestions` at the bottom of this file with rationale and the
+# DOI(s) that motivated the proposal. The curator reviews periodically and
+# either promotes the entry to its target list or rejects it.
+
+# === Projects =================================================================
+# Goes into `project=` BibTeX → `Has project` wiki property.
+# Each `name` should match a wiki page (e.g. Project:UCLA Miniscope v4) so
+# the property creates a real wikilink that the project page can backlink
+# from. Single-valued in the common case; multi-value (comma-separated) is
+# supported for papers that span tools.
+#
+# Mirrors the `tools` section in discovery_config.yaml — the LLM agent uses
+# the aliases there to detect tool mentions, then maps to the canonical
+# `name` here for the BibTeX field.
+projects:
+  - name: "UCLA Miniscope v4"
+  - name: "MiniLFOV"
+  - name: "MiniXL"
+  - name: "Minian"
+  - name: "UCLA 2P Miniscope"
+  - name: "Miniscope DAQ"
+
+# === Paper types ==============================================================
+# Goes into `paper_type=` BibTeX → `Has paper type` wiki property.
+# Single-valued. This is the *intent* axis — what kind of contribution the
+# paper is — distinct from `Has publication type` (format: journal article /
+# preprint / thesis) which is auto-derived from BibTeX entry type.
+paper_types:
+  - name: "Science"
+    description: "Original research paper that uses the tool for science"
+  - name: "Methods"
+    description: "Paper extending or developing methodology"
+  - name: "Software"
+    description: "Software or analysis pipeline paper"
+  - name: "Tool Paper"
+    description: "Introduces a new tool in the project family"
+  - name: "Review"
+    description: "Survey or review article"
+  - name: "Opinion"
+    description: "Commentary, perspective, editorial"
+  - name: "Protocol"
+    description: "Step-by-step protocol (Bio-Protocol, JoVE, Nature Protocols, etc.)"
+
+# === Keywords =================================================================
+# Goes into `keywords=` BibTeX → `Has keyword` wiki property.
+# Multi-valued, comma-separated. Apply as many as fit. Drawn from a
+# controlled list (the values below) — not free-text. If a paper needs a
+# concept that's not here, add it to `pending_suggestions` instead.
+#
+# Organized into rough buckets via comments; on the wiki they're all one
+# flat tag bucket.
+keywords:
+  # Cross-cutting / tech format
+  - "Wire-Free"
+  - "Open-Source"
+
+  # Imaging technique
+  - "Calcium Imaging"
+  - "Voltage Imaging"
+  - "Two-Photon"
+  - "Optogenetics"
+
+  # Behavior / cognition
+  - "Memory"
+  - "Spatial Navigation"
+  - "Place Cells"
+  - "Fear & Anxiety"
+  - "Reward"
+  - "Social Behavior"
+
+  # Recording context
+  - "Freely-Behaving"
+  - "Chronic Imaging"
+  - "Multi-Region"
+
+  # Brain regions
+  - "Hippocampus"
+  - "Prefrontal Cortex"
+  - "Amygdala"
+
+# === Pending suggestions ======================================================
+# When an agent or curator wants to tag a paper with a concept that doesn't
+# fit any existing keyword/project/paper_type, append a proposal here with:
+#
+#   - target:        "keywords" | "projects" | "paper_types"
+#     name:          "Proposed Term"
+#     proposed_by:   "agent" | "curator"
+#     rationale:     "Why this term fills a gap"
+#     example_dois:  ["10.xxxx/yyyy", ...]
+#     proposed_date: "YYYY-MM-DD"
+#
+# The maintainer reviews periodically. Promoted entries move into the
+# appropriate list above; rejected entries are deleted from this section.
+pending_suggestions: []

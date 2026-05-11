@@ -43,7 +43,7 @@ analysis:
   - "Another class of one-photon segmentation algorithms, MIN1PIPE 34 and Minian 35 , used a neuron-enhancing module based on denoising and morphological opening for background removal before neural signal extraction"
   - "One-photon microscopy's simple optical design is potentially more accessible, enabling imaging activity in freely moving animals when executed with portable microendoscopes"
   paper_type: software
-  suggested_component: Minian
+  suggested_project: Minian
   suggested_technique: calcium imaging analysis
   reasoning: >-
     This paper develops SUNS2-ANE, a neuron segmentation pipeline for one-photon

@@ -10,7 +10,12 @@ sys.path.insert(0, str(Path(__file__).parent.parent / "scripts"))
 
 from bib_utils import load_bib_entries
 from discovery.analysis import save_citation
-from discovery.approve import approve_citations, apply_bibtex_overrides
+from discovery.approve import (
+    _canonical_paper_type,
+    _format_keywords,
+    apply_bibtex_overrides,
+    approve_citations,
+)
 
 
 @pytest.fixture
@@ -29,8 +34,8 @@ def approved_citation(sample_candidate_data, sample_bibtex):
         ],
         "evidence": [{"text": "We used the UCLA Miniscope v4", "section": "Methods"}],
         "paper_type": "science",
-        "suggested_component": "UCLA Miniscope v4",
-        "suggested_technique": "Calcium Imaging",
+        "suggested_project": "UCLA Miniscope v4",
+        "suggested_keywords": ["Calcium Imaging", "Hippocampus", "Freely-Behaving"],
         "reasoning": "Clear tool usage in methods.",
     }
     return data
@@ -45,17 +50,24 @@ def bib_file(tmp_path):
 
 
 class TestApplyBibtexOverrides:
-    def test_adds_component_field(self, sample_bibtex):
-        overrides = {"component": "UCLA Miniscope v4"}
+    def test_adds_project_field(self, sample_bibtex):
+        overrides = {"project": "UCLA Miniscope v4"}
         result = apply_bibtex_overrides(sample_bibtex, overrides)
-        assert "component" in result
+        assert "project" in result
         assert "UCLA Miniscope v4" in result
 
-    def test_adds_technique_field(self, sample_bibtex):
-        overrides = {"technique": "Calcium Imaging"}
+    def test_adds_paper_type_field(self, sample_bibtex):
+        overrides = {"paper_type": "Science"}
         result = apply_bibtex_overrides(sample_bibtex, overrides)
-        assert "technique" in result
+        assert "paper_type" in result
+        assert "Science" in result
+
+    def test_adds_keywords_field(self, sample_bibtex):
+        overrides = {"keywords": "Calcium Imaging, Hippocampus"}
+        result = apply_bibtex_overrides(sample_bibtex, overrides)
+        assert "keywords" in result
         assert "Calcium Imaging" in result
+        assert "Hippocampus" in result
 
     def test_no_overrides(self, sample_bibtex):
         result = apply_bibtex_overrides(sample_bibtex, {})
@@ -63,14 +75,62 @@ class TestApplyBibtexOverrides:
 
     def test_multiple_overrides(self, sample_bibtex):
         overrides = {
-            "component": "UCLA Miniscope v4",
-            "technique": "Calcium Imaging",
-            "project": "UCLA Miniscope Project",
+            "project": "UCLA Miniscope v4",
+            "paper_type": "Methods",
+            "keywords": "Calcium Imaging, Memory",
         }
         result = apply_bibtex_overrides(sample_bibtex, overrides)
-        assert "component" in result
-        assert "technique" in result
         assert "project" in result
+        assert "paper_type" in result
+        assert "keywords" in result
+
+
+class TestCanonicalPaperType:
+    def test_lowercase_to_title_case(self):
+        assert _canonical_paper_type("science") == "Science"
+        assert _canonical_paper_type("methods") == "Methods"
+        assert _canonical_paper_type("review") == "Review"
+        assert _canonical_paper_type("opinion") == "Opinion"
+        assert _canonical_paper_type("protocol") == "Protocol"
+
+    def test_underscore_to_space(self):
+        assert _canonical_paper_type("tool_paper") == "Tool Paper"
+
+    def test_already_canonical(self):
+        assert _canonical_paper_type("Science") == "Science"
+        assert _canonical_paper_type("Tool Paper") == "Tool Paper"
+
+    def test_unrelated_returns_none(self):
+        # `unrelated` papers should never reach pipeline/approved/, so they
+        # don't have a canonical mapping. Return None so approve.py skips
+        # writing the field.
+        assert _canonical_paper_type("unrelated") is None
+
+    def test_empty_and_unknown(self):
+        assert _canonical_paper_type(None) is None
+        assert _canonical_paper_type("") is None
+        assert _canonical_paper_type("bogus_value") is None
+
+
+class TestFormatKeywords:
+    def test_list_to_csv(self):
+        result = _format_keywords(["Calcium Imaging", "Memory", "Hippocampus"])
+        assert result == "Calcium Imaging, Memory, Hippocampus"
+
+    def test_string_passthrough(self):
+        # Already-formatted string is re-normalized (trims whitespace).
+        result = _format_keywords("Calcium Imaging,Memory , Hippocampus")
+        assert result == "Calcium Imaging, Memory, Hippocampus"
+
+    def test_empty_inputs(self):
+        assert _format_keywords(None) is None
+        assert _format_keywords([]) is None
+        assert _format_keywords("") is None
+        assert _format_keywords([""]) is None
+
+    def test_drops_empty_items(self):
+        result = _format_keywords(["Memory", "", "  ", "Hippocampus"])
+        assert result == "Memory, Hippocampus"
 
 
 class TestApproveCitations:
@@ -116,8 +176,31 @@ class TestApproveCitations:
         )
 
         content = bib_file.read_text()
+        # project= from suggested_project
         assert "UCLA Miniscope v4" in content
+        # paper_type= normalized from "science" → "Science"
+        assert "Science" in content
+        # keywords= joined from suggested_keywords list
         assert "Calcium Imaging" in content
+        assert "Hippocampus" in content
+
+    def test_legacy_suggested_component_fallback(
+        self, pipeline_dirs, approved_citation, bib_file
+    ):
+        # Backward-compat: YAMLs analyzed before the rename used
+        # `suggested_component` instead of `suggested_project`. approve.py
+        # should still pick those up.
+        approved_citation["analysis"].pop("suggested_project")
+        approved_citation["analysis"]["suggested_component"] = "Minian"
+        save_citation(pipeline_dirs["approved"] / "test.yaml", approved_citation)
+
+        approve_citations(
+            pipeline_root=pipeline_dirs["candidates"].parent,
+            bib_path=bib_file,
+        )
+
+        content = bib_file.read_text()
+        assert "project = {Minian}" in content
 
     def test_empty_approved_dir(self, pipeline_dirs, bib_file):
         stats = approve_citations(

@@ -59,7 +59,7 @@ analysis:
   - "miniscope imaging is a fantastic tool to identify underlying neurobiological functions
     of SI and SUD"
   paper_type: review
-  suggested_component: UCLA Miniscope v4
+  suggested_project: UCLA Miniscope v4
   suggested_technique: calcium imaging
   reasoning: This is a mini-review paper that extensively discusses and advocates the
     use of open-source miniscopes for studying social interaction (SI) and substance

@@ -55,7 +55,7 @@ analysis:
   - "Aharoni D Hoogland TM Circuit investigations with open-source miniaturized microscopes:
     Past, present and future"
   paper_type: methods
-  suggested_component: null
+  suggested_project: null
   suggested_technique: calcium imaging
   reasoning: >-
     This paper presents a new miniature fluorescence microscope with a variable focus

@@ -80,7 +80,7 @@ analysis:
     note: Paper is from the Miniscope project team. Tool developer papers must not
       be rejected.
   paper_type: software
-  suggested_component: Minian
+  suggested_project: Minian
   suggested_technique: calcium imaging analysis
   reasoning: This paper introduces Minian, which is explicitly listed as one of the
     Miniscope project's tools in discovery_config.yaml. Minian is an open-source

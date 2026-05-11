@@ -43,7 +43,7 @@ analysis:
   - "Cites Cai et al. 2016 (doi:10.1038/nature17955) - the UCLA Miniscope seed paper
     - as a key reference among existing miniature microscope systems."
   paper_type: methods
-  suggested_component: UCLA Miniscope v4
+  suggested_project: UCLA Miniscope v4
   suggested_technique: 1-photon calcium imaging
   reasoning: >-
     This paper presents a new lightweight 1-photon miniscope design from Universite

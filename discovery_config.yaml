@@ -26,37 +26,37 @@ tools:
       - "Miniscope v4"
       - "open-source miniscope"
       - "miniature microscope"
-    wiki_component: "UCLA Miniscope v4"
+    wiki_project: "UCLA Miniscope v4"
   - name: "MiniLFOV"
     aliases:
       - "Miniscope-LFOV"
       - "large field of view miniscope"
       - "large-field-of-view miniature microscope"
-    wiki_component: "MiniLFOV"
+    wiki_project: "MiniLFOV"
   - name: "MiniXL"
     aliases:
       - "Miniscope-XL"
       - "large field of view miniscope"
       - "large-field-of-view miniature microscope"
-    wiki_component: "MiniXL"
+    wiki_project: "MiniXL"
   - name: "Minian"
     aliases:
       - "MiniAn"
       - "miniscope analysis pipeline"
-    wiki_component: "Minian"
+    wiki_project: "Minian"
   - name: "UCLA 2P Miniscope"
     aliases:
       - "2-photon miniscope"
       - "two-photon miniscope"
       - "2P Miniscope"
-    wiki_component: "UCLA 2P Miniscope"
+    wiki_project: "UCLA 2P Miniscope"
   - name: "Miniscope DAQ"
     aliases:
       - "Miniscope data acquisition"
       - "UCLA Miniscope DAQ"
       - "coax cable serdes"
       - "coaxial cable serializer/deserializer"
-    wiki_component: "Miniscope DAQ"
+    wiki_project: "Miniscope DAQ"
 
 # Keywords for supplemental PubMed search (catches papers that cite tools
 # without citing a seed paper directly).

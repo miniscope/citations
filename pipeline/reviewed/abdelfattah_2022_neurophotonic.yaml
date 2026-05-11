@@ -211,7 +211,7 @@ analysis:
     assessment: The paper is a BRAIN Initiative status report that catalogs neurophotonic
       tools including head-mounted miniature microscopes.
   paper_type: review
-  suggested_component: UCLA Miniscope v4
+  suggested_project: UCLA Miniscope v4
   suggested_technique: null
   reasoning: This is a large multi-author (70+) review/status report published in
     Neurophotonics as part of the BRAIN Initiative reporting. Full-text analysis via

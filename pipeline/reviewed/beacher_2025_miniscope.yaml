@@ -67,7 +67,7 @@ analysis:
   - "The combined virus injection and GRIN lens implantation surgery would work identically
     for UCLA, Inscopix, and other open‐source miniscopes"
   paper_type: methods
-  suggested_component: UCLA Miniscope v4
+  suggested_project: UCLA Miniscope v4
   suggested_technique: calcium imaging
   reasoning: This is a detailed methods/protocol paper published in Current Protocols
     that provides step-by-step instructions for miniscope calcium imaging in freely

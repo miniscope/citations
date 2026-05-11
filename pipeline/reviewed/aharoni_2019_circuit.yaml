@@ -44,7 +44,7 @@ analysis:
   - "Making use of the UCLA Miniscope imaging and data"
   - "An MLA was implemented in a reconfigured UCLA Miniscope"
   paper_type: review
-  suggested_component: UCLA Miniscope v4
+  suggested_project: UCLA Miniscope v4
   suggested_technique: calcium imaging
   reasoning: >-
     This is a review paper authored by Daniel Aharoni (UCLA Miniscope project lead)

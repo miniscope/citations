@@ -49,7 +49,7 @@ analysis:
     imaging
   - one of them wearing a miniaturized microscope
   paper_type: software
-  suggested_component: UCLA Miniscope v4
+  suggested_project: UCLA Miniscope v4
   suggested_technique: calcium imaging; behavior analysis
   reasoning: DeepBehavior toolbox demonstrates tracking mice during social interaction
     where one mouse wears a UCLA Miniscope for simultaneous calcium imaging. Senior
