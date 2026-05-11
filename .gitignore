@@ -3,6 +3,7 @@ __pycache__/
 .venv/
 output/
 .env
+.secrets
 .pytest_cache/
 
 # Pipeline: track YAML files but not fetched companion files
