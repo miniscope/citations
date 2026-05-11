@@ -24,8 +24,13 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Nie_2024, title={End-to-End Aberration Correction Network for
+  Enhancing Miniature Microscope Resolution}, url={http://dx.doi.org/10.2139/ssrn.4890701},
+  DOI={10.2139/ssrn.4890701}, publisher={Elsevier BV}, author={Nie, Yunfeng and Su,
+  Runmu and Zhang, Jingang and Ottevaere, Heidi}, year={2024} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

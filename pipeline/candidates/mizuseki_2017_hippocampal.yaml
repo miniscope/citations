@@ -19,8 +19,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Mizuseki_2017, title={Hippocampal information processing across
+  sleep/wake cycles}, volume={118}, ISSN={0168-0102}, url={http://dx.doi.org/10.1016/j.neures.2017.04.018},
+  DOI={10.1016/j.neures.2017.04.018}, journal={Neuroscience Research}, publisher={Elsevier
+  BV}, author={Mizuseki, Kenji and Miyawaki, Hiroyuki}, year={2017}, month=may, pages={30–47}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

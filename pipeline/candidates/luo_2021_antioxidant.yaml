@@ -1,7 +1,7 @@
 doi: 10.7150/thno.58632
 openalex_id: W3155787777
 pmid: null
-pmcid: null
+pmcid: PMC8058724
 title: Antioxidant activity of mesenchymal stem cell-derived extracellular vesicles
   restores hippocampal neurons following seizure damage
 authors:
@@ -40,10 +40,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Luo_2021, title={Antioxidant activity of mesenchymal stem cell-derived
+  extracellular vesicles restores hippocampal neurons following seizure damage}, volume={11},
+  ISSN={1838-7640}, url={http://dx.doi.org/10.7150/thno.58632}, DOI={10.7150/thno.58632},
+  number={12}, journal={Theranostics}, publisher={Ivyspring International Publisher},
+  author={Luo, Qiang and Xian, Panpan and Wang, Tian and Wu, Shengxi and Sun, Tangna
+  and Wang, Wenting and Wang, Bo and Yang, Hao and Yang, Yanping and Wang, Han and
+  Liu, Weiping and Long, Qianfa}, year={2021}, pages={5986–6005} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

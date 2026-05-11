@@ -1,7 +1,7 @@
 doi: 10.1038/s41583-019-0260-z
 openalex_id: W3004934488
 pmid: null
-pmcid: null
+pmcid: PMC7115869
 title: Dentate gyrus circuits for encoding, retrieval and discrimination of episodic
   memories
 authors:
@@ -20,10 +20,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Hainmueller_2020, title={Dentate gyrus circuits for encoding,
+  retrieval and discrimination of episodic memories}, volume={21}, ISSN={1471-0048},
+  url={http://dx.doi.org/10.1038/s41583-019-0260-z}, DOI={10.1038/s41583-019-0260-z},
+  number={3}, journal={Nature Reviews Neuroscience}, publisher={Springer Science and
+  Business Media LLC}, author={Hainmueller, Thomas and Bartos, Marlene}, year={2020},
+  month=feb, pages={153–168} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

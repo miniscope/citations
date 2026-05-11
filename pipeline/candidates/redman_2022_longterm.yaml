@@ -33,10 +33,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Redman_2022, title={Long-term transverse imaging of the hippocampus
+  with glass microperiscopes}, volume={11}, ISSN={2050-084X}, url={http://dx.doi.org/10.7554/elife.75391},
+  DOI={10.7554/elife.75391}, journal={eLife}, publisher={eLife Sciences Publications,
+  Ltd}, author={Redman, William T and Wolcott, Nora S and Montelisciani, Luca and
+  Luna, Gabriel and Marks, Tyler D and Sit, Kevin K and Yu, Che-Hang and Smith, Spencer
+  and Goard, Michael J}, year={2022}, month=jul }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

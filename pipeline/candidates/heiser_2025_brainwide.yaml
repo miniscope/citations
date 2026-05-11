@@ -1,7 +1,7 @@
 doi: 10.1038/s41467-025-58688-4
 openalex_id: W4409361960
 pmid: null
-pmcid: null
+pmcid: PMC11992252
 title: Brain-wide microstrokes affect the stability of memory circuits in the hippocampus
 authors:
 - first: Hendrik
@@ -31,10 +31,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Heiser_2025, title={Brain-wide microstrokes affect the stability
+  of memory circuits in the hippocampus}, volume={16}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-025-58688-4},
+  DOI={10.1038/s41467-025-58688-4}, number={1}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Heiser, Hendrik and Kiessler, Filippo and
+  Roggenbach, Adrian and Ibanez, Victor and Wieckhorst, Martin and Helmchen, Fritjof
+  and Gjorgjieva, Julijana and Wahl, Anna-Sophia}, year={2025}, month=apr }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

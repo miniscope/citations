@@ -1,7 +1,7 @@
 doi: 10.1016/j.cell.2021.12.007
 openalex_id: W4205560034
 pmid: null
-pmcid: null
+pmcid: PMC8849612
 title: Fluorescence imaging of large-scale neural ensemble dynamics
 authors:
 - first: Tony Hyun
@@ -19,10 +19,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Kim_2022, title={Fluorescence imaging of large-scale neural
+  ensemble dynamics}, volume={185}, ISSN={0092-8674}, url={http://dx.doi.org/10.1016/j.cell.2021.12.007},
+  DOI={10.1016/j.cell.2021.12.007}, number={1}, journal={Cell}, publisher={Elsevier
+  BV}, author={Kim, Tony Hyun and Schnitzer, Mark J.}, year={2022}, month=jan, pages={9–41}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

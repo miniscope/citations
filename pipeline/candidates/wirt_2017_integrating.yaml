@@ -1,7 +1,7 @@
 doi: 10.3390/brainsci7040043
 openalex_id: W2607288807
 pmid: null
-pmcid: null
+pmcid: PMC5406700
 title: 'Integrating Spatial Working Memory and Remote Memory: Interactions between
   the Medial Prefrontal Cortex and Hippocampus'
 authors:
@@ -20,10 +20,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Wirt_2017, title={Integrating Spatial Working Memory and Remote
+  Memory: Interactions between the Medial Prefrontal Cortex and Hippocampus}, volume={7},
+  ISSN={2076-3425}, url={http://dx.doi.org/10.3390/brainsci7040043}, DOI={10.3390/brainsci7040043},
+  number={4}, journal={Brain Sciences}, publisher={MDPI AG}, author={Wirt, Ryan and
+  Hyman, James}, year={2017}, month=apr, pages={43} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,7 +1,7 @@
 doi: 10.1038/s41598-019-56408-9
 openalex_id: W2997925374
 pmid: null
-pmcid: null
+pmcid: PMC6934800
 title: 'ezTrack: An open-source video analysis pipeline for the investigation of animal
   behavior'
 authors:
@@ -30,10 +30,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Pennington_2019, title={ezTrack: An open-source video analysis
+  pipeline for the investigation of animal behavior}, volume={9}, ISSN={2045-2322},
+  url={http://dx.doi.org/10.1038/s41598-019-56408-9}, DOI={10.1038/s41598-019-56408-9},
+  number={1}, journal={Scientific Reports}, publisher={Springer Science and Business
+  Media LLC}, author={Pennington, Zachary T. and Dong, Zhe and Feng, Yu and Vetere,
+  Lauren M. and Page-Harley, Lucia and Shuman, Tristan and Cai, Denise J.}, year={2019},
+  month=dec }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

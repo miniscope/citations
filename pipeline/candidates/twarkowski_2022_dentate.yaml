@@ -24,10 +24,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Twarkowski_2022, title={A dentate gyrus-CA3 inhibitory circuit
+  promotes evolution of hippocampal-cortical ensembles during memory consolidation},
+  volume={11}, ISSN={2050-084X}, url={http://dx.doi.org/10.7554/elife.70586}, DOI={10.7554/elife.70586},
+  journal={eLife}, publisher={eLife Sciences Publications, Ltd}, author={Twarkowski,
+  Hannah and Steininger, Victor and Kim, Min Jae and Sahay, Amar}, year={2022}, month=feb
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

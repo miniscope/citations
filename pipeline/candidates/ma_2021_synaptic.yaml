@@ -1,7 +1,7 @@
 doi: 10.1016/j.semcdb.2021.05.015
 openalex_id: W3163669337
 pmid: null
-pmcid: null
+pmcid: PMC9547722
 title: Synaptic modifications in learning and memory – A dendritic spine story
 authors:
 - first: Shaorong
@@ -19,10 +19,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Ma_2022, title={Synaptic modifications in learning and memory
+  – A dendritic spine story}, volume={125}, ISSN={1084-9521}, url={http://dx.doi.org/10.1016/j.semcdb.2021.05.015},
+  DOI={10.1016/j.semcdb.2021.05.015}, journal={Seminars in Cell &amp; Developmental
+  Biology}, publisher={Elsevier BV}, author={Ma, Shaorong and Zuo, Yi}, year={2022},
+  month=may, pages={84–90} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

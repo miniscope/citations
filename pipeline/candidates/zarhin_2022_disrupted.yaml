@@ -1,7 +1,7 @@
 doi: 10.1016/j.celrep.2021.110268
 openalex_id: W4205255012
 pmid: null
-pmcid: null
+pmcid: PMC8789564
 title: Disrupted neural correlates of anesthesia and sleep reveal early circuit dysfunctions
   in Alzheimer models
 authors:
@@ -60,10 +60,21 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zarhin_2022, title={Disrupted neural correlates of anesthesia
+  and sleep reveal early circuit dysfunctions in Alzheimer models}, volume={38}, ISSN={2211-1247},
+  url={http://dx.doi.org/10.1016/j.celrep.2021.110268}, DOI={10.1016/j.celrep.2021.110268},
+  number={3}, journal={Cell Reports}, publisher={Elsevier BV}, author={Zarhin, Daniel
+  and Atsmon, Refaela and Ruggiero, Antonella and Baeloha, Halit and Shoob, Shiri
+  and Scharf, Oded and Heim, Leore R. and Buchbinder, Nadav and Shinikamin, Ortal
+  and Shapira, Ilana and Styr, Boaz and Braun, Gabriella and Harel, Michal and Sheinin,
+  Anton and Geva, Nitzan and Sela, Yaniv and Saito, Takashi and Saido, Takaomi and
+  Geiger, Tamar and Nir, Yuval and Ziv, Yaniv and Slutsky, Inna}, year={2022}, month=jan,
+  pages={110268} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

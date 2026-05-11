@@ -1,7 +1,7 @@
 doi: 10.1016/j.cub.2022.10.037
 openalex_id: W4308834525
 pmid: null
-pmcid: null
+pmcid: PMC9772124
 title: Calcium activity is a degraded estimate of spikes
 authors:
 - first: Evan E.
@@ -25,10 +25,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Hart_2022, title={Calcium activity is a degraded estimate of
+  spikes}, volume={32}, ISSN={0960-9822}, url={http://dx.doi.org/10.1016/j.cub.2022.10.037},
+  DOI={10.1016/j.cub.2022.10.037}, number={24}, journal={Current Biology}, publisher={Elsevier
+  BV}, author={Hart, Evan E. and Gardner, Matthew P.H. and Panayi, Marios C. and Kahnt,
+  Thorsten and Schoenbaum, Geoffrey}, year={2022}, month=dec, pages={5364-5373.e4}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -37,7 +37,7 @@ bibtex_raw: ' @article{Erwin_2019, title={A sparse, spatially biased subtype of 
   '
 bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

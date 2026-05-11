@@ -1,7 +1,7 @@
 doi: 10.1101/2024.05.14.594213
 openalex_id: W4396935964
 pmid: null
-pmcid: null
+pmcid: PMC11118308
 title: Distinct functional classes of CA1 hippocampal interneurons are modulated by
   cerebellar stimulation in a coordinated manner
 authors:
@@ -24,10 +24,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Froula_2024, title={Distinct functional classes of CA1 hippocampal
+  interneurons are modulated by cerebellar stimulation in a coordinated manner}, url={http://dx.doi.org/10.1101/2024.05.14.594213},
+  DOI={10.1101/2024.05.14.594213}, publisher={openRxiv}, author={Froula, Jessica M.
+  and Rose, Jarrett J and Krook-Magnuson, Chris and Krook-Magnuson, Esther}, year={2024},
+  month=may }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

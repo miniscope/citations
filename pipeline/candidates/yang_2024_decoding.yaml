@@ -30,8 +30,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @inproceedings{Yang_2024, title={Decoding Continuous Forelimb Kinematics
+  in Mice Using Single-Photon Calcium Imaging}, url={http://dx.doi.org/10.1109/embc53108.2024.10782493},
+  DOI={10.1109/embc53108.2024.10782493}, booktitle={2024 46th Annual International
+  Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)}, publisher={IEEE},
+  author={Yang, Yuqi and Ning, Yuxiao and Li, Mingkang and Xu, Yuchen and Wang, Ruixue
+  and Zheng, Nenggan and Zhang, Shaomin}, year={2024}, month=jul, pages={1–4} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

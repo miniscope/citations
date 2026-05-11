@@ -23,8 +23,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Han_2018, title={Optical Approaches for Interrogating Neural
+  Circuits Controlling Hormone Secretion}, volume={159}, ISSN={1945-7170}, url={http://dx.doi.org/10.1210/en.2018-00594},
+  DOI={10.1210/en.2018-00594}, number={11}, journal={Endocrinology}, publisher={The
+  Endocrine Society}, author={Han, Su Young and Clarkson, Jenny and Piet, Richard
+  and Herbison, Allan E}, year={2018}, month=oct, pages={3822–3833} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

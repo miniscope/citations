@@ -32,10 +32,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{McKenzie_2025, title={Event boundaries drive norepinephrine
+  release and distinctive neural representations of space in the rodent hippocampus},
+  url={http://dx.doi.org/10.7554/elife.105183.1}, DOI={10.7554/elife.105183.1}, publisher={eLife
+  Sciences Publications, Ltd}, author={McKenzie, Sam and Sommer, Alexandra L and Donaldson,
+  Tia N and Pimentel, Infania and Kakani, Meenakshi and Choi, Irene Jungyeon and Newman,
+  Ehren L and English, Daniel F}, year={2025}, month=jan }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

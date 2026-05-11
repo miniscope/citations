@@ -19,8 +19,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Hirano_2025, title={Deep brain imaging by using GRIN lens},
+  volume={160}, ISSN={1347-8397}, url={http://dx.doi.org/10.1254/fpj.24071}, DOI={10.1254/fpj.24071},
+  number={1}, journal={Folia Pharmacologica Japonica}, publisher={Japanese Pharmacological
+  Society}, author={Hirano, Kyosuke and Nomura, Hiroshi}, year={2025}, month=jan,
+  pages={53–57} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

@@ -36,8 +36,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Korada_2025, title={Temporal and spatial patterns of secondary
+  motor cortex calcium activity in cocaine self-administration: A study using miniScope
+  imaging and machine learning}, volume={278}, ISSN={0028-3908}, url={http://dx.doi.org/10.1016/j.neuropharm.2025.110574},
+  DOI={10.1016/j.neuropharm.2025.110574}, journal={Neuropharmacology}, publisher={Elsevier
+  BV}, author={Korada, Amith and Chen, Yingying and Bi, Ziqian and Fu, Haoying and
+  Lange, Michal A. and Montgomery, Joreylis Michelle F. and Rayanki, Chandrashekar
+  and Guo, Changyong and Fang, Shiaofen and Ma, Yao-Ying}, year={2025}, month=nov,
+  pages={110574} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

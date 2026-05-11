@@ -1,7 +1,7 @@
 doi: 10.3390/s26041396
 openalex_id: W7131121380
 pmid: null
-pmcid: null
+pmcid: PMC12944328
 title: Dual-Readout Self-Resetting CMOS Image Sensor for Resolving Sub-Percent Optical
   Contrast in Biomedical Imaging
 authors:
@@ -32,10 +32,18 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sasagawa_2026, title={Dual-Readout Self-Resetting CMOS Image
+  Sensor for Resolving Sub-Percent Optical Contrast in Biomedical Imaging}, volume={26},
+  ISSN={1424-8220}, url={http://dx.doi.org/10.3390/s26041396}, DOI={10.3390/s26041396},
+  number={4}, journal={Sensors}, publisher={MDPI AG}, author={Sasagawa, Kiyotaka and
+  Iwaki, Subaru and Morimoto, Kenji and Okada, Ryoma and Takehara, Hironari and Haruta,
+  Makito and Tashiro, Hiroyuki and Ohta, Jun}, year={2026}, month=feb, pages={1396}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

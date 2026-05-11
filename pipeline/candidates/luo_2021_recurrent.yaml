@@ -1,7 +1,7 @@
 doi: 10.1073/pnas.2108239118
 openalex_id: W3203866315
 pmid: null
-pmcid: null
+pmcid: PMC8501755
 title: Recurrent rewiring of the adult hippocampal mossy fiber system by a single
   transcriptional regulator, Id2
 authors:
@@ -50,10 +50,21 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Luo_2021, title={Recurrent rewiring of the adult hippocampal
+  mossy fiber system by a single transcriptional regulator, Id2}, volume={118}, ISSN={1091-6490},
+  url={http://dx.doi.org/10.1073/pnas.2108239118}, DOI={10.1073/pnas.2108239118},
+  number={40}, journal={Proceedings of the National Academy of Sciences}, publisher={Proceedings
+  of the National Academy of Sciences}, author={Luo, Wenshu and Egger, Matteo and
+  Domonkos, Andor and Que, Lin and Lukacsovich, David and Cruz-Ochoa, Natalia Andrea
+  and Szőcs, Szilárd and Seng, Charlotte and Arszovszki, Antónia and Sipos, Eszter
+  and Amrein, Irmgard and Winterer, Jochen and Lukacsovich, Tamás and Szabadics, János
+  and Wolfer, David P. and Varga, Csaba and Földy, Csaba}, year={2021}, month=oct
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

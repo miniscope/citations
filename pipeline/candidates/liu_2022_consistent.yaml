@@ -1,7 +1,7 @@
 doi: 10.1002/hipo.23409
 openalex_id: W4220802663
 pmid: null
-pmcid: null
+pmcid: PMC10085730
 title: Consistent population activity on the scale of minutes in the mouse hippocampus
 authors:
 - first: Yue
@@ -31,10 +31,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Liu_2022, title={Consistent population activity on the scale
+  of minutes in the mouse hippocampus}, volume={32}, ISSN={1098-1063}, url={http://dx.doi.org/10.1002/hipo.23409},
+  DOI={10.1002/hipo.23409}, number={5}, journal={Hippocampus}, publisher={Wiley},
+  author={Liu, Yue and Levy, Samuel and Mau, William and Geva, Nitzan and Rubin, Alon
+  and Ziv, Yaniv and Hasselmo, Michael and Howard, Marc}, year={2022}, month=feb,
+  pages={359–372} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

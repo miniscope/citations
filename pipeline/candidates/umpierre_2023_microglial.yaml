@@ -1,7 +1,7 @@
 doi: 10.1101/2023.06.12.544691
 openalex_id: W4380449981
 pmid: null
-pmcid: null
+pmcid: PMC10312639
 title: Microglial P2Y <sub>6</sub> calcium signaling promotes phagocytosis and shapes
   neuroimmune responses in epileptogenesis
 authors:
@@ -46,10 +46,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: " @article{Umpierre_2023, title={Microglial P2Y\n                  6\n\
+  \                  calcium signaling promotes phagocytosis and shapes neuroimmune\
+  \ responses in epileptogenesis}, url={http://dx.doi.org/10.1101/2023.06.12.544691},\
+  \ DOI={10.1101/2023.06.12.544691}, publisher={openRxiv}, author={Umpierre, Anthony\
+  \ D. and Li, Bohan and Ayasoufi, Katayoun and Zhao, Shunyi and Xie, Manling and\
+  \ Thyen, Grace and Hur, Benjamin and Zheng, Jiaying and Liang, Yue and Wu, Zhaofa\
+  \ and Yu, Xinzhu and Sung, Jaeyun and Johnson, Aaron J. and Li, Yulong and Wu, Long-Jun},\
+  \ year={2023}, month=jun }\n"
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

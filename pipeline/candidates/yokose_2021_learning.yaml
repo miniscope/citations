@@ -21,8 +21,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Yokose_2021, title={Learning and memory: Shuffling memory traces
+  by relearning}, volume={31}, ISSN={0960-9822}, url={http://dx.doi.org/10.1016/j.cub.2021.11.016},
+  DOI={10.1016/j.cub.2021.11.016}, number={24}, journal={Current Biology}, publisher={Elsevier
+  BV}, author={Yokose, Jun and Terranova, Joseph I. and Kitamura, Takashi}, year={2021},
+  month=dec, pages={R1588–R1591} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

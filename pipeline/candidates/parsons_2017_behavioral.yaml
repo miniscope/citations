@@ -18,8 +18,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Parsons_2018, title={Behavioral and neural mechanisms by which
+  prior experience impacts subsequent learning}, volume={154}, ISSN={1074-7427}, url={http://dx.doi.org/10.1016/j.nlm.2017.11.008},
+  DOI={10.1016/j.nlm.2017.11.008}, journal={Neurobiology of Learning and Memory},
+  publisher={Elsevier BV}, author={Parsons, Ryan G.}, year={2018}, month=oct, pages={22–29}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

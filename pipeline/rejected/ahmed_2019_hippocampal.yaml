@@ -1,0 +1,74 @@
+doi: 10.1101/613638
+openalex_id: W2939854297
+pmid: null
+pmcid: null
+title: Hippocampal network reorganization underlies the formation of a temporal association
+  memory
+authors:
+- first: Mohsin
+  last: Ahmed
+- first: James B.
+  last: Priestley
+- first: Angel
+  last: Castro
+- first: Fabio
+  last: Stefanini
+- first: Elizabeth M.
+  last: Balough
+- first: Erin
+  last: Lavoie
+- first: Luca
+  last: Mazzucato
+- first: Stefano
+  last: Fusi
+- first: Attila
+  last: Losonczy
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2019
+publication_date: '2019-04-18'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2019/04/18/613638.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Ahmed_2019, title={Hippocampal network reorganization underlies
+  the formation of a temporal association memory}, url={http://dx.doi.org/10.1101/613638},
+  DOI={10.1101/613638}, publisher={openRxiv}, author={Ahmed, Mohsin S. and Priestley,
+  James B. and Castro, Angel and Stefanini, Fabio and Balough, Elizabeth M. and Lavoie,
+  Erin and Mazzucato, Luca and Fusi, Stefano and Losonczy, Attila}, year={2019}, month=apr
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.95
+  tools_identified: []
+  evidence:
+  - 2-photon calcium imaging to track neural population dynamics
+  paper_type: unrelated
+  suggested_component: null
+  suggested_technique: null
+  reasoning: This paper uses conventional benchtop 2-photon calcium imaging (head-fixed
+    mice) to study hippocampal trace fear conditioning, not the UCLA 2P Miniscope
+    or any other UCLA Miniscope tool. The citation to Cai et al. 2016 is for scientific
+    context regarding memory engrams and temporal association, not for any miniscope
+    tool usage. No mentions of miniscope, miniature microscope, UCLA, Minian, or any
+    related tool aliases were found in the full text. The lab (Losonczy, Columbia
+    University) is not affiliated with the UCLA Miniscope project.
+  related_to_project: false
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.323342+00:00'
+- stage: rejected
+  timestamp: '2026-04-11T12:00:00.000000+00:00'
+  reason: Paper uses conventional benchtop 2-photon imaging, not UCLA Miniscope tools.
+    Cai et al. 2016 cited for scientific context only.

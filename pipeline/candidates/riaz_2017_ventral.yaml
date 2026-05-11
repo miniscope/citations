@@ -26,8 +26,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Riaz_2017, title={Ventral, but not dorsal, hippocampus inactivation
+  impairs reward memory expression and retrieval in contexts defined by proximal cues},
+  volume={27}, ISSN={1098-1063}, url={http://dx.doi.org/10.1002/hipo.22734}, DOI={10.1002/hipo.22734},
+  number={7}, journal={Hippocampus}, publisher={Wiley}, author={Riaz, Sadia and Schumacher,
+  Anett and Sivagurunathan, Seyon and Van Der Meer, Matthijs and Ito, Rutsuko}, year={2017},
+  month=may, pages={822–836} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

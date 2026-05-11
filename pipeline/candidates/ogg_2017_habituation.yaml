@@ -18,8 +18,13 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @phdthesis{1, title={Habituation and Dishabituation in the Olfactory
+  Bulb: From Neural Responses to Behavior}, url={http://dx.doi.org/10.21007/etd.cghs.2017.0444},
+  DOI={10.21007/etd.cghs.2017.0444}, school={University of Tennessee Health Science
+  Center Library}, author={Ogg, Mary} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

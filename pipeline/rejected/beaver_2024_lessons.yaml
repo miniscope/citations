@@ -1,0 +1,68 @@
+doi: 10.1101/2024.08.12.607663
+openalex_id: W4401598396
+pmid: null
+pmcid: PMC11343151
+title: Lessons learned while evaluating how pairing aversive experiences with same
+  or different sex social stimulus mice affects subsequent social engagement
+authors:
+- first: Jasmin N.
+  last: Beaver
+- first: Marissa M.
+  last: Nicodemus
+- first: Isabella R.
+  last: Spalding
+- first: Lauren R.
+  last: Scrimshaw
+- first: Sohini
+  last: Dutta
+- first: Aaron M.
+  last: Jasnow
+- first: T. Lee
+  last: Gilman
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2024
+publication_date: '2024-08-15'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2024/08/15/2024.08.12.607663.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Beaver_2024, title={Lessons learned while evaluating how pairing
+  aversive experiences with same or different sex social stimulus mice affects subsequent
+  social engagement}, url={http://dx.doi.org/10.1101/2024.08.12.607663}, DOI={10.1101/2024.08.12.607663},
+  publisher={openRxiv}, author={Beaver, Jasmin N. and Nicodemus, Marissa M. and Spalding,
+  Isabella R. and Scrimshaw, Lauren R. and Dutta, Sohini and Jasnow, Aaron M. and
+  Gilman, Lee M.}, year={2024}, month=aug }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.95
+  tools_identified: []
+  evidence:
+  - "Cai et al., 2016 ) [author citations omitted for double-blind review] (see reviews
+    ( Abel and Lattal, 2001 ; Sheppard et al., 2018 ))"
+  paper_type: unrelated
+  related_to_project: false
+  suggested_component: null
+  suggested_technique: null
+  reasoning: >-
+    This paper studies social stress conditioning in male and female mice using
+    classical conditioning paradigms. It cites Cai et al. 2016 (seed paper) solely
+    for the scientific finding about shared neural ensembles linking distinct
+    contextual memories encoded close in time, using it to justify temporal separation
+    between conditioning events. There is no mention of any Miniscope, calcium imaging,
+    miniature microscope, or any other UCLA Miniscope project tool anywhere in the
+    full text. The citation is purely for scientific context with no tool connection.
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.326120+00:00'

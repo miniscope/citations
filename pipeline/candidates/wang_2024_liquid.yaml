@@ -1,7 +1,7 @@
 doi: 10.1038/s41377-024-01410-8
 openalex_id: W4392298148
 pmid: null
-pmcid: null
+pmcid: PMC10904790
 title: Liquid lens based holographic camera for real 3D scene hologram acquisition
   using end-to-end physical model-driven network
 authors:
@@ -40,10 +40,19 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Wang_2024, title={Liquid lens based holographic camera for
+  real 3D scene hologram acquisition using end-to-end physical model-driven network},
+  volume={13}, ISSN={2047-7538}, url={http://dx.doi.org/10.1038/s41377-024-01410-8},
+  DOI={10.1038/s41377-024-01410-8}, number={1}, journal={Light: Science &amp; Applications},
+  publisher={Springer Science and Business Media LLC}, author={Wang, Di and Li, Zhao-Song
+  and Zheng, Yi and Zhao, You-Ran and Liu, Chao and Xu, Jin-Bo and Zheng, Yi-Wei and
+  Huang, Qian and Chang, Chen-Liang and Zhang, Da-Wei and Zhuang, Song-Lin and Wang,
+  Qiong-Hua}, year={2024}, month=feb }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

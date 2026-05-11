@@ -32,10 +32,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Hur_2024, title={Correlated signatures of social behavior in
+  cerebellum and anterior cingulate cortex}, url={http://dx.doi.org/10.7554/elife.88439.2},
+  DOI={10.7554/elife.88439.2}, publisher={eLife Sciences Publications, Ltd}, author={Hur,
+  Sung Won and Safaryan, Karen and Yang, Long and Blair, Hugh T and Masmanidis, Sotiris
+  C and Mathews, Paul J and Aharoni, Daniel and Golshani, Peyman}, year={2024}, month=jan
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

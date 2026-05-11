@@ -26,10 +26,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{van_der_Veldt_2020, title={Conjunctive spatial and idiothetic
+  codes are topographically organized in the GABAergic cells of the lateral septum},
+  url={http://dx.doi.org/10.1101/2020.11.03.366849}, DOI={10.1101/2020.11.03.366849},
+  publisher={openRxiv}, author={van der Veldt, Suzanne and Etter, Guillaume and Mosser,
+  Coralie-Anne and Manseau, Frédéric and Williams, Sylvain}, year={2020}, month=nov
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

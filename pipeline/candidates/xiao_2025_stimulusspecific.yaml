@@ -1,7 +1,7 @@
 doi: 10.1101/2025.10.29.685162
 openalex_id: W4415717405
 pmid: null
-pmcid: null
+pmcid: PMC12636574
 title: Stimulus-specific recruitment of human amygdala neurons predicts episodic memory
   encoding success
 authors:
@@ -34,10 +34,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Xiao_2025, title={Stimulus-specific recruitment of human amygdala
+  neurons predicts episodic memory encoding success}, url={http://dx.doi.org/10.1101/2025.10.29.685162},
+  DOI={10.1101/2025.10.29.685162}, publisher={openRxiv}, author={Xiao, Jiayang and
+  Daume, Jonathan and Salimpour, Yousef and Kurilenko, Natalia and Mosher, Clayton
+  and Anderson, William S. and Valiante, Taufik A. and Mamelak, Adam N. and Rutishauser,
+  Ueli}, year={2025}, month=oct }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

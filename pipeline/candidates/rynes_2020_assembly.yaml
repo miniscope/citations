@@ -1,7 +1,7 @@
 doi: 10.1038/s41596-020-0318-4
 openalex_id: W3025146945
 pmid: null
-pmcid: null
+pmcid: PMC10276354
 title: Assembly and operation of an open-source, computer numerical controlled (CNC)
   robot for performing cranial microsurgical procedures
 authors:
@@ -34,10 +34,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Rynes_2020, title={Assembly and operation of an open-source,
+  computer numerical controlled (CNC) robot for performing cranial microsurgical procedures},
+  volume={15}, ISSN={1750-2799}, url={http://dx.doi.org/10.1038/s41596-020-0318-4},
+  DOI={10.1038/s41596-020-0318-4}, number={6}, journal={Nature Protocols}, publisher={Springer
+  Science and Business Media LLC}, author={Rynes, Mathew L. and Ghanbari, Leila and
+  Schulman, Daniel Sousa and Linn, Samantha and Laroque, Michael and Dominguez, Judith
+  and Navabi, Zahra S. and Sherman, Peter and Kodandaramaiah, Suhasa B.}, year={2020},
+  month=may, pages={1992–2023} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

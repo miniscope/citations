@@ -23,8 +23,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Ye_2025, title={Distorted temporal position memory under negative
+  emotional states}, ISSN={1464-0600}, url={http://dx.doi.org/10.1080/02699931.2025.2608124},
+  DOI={10.1080/02699931.2025.2608124}, journal={Cognition and Emotion}, publisher={Informa
+  UK Limited}, author={Ye, Qun and Ke, Chuang and Wu, Yuanchun and Cao, Zhiwei}, year={2025},
+  month=dec, pages={1–21} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

@@ -1,7 +1,7 @@
 doi: 10.1371/journal.pbio.2004633
 openalex_id: W2792199106
 pmid: null
-pmcid: null
+pmcid: PMC5875887
 title: Memory instability as a gateway to generalization
 authors:
 - first: Edwin M.
@@ -17,10 +17,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Robertson_2018, title={Memory instability as a gateway to generalization},
+  volume={16}, ISSN={1545-7885}, url={http://dx.doi.org/10.1371/journal.pbio.2004633},
+  DOI={10.1371/journal.pbio.2004633}, number={3}, journal={PLOS Biology}, publisher={Public
+  Library of Science (PLoS)}, author={Robertson, Edwin M.}, year={2018}, month=mar,
+  pages={e2004633} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

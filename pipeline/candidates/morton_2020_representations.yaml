@@ -1,7 +1,7 @@
 doi: 10.1073/pnas.1912338117
 openalex_id: W3107694517
 pmid: null
-pmcid: null
+pmcid: PMC7703583
 title: Representations of common event structure in medial temporal lobe and frontoparietal
   cortex support efficient inference
 authors:
@@ -22,10 +22,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Morton_2020, title={Representations of common event structure
+  in medial temporal lobe and frontoparietal cortex support efficient inference},
+  volume={117}, ISSN={1091-6490}, url={http://dx.doi.org/10.1073/pnas.1912338117},
+  DOI={10.1073/pnas.1912338117}, number={47}, journal={Proceedings of the National
+  Academy of Sciences}, publisher={Proceedings of the National Academy of Sciences},
+  author={Morton, Neal W and Schlichting, Margaret L. and Preston, Alison R.}, year={2020},
+  month=nov, pages={29338–29345} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

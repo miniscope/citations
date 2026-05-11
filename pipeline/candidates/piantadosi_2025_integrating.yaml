@@ -1,7 +1,7 @@
 doi: 10.1038/s41596-025-01143-x
 openalex_id: W4410629957
 pmid: null
-pmcid: null
+pmcid: PMC12329216
 title: Integrating optical neuroscience tools into touchscreen operant systems
 authors:
 - first: Patrick T.
@@ -37,10 +37,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Piantadosi_2025, title={Integrating optical neuroscience tools
+  into touchscreen operant systems}, volume={20}, ISSN={1750-2799}, url={http://dx.doi.org/10.1038/s41596-025-01143-x},
+  DOI={10.1038/s41596-025-01143-x}, number={9}, journal={Nature Protocols}, publisher={Springer
+  Science and Business Media LLC}, author={Piantadosi, Patrick T. and Princz-Lebel,
+  Oren and Skirzewski, Miguel and Dumont, Julie R. and Palmer, Daniel and Memar, Sara
+  and Saksida, Lisa M. and Prado, Vania F. and Prado, Marco A. M. and Bussey, Tim
+  J. and Holmes, Andrew}, year={2025}, month=may, pages={2418–2452} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

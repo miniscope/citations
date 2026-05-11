@@ -19,8 +19,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Terceros_2022, title={An immune molecule segregates memories
+  in time}, volume={606}, ISSN={1476-4687}, url={http://dx.doi.org/10.1038/d41586-022-01166-4},
+  DOI={10.1038/d41586-022-01166-4}, number={7912}, journal={Nature}, publisher={Springer
+  Science and Business Media LLC}, author={Terceros, Andrea and Rajasethupathy, Priya},
+  year={2022}, month=may, pages={38–39} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

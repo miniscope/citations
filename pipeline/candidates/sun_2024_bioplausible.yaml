@@ -1,7 +1,7 @@
 doi: 10.1002/advs.202406242
 openalex_id: W4402456884
 pmid: null
-pmcid: null
+pmcid: PMC11615814
 title: Bio‐Plausible Multimodal Learning with Emerging Neuromorphic Devices
 authors:
 - first: Haonan
@@ -31,10 +31,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sun_2024, title={Bio‐Plausible Multimodal Learning with Emerging
+  Neuromorphic Devices}, volume={11}, ISSN={2198-3844}, url={http://dx.doi.org/10.1002/advs.202406242},
+  DOI={10.1002/advs.202406242}, number={45}, journal={Advanced Science}, publisher={Wiley},
+  author={Sun, Haonan and Tian, Haoxiang and Hu, Yihao and Cui, Yi and Chen, Xinrui
+  and Xu, Minyi and Wang, Xianfu and Zhou, Tao}, year={2024}, month=sep }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,0 +1,61 @@
+doi: 10.3389/fncel.2019.00463
+openalex_id: W2980380380
+pmid: null
+pmcid: PMC6803618
+title: 'Editorial: New Insights on Neuron and Astrocyte Function From Cutting-Edge
+  Optical Techniques'
+authors:
+- first: Srdjan D.
+  last: Antic
+- first: Bradley J.
+  last: Baker
+- first: Marco
+  last: Canepari
+journal: Frontiers in Cellular Neuroscience
+publication_year: 2019
+publication_date: '2019-10-15'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.frontiersin.org/articles/10.3389/fncel.2019.00463/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Antic_2019, title={Editorial: New Insights on Neuron and Astrocyte
+  Function From Cutting-Edge Optical Techniques}, volume={13}, ISSN={1662-5102}, url={http://dx.doi.org/10.3389/fncel.2019.00463},
+  DOI={10.3389/fncel.2019.00463}, journal={Frontiers in Cellular Neuroscience}, publisher={Frontiers
+  Media SA}, author={Antic, Srdjan D. and Baker, Bradley James and Canepari, Marco},
+  year={2019}, month=oct }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.95
+  tools_identified: []
+  evidence:
+  - 'Cai et al. cited for scientific context only: "the necessity for simultaneous
+    measurements from ensembles of cells seems to be the most agreed upon aspect of
+    the modern neuroscience (Barbera et al., 2016 ; Cai et al., 2016 ; Ji et al.,
+    2016)"'
+  paper_type: unrelated
+  suggested_component: null
+  suggested_technique: null
+  reasoning: This editorial introduces a Frontiers special issue on optical techniques
+    (voltage-sensitive dyes, GEVIs, GCaMP, optogenetics). It cites Cai et al. 2016
+    solely for the scientific finding about shared neural ensembles, with no mention
+    of the Miniscope or any related tool. No tool aliases (Miniscope, miniature microscope,
+    MiniLFOV, MiniXL, Minian, 2P Miniscope, Miniscope DAQ) appear anywhere in the
+    full text. The paper is entirely about benchtop and two-photon optical methods,
+    not head-mounted miniature microscopes.
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.323020+00:00'
+- stage: rejected
+  timestamp: '2026-04-10T00:00:00+00:00'

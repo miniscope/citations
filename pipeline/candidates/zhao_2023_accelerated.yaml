@@ -1,7 +1,7 @@
 doi: 10.1101/2023.08.05.552133
 openalex_id: W4385614785
 pmid: null
-pmcid: null
+pmcid: PMC10418509
 title: Accelerated social representational drift in the nucleus accumbens in a model
   of autism
 authors:
@@ -30,10 +30,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhao_2023, title={Accelerated social representational drift
+  in the nucleus accumbens in a model of autism}, url={http://dx.doi.org/10.1101/2023.08.05.552133},
+  DOI={10.1101/2023.08.05.552133}, publisher={openRxiv}, author={Zhao, Pingping and
+  Chen, Xing and Bellafard, Arash and Murugesan, Avaneesh and Quan, Jonathan and Aharoni,
+  Daniel and Golshani, Peyman}, year={2023}, month=aug }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

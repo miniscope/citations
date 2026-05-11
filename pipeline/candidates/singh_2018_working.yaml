@@ -1,7 +1,7 @@
 doi: 10.1016/j.nlm.2018.04.008
 openalex_id: W2802824204
 pmid: null
-pmcid: null
+pmcid: PMC6064661
 title: Is working memory stored along a logarithmic timeline? Converging evidence
   from neuroscience, behavior and models
 authors:
@@ -22,10 +22,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Singh_2018, title={Is working memory stored along a logarithmic
+  timeline? Converging evidence from neuroscience, behavior and models}, volume={153},
+  ISSN={1074-7427}, url={http://dx.doi.org/10.1016/j.nlm.2018.04.008}, DOI={10.1016/j.nlm.2018.04.008},
+  journal={Neurobiology of Learning and Memory}, publisher={Elsevier BV}, author={Singh,
+  Inder and Tiganj, Zoran and Howard, Marc W.}, year={2018}, month=sep, pages={104–110}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

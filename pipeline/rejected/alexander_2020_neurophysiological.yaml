@@ -1,0 +1,77 @@
+doi: 10.1177/2398212820972871
+openalex_id: W3108540392
+pmid: null
+pmcid: PMC7708714
+title: Neurophysiological coding of space and time in the hippocampus, entorhinal
+  cortex, and retrosplenial cortex
+authors:
+- first: Andrew S.
+  last: Alexander
+- first: Jennifer C.
+  last: Robinson
+- first: Holger
+  last: Dannenberg
+- first: Nathaniel R.
+  last: Kinsky
+- first: Samuel J.
+  last: Levy
+- first: William
+  last: Mau
+- first: G. William
+  last: Chapman
+- first: David W.
+  last: Sullivan
+- first: Michael E.
+  last: Hasselmo
+journal: Brain and Neuroscience Advances
+publication_year: 2020
+publication_date: '2020-01-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://journals.sagepub.com/doi/pdf/10.1177/2398212820972871
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Alexander_2020, title={Neurophysiological coding of space and
+  time in the hippocampus, entorhinal cortex, and retrosplenial cortex}, volume={4},
+  ISSN={2398-2128}, url={http://dx.doi.org/10.1177/2398212820972871}, DOI={10.1177/2398212820972871},
+  journal={Brain and Neuroscience Advances}, publisher={SAGE Publications}, author={Alexander,
+  Andrew S. and Robinson, Jennifer C. and Dannenberg, Holger and Kinsky, Nathaniel
+  R. and Levy, Samuel J. and Mau, William and Chapman, G. William and Sullivan, David
+  W. and Hasselmo, Michael E.}, year={2020}, month=jan, pages={239821282097287} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.95
+  tools_identified: []
+  evidence:
+  - temporally proximal memories through overlapping populations ( Cai et al., 2016
+    ; Howard et al., 2014 ; Kinsky et al., 2020 ; Levy et al., 2020 ; Mankin et al.,
+    2015 ; Rubin et al., 2015 ; Rule et al., 2019 )
+  paper_type: review
+  suggested_component: null
+  suggested_technique: null
+  reasoning: This is a review paper on neurophysiological coding of space and time
+    in the hippocampus, entorhinal cortex, and retrosplenial cortex. It cites the
+    seed paper Cai et al. 2016 purely for its scientific finding about shared neural
+    ensembles linking temporally proximal memories through overlapping populations.
+    The citation is used as scientific context for discussing drift in ensemble membership.
+    The paper contains no mention of any Miniscope tool (UCLA Miniscope v4, MiniLFOV,
+    MiniXL, Minian, UCLA 2P Miniscope, Miniscope DAQ, or any aliases). While the paper
+    discusses calcium imaging, it does so in general review context referencing other
+    works (Mau et al., 2018). This paper has no tool connection to the Miniscope project.
+  related_to_project: false
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.318953+00:00'
+- stage: rejected
+  timestamp: '2026-04-10T00:00:00+00:00'

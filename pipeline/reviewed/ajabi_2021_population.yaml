@@ -1,0 +1,65 @@
+doi: 10.1101/2021.08.30.458266
+openalex_id: W3198789381
+pmid: null
+pmcid: null
+title: Population dynamics of the thalamic head direction system during drift and
+  reorientation
+authors:
+- first: Zaki
+  last: Ajabi
+- first: Alexandra T.
+  last: Keinath
+- first: Xue-Xin
+  last: Wei
+- first: Mark P.
+  last: Brandon
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2021
+publication_date: '2021-09-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2021/09/01/2021.08.30.458266.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Ajabi_2021, title={Population dynamics of the thalamic head
+  direction system during drift and reorientation}, url={http://dx.doi.org/10.1101/2021.08.30.458266},
+  DOI={10.1101/2021.08.30.458266}, publisher={openRxiv}, author={Ajabi, Zaki and Keinath,
+  Alexandra T. and Wei, Xue-Xin and Brandon, Mark P.}, year={2021}, month=sep }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: true
+  confidence: 0.85
+  tools_identified:
+  - UCLA Miniscope v4
+  evidence:
+  - "PDF reference link: Aharoni, 2019 #153 (the UCLA Miniscope v4 paper, DOI 10.1038/s41593-019-0559-0)"
+  - "Abstract: we performed large population recordings of mouse thalamic HD cells using calcium imaging"
+  paper_type: science
+  suggested_component: UCLA Miniscope v4
+  suggested_technique: calcium imaging
+  reasoning: >-
+    This paper studies population dynamics of the thalamic head direction system
+    using calcium imaging in freely moving mice. It cites Aharoni 2019
+    (10.1038/s41593-019-0559-0), the UCLA Miniscope v4 paper, as reference #153
+    in the methods context. The paper was discovered via citation of seed paper
+    Cai et al. 2016 (10.1038/nature17955). The Brandon lab at McGill is a known
+    user of UCLA Miniscopes. The combination of citing the Miniscope hardware
+    paper and performing large-scale calcium imaging in freely moving mice is
+    strong evidence of tool usage. Confidence is 0.85 rather than higher because
+    the full text could not be fully parsed (PDF binary) so the exact methods
+    sentence naming the device could not be directly quoted.
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.323595+00:00'
+- stage: reviewed
+  timestamp: '2026-04-10'

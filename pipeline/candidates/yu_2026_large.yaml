@@ -1,7 +1,7 @@
 doi: 10.1038/s41377-025-02155-8
 openalex_id: W7133311701
 pmid: null
-pmcid: null
+pmcid: PMC12953653
 title: Large zoom ratio and adaptive aberration correction microscope using 4DPSF-aware
   Physical Degradation-guided Network
 authors:
@@ -36,10 +36,18 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Yu_2026, title={Large zoom ratio and adaptive aberration correction
+  microscope using 4DPSF-aware Physical Degradation-guided Network}, volume={15},
+  ISSN={2047-7538}, url={http://dx.doi.org/10.1038/s41377-025-02155-8}, DOI={10.1038/s41377-025-02155-8},
+  number={1}, journal={Light: Science &amp; Applications}, publisher={Springer Science
+  and Business Media LLC}, author={Yu, Dong-Xu and Jiang, Zhao and Zheng, Yi and Zhang,
+  Hao-Ran and Li, Rong-Qiang and Zhao, You-Ran and Lu, Xiao-Ke and Lin, Yu-Cheng and
+  Liu, Chao and Wang, Qiong-Hua}, year={2026}, month=mar }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

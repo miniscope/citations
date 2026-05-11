@@ -1,7 +1,7 @@
 doi: 10.1038/s41377-024-01454-w
 openalex_id: W4396696024
 pmid: null
-pmcid: null
+pmcid: PMC11076611
 title: A head-mounted photoacoustic fiberscope for hemodynamic imaging in mobile mice
 authors:
 - first: Xiaoyan
@@ -19,10 +19,16 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zheng_2024, title={A head-mounted photoacoustic fiberscope
+  for hemodynamic imaging in mobile mice}, volume={13}, ISSN={2047-7538}, url={http://dx.doi.org/10.1038/s41377-024-01454-w},
+  DOI={10.1038/s41377-024-01454-w}, number={1}, journal={Light: Science &amp; Applications},
+  publisher={Springer Science and Business Media LLC}, author={Zheng, Xiaoyan and
+  Na, Shuai}, year={2024}, month=may }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

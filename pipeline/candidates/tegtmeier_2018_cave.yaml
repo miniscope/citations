@@ -1,7 +1,7 @@
 doi: 10.3389/fnins.2018.00958
 openalex_id: W2903712864
 pmid: null
-pmcid: null
+pmcid: PMC6305314
 title: 'CAVE: An Open-Source Tool for Combined Analysis of Head-Mounted Calcium Imaging
   and Behavior in MATLAB'
 authors:
@@ -28,10 +28,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Tegtmeier_2018, title={CAVE: An Open-Source Tool for Combined
+  Analysis of Head-Mounted Calcium Imaging and Behavior in MATLAB}, volume={12}, ISSN={1662-453X},
+  url={http://dx.doi.org/10.3389/fnins.2018.00958}, DOI={10.3389/fnins.2018.00958},
+  journal={Frontiers in Neuroscience}, publisher={Frontiers Media SA}, author={Tegtmeier,
+  Jennifer and Brosch, Marcel and Janitzky, Kathrin and Heinze, Hans-Jochen and Ohl,
+  Frank W. and Lippert, Michael T.}, year={2018}, month=dec }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

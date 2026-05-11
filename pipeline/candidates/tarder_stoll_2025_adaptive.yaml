@@ -24,8 +24,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Tarder_Stoll_2026, title={Adaptive episodic memory: how multiple
+  memory representations drive behavior in humans and nonhumans}, volume={106}, ISSN={1522-1210},
+  url={http://dx.doi.org/10.1152/physrev.00005.2025}, DOI={10.1152/physrev.00005.2025},
+  number={2}, journal={Physiological Reviews}, publisher={American Physiological Society},
+  author={Tarder-Stoll, Hannah and Sekeres, Melanie J. and Levine, Brian and Moscovitch,
+  Morris}, year={2026}, month=apr, pages={841–889} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

@@ -1,7 +1,7 @@
 doi: 10.1038/s41467-023-35805-9
 openalex_id: W4318755662
 pmid: null
-pmcid: null
+pmcid: PMC9889816
 title: Generalized extinction of fear memory depends on co-allocation of synaptic
   plasticity in dendrites
 authors:
@@ -26,10 +26,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Xu_2023, title={Generalized extinction of fear memory depends
+  on co-allocation of synaptic plasticity in dendrites}, volume={14}, ISSN={2041-1723},
+  url={http://dx.doi.org/10.1038/s41467-023-35805-9}, DOI={10.1038/s41467-023-35805-9},
+  number={1}, journal={Nature Communications}, publisher={Springer Science and Business
+  Media LLC}, author={Xu, Zhiwei and Geron, Erez and Pérez-Cuesta, Luis M. and Bai,
+  Yang and Gan, Wen-Biao}, year={2023}, month=jan }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

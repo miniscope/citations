@@ -1,0 +1,69 @@
+doi: 10.1007/978-1-0716-2764-8_5
+openalex_id: W4321609432
+pmid: null
+pmcid: null
+title: An All-Optical Physiology Pipeline Toward Highly Specific and Artifact-Free
+  Circuit Mapping
+authors:
+- first: Hendrik
+  last: Backhaus
+- first: Nicolas
+  last: Ruffini
+- first: Anna
+  last: Wierczeiko
+- first: Albrecht
+  last: Stroh
+journal: Neuromethods
+publication_year: 2023
+publication_date: '2023-01-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://link.springer.com/content/pdf/10.1007/978-1-0716-2764-8_5.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @inbook{Backhaus_2023, title={An All-Optical Physiology Pipeline Toward
+  Highly Specific and Artifact-Free Circuit Mapping}, ISBN={9781071627648}, ISSN={1940-6045},
+  url={http://dx.doi.org/10.1007/978-1-0716-2764-8_5}, DOI={10.1007/978-1-0716-2764-8_5},
+  booktitle={All-Optical Methods to Study Neuronal Function}, publisher={Springer
+  US}, author={Backhaus, Hendrik and Ruffini, Nicolas and Wierczeiko, Anna and Stroh,
+  Albrecht}, year={2023}, pages={137–163} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: true
+  confidence: 0.82
+  tools_identified:
+  - UCLA Miniscope v4
+  evidence:
+  - "the UCLA Miniscope [48] or the FinchScope [49]"
+  - "up to 60 Hz at a ﬁeld of view of 752 by 480 pixels (Miniscope-v4, UCLA, Los
+    Angeles, California)"
+  - "also open-source systems are being provided by the community, e.g., the UCLA
+    Miniscope [48]"
+  paper_type: review
+  suggested_component: UCLA Miniscope v4
+  suggested_technique: calcium imaging
+  reasoning: >-
+    This is a methods/review chapter in the Neuromethods book series on all-optical
+    methods to study neuronal function. It explicitly discusses the UCLA Miniscope
+    and Miniscope-v4 by name, citing their technical specifications (60 Hz, 752x480
+    pixel FOV) and identifying them as open-source miniature microscope systems. The
+    paper reviews the all-optical physiology pipeline including one-photon miniature
+    microscopes with GRIN lenses, and positions the UCLA Miniscope as a key tool in
+    this landscape. While the paper does not use the Miniscope for original research,
+    it serves as a review/methods reference that describes the tool and its capabilities
+    in detail. Confidence is 0.82 rather than higher because the paper covers a broad
+    range of optical methods and the Miniscope discussion is one component of the
+    larger chapter.
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322709+00:00'

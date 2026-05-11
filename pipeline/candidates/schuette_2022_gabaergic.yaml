@@ -1,7 +1,7 @@
 doi: 10.1038/s41598-022-13799-6
 openalex_id: W4283155566
 pmid: null
-pmcid: null
+pmcid: PMC9209472
 title: GABAergic CA1 neurons are more stable following context changes than glutamatergic
   cells
 authors:
@@ -34,10 +34,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Schuette_2022, title={GABAergic CA1 neurons are more stable
+  following context changes than glutamatergic cells}, volume={12}, ISSN={2045-2322},
+  url={http://dx.doi.org/10.1038/s41598-022-13799-6}, DOI={10.1038/s41598-022-13799-6},
+  number={1}, journal={Scientific Reports}, publisher={Springer Science and Business
+  Media LLC}, author={Schuette, Peter J. and Ikebara, Juliane M. and Maesta-Pereira,
+  Sandra and Torossian, Anita and Sethi, Ekayana and Kihara, Alexandre H. and Kao,
+  Jonathan C. and Reis, Fernando M. C. V. and Adhikari, Avishek}, year={2022}, month=jun
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,7 +1,7 @@
 doi: 10.1002/epi4.12563
 openalex_id: W3217301945
 pmid: null
-pmcid: null
+pmcid: PMC8886100
 title: 'Focal impaired awareness seizures in a rodent model: A functional anatomy'
 authors:
 - first: Nadia
@@ -19,42 +19,44 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: |
-  @article{Adotevi2021,
-    author = {Adotevi, Nadia and Kapur, Jaideep},
-    title = {Focal impaired awareness seizures in a rodent model: {A} functional anatomy},
-    journal = {Epilepsia Open},
-    year = {2021},
-    volume = {7},
-    number = {1},
-    pages = {110--123},
-    doi = {10.1002/epi4.12563}
+bibtex_raw: ' @article{Adotevi_2021, title={Focal impaired awareness seizures in a
+  rodent model: A functional anatomy}, volume={7}, ISSN={2470-9239}, url={http://dx.doi.org/10.1002/epi4.12563},
+  DOI={10.1002/epi4.12563}, number={1}, journal={Epilepsia Open}, publisher={Wiley},
+  author={Adotevi, Nadia and Kapur, Jaideep}, year={2021}, month=dec, pages={110–123}
   }
+
+  '
 bibtex_source: crossref
 fulltext:
-  source: abstract_only
+  source: pmc
   pdf_local_path: null
 analysis:
   status: reviewed
+  related_to_project: false
   uses_tool: false
-  confidence: 0.50
+  confidence: 0.95
   tools_identified: []
   evidence:
-  - "Abstract: 'This study highlights neuronal circuits preferentially activated during a focal impaired awareness seizure in rodent model.'"
-  - "No mention of miniscope, miniature microscope, calcium imaging, or any UCLA Miniscope variant in abstract or metadata."
-  - "OpenAlex concepts: Neuroscience, Retrosplenial cortex, Entorhinal cortex, Epilepsy, Hippocampal formation, Piriform cortex, Amygdala, Memory consolidation -- no imaging tool concepts."
-  paper_type: primary_research
+  - 'Full text methods: "we mapped seizure circuits activated during these seizures
+    by permanently tagging neurons through activity-induced immediate early genes,
+    combined with immunohistochemical approaches"'
+  - 'Seed paper citation context (ref 28): "This aligns with reports that hippocampal
+    network desynchronization may underlie memory deficits in the epileptic brain."'
+  - No mention of miniscope, miniature microscope, calcium imaging, GCaMP, head-mounted,
+    freely moving, or any UCLA Miniscope tool variant in the full text.
+  - Paper uses TRAP2 mice with immunohistochemistry (c-Fos/TdT labeling), not calcium
+    imaging or any optical tool.
+  paper_type: science
   suggested_component: null
   suggested_technique: null
-  reasoning: >
-    Paper cites Shuman et al. 2019 (seed paper) but is a neuroanatomy study of seizure-activated circuits
-    in a rodent kindling model of epilepsy. The abstract describes mapping brain regions activated during
-    focal impaired awareness seizures and their role in memory/depression comorbidities. No mention of
-    miniscope, miniature microscope, calcium imaging, or any UCLA Miniscope tool in the abstract or
-    OpenAlex metadata. This is a citation for scientific context (epilepsy/neural circuits) rather than
-    tool usage. Confidence capped at 0.50 because only abstract was accessible (full text via PMC was
-    unavailable due to tool restrictions), but the paper's focus on immunohistochemistry-style circuit
-    mapping makes tool usage highly unlikely.
+  reasoning: 'Full text analysis confirms this paper is an immunohistochemistry-based
+    neuroanatomy study mapping brain regions activated during focal seizures in a kindling
+    model using TRAP2 transgenic mice and TdT/NeuN/ChAT immunolabeling. The seed
+    paper (Shuman et al. 2020) is cited purely for its scientific finding about hippocampal
+    network desynchronization in epilepsy, with no connection to the Miniscope imaging
+    tools used in that study. Zero mentions of miniscope, miniature microscope, calcium
+    imaging, GCaMP, or any related tool terminology in the entire full text. This is
+    a clear case of citing a seed paper for scientific context only.'
 stage: rejected
 stage_history:
 - stage: candidate
@@ -63,3 +65,7 @@ stage_history:
   timestamp: '2026-04-11T03:20:26.375004+00:00'
 - stage: rejected
   timestamp: '2026-04-11T04:00:00.000000+00:00'
+- stage: rejected
+  timestamp: '2026-04-11T12:00:00.000000+00:00'
+  note: 'Full text review confirms rejection: no tool connection, seed paper cited
+    for scientific context only.'

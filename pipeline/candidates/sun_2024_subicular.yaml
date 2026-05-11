@@ -1,7 +1,7 @@
 doi: 10.1038/s41586-024-07139-z
 openalex_id: W4392520074
 pmid: null
-pmcid: null
+pmcid: PMC10972755
 title: Subicular neurons encode concave and convex geometries
 authors:
 - first: Yanjun
@@ -23,10 +23,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sun_2024, title={Subicular neurons encode concave and convex
+  geometries}, volume={627}, ISSN={1476-4687}, url={http://dx.doi.org/10.1038/s41586-024-07139-z},
+  DOI={10.1038/s41586-024-07139-z}, number={8005}, journal={Nature}, publisher={Springer
+  Science and Business Media LLC}, author={Sun, Yanjun and Nitz, Douglas A. and Xu,
+  Xiangmin and Giocomo, Lisa M.}, year={2024}, month=mar, pages={821–829} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -24,10 +24,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Peden_Asarch_2026, title={Miniscope Processing Suite (MPS):
+  An Intuitive, No-Code, Scalable Pipeline for Long-Duration Calcium Imaging}, url={http://dx.doi.org/10.7554/elife.109858.1},
+  DOI={10.7554/elife.109858.1}, publisher={eLife Sciences Publications, Ltd}, author={Peden-Asarch,
+  Ari and Weinstock, Meredith and Coffey, Kevin R and Neumaier, John F}, year={2026},
+  month=mar }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

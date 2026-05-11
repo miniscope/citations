@@ -1,7 +1,7 @@
 doi: 10.1016/j.dcn.2022.101071
 openalex_id: W4225401153
 pmid: null
-pmcid: null
+pmcid: PMC8784303
 title: 'Spectral pattern similarity analysis: Tutorial and application in developmental
   cognitive neuroscience'
 authors:
@@ -26,10 +26,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sommer_2022, title={Spectral pattern similarity analysis: Tutorial
+  and application in developmental cognitive neuroscience}, volume={54}, ISSN={1878-9293},
+  url={http://dx.doi.org/10.1016/j.dcn.2022.101071}, DOI={10.1016/j.dcn.2022.101071},
+  journal={Developmental Cognitive Neuroscience}, publisher={Elsevier BV}, author={Sommer,
+  Verena R. and Mount, Luzie and Weigelt, Sarah and Werkle-Bergner, Markus and Sander,
+  Myriam C.}, year={2022}, month=apr, pages={101071} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

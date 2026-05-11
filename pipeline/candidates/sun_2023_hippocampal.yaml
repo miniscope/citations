@@ -1,7 +1,7 @@
 doi: 10.1016/j.isci.2023.108603
 openalex_id: W4389208161
 pmid: null
-pmcid: null
+pmcid: PMC10713853
 title: Hippocampal cognitive and relational map paradigms explored by multisensory
   encoding recording with wide-field calcium imaging
 authors:
@@ -24,10 +24,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sun_2024, title={Hippocampal cognitive and relational map paradigms
+  explored by multisensory encoding recording with wide-field calcium imaging}, volume={27},
+  ISSN={2589-0042}, url={http://dx.doi.org/10.1016/j.isci.2023.108603}, DOI={10.1016/j.isci.2023.108603},
+  number={1}, journal={iScience}, publisher={Elsevier BV}, author={Sun, Dechuan and
+  Shaik, Noor E. Karishma and Unnithan, Ranjith Rajasekharan and French, Chris}, year={2024},
+  month=jan, pages={108603} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

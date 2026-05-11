@@ -1,7 +1,7 @@
 doi: 10.1038/s41467-022-34114-x
 openalex_id: W4308404203
 pmid: null
-pmcid: null
+pmcid: PMC9640587
 title: Neural circuit dynamics of drug-context associative learning in the mouse hippocampus
 authors:
 - first: Yanjun
@@ -19,10 +19,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sun_2022, title={Neural circuit dynamics of drug-context associative
+  learning in the mouse hippocampus}, volume={13}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-022-34114-x},
+  DOI={10.1038/s41467-022-34114-x}, number={1}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Sun, Yanjun and Giocomo, Lisa M.}, year={2022},
+  month=nov }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

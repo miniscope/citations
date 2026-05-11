@@ -1,7 +1,7 @@
 doi: 10.1016/j.cub.2023.07.042
 openalex_id: W4385841209
 pmid: null
-pmcid: null
+pmcid: PMC10524918
 title: Engram stability and maturation during systems consolidation
 authors:
 - first: Ron
@@ -25,10 +25,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Refaeli_2023, title={Engram stability and maturation during
+  systems consolidation}, volume={33}, ISSN={0960-9822}, url={http://dx.doi.org/10.1016/j.cub.2023.07.042},
+  DOI={10.1016/j.cub.2023.07.042}, number={18}, journal={Current Biology}, publisher={Elsevier
+  BV}, author={Refaeli, Ron and Kreisel, Tirzah and Groysman, Maya and Adamsky, Adar
+  and Goshen, Inbal}, year={2023}, month=sep, pages={3942-3950.e3} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

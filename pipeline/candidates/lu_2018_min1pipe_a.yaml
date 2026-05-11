@@ -29,10 +29,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lu_2018, title={MIN1PIPE: A Miniscope 1-photon-based Calcium
+  Imaging Signal Extraction Pipeline}, url={http://dx.doi.org/10.1101/311548}, DOI={10.1101/311548},
+  publisher={openRxiv}, author={Lu, Jinghao and Li, Chunyuan and Singh-Alvarado, Jonnathan
+  and Zhou, Zhe Charles and Fröhlich, Flavio and Mooney, Richard and Wang, Fan}, year={2018},
+  month=apr }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

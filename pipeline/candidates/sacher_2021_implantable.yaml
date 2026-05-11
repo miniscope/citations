@@ -55,10 +55,21 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sacher_2021, Youngho_Hu_Jeong_Lozano_Valiante_et al._2021,
+  title={Implantable photonic neural probes for light-sheet fluorescence brain imaging},
+  volume={8}, ISSN={2329-423X}, url={http://dx.doi.org/10.1117/1.nph.8.2.025003},
+  DOI={10.1117/1.nph.8.2.025003}, number={02}, journal={Neurophotonics}, publisher={SPIE-Intl
+  Soc Optical Eng}, author={Sacher, Wesley D. and Chen, Fu-Der and Moradi-Chameh,
+  Homeira and Shah, Prajay and Felts Almog, Ilan and Jun, Youngho, Youngho and Hu,
+  Ting and Jeong, Junho and Lozano, Andres M. and Valiante, Taufik A. and Moreaux,
+  Laurent C. and Poon, Joyce K. and Roukes, Michael L. and Luo, Xianshu and Fomenko,
+  Anton and Lordello, Thomas and Liu, Xinyu and Straguzzi, John N. and Fowler, Trevor
+  M. and Lo, Patrick}, year={2021}, month=apr }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

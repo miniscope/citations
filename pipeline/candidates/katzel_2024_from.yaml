@@ -18,8 +18,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @inbook{K_tzel_2024, title={From Circuits to Drug Targets: The Promise
+  of Opto- and Chemogenetics for Drug Discovery}, ISBN={9781837677467}, url={http://dx.doi.org/10.1039/9781837672059-00185},
+  DOI={10.1039/9781837672059-00185}, booktitle={Drug Discovery for Schizophrenia},
+  publisher={Royal Society of Chemistry}, author={Kätzel, D.}, year={2024}, month=dec,
+  pages={185–224} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

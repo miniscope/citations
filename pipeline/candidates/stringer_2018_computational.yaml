@@ -19,8 +19,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Stringer_2019, title={Computational processing of neural recordings
+  from calcium imaging data}, volume={55}, ISSN={0959-4388}, url={http://dx.doi.org/10.1016/j.conb.2018.11.005},
+  DOI={10.1016/j.conb.2018.11.005}, journal={Current Opinion in Neurobiology}, publisher={Elsevier
+  BV}, author={Stringer, Carsen and Pachitariu, Marius}, year={2019}, month=apr, pages={22–31}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

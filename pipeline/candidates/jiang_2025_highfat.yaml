@@ -1,7 +1,7 @@
 doi: 10.1038/s41467-025-68010-x
 openalex_id: W7117360138
 pmid: null
-pmcid: null
+pmcid: PMC12864979
 title: High-fat diet disrupts a septal control on feeding to promote obesity in male
   mice
 authors:
@@ -36,10 +36,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Jiang_2025, title={High-fat diet disrupts a septal control
+  on feeding to promote obesity in male mice}, volume={17}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-025-68010-x},
+  DOI={10.1038/s41467-025-68010-x}, number={1}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Jiang, Shaolei and Lai, Shishi and Jing,
+  Haiyang and Wu, Xiaocong and Li, Fengling and Chen, Bo and Bao, Jin and Wang, Liping
+  and Chen, Gaowei and Zhu, Yingjie}, year={2025}, month=dec }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

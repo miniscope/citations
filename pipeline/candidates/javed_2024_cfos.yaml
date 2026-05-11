@@ -26,10 +26,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Javed_2024, title={cfos principal cells and interneurons are
+  strongly reactivated by sharp wave ripples}, url={http://dx.doi.org/10.1101/2024.12.17.628897},
+  DOI={10.1101/2024.12.17.628897}, publisher={openRxiv}, author={Javed, M. H. and
+  Robles-Hernandez, E. M. and Patel, R. and Haberl, M.G. and da Silva, S. Viana},
+  year={2024}, month=dec }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

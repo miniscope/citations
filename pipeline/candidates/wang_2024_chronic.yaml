@@ -1,7 +1,7 @@
 doi: 10.1093/nsr/nwae402
 openalex_id: W4404420538
 pmid: null
-pmcid: null
+pmcid: PMC11737403
 title: Chronic implantable flexible serpentine probe reveals impaired spatial coding
   of place cells in epilepsy
 authors:
@@ -56,10 +56,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Wang_2024, title={Chronic implantable flexible serpentine probe
+  reveals impaired spatial coding of place cells in epilepsy}, volume={12}, ISSN={2053-714X},
+  url={http://dx.doi.org/10.1093/nsr/nwae402}, DOI={10.1093/nsr/nwae402}, number={2},
+  journal={National Science Review}, publisher={Oxford University Press (OUP)}, author={Wang,
+  Yu and Han, Meiqi and Xu, Zhaojie and Lv, Shiya and Yang, Gucheng and Mo, Fan and
+  Jing, Luyi and Jia, Qianli and Duan, Yiming and Xu, Wei and Jiao, Peiyao and Liu,
+  Yaoyao and Shan, Jin and Li, Ming and Wang, Mixia and Luo, Jinping and Song, Yilin
+  and Liu, Juntao and Wu, Yirong and Cai, Xinxia}, year={2024}, month=nov }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

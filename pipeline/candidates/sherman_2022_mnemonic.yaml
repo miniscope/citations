@@ -1,7 +1,7 @@
 doi: 10.1177/09567976221129533
 openalex_id: W4310124508
 pmid: null
-pmcid: null
+pmcid: PMC10068509
 title: Mnemonic Content and Hippocampal Patterns Shape Judgments of Time
 authors:
 - first: Brynn E.
@@ -23,10 +23,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sherman_2022, title={Mnemonic Content and Hippocampal Patterns
+  Shape Judgments of Time}, volume={34}, ISSN={1467-9280}, url={http://dx.doi.org/10.1177/09567976221129533},
+  DOI={10.1177/09567976221129533}, number={2}, journal={Psychological Science}, publisher={SAGE
+  Publications}, author={Sherman, Brynn E. and DuBrow, Sarah and Winawer, Jonathan
+  and Davachi, Lila}, year={2022}, month=nov, pages={221–237} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

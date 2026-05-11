@@ -1,7 +1,7 @@
 doi: 10.1038/s41467-020-17270-w
 openalex_id: W3041554416
 pmid: null
-pmcid: null
+pmcid: PMC7359370
 title: Contextual fear memory retrieval by correlated ensembles of ventral CA1 neurons
 authors:
 - first: Jessica
@@ -27,10 +27,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Jimenez_2020, title={Contextual fear memory retrieval by correlated
+  ensembles of ventral CA1 neurons}, volume={11}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-020-17270-w},
+  DOI={10.1038/s41467-020-17270-w}, number={1}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Jimenez, Jessica C. and Berry, Jack E.
+  and Lim, Sean C. and Ong, Samantha K. and Kheirbek, Mazen A. and Hen, Rene}, year={2020},
+  month=jul }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -25,10 +25,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Tripodi_2018, title={Parvalbumin Interneuron Plasticity for
+  Consolidation of Reinforced Learning}, volume={83}, ISSN={1943-4456}, url={http://dx.doi.org/10.1101/sqb.2018.83.037630},
+  DOI={10.1101/sqb.2018.83.037630}, journal={Cold Spring Harbor Symposia on Quantitative
+  Biology}, publisher={Cold Spring Harbor Laboratory}, author={Tripodi, Matteo and
+  Bhandari, Komal and Chowdhury, Ananya and Mukherjee, Arghya and Caroni, Pico}, year={2018},
+  pages={25–35} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

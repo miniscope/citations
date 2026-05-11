@@ -37,10 +37,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Reis_2020, title={Dorsal Periaqueductal gray ensembles represent
+  approach and avoidance states}, url={http://dx.doi.org/10.1101/2020.11.19.389486},
+  DOI={10.1101/2020.11.19.389486}, publisher={openRxiv}, author={Reis, Fernando MCV
+  and Lee, Johannes Y and Maesta-Pereira, Sandra and Schuette, Peter J and Chakerian,
+  Meghmik and Liu, Jinhan and La-Vu, Mimi Q and Tobias, Brooke C and Canteras, Newton
+  S and Kao, Jonathan C and Adhikari, Avishek}, year={2020}, month=nov }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

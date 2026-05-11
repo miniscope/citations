@@ -1,7 +1,7 @@
 doi: 10.1073/pnas.2500077122
 openalex_id: W4416008542
 pmid: null
-pmcid: null
+pmcid: PMC12625983
 title: 'Stability through plasticity: Finding robust memories through representational
   drift'
 authors:
@@ -20,10 +20,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Natrajan_2025, title={Stability through plasticity: Finding
+  robust memories through representational drift}, volume={122}, ISSN={1091-6490},
+  url={http://dx.doi.org/10.1073/pnas.2500077122}, DOI={10.1073/pnas.2500077122},
+  number={45}, journal={Proceedings of the National Academy of Sciences}, publisher={Proceedings
+  of the National Academy of Sciences}, author={Natrajan, Maanasa and Fitzgerald,
+  James E.}, year={2025}, month=nov }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

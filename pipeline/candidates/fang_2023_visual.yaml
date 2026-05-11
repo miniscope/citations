@@ -26,8 +26,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @inproceedings{Fang_2023, title={Visual Analytics and Exploration of
+  Calcium Transient Imaging Data using Event-Based Clustering}, url={http://dx.doi.org/10.1109/bigdata59044.2023.10386744},
+  DOI={10.1109/bigdata59044.2023.10386744}, booktitle={2023 IEEE International Conference
+  on Big Data (BigData)}, publisher={IEEE}, author={Fang, Shiaofen and Lange, Michal
+  and Fu, Haoying and Chen, Yingying and Ma, Yaoying}, year={2023}, month=dec, pages={4868–4874}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

@@ -19,8 +19,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Park_2024, title={Memory allocation at the neuronal and synaptic
+  levels}, volume={57}, ISSN={1976-670X}, url={http://dx.doi.org/10.5483/bmbrep.2023-0176},
+  DOI={10.5483/bmbrep.2023-0176}, number={4}, journal={BMB Reports}, publisher={Korean
+  Society for Biochemistry and Molecular Biology - BMB Reports}, author={Park, HyoJin
+  and Kaang, Bong-Kiun}, year={2024}, month=jan, pages={176–181} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

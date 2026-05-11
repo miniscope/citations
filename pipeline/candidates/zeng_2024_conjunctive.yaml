@@ -1,7 +1,7 @@
 doi: 10.1038/s41467-024-47570-4
 openalex_id: W4394818364
 pmid: null
-pmcid: null
+pmcid: PMC11018604
 title: Conjunctive encoding of exploratory intentions and spatial information in the
   hippocampus
 authors:
@@ -36,10 +36,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zeng_2024, title={Conjunctive encoding of exploratory intentions
+  and spatial information in the hippocampus}, volume={15}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-024-47570-4},
+  DOI={10.1038/s41467-024-47570-4}, number={1}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Zeng, Yi-Fan and Yang, Ke-Xin and Cui,
+  Yilong and Zhu, Xiao-Na and Li, Rui and Zhang, Hanqing and Wu, Dong Chuan and Stevens,
+  Raymond C. and Hu, Ji and Zhou, Ning}, year={2024}, month=apr }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

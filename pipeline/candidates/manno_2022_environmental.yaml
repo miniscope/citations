@@ -35,8 +35,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Manno_2022, title={Environmental enrichment leads to behavioral
+  circadian shifts enhancing brain-wide functional connectivity between sensory cortices
+  and eliciting increased hippocampal spiking}, volume={252}, ISSN={1053-8119}, url={http://dx.doi.org/10.1016/j.neuroimage.2022.119016},
+  DOI={10.1016/j.neuroimage.2022.119016}, journal={NeuroImage}, publisher={Elsevier
+  BV}, author={Manno, Francis A.M. and An, Ziqi and Kumar, Rachit and Su, Junfeng
+  and Liu, Jiaming and Wu, Ed X. and He, Jufang and Feng, Yanqiu and Lau, Condon},
+  year={2022}, month=may, pages={119016} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

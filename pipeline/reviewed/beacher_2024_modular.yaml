@@ -1,0 +1,80 @@
+doi: 10.1016/j.mex.2024.102721
+openalex_id: W4394893257
+pmid: null
+pmcid: PMC11041912
+title: A modular, cost-effective, versatile, open-source operant box solution for
+  long-term miniscope imaging, 3D tracking, and deep learning behavioral analysis
+authors:
+- first: Nicholas J.
+  last: Beacher
+- first: Jessica Y.
+  last: Kuo
+- first: Miranda
+  last: Targum
+- first: Michael
+  last: Wang
+- first: Kayden A.
+  last: Washington
+- first: Giovanna
+  last: Barbera
+- first: Da‐Ting
+  last: Lin
+journal: MethodsX
+publication_year: 2024
+publication_date: '2024-04-17'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.mex.2024.102721
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Beacher_2024, title={A modular, cost-effective, versatile,
+  open-source operant box solution for long-term miniscope imaging, 3D tracking, and
+  deep learning behavioral analysis}, volume={12}, ISSN={2215-0161}, url={http://dx.doi.org/10.1016/j.mex.2024.102721},
+  DOI={10.1016/j.mex.2024.102721}, journal={MethodsX}, publisher={Elsevier BV}, author={Beacher,
+  Nicholas J. and Kuo, Jessica Y. and Targum, Miranda and Wang, Michael and Washington,
+  Kayden A. and Barbera, Giovanna and Lin, Da-Ting}, year={2024}, month=jun, pages={102721}
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: true
+  confidence: 0.95
+  tools_identified:
+  - miniature microscope (miniscope)
+  evidence:
+  - "an open-source method for a customized operant chamber optimized for long-term miniature microscope (miniscope) recordings"
+  - "The Miniscope Box Name and reference of original method: n/a"
+  - "Our box was designed with miniscope imaging as the primary experimental pursuit"
+  - "The modifiable nature of the operant chamber enables simultaneous multidimensional behavioral recordings and in vivo neural recordings such as 1-photon calcium imaging using miniscopes"
+  - "optimized to support long-term miniscope in vivo imaging in rats while also mitigating many potentially detrimental risks"
+  - "one such benefit provided by long term housing is to prolong the life of miniscope equipment"
+  paper_type: methods
+  suggested_component: UCLA Miniscope v4
+  suggested_technique: calcium imaging
+  reasoning: >-
+    This paper presents "The Miniscope Box," an open-source operant chamber specifically
+    designed and optimized for long-term miniscope in vivo calcium imaging in rats. The
+    entire paper is a methods contribution built around miniscope use, addressing challenges
+    such as cable management with commutators, GRIN lens protection, long-term housing to
+    reduce miniscope damage, and synchronization of miniscope neural recordings with behavioral
+    data via MedPC. The paper cites the MiniLFOV seed paper (Guo et al., Sci. Adv. 2023)
+    among its references. While it does not specify "UCLA Miniscope v4" by name, the paper
+    uses "miniscope" generically throughout, references the UCLA Miniscope ecosystem papers
+    (Ghosh et al., Guo et al.), and the operant box is designed for the open-source miniscope
+    form factor. This is a clear methods paper that develops complementary hardware for
+    miniscope-based experiments.
+  related_to_project: true
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019392+00:00'
+- stage: reviewed
+  timestamp: '2026-04-11'

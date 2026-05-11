@@ -1,7 +1,7 @@
 doi: 10.1016/j.expneurol.2019.112974
 openalex_id: W2953184967
 pmid: null
-pmcid: null
+pmcid: PMC7840222
 title: Imaging spinal cord activity in behaving animals
 authors:
 - first: Nicholas A.
@@ -25,10 +25,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Nelson_2019, title={Imaging spinal cord activity in behaving
+  animals}, volume={320}, ISSN={0014-4886}, url={http://dx.doi.org/10.1016/j.expneurol.2019.112974},
+  DOI={10.1016/j.expneurol.2019.112974}, journal={Experimental Neurology}, publisher={Elsevier
+  BV}, author={Nelson, Nicholas A. and Wang, Xiang and Cook, Daniela and Carey, Erin
+  M. and Nimmerjahn, Axel}, year={2019}, month=oct, pages={112974} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

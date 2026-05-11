@@ -1,7 +1,7 @@
 doi: 10.1101/2023.12.13.571122
 openalex_id: W4389722787
 pmid: null
-pmcid: null
+pmcid: PMC10760119
 title: Functional imaging of nine distinct neuronal populations under a miniscope
   in freely behaving animals
 authors:
@@ -26,10 +26,16 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Phillips_2023, title={Functional imaging of nine distinct neuronal
+  populations under a miniscope in freely behaving animals}, url={http://dx.doi.org/10.1101/2023.12.13.571122},
+  DOI={10.1101/2023.12.13.571122}, publisher={openRxiv}, author={Phillips, Mary L.
+  and Urban, Nicolai T. and Salemi, Taddeo and Dong, Zhe and Yasuda, Ryohei}, year={2023},
+  month=dec }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

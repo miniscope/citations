@@ -29,8 +29,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Ulivi_2019, title={Longitudinal Two-Photon Imaging of Dorsal
+  Hippocampal CA1 in Live Mice}, ISSN={1940-087X}, url={http://dx.doi.org/10.3791/59598},
+  DOI={10.3791/59598}, number={148}, journal={Journal of Visualized Experiments},
+  publisher={MyJove Corporation}, author={Ulivi, Alessandro  F. and Castello-Waldow,
+  Tim  P. and Weston, Ghabiba and Yan, Long and Yasuda, Ryohei and Chen, Alon and
+  Attardo, Alessio}, year={2019}, month=jun }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

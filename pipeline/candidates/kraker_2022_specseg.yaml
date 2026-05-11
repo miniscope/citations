@@ -1,7 +1,7 @@
 doi: 10.1016/j.crmeth.2022.100299
 openalex_id: W4297902633
 pmid: null
-pmcid: null
+pmcid: PMC9606108
 title: SpecSeg is a versatile toolbox that segments neurons and neurites in chronic
   calcium imaging datasets based on low-frequency cross-spectral power
 authors:
@@ -32,10 +32,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{de_Kraker_2022, title={SpecSeg is a versatile toolbox that
+  segments neurons and neurites in chronic calcium imaging datasets based on low-frequency
+  cross-spectral power}, volume={2}, ISSN={2667-2375}, url={http://dx.doi.org/10.1016/j.crmeth.2022.100299},
+  DOI={10.1016/j.crmeth.2022.100299}, number={10}, journal={Cell Reports Methods},
+  publisher={Elsevier BV}, author={de Kraker, Leander and Seignette, Koen and Thamizharasu,
+  Premnath and van den Boom, Bastijn J.G. and Ferreira Pica, Ildefonso and Willuhn,
+  Ingo and Levelt, Christiaan N. and Togt, Chris van der}, year={2022}, month=oct,
+  pages={100299} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

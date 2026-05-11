@@ -42,10 +42,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Guinto_2022, title={Modular head-mounted cortical imaging device
+  for chronic monitoring of intrinsic signals in mice}, volume={27}, ISSN={1083-3668},
+  url={http://dx.doi.org/10.1117/1.jbo.27.2.026501}, DOI={10.1117/1.jbo.27.2.026501},
+  number={02}, journal={Journal of Biomedical Optics}, publisher={SPIE-Intl Soc Optical
+  Eng}, author={Guinto, Mark Christian and Haruta, Makito and Kurauchi, Yuki and Saigo,
+  Taisuke and Kurasawa, Kazuki and Ryu, Sumika and Ohta, Yasumi and Kawahara, Mamiko
+  and Takehara, Hironari and Tashiro, Hiroyuki and Sasagawa, Kiyotaka and Katsuki,
+  Hiroshi and Ohta, Jun}, year={2022}, month=feb }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

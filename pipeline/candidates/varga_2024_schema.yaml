@@ -21,8 +21,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @inbook{Varga_2024, title={Schema, Inference, and Memory}, ISBN={9780190918019},
+  url={http://dx.doi.org/10.1093/oxfordhb/9780190917982.013.47}, DOI={10.1093/oxfordhb/9780190917982.013.47},
+  booktitle={The Oxford Handbook of Human Memory, Two Volume Pack}, publisher={Oxford
+  University Press}, author={Varga, Nicole L. and Morton, Neal W. and Preston, Alison
+  R.}, year={2024}, month=jul, pages={1400–1425} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

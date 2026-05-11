@@ -1,7 +1,7 @@
 doi: 10.3389/fncir.2020.00042
 openalex_id: W3043303392
 pmid: null
-pmcid: null
+pmcid: PMC7384547
 title: Automated Curation of CNMF-E-Extracted ROI Spatial Footprints and Calcium Traces
   Using Open-Source AutoML Tools
 authors:
@@ -28,10 +28,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Tran_2020, title={Automated Curation of CNMF-E-Extracted ROI
+  Spatial Footprints and Calcium Traces Using Open-Source AutoML Tools}, volume={14},
+  ISSN={1662-5110}, url={http://dx.doi.org/10.3389/fncir.2020.00042}, DOI={10.3389/fncir.2020.00042},
+  journal={Frontiers in Neural Circuits}, publisher={Frontiers Media SA}, author={Tran,
+  Lina M. and Mocle, Andrew J. and Ramsaran, Adam I. and Jacob, Alexander D. and Frankland,
+  Paul W. and Josselyn, Sheena A.}, year={2020}, month=jul }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,7 +1,7 @@
 doi: 10.1038/s41467-026-70659-x
 openalex_id: W7135408181
 pmid: null
-pmcid: null
+pmcid: PMC7618954
 title: Noradrenaline causes a spread of association in the hippocampal cognitive map
 authors:
 - first: Renée S.
@@ -33,10 +33,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Koolschijn_2026, title={Noradrenaline causes a spread of association
+  in the hippocampal cognitive map}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-026-70659-x},
+  DOI={10.1038/s41467-026-70659-x}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Koolschijn, Renée S. and Parthasarathy,
+  Prakriti and Browning, Michael and Przygodda, Xenia and Capitão, Liliana P. and
+  Clarke, William T. and Vogels, Tim P. and O’Reilly, Jill X. and Barron, Helen C.},
+  year={2026}, month=mar }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

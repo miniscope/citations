@@ -1,7 +1,7 @@
 doi: 10.1038/s41467-025-62553-9
 openalex_id: W4413107189
 pmid: null
-pmcid: null
+pmcid: PMC12339722
 title: Theta-phase locking of single neurons during human spatial memory
 authors:
 - first: Tim A
@@ -27,10 +27,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Guth_2025, title={Theta-phase locking of single neurons during
+  human spatial memory}, volume={16}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-025-62553-9},
+  DOI={10.1038/s41467-025-62553-9}, number={1}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Guth, Tim A. and Brandt, Armin and Reinacher,
+  Peter C. and Schulze-Bonhage, Andreas and Jacobs, Joshua and Kunz, Lukas}, year={2025},
+  month=aug }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

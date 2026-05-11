@@ -23,8 +23,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Guo_2024, title={Latent learning drives sleep-dependent plasticity
+  in distinct CA1 subpopulations}, volume={43}, ISSN={2211-1247}, url={http://dx.doi.org/10.1016/j.celrep.2024.115028},
+  DOI={10.1016/j.celrep.2024.115028}, number={12}, journal={Cell Reports}, publisher={Elsevier
+  BV}, author={Guo, Wei and Zhang, Jie J. and Newman, Jonathan P. and Wilson, Matthew
+  A.}, year={2024}, month=dec, pages={115028} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

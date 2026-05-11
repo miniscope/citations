@@ -1,7 +1,7 @@
 doi: 10.1007/s12264-019-00356-x
 openalex_id: W2921815168
 pmid: null
-pmcid: null
+pmcid: PMC6527646
 title: A Two-Step GRIN Lens Coating for In Vivo Brain Imaging
 authors:
 - first: Yupeng
@@ -31,10 +31,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Yang_2019, title={A Two-Step GRIN Lens Coating for In Vivo
+  Brain Imaging}, volume={35}, ISSN={1995-8218}, url={http://dx.doi.org/10.1007/s12264-019-00356-x},
+  DOI={10.1007/s12264-019-00356-x}, number={3}, journal={Neuroscience Bulletin}, publisher={Springer
+  Science and Business Media LLC}, author={Yang, Yupeng and Zhang, Lifeng and Wang,
+  Zhenni and Liang, Bo and Barbera, Giovanni and Moffitt, Casey and Li, Yun and Lin,
+  Da-Ting}, year={2019}, month=mar, pages={419–424} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

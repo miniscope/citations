@@ -24,10 +24,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhou_2019, title={Induction of Activity Synchronization among
+  Primed Hippocampal Neurons out of Random Dynamics is Key for Trace Memory Formation
+  and Retrieval}, url={http://dx.doi.org/10.1101/757229}, DOI={10.1101/757229}, publisher={openRxiv},
+  author={Zhou, Yuxin and Qiu, Liyan and Wang, Haiying and Chen, Xuanmao}, year={2019},
+  month=sep }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

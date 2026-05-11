@@ -35,8 +35,15 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Liu_2025, title={Application of tunable liquid lens in imaging
+  and display}, volume={12}, ISSN={1931-9401}, url={http://dx.doi.org/10.1063/5.0285668},
+  DOI={10.1063/5.0285668}, number={4}, journal={Applied Physics Reviews}, publisher={AIP
+  Publishing}, author={Liu, Chao and Lin, Yu-Cheng and Zheng, Yi and Li, Rong-Qiang
+  and Wang, Zheng-Chao and Lu, Xiao-Ke and Zhang, Xiao-Hao and Chu, Fan and Zhang,
+  Hao-Ran and Wang, Qiong-Hua}, year={2025}, month=nov }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

@@ -18,8 +18,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @misc{Maren_2020, title={Faculty Opinions recommendation of Encoding
+  of contextual fear memory in hippocampal-amygdala circuit.}, url={http://dx.doi.org/10.3410/f.737540199.793577233},
+  DOI={10.3410/f.737540199.793577233}, journal={Faculty Opinions – Post-Publication
+  Peer Review of the Biomedical Literature}, publisher={H1 Connect}, author={Maren,
+  Stephen}, year={2020}, month=jul }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

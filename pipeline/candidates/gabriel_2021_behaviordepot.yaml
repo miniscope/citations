@@ -40,8 +40,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Gabriel_2021, title={BehaviorDEPOT: a tool for automated behavior
+  classification and analysis in rodents}, url={http://dx.doi.org/10.1101/2021.06.20.449150},
+  DOI={10.1101/2021.06.20.449150}, publisher={openRxiv}, author={Gabriel, Christopher
+  J and Zeidler, Zachary and Jin, Benita and Guo, Changliang and Wu, Anna and Delaney,
+  Molly and Cheung, Jovian and DiFazio, Lauren E. and Sharpe, Melissa J. and Aharoni,
+  Daniel and Wilke, Scott A. and DeNardo, Laura A.}, year={2021}, month=jun }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

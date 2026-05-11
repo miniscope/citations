@@ -1,7 +1,7 @@
 doi: 10.3389/fncir.2024.1414452
 openalex_id: W4399984489
 pmid: null
-pmcid: null
+pmcid: PMC11228174
 title: Odors in space
 authors:
 - first: Olivia
@@ -23,10 +23,16 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{McKissick_2024, title={Odors in space}, volume={18}, ISSN={1662-5110},
+  url={http://dx.doi.org/10.3389/fncir.2024.1414452}, DOI={10.3389/fncir.2024.1414452},
+  journal={Frontiers in Neural Circuits}, publisher={Frontiers Media SA}, author={McKissick,
+  Olivia and Klimpert, Nell and Ritt, Jason T. and Fleischmann, Alexander}, year={2024},
+  month=jun }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

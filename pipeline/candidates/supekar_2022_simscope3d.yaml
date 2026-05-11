@@ -42,8 +42,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @inproceedings{Supekar_2022, series={BRAIN}, title={SIMscope3D: A structured
+  illumination miniature microscope for high resolution brain imaging}, url={http://dx.doi.org/10.1364/brain.2022.bs4c.3},
+  DOI={10.1364/brain.2022.bs4c.3}, booktitle={Biophotonics Congress: Biomedical Optics
+  2022 (Translational, Microscopy, OCT, OTS, BRAIN)}, publisher={Optica Publishing
+  Group}, author={Supekar, Omkar D. and Sias, Andrew and Hansen, Sean R. and Martinez,
+  Gabriel and Peet, Graham C. and Peng, Xiaoyu and Bright, Victor M. and Hughes, Ethan
+  G. and Restrepo, Diego and Shepherd, Douglas P. and Welle, Cristin G. and Gopinath,
+  Juliet T. and Gibson, Emily A.}, year={2022}, pages={BS4C.3}, collection={BRAIN}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

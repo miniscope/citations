@@ -1,7 +1,7 @@
 doi: 10.1016/j.dcn.2018.09.002
 openalex_id: W2893506733
 pmid: null
-pmcid: null
+pmcid: PMC6969236
 title: The ontogeny of memory persistence and specificity
 authors:
 - first: Adam I.
@@ -21,10 +21,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Ramsaran_2019, title={The ontogeny of memory persistence and
+  specificity}, volume={36}, ISSN={1878-9293}, url={http://dx.doi.org/10.1016/j.dcn.2018.09.002},
+  DOI={10.1016/j.dcn.2018.09.002}, journal={Developmental Cognitive Neuroscience},
+  publisher={Elsevier BV}, author={Ramsaran, Adam I. and Schlichting, Margaret L.
+  and Frankland, Paul W.}, year={2019}, month=apr, pages={100591} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,7 +1,7 @@
 doi: 10.1093/brain/awac455
 openalex_id: W4310398797
 pmid: null
-pmcid: null
+pmcid: PMC10232249
 title: Targeting aberrant dendritic integration to treat cognitive comorbidities of
   epilepsy
 authors:
@@ -46,10 +46,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Masala_2022, title={Targeting aberrant dendritic integration
+  to treat cognitive comorbidities of epilepsy}, volume={146}, ISSN={1460-2156}, url={http://dx.doi.org/10.1093/brain/awac455},
+  DOI={10.1093/brain/awac455}, number={6}, journal={Brain}, publisher={Oxford University
+  Press (OUP)}, author={Masala, Nicola and Pofahl, Martin and Haubrich, André N and
+  Sameen Islam, Khondker Ushna and Nikbakht, Negar and Pasdarnavab, Maryam and Bohmbach,
+  Kirsten and Araki, Kunihiko and Kamali, Fateme and Henneberger, Christian and Golcuk,
+  Kurtulus and Ewell, Laura A and Blaess, Sandra and Kelly, Tony and Beck, Heinz},
+  year={2022}, month=nov, pages={2399–2417} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

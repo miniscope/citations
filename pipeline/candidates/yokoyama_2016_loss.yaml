@@ -1,7 +1,7 @@
 doi: 10.3389/fnbeh.2016.00218
 openalex_id: W2548312700
 pmid: null
-pmcid: null
+pmcid: PMC5097914
 title: Loss of Ensemble Segregation in Dentate Gyrus, but not in Somatosensory Cortex,
   during Contextual Fear Memory Generalization
 authors:
@@ -20,10 +20,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Yokoyama_2016, title={Loss of Ensemble Segregation in Dentate
+  Gyrus, but not in Somatosensory Cortex, during Contextual Fear Memory Generalization},
+  volume={10}, ISSN={1662-5153}, url={http://dx.doi.org/10.3389/fnbeh.2016.00218},
+  DOI={10.3389/fnbeh.2016.00218}, journal={Frontiers in Behavioral Neuroscience},
+  publisher={Frontiers Media SA}, author={Yokoyama, Marie and Matsuo, Naoki}, year={2016},
+  month=nov }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -21,8 +21,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{G_rler_2019, title={Improving sensory representations using
+  episodic memory}, volume={30}, ISSN={1098-1063}, url={http://dx.doi.org/10.1002/hipo.23186},
+  DOI={10.1002/hipo.23186}, number={6}, journal={Hippocampus}, publisher={Wiley},
+  author={Görler, Richard and Wiskott, Laurenz and Cheng, Sen}, year={2019}, month=dec,
+  pages={638–656} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

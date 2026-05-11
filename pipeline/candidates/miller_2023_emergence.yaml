@@ -1,7 +1,7 @@
 doi: 10.1016/j.neuron.2023.03.011
 openalex_id: W4362589255
 pmid: null
-pmcid: null
+pmcid: PMC10293047
 title: Emergence of a predictive model in the hippocampus
 authors:
 - first: Adam M.
@@ -27,10 +27,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Miller_2023, title={Emergence of a predictive model in the
+  hippocampus}, volume={111}, ISSN={0896-6273}, url={http://dx.doi.org/10.1016/j.neuron.2023.03.011},
+  DOI={10.1016/j.neuron.2023.03.011}, number={12}, journal={Neuron}, publisher={Elsevier
+  BV}, author={Miller, Adam M.P. and Jacob, Alex D. and Ramsaran, Adam I. and De Snoo,
+  Mitchell L. and Josselyn, Sheena A. and Frankland, Paul W.}, year={2023}, month=jun,
+  pages={1952-1965.e5} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

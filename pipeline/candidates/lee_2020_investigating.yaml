@@ -1,7 +1,7 @@
 doi: 10.1007/s00429-019-02001-9
 openalex_id: W3003991052
 pmid: null
-pmcid: null
+pmcid: PMC8663021
 title: Investigating learning-related neural circuitry with chronic in vivo optical
   imaging
 authors:
@@ -22,10 +22,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lee_2020, title={Investigating learning-related neural circuitry
+  with chronic in vivo optical imaging}, volume={225}, ISSN={1863-2661}, url={http://dx.doi.org/10.1007/s00429-019-02001-9},
+  DOI={10.1007/s00429-019-02001-9}, number={2}, journal={Brain Structure and Function},
+  publisher={Springer Science and Business Media LLC}, author={Lee, Christian R. and
+  Najafizadeh, Laleh and Margolis, David J.}, year={2020}, month=jan, pages={467–480}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

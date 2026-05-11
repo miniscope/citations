@@ -19,10 +19,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Schatz_2022, title={LabNet: hardware control software for the
+  Raspberry Pi}, url={http://dx.doi.org/10.1101/2022.02.25.481971}, DOI={10.1101/2022.02.25.481971},
+  publisher={openRxiv}, author={Schatz, Alexej and Winter, York}, year={2022}, month=mar
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

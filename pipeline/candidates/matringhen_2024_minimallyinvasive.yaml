@@ -26,10 +26,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Matringhen_2024, title={Minimally-invasive Manipulation of
+  Spared and Hypoactive Interneurons reduces CA1 Synchronization and Nonspatial Behavior
+  alterations in Epilepsy models}, url={http://dx.doi.org/10.1101/2024.08.02.606307},
+  DOI={10.1101/2024.08.02.606307}, publisher={openRxiv}, author={Matringhen, Célanie
+  and Vigier, Alexandre and Bourtouli, Nikoleta and Michel, François J. and Marissal,
+  Thomas}, year={2024}, month=aug }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,7 +1,7 @@
 doi: 10.1016/j.nlm.2018.02.021
 openalex_id: W2792428147
 pmid: null
-pmcid: null
+pmcid: PMC6064663
 title: Memory allocation mechanisms underlie memory linking across time
 authors:
 - first: Megha
@@ -27,10 +27,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sehgal_2018, title={Memory allocation mechanisms underlie memory
+  linking across time}, volume={153}, ISSN={1074-7427}, url={http://dx.doi.org/10.1016/j.nlm.2018.02.021},
+  DOI={10.1016/j.nlm.2018.02.021}, journal={Neurobiology of Learning and Memory},
+  publisher={Elsevier BV}, author={Sehgal, M. and Zhou, M. and Lavi, A. and Huang,
+  S. and Zhou, Y. and Silva, A.J.}, year={2018}, month=sep, pages={21–25} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

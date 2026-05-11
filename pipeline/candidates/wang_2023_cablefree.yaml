@@ -32,10 +32,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Wang_2023, title={Cable-free brain imaging for multiple free-moving
+  animals with miniature wireless microscopes}, volume={28}, ISSN={1083-3668}, url={http://dx.doi.org/10.1117/1.jbo.28.2.026503},
+  DOI={10.1117/1.jbo.28.2.026503}, number={02}, journal={Journal of Biomedical Optics},
+  publisher={SPIE-Intl Soc Optical Eng}, author={Wang, Yangzhen and Ma, Zhongtian
+  and Li, Wenzhao and Su, Feng and Wang, Chong and Xiong, Wei and Li, Changhui and
+  Zhang, Chen}, year={2023}, month=feb }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

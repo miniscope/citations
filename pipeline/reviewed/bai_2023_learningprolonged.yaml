@@ -1,0 +1,72 @@
+doi: 10.1016/j.celrep.2023.112853
+openalex_id: W4385146600
+pmid: '37481720'
+pmcid: null
+title: Learning-prolonged maintenance of stimulus information in CA1 and subiculum
+  during trace fear conditioning
+authors:
+- first: Tao
+  last: Bai
+- first: Lijie
+  last: Zhan
+- first: Na
+  last: Zhang
+- first: Feikai
+  last: Lin
+- first: Dieter
+  last: Saur
+- first: Chun
+  last: Xu
+journal: Cell Reports
+publication_year: 2023
+publication_date: '2023-07-22'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.cell.com/article/S2211124723008641/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Bai_2023, title={Learning-prolonged maintenance of stimulus
+  information in CA1 and subiculum during trace fear conditioning}, volume={42}, ISSN={2211-1247},
+  url={http://dx.doi.org/10.1016/j.celrep.2023.112853}, DOI={10.1016/j.celrep.2023.112853},
+  number={8}, journal={Cell Reports}, publisher={Elsevier BV}, author={Bai, Tao and
+  Zhan, Lijie and Zhang, Na and Lin, Feikai and Saur, Dieter and Xu, Chun}, year={2023},
+  month=aug, pages={112853} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: true
+  confidence: 0.90
+  tools_identified:
+  - UCLA Miniscope v4
+  evidence:
+  - 'Author keyword: "miniscope Ca(2+) imaging"'
+  - 'Abstract: "Deep-brain calcium imaging shows that the peak of trace activity in
+    the CA1 and subiculum is extended toward the US"'
+  paper_type: science
+  suggested_component: UCLA Miniscope v4
+  suggested_technique: deep-brain calcium imaging
+  reasoning: >-
+    Paper uses miniscope calcium imaging for deep-brain recordings in CA1 and
+    subiculum during trace fear conditioning in freely moving mice. The authors
+    explicitly list "miniscope Ca(2+) imaging" as a keyword. The paper cites seed
+    paper Cai et al. 2016 (doi:10.1038/nature17955), a foundational UCLA Miniscope
+    paper. The research is from Chinese Academy of Sciences (external lab). No full
+    text was available in PMC, but the author-provided keyword "miniscope Ca(2+)
+    imaging" is strong direct evidence of tool usage. Confidence is 0.90 rather than
+    higher because without full text we cannot confirm the exact miniscope model
+    (v3 vs v4), though v4 is most likely given the 2023 publication date.
+  related_to_project: true
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320990+00:00'
+- stage: reviewed
+  timestamp: '2026-04-11T00:00:00+00:00'

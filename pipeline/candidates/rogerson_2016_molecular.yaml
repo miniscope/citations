@@ -1,7 +1,7 @@
 doi: 10.1371/journal.pone.0161655
 openalex_id: W2510252460
 pmid: null
-pmcid: null
+pmcid: PMC5007047
 title: Molecular and Cellular Mechanisms for Trapping and Activating Emotional Memories
 authors:
 - first: Thomas
@@ -33,10 +33,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Rogerson_2016, title={Molecular and Cellular Mechanisms for
+  Trapping and Activating Emotional Memories}, volume={11}, ISSN={1932-6203}, url={http://dx.doi.org/10.1371/journal.pone.0161655},
+  DOI={10.1371/journal.pone.0161655}, number={8}, journal={PLOS ONE}, publisher={Public
+  Library of Science (PLoS)}, author={Rogerson, Thomas and Jayaprakash, Balaji and
+  Cai, Denise J. and Sano, Yoshitake and Lee, Yong-Seok and Zhou, Yu and Bekal, Pallavi
+  and Deisseroth, Karl and Silva, Alcino J.}, editor={Sacktor, Todd Charlton}, year={2016},
+  month=aug, pages={e0161655} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

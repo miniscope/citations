@@ -30,10 +30,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Hartzell_2018, title={NPAS4 recruits CCK basket cell synapses
+  and enhances cannabinoid-sensitive inhibition in the mouse hippocampus}, volume={7},
+  ISSN={2050-084X}, url={http://dx.doi.org/10.7554/elife.35927}, DOI={10.7554/elife.35927},
+  journal={eLife}, publisher={eLife Sciences Publications, Ltd}, author={Hartzell,
+  Andrea L and Martyniuk, Kelly M and Brigidi, G Stefano and Heinz, Daniel A and Djaja,
+  Nathalie A and Payne, Anja and Bloodgood, Brenda L}, year={2018}, month=jul }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

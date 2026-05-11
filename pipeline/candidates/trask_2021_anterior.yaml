@@ -1,7 +1,7 @@
 doi: 10.1038/s41386-021-00959-x
 openalex_id: W3126435425
 pmid: null
-pmcid: null
+pmcid: PMC8134488
 title: The anterior retrosplenial cortex encodes event-related information and the
   posterior retrosplenial cortex encodes context-related information during memory
   formation
@@ -25,10 +25,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Trask_2021, title={The anterior retrosplenial cortex encodes
+  event-related information and the posterior retrosplenial cortex encodes context-related
+  information during memory formation}, volume={46}, ISSN={1740-634X}, url={http://dx.doi.org/10.1038/s41386-021-00959-x},
+  DOI={10.1038/s41386-021-00959-x}, number={7}, journal={Neuropsychopharmacology},
+  publisher={Springer Science and Business Media LLC}, author={Trask, Sydney and Pullins,
+  Shane E. and Ferrara, Nicole C. and Helmstetter, Fred J.}, year={2021}, month=feb,
+  pages={1386–1392} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

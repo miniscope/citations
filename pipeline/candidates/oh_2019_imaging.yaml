@@ -1,7 +1,7 @@
 doi: 10.4196/kjpp.2019.23.4.237
 openalex_id: W2955703866
 pmid: null
-pmcid: null
+pmcid: PMC6609268
 title: Imaging and analysis of genetically encoded calcium indicators linking neural
   circuits and behaviors
 authors:
@@ -22,10 +22,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Oh_2019, title={Imaging and analysis of genetically encoded
+  calcium indicators linking neural circuits and behaviors}, volume={23}, ISSN={2093-3827},
+  url={http://dx.doi.org/10.4196/kjpp.2019.23.4.237}, DOI={10.4196/kjpp.2019.23.4.237},
+  number={4}, journal={The Korean Journal of Physiology &amp; Pharmacology}, publisher={The
+  Korean Physiological Society and The Korean Society of Pharmacology}, author={Oh,
+  Jihae and Lee, Chiwoo and Kaang, Bong-Kiun}, year={2019}, pages={237} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

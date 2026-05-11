@@ -1,7 +1,7 @@
 doi: 10.1016/j.cobeha.2017.05.022
 openalex_id: W2623750405
 pmid: null
-pmcid: null
+pmcid: PMC5570558
 title: Temporal and spatial context in the mind and brain
 authors:
 - first: Marc W.
@@ -17,10 +17,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Howard_2017, title={Temporal and spatial context in the mind
+  and brain}, volume={17}, ISSN={2352-1546}, url={http://dx.doi.org/10.1016/j.cobeha.2017.05.022},
+  DOI={10.1016/j.cobeha.2017.05.022}, journal={Current Opinion in Behavioral Sciences},
+  publisher={Elsevier BV}, author={Howard, Marc W}, year={2017}, month=oct, pages={14–19}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

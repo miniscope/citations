@@ -28,8 +28,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhang_2019, title={Negative Memory Engrams in the Hippocampus
+  Enhance the Susceptibility to Chronic Social Defeat Stress}, volume={39}, ISSN={1529-2401},
+  url={http://dx.doi.org/10.1523/jneurosci.1958-18.2019}, DOI={10.1523/jneurosci.1958-18.2019},
+  number={38}, journal={The Journal of Neuroscience}, publisher={Society for Neuroscience},
+  author={Zhang, Tian Rui and Larosa, Amanda and Di Raddo, Marie-Eve and Wong, Vanessa
+  and Wong, Alice S. and Wong, Tak Pan}, year={2019}, month=aug, pages={7576–7590}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

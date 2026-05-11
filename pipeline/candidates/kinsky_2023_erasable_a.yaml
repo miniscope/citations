@@ -25,8 +25,13 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Kinsky_2023, title={Erasable Hippocampal Neural Signatures
+  Predict Memory Discrimination}, url={http://dx.doi.org/10.2139/ssrn.4624952}, DOI={10.2139/ssrn.4624952},
+  publisher={Elsevier BV}, author={Kinsky, Nathaniel and Orlin, Daniel  J. and Ruesch,
+  Evan and Diba, Kamran and Ramirez, Steve}, year={2023} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

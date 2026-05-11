@@ -71,10 +71,22 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Uytiepo_2025, title={Synaptic architecture of a memory engram
+  in the mouse hippocampus}, volume={387}, ISSN={1095-9203}, url={http://dx.doi.org/10.1126/science.ado8316},
+  DOI={10.1126/science.ado8316}, number={6740}, journal={Science}, publisher={American
+  Association for the Advancement of Science (AAAS)}, author={Uytiepo, Marco and Zhu,
+  Yongchuan and Bushong, Eric and Chou, Katherine and Polli, Filip Souza and Zhao,
+  Elise and Kim, Keun-Young and Luu, Danielle and Chang, Lyanne and Yang, Dong and
+  Ma, Tsz Ching and Kim, Mingi and Zhang, Yuting and Walton, Grant and Quach, Tom
+  and Haberl, Matthias and Patapoutian, Luca and Shahbazi, Arya and Zhang, Yuxuan
+  and Beutter, Elizabeth and Zhang, Weiheng and Dong, Brian and Khoury, Aureliano
+  and Gu, Alton and McCue, Elle and Stowers, Lisa and Ellisman, Mark and Maximov,
+  Anton}, year={2025}, month=mar }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

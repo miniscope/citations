@@ -32,10 +32,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Vassilev_2022, title={Custom-Built Operant Conditioning Setup
+  for Calcium Imaging and Cognitive Testing in Freely Moving Mice}, volume={9}, ISSN={2373-2822},
+  url={http://dx.doi.org/10.1523/eneuro.0430-21.2022}, DOI={10.1523/eneuro.0430-21.2022},
+  number={1}, journal={eneuro}, publisher={Society for Neuroscience}, author={Vassilev,
+  Philip and Fonseca, Esmeralda and Hernandez, Giovanni and Pantoja-Urban, Andrea
+  Haree and Giroux, Michel and Nouel, Dominique and Van Leer, Elise and Flores, Cecilia},
+  year={2022}, month=jan, pages={ENEURO.0430-21.2022} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

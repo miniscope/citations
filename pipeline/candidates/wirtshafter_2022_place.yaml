@@ -1,7 +1,7 @@
 doi: 10.1002/hipo.23489
 openalex_id: W4311781276
 pmid: null
-pmcid: null
+pmcid: PMC9877199
 title: Place cells are nonrandomly clustered by field location in <scp>CA1</scp> hippocampus
 authors:
 - first: Hannah S.
@@ -19,10 +19,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Wirtshafter_2022, title={Place cells are nonrandomly clustered
+  by field location in <scp>CA1</scp> hippocampus}, volume={33}, ISSN={1098-1063},
+  url={http://dx.doi.org/10.1002/hipo.23489}, DOI={10.1002/hipo.23489}, number={2},
+  journal={Hippocampus}, publisher={Wiley}, author={Wirtshafter, Hannah S. and Disterhoft,
+  John F.}, year={2022}, month=dec, pages={65–84} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

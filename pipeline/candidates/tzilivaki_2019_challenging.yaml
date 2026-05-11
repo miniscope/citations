@@ -1,7 +1,7 @@
 doi: 10.1038/s41467-019-11537-7
 openalex_id: W2967100650
 pmid: null
-pmcid: null
+pmcid: PMC6694133
 title: 'Challenging the point neuron dogma: FS basket cells as 2-stage nonlinear integrators'
 authors:
 - first: Alexandra
@@ -21,10 +21,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Tzilivaki_2019, title={Challenging the point neuron dogma:
+  FS basket cells as 2-stage nonlinear integrators}, volume={10}, ISSN={2041-1723},
+  url={http://dx.doi.org/10.1038/s41467-019-11537-7}, DOI={10.1038/s41467-019-11537-7},
+  number={1}, journal={Nature Communications}, publisher={Springer Science and Business
+  Media LLC}, author={Tzilivaki, Alexandra and Kastellakis, George and Poirazi, Panayiota},
+  year={2019}, month=aug }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

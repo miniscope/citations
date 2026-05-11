@@ -1,7 +1,7 @@
 doi: 10.1371/journal.pbio.3001235
 openalex_id: W3158891518
 pmid: null
-pmcid: null
+pmcid: PMC8118626
 title: Dynamic patterns of correlated activity in the prefrontal cortex encode information
   about social behavior
 authors:
@@ -22,10 +22,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Frost_2021, title={Dynamic patterns of correlated activity
+  in the prefrontal cortex encode information about social behavior}, volume={19},
+  ISSN={1545-7885}, url={http://dx.doi.org/10.1371/journal.pbio.3001235}, DOI={10.1371/journal.pbio.3001235},
+  number={5}, journal={PLOS Biology}, publisher={Public Library of Science (PLoS)},
+  author={Frost, Nicholas A. and Haggart, Anna and Sohal, Vikaas S.}, editor={Kim,
+  Eunjoon}, year={2021}, month=may, pages={e3001235} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

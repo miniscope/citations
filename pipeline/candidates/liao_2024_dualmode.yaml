@@ -32,8 +32,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Liao_2024, title={A dual-mode, image-enhanced, miniaturized
+  microscopy system for incubator-compatible monitoring of live cells}, volume={278},
+  ISSN={0039-9140}, url={http://dx.doi.org/10.1016/j.talanta.2024.126537}, DOI={10.1016/j.talanta.2024.126537},
+  journal={Talanta}, publisher={Elsevier BV}, author={Liao, Yuheng and Qin, Chunlian
+  and Zhang, Xiaoyu and Ye, Jing and Xu, Zhongyuan and Zong, Haotian and Hu, Ning
+  and Zhang, Diming}, year={2024}, month=oct, pages={126537} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

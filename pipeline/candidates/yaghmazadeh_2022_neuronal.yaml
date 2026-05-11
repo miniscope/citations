@@ -1,7 +1,7 @@
 doi: 10.1038/s44172-022-00014-7
 openalex_id: W4283750214
 pmid: null
-pmcid: null
+pmcid: PMC10732550
 title: Neuronal activity under transcranial radio-frequency stimulation in metal-free
   rodent brains in-vivo
 authors:
@@ -30,10 +30,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Yaghmazadeh_2022, title={Neuronal activity under transcranial
+  radio-frequency stimulation in metal-free rodent brains in-vivo}, volume={1}, ISSN={2731-3395},
+  url={http://dx.doi.org/10.1038/s44172-022-00014-7}, DOI={10.1038/s44172-022-00014-7},
+  number={1}, journal={Communications Engineering}, publisher={Springer Science and
+  Business Media LLC}, author={Yaghmazadeh, Omid and Vöröslakos, Mihály and Alon,
+  Leeor and Carluccio, Giuseppe and Collins, Christopher and Sodickson, Daniel K.
+  and Buzsáki, György}, year={2022}, month=jul }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

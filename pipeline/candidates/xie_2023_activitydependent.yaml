@@ -1,7 +1,7 @@
 doi: 10.1016/j.xpro.2023.102369
 openalex_id: W4381943746
 pmid: null
-pmcid: null
+pmcid: PMC10320278
 title: Activity-dependent labeling and manipulation of fentanyl-recruited striatal
   ensembles using ArcTRAP approach
 authors:
@@ -26,10 +26,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Xie_2023, title={Activity-dependent labeling and manipulation
+  of fentanyl-recruited striatal ensembles using ArcTRAP approach}, volume={4}, ISSN={2666-1667},
+  url={http://dx.doi.org/10.1016/j.xpro.2023.102369}, DOI={10.1016/j.xpro.2023.102369},
+  number={3}, journal={STAR Protocols}, publisher={Elsevier BV}, author={Xie, Xueyi
+  and Chen, Ruifeng and Wang, Xuehua and Smith, Laura and Wang, Jun}, year={2023},
+  month=sep, pages={102369} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

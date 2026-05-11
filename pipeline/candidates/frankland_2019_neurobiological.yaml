@@ -1,7 +1,7 @@
 doi: 10.1038/s41593-019-0493-1
 openalex_id: W2976971804
 pmid: null
-pmcid: null
+pmcid: PMC6903648
 title: The neurobiological foundation of memory retrieval
 authors:
 - first: Paul W.
@@ -21,10 +21,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Frankland_2019, title={The neurobiological foundation of memory
+  retrieval}, volume={22}, ISSN={1546-1726}, url={http://dx.doi.org/10.1038/s41593-019-0493-1},
+  DOI={10.1038/s41593-019-0493-1}, number={10}, journal={Nature Neuroscience}, publisher={Springer
+  Science and Business Media LLC}, author={Frankland, Paul W. and Josselyn, Sheena
+  A. and Köhler, Stefan}, year={2019}, month=sep, pages={1576–1585} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

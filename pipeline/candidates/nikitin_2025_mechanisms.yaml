@@ -22,8 +22,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Nikitin_2025, title={The mechanisms of memory traces storage
+  and interaction in snails: Role of DNA methylation and protein synthesis}, volume={222},
+  ISSN={1074-7427}, url={http://dx.doi.org/10.1016/j.nlm.2025.108105}, DOI={10.1016/j.nlm.2025.108105},
+  journal={Neurobiology of Learning and Memory}, publisher={Elsevier BV}, author={Nikitin,
+  Vladimir P. and Solntseva, Svetlana V. and Nikitin, Pavel V.}, year={2025}, month=dec,
+  pages={108105} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

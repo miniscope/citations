@@ -42,10 +42,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: " @article{Supekar_2021, title={Miniature Structured Illumination Microscope\
+  \ for\n                  in vivo\n                  3D Imaging of Brain Structures\
+  \ with Optical Sectioning}, url={http://dx.doi.org/10.1101/2021.12.02.470995}, DOI={10.1101/2021.12.02.470995},\
+  \ publisher={openRxiv}, author={Supekar, Omkar D. and Sias, Andrew and Hansen, Sean\
+  \ R. and Martinez, Gabriel and Peet, Graham C. and Peng, Xiaoyu and Bright, Victor\
+  \ M. and Hughes, Ethan G. and Restrepo, Diego and Shepherd, Douglas P. and Welle,\
+  \ Cristin G. and Gopinath, Juliet T. and Gibson, Emily A.}, year={2021}, month=dec\
+  \ }\n"
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

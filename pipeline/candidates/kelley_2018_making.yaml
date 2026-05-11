@@ -1,7 +1,7 @@
 doi: 10.3389/fnhum.2018.00400
 openalex_id: W2896341538
 pmid: null
-pmcid: null
+pmcid: PMC6198140
 title: 'Making Memories: Why Time Matters'
 authors:
 - first: Paul
@@ -21,10 +21,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Kelley_2018, title={Making Memories: Why Time Matters}, volume={12},
+  ISSN={1662-5161}, url={http://dx.doi.org/10.3389/fnhum.2018.00400}, DOI={10.3389/fnhum.2018.00400},
+  journal={Frontiers in Human Neuroscience}, publisher={Frontiers Media SA}, author={Kelley,
+  Paul and Evans, M. D. R. and Kelley, Jonathan}, year={2018}, month=oct }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

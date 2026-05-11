@@ -22,8 +22,13 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Etter_2019, title={A probabilistic framework for decoding behavior
+  from in vivo calcium imaging data}, url={http://dx.doi.org/10.1101/827030}, DOI={10.1101/827030},
+  publisher={openRxiv}, author={Etter, Guillaume and Manseau, Frederic and Williams,
+  Sylvain}, year={2019}, month=nov }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

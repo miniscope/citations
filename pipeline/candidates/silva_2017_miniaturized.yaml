@@ -1,7 +1,7 @@
 doi: 10.1038/lsa.2017.104
 openalex_id: W2745617947
 pmid: null
-pmcid: null
+pmcid: PMC6062320
 title: 'Miniaturized two-photon microscope: seeing clearer and deeper into the brain'
 authors:
 - first: Alcino J.
@@ -17,10 +17,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Silva_2017, title={Miniaturized two-photon microscope: seeing
+  clearer and deeper into the brain}, volume={6}, ISSN={2047-7538}, url={http://dx.doi.org/10.1038/lsa.2017.104},
+  DOI={10.1038/lsa.2017.104}, number={8}, journal={Light: Science &amp; Applications},
+  publisher={Springer Science and Business Media LLC}, author={Silva, Alcino J}, year={2017},
+  month=aug, pages={e17104–e17104} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

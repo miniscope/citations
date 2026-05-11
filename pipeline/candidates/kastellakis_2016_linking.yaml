@@ -1,7 +1,7 @@
 doi: 10.1016/j.celrep.2016.10.015
 openalex_id: W2548724400
 pmid: null
-pmcid: null
+pmcid: PMC5149530
 title: Linking Memories across Time via Neuronal and Dendritic Overlaps in Model Neurons
   with Active Dendrites
 authors:
@@ -22,10 +22,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Kastellakis_2016, title={Linking Memories across Time via Neuronal
+  and Dendritic Overlaps in Model Neurons with Active Dendrites}, volume={17}, ISSN={2211-1247},
+  url={http://dx.doi.org/10.1016/j.celrep.2016.10.015}, DOI={10.1016/j.celrep.2016.10.015},
+  number={6}, journal={Cell Reports}, publisher={Elsevier BV}, author={Kastellakis,
+  George and Silva, Alcino J. and Poirazi, Panayiota}, year={2016}, month=nov, pages={1491–1504}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

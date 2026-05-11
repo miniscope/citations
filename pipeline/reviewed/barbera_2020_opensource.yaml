@@ -1,0 +1,70 @@
+doi: 10.1016/j.mex.2020.101024
+openalex_id: W3048290875
+pmid: null
+pmcid: PMC7479347
+title: An open-source capacitive touch sensing device for three chamber social behavior
+  test
+authors:
+- first: Giovanni
+  last: Barbera
+- first: Bo
+  last: Liang
+- first: Yan
+  last: Zhang
+- first: Casey
+  last: Moffitt
+- first: Yun
+  last: Li
+- first: Da‐Ting
+  last: Lin
+journal: MethodsX
+publication_year: 2020
+publication_date: '2020-01-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.mex.2020.101024
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Barbera_2020, title={An open-source capacitive touch sensing
+  device for three chamber social behavior test}, volume={7}, ISSN={2215-0161}, url={http://dx.doi.org/10.1016/j.mex.2020.101024},
+  DOI={10.1016/j.mex.2020.101024}, journal={MethodsX}, publisher={Elsevier BV}, author={Barbera,
+  Giovanni and Liang, Bo and Zhang, Yan and Moffitt, Casey and Li, Yun and Lin, Da-Ting},
+  year={2020}, pages={101024} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: true
+  confidence: 0.88
+  tools_identified:
+  - Miniscope DAQ
+  evidence:
+  - "a custom PCB developed for the miniScope [16] and interfaced with Opal Kelly XEM3010"
+  - "the custom FPGA platform, consisting of the XEM3010 FPGA board connected to custom PCB for interfacing both with the MPR121 and the miniScope [16]"
+  - "Recent advances in miniature epifluorescence microscope (MiniScope) technology allow in vivo calcium imaging in freely behaving animals [5], [6], [7]"
+  paper_type: methods
+  suggested_component: Miniscope DAQ
+  suggested_technique: behavioral synchronization
+  reasoning: >-
+    This paper develops an open-source capacitive touch sensing device for automated
+    detection of social behavior. The device directly integrates with the Miniscope
+    DAQ/FPGA hardware platform -- the custom PCB developed for the Miniscope is used
+    as the data acquisition and synchronization interface for the capacitive sensors.
+    The paper cites the Cai et al. 2016 seed paper and explicitly references the
+    Miniscope GRIN lens/DAQ system (ref [16]). This represents a meaningful hardware
+    extension that builds on the Miniscope DAQ platform for behavioral measurement,
+    not merely a passing citation.
+  related_to_project: true
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321302+00:00'
+- stage: reviewed
+  timestamp: '2026-04-11'

@@ -1,7 +1,7 @@
 doi: 10.1038/s41467-020-15121-2
 openalex_id: W3012431228
 pmid: null
-pmcid: null
+pmcid: PMC7069961
 title: Encoding of contextual fear memory in hippocampal–amygdala circuit
 authors:
 - first: Woong Bin
@@ -19,10 +19,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Kim_2020, title={Encoding of contextual fear memory in hippocampal–amygdala
+  circuit}, volume={11}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-020-15121-2},
+  DOI={10.1038/s41467-020-15121-2}, number={1}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Kim, Woong Bin and Cho, Jun-Hyeong}, year={2020},
+  month=mar }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

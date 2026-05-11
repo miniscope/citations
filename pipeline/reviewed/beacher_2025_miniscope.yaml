@@ -1,0 +1,86 @@
+doi: 10.1002/cpz1.70090
+openalex_id: W4406252109
+pmid: null
+pmcid: PMC11718238
+title: 'Miniscope Imaging of Nucleus Accumbens Neural Activity in Freely Behaving
+  Rats: Virus Injection, Gradient Index Lens Implantation, Recording Strategies, and
+  Analytical Methods'
+authors:
+- first: Nicholas J.
+  last: Beacher
+- first: Michael W.
+  last: Wang
+- first: Matthew C.
+  last: Broomer
+- first: Jessica Y.
+  last: Kuo
+- first: Kayden A.
+  last: Washington
+- first: Miranda
+  last: Targum
+- first: Yan
+  last: Zhang
+- first: Giovanni
+  last: Barbera
+- first: Da‐Ting
+  last: Lin
+journal: Current Protocols
+publication_year: 2025
+publication_date: '2025-01-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cpz1.70090
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Beacher_2025, title={Miniscope Imaging of Nucleus Accumbens
+  Neural Activity in Freely Behaving Rats: Virus Injection, Gradient Index Lens Implantation,
+  Recording Strategies, and Analytical Methods}, volume={5}, ISSN={2691-1299}, url={http://dx.doi.org/10.1002/cpz1.70090},
+  DOI={10.1002/cpz1.70090}, number={1}, journal={Current Protocols}, publisher={Wiley},
+  author={Beacher, Nicholas J. and Wang, Michael W. and Broomer, Matthew C. and Kuo,
+  Jessica Y. and Washington, Kayden A. and Targum, Miranda and Zhang, Yan and Barbera,
+  Giovanni and Lin, Da‐Ting}, year={2025}, month=jan }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: true
+  confidence: 0.95
+  tools_identified:
+  - UCLA Miniscope v4
+  - MiniLFOV
+  evidence:
+  - "open‐source UCLA miniscope baseplate supplied by LABmaker"
+  - "The UCLA Miniscope (Miniscope‐LFOV) was recently developed for rats and has been
+    used in combination with GRIN lenses to image hippocampal CA1 neurons in freely
+    moving rats"
+  - "New improvements that are in development include increasing the field of view (MiniLFOV
+    miniscope; Guo et al."
+  - "These protocols describe an imaging method using entirely custom fluorescence miniscopes
+    based on open‐source robotic surgical instruments previously used for mice"
+  - "The combined virus injection and GRIN lens implantation surgery would work identically
+    for UCLA, Inscopix, and other open‐source miniscopes"
+  paper_type: methods
+  suggested_component: UCLA Miniscope v4
+  suggested_technique: calcium imaging
+  reasoning: This is a detailed methods/protocol paper published in Current Protocols
+    that provides step-by-step instructions for miniscope calcium imaging in freely
+    behaving rats, including surgery, lens implantation, recording, and analysis.
+    It uses a custom miniscope based on open-source UCLA Miniscope designs (Giovanni
+    Barbera's miniscope_v2.0 repository), explicitly references the UCLA Miniscope
+    baseplate from LABmaker, discusses compatibility with the UCLA Miniscope (MiniLFOV),
+    and cites the MiniLFOV seed paper (Guo et al.). The paper is strongly related
+    as a methods protocol for the miniscope ecosystem.
+  related_to_project: true
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019401+00:00'
+- stage: reviewed
+  timestamp: '2026-04-11'

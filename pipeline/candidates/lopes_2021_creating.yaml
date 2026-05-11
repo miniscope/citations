@@ -39,10 +39,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lopes_2021, title={Creating and controlling visual environments
+  using BonVision}, volume={10}, ISSN={2050-084X}, url={http://dx.doi.org/10.7554/elife.65541},
+  DOI={10.7554/elife.65541}, journal={eLife}, publisher={eLife Sciences Publications,
+  Ltd}, author={Lopes, Gonçalo and Farrell, Karolina and Horrocks, Edward AB and Lee,
+  Chi-Yu and Morimoto, Mai M and Muzzu, Tomaso and Papanikolaou, Amalia and Rodrigues,
+  Fabio R and Wheatcroft, Thomas and Zucca, Stefano and Solomon, Samuel G and Saleem,
+  Aman B}, year={2021}, month=apr }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

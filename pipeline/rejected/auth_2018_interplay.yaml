@@ -1,0 +1,58 @@
+doi: 10.1101/260950
+openalex_id: W2795970973
+pmid: null
+pmcid: null
+title: The interplay of synaptic plasticity and scaling enables self-organized formation
+  and allocation of multiple memory representations
+authors:
+- first: Johannes Maria
+  last: Auth
+- first: Timo
+  last: Nachstedt
+- first: Christian
+  last: Tetzlaff
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2018
+publication_date: '2018-02-06'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2018/10/14/260950.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Maria_Auth_2018, title={The interplay of synaptic plasticity
+  and scaling enables self-organized formation and allocation of multiple memory representations},
+  url={http://dx.doi.org/10.1101/260950}, DOI={10.1101/260950}, publisher={openRxiv},
+  author={Maria Auth, Johannes and Nachstedt, Timo and Tetzlaff, Christian}, year={2018},
+  month=feb }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  related_to_project: false
+  uses_tool: false
+  confidence: 0.95
+  tools_identified: []
+  evidence: []
+  paper_type: unrelated
+  suggested_component: null
+  suggested_technique: null
+  reasoning: Purely theoretical/computational neuroscience paper modeling synaptic
+    plasticity and homeostatic scaling for memory allocation in cell assemblies. No
+    experimental component. Cites seed paper Cai et al. 2016 only for scientific findings
+    about memory linking and allocation, not for any Miniscope or imaging tool. No
+    mentions of Miniscope, miniature microscope, calcium imaging, or any related tool
+    found in the full text. Authors are from Georg-August-University Goettingen with
+    no connection to the tool development lab.
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324396+00:00'
+- stage: rejected
+  timestamp: '2026-04-11'

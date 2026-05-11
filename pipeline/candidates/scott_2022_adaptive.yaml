@@ -1,7 +1,7 @@
 doi: 10.1038/s41386-022-01374-6
 openalex_id: W4293434860
 pmid: null
-pmcid: null
+pmcid: PMC9700774
 title: Adaptive control of synaptic plasticity integrates micro- and macroscopic network
   function
 authors:
@@ -20,10 +20,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Scott_2022, title={Adaptive control of synaptic plasticity
+  integrates micro- and macroscopic network function}, volume={48}, ISSN={1740-634X},
+  url={http://dx.doi.org/10.1038/s41386-022-01374-6}, DOI={10.1038/s41386-022-01374-6},
+  number={1}, journal={Neuropsychopharmacology}, publisher={Springer Science and Business
+  Media LLC}, author={Scott, Daniel N. and Frank, Michael J.}, year={2022}, month=aug,
+  pages={121–144} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

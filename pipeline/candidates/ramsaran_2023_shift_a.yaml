@@ -54,10 +54,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Ramsaran_2023, title={A shift in the mechanisms controlling
+  hippocampal engram formation during brain maturation}, url={http://dx.doi.org/10.1101/2023.01.09.523283},
+  DOI={10.1101/2023.01.09.523283}, publisher={openRxiv}, author={Ramsaran, Adam I.
+  and Wang, Ying and Golbabaei, Ali and Yeung, Bi-ru Amy and de Snoo, Mitchell L.
+  and Rashid, Asim J. and Awasthi, Ankit and Lau, Jocelyn and Tran, Lina M. and Ko,
+  Sangyoon Y. and Abegg, Andrin and Duan, Lana Chunan and McKenzie, Cory and Gallucci,
+  Julia and Ahmed, Moriam and Kaushik, Rahul and Dityatev, Alexander and Josselyn,
+  Sheena A. and Frankland, Paul W.}, year={2023}, month=jan }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

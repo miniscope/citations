@@ -1,7 +1,7 @@
 doi: 10.1038/s41467-023-42721-5
 openalex_id: W4388231889
 pmid: null
-pmcid: null
+pmcid: PMC10622498
 title: Deep brain stimulation of thalamic nucleus reuniens promotes neuronal and cognitive
   resilience in an Alzheimer’s disease mouse model
 authors:
@@ -38,10 +38,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Shoob_2023, title={Deep brain stimulation of thalamic nucleus
+  reuniens promotes neuronal and cognitive resilience in an Alzheimer’s disease mouse
+  model}, volume={14}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-023-42721-5},
+  DOI={10.1038/s41467-023-42721-5}, number={1}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Shoob, Shiri and Buchbinder, Nadav and
+  Shinikamin, Ortal and Gold, Or and Baeloha, Halit and Langberg, Tomer and Zarhin,
+  Daniel and Shapira, Ilana and Braun, Gabriella and Habib, Naomi and Slutsky, Inna},
+  year={2023}, month=nov }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

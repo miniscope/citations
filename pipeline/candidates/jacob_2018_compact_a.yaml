@@ -30,10 +30,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Jacob_2018, title={A compact head-mounted endoscope for in
+  vivo calcium imaging in freely-behaving mice}, url={http://dx.doi.org/10.1101/252205},
+  DOI={10.1101/252205}, publisher={openRxiv}, author={Jacob, Alexander D. and Ramsaran,
+  Adam I. and Mocle, Andrew J. and Tran, Lina M. and Yan, Chen and Frankland, Paul
+  W. and Josselyn, Sheena A}, year={2018}, month=jan }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

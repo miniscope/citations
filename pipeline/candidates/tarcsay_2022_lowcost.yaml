@@ -22,10 +22,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Tarcsay_2022, title={Low-Cost Platform for Multianimal Chronic
+  Local Field Potential Video Monitoring with Graphical User Interface (GUI) for Seizure
+  Detection and Behavioral Scoring}, volume={9}, ISSN={2373-2822}, url={http://dx.doi.org/10.1523/eneuro.0283-22.2022},
+  DOI={10.1523/eneuro.0283-22.2022}, number={5}, journal={eneuro}, publisher={Society
+  for Neuroscience}, author={Tarcsay, Gergely and Boublil, Brittney Lee and Ewell,
+  Laura A.}, year={2022}, month=sep, pages={ENEURO.0283-22.2022} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

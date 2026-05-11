@@ -1,7 +1,7 @@
 doi: 10.1073/pnas.2117076119
 openalex_id: W4283738324
 pmid: null
-pmcid: null
+pmcid: PMC9271212
 title: Real-time visualization of mRNA synthesis during memory formation in live mice
 authors:
 - first: Byung Hun
@@ -31,10 +31,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lee_2022, title={Real-time visualization of mRNA synthesis
+  during memory formation in live mice}, volume={119}, ISSN={1091-6490}, url={http://dx.doi.org/10.1073/pnas.2117076119},
+  DOI={10.1073/pnas.2117076119}, number={27}, journal={Proceedings of the National
+  Academy of Sciences}, publisher={Proceedings of the National Academy of Sciences},
+  author={Lee, Byung Hun and Shim, Jae Youn and Moon, Hyungseok C. and Kim, Dong Wook
+  and Kim, Jiwon and Yook, Jang Soo and Kim, Jinhyun and Park, Hye Yoon}, year={2022},
+  month=jul }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

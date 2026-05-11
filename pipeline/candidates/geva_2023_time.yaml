@@ -24,8 +24,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Geva_2023, title={Time and experience differentially affect
+  distinct aspects of hippocampal representational drift}, volume={111}, ISSN={0896-6273},
+  url={http://dx.doi.org/10.1016/j.neuron.2023.05.005}, DOI={10.1016/j.neuron.2023.05.005},
+  number={15}, journal={Neuron}, publisher={Elsevier BV}, author={Geva, Nitzan and
+  Deitch, Daniel and Rubin, Alon and Ziv, Yaniv}, year={2023}, month=aug, pages={2357-2366.e5}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

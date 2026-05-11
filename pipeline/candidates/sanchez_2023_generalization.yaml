@@ -1,7 +1,7 @@
 doi: 10.1016/j.cognition.2023.105385
 openalex_id: W4319069652
 pmid: null
-pmcid: null
+pmcid: PMC9992276
 title: Generalization and false memory in acquired equivalence
 authors:
 - first: Maria Alejandra de Araujo
@@ -19,10 +19,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{de_Araujo_Sanchez_2023, title={Generalization and false memory
+  in acquired equivalence}, volume={234}, ISSN={0010-0277}, url={http://dx.doi.org/10.1016/j.cognition.2023.105385},
+  DOI={10.1016/j.cognition.2023.105385}, journal={Cognition}, publisher={Elsevier
+  BV}, author={de Araujo Sanchez, Maria Alejandra and Zeithamova, Dagmar}, year={2023},
+  month=may, pages={105385} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

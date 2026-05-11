@@ -1,7 +1,7 @@
 doi: 10.1016/j.ynstr.2024.100615
 openalex_id: W4391647601
 pmid: null
-pmcid: null
+pmcid: PMC10874731
 title: Integrating and fragmenting memories under stress and alcohol
 authors:
 - first: Krystian
@@ -19,10 +19,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Loetscher_2024, title={Integrating and fragmenting memories
+  under stress and alcohol}, volume={30}, ISSN={2352-2895}, url={http://dx.doi.org/10.1016/j.ynstr.2024.100615},
+  DOI={10.1016/j.ynstr.2024.100615}, journal={Neurobiology of Stress}, publisher={Elsevier
+  BV}, author={Loetscher, Krystian B. and Goldfarb, Elizabeth V.}, year={2024}, month=may,
+  pages={100615} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,7 +1,7 @@
 doi: 10.1063/5.0125103
 openalex_id: W4367554017
 pmid: null
-pmcid: null
+pmcid: PMC10155219
 title: MicroLED/LED electro-optical integration techniques for non-display applications
 authors:
 - first: Vikrant
@@ -19,10 +19,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Kumar_2023, title={MicroLED/LED electro-optical integration
+  techniques for non-display applications}, volume={10}, ISSN={1931-9401}, url={http://dx.doi.org/10.1063/5.0125103},
+  DOI={10.1063/5.0125103}, number={2}, journal={Applied Physics Reviews}, publisher={AIP
+  Publishing}, author={Kumar, V. and Kymissis, I.}, year={2023}, month=may }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

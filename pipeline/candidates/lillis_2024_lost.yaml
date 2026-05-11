@@ -1,7 +1,7 @@
 doi: 10.1177/15357597241228466
 openalex_id: W4391608203
 pmid: null
-pmcid: null
+pmcid: PMC11394406
 title: 'Lost in the Woods: Spatially Miscomputing Dendritic Trees'
 authors:
 - first: Kyle P.
@@ -17,10 +17,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lillis_2024, title={Lost in the Woods: Spatially Miscomputing
+  Dendritic Trees}, volume={24}, ISSN={1535-7511}, url={http://dx.doi.org/10.1177/15357597241228466},
+  DOI={10.1177/15357597241228466}, number={2}, journal={Epilepsy Currents}, publisher={SAGE
+  Publications}, author={Lillis, Kyle P.}, year={2024}, month=feb, pages={129–131}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,7 +1,7 @@
 doi: 10.1111/epi.18218
 openalex_id: W4405317714
 pmid: null
-pmcid: null
+pmcid: PMC11908660
 title: Neuronal complexity tracks changes of epileptic activity and identifies epilepsy
   patients independent of interictal epileptiform discharges
 authors:
@@ -30,10 +30,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Kienitz_2024, title={Neuronal complexity tracks changes of
+  epileptic activity and identifies epilepsy patients independent of interictal epileptiform
+  discharges}, volume={66}, ISSN={1528-1167}, url={http://dx.doi.org/10.1111/epi.18218},
+  DOI={10.1111/epi.18218}, number={3}, journal={Epilepsia}, publisher={Wiley}, author={Kienitz,
+  Ricardo and Strüber, Michael and Merkel, Nina and Süß, Annika and Spyrantis, Andrea
+  and Strzelczyk, Adam and Rosenow, Felix}, year={2024}, month=dec, pages={790–801}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

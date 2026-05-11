@@ -1,7 +1,7 @@
 doi: 10.3389/fnsyn.2025.1732955
 openalex_id: W4417146288
 pmid: null
-pmcid: null
+pmcid: PMC12722870
 title: 'From microelectrode arrays to all-optical and multimodal neural interfaces:
   emerging platforms for spatiotemporal interrogation of in vitro neural circuits'
 authors:
@@ -26,10 +26,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Wang_2025, title={From microelectrode arrays to all-optical
+  and multimodal neural interfaces: emerging platforms for spatiotemporal interrogation
+  of in vitro neural circuits}, volume={17}, ISSN={1663-3563}, url={http://dx.doi.org/10.3389/fnsyn.2025.1732955},
+  DOI={10.3389/fnsyn.2025.1732955}, journal={Frontiers in Synaptic Neuroscience},
+  publisher={Frontiers Media SA}, author={Wang, Song and Gordon, Sarah and French,
+  Chris and Unnithan, Ranjith R. and Sun, Dechuan}, year={2025}, month=dec }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -23,10 +23,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Liu_Xiaoyu_2024, title={微型化显微成像系统的关键技术及研究进展（特邀）}, volume={61},
+  ISSN={1006-4125}, url={http://dx.doi.org/10.3788/lop232709}, DOI={10.3788/lop232709},
+  number={2}, journal={Laser &amp; Optoelectronics Progress}, publisher={Shanghai
+  Institute of Optics and Fine Mechanics}, author={Liu Xiaoyu, 刘晓宇 and Liu Ziqian,
+  刘紫千 and Si Ke, 斯科 and Gong Wei, 龚薇}, year={2024}, pages={0211009} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

@@ -19,8 +19,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @inbook{Sch_ne_2018, title={Optogenetics Dissection of Sleep Circuits
+  and Functions}, ISBN={9780128040782}, url={http://dx.doi.org/10.1016/b978-0-12-804078-2.00023-4},
+  DOI={10.1016/b978-0-12-804078-2.00023-4}, booktitle={Molecular-Genetic and Statistical
+  Techniques for Behavioral and Neural Research}, publisher={Elsevier}, author={Schöne,
+  Cornelia and Adamantidis, Antoine}, year={2018}, pages={535–564} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

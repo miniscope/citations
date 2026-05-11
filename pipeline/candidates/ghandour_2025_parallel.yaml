@@ -1,7 +1,7 @@
 doi: 10.1038/s41467-025-58860-w
 openalex_id: W4409897100
 pmid: null
-pmcid: null
+pmcid: PMC12037800
 title: Parallel processing of past and future memories through reactivation and synaptic
   plasticity mechanisms during sleep
 authors:
@@ -36,10 +36,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Ghandour_2025, title={Parallel processing of past and future
+  memories through reactivation and synaptic plasticity mechanisms during sleep},
+  volume={16}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-025-58860-w},
+  DOI={10.1038/s41467-025-58860-w}, number={1}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Ghandour, Khaled and Haga, Tatsuya and
+  Ohkawa, Noriaki and Fung, Chi Chung Alan and Nomoto, Masanori and Fayed, Mostafa
+  R. and Asai, Hirotaka and Sato, Masaaki and Fukai, Tomoki and Inokuchi, Kaoru},
+  year={2025}, month=apr }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

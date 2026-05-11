@@ -23,8 +23,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Ryan_2021, title={Engram cell connectivity: an evolving substrate
+  for information storage}, volume={67}, ISSN={0959-4388}, url={http://dx.doi.org/10.1016/j.conb.2021.01.006},
+  DOI={10.1016/j.conb.2021.01.006}, journal={Current Opinion in Neurobiology}, publisher={Elsevier
+  BV}, author={Ryan, Tomás J and Ortega-de San Luis, Clara and Pezzoli, Maurizio and
+  Sen, Siddhartha}, year={2021}, month=apr, pages={215–225} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

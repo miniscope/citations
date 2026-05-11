@@ -21,10 +21,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Mau_2020, title={The brain in motion: How ensemble fluidity
+  drives memory-updating and flexibility}, volume={9}, ISSN={2050-084X}, url={http://dx.doi.org/10.7554/elife.63550},
+  DOI={10.7554/elife.63550}, journal={eLife}, publisher={eLife Sciences Publications,
+  Ltd}, author={Mau, William and Hasselmo, Michael E and Cai, Denise J}, year={2020},
+  month=dec }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

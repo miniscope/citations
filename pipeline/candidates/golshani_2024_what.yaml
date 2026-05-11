@@ -17,8 +17,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @inbook{Golshani_2024, title={What Rodent Models Teach Us about the
+  Association of Autism and Epilepsy}, ISBN={9780197549490}, url={http://dx.doi.org/10.1093/med/9780197549469.003.0059},
+  DOI={10.1093/med/9780197549469.003.0059}, booktitle={Jasper’s Basic Mechanisms of
+  the Epilepsies}, publisher={Oxford University PressNew York}, author={Golshani,
+  Peyman}, editor={Noebels, Jeffrey L.}, year={2024}, month=jul, pages={1219–1232}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

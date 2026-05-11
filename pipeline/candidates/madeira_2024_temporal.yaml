@@ -21,10 +21,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Madeira_2024, title={Temporal rules of fear memory cooperation
+  and competition}, url={http://dx.doi.org/10.1101/2024.05.28.596109}, DOI={10.1101/2024.05.28.596109},
+  publisher={openRxiv}, author={Madeira, Natália and Campelo, Inês and Fonseca, Rosalina},
+  year={2024}, month=may }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

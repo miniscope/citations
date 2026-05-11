@@ -17,10 +17,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Petitat_2020, title={Towards a trans-epistemic society}, volume={4},
+  ISSN={2668-7798}, url={http://dx.doi.org/10.47577/tssj.v4i1.58}, DOI={10.47577/tssj.v4i1.58},
+  journal={Technium Social Sciences Journal}, publisher={PLUS COMMUNICATION CONSULTING
+  SRL}, author={Petitat, Andre}, year={2020}, month=jan, pages={107–120} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

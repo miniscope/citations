@@ -18,8 +18,13 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: "@phdthesis{https://doi.org/10.17615/mn8w-xr58,\n  doi = {10.17615/MN8W-XR58},\n\
+  \  url = {https://cdr.lib.unc.edu/concern/dissertations/6t053g69w?locale=en},\n\
+  \  author = {{Mazzone, Christopher}},\n  language = {en},\n  title = {Contributions\
+  \ of Genetically Defined Cell Populations in the Extended Amygdala to Emotional\
+  \ Behavior},\n  publisher = {The University of North Carolina at Chapel Hill University\
+  \ Libraries},\n  year = {2017},\n  copyright = {In Copyright}\n}\n"
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

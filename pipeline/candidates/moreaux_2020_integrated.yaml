@@ -1,7 +1,7 @@
 doi: 10.1016/j.neuron.2020.09.043
 openalex_id: W3092657784
 pmid: null
-pmcid: null
+pmcid: PMC8061790
 title: 'Integrated Neurophotonics: Toward Dense Volumetric Interrogation of Brain
   Circuit Activity—at Depth and in Real Time'
 authors:
@@ -44,10 +44,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Moreaux_2020, title={Integrated Neurophotonics: Toward Dense
+  Volumetric Interrogation of Brain Circuit Activity—at Depth and in Real Time}, volume={108},
+  ISSN={0896-6273}, url={http://dx.doi.org/10.1016/j.neuron.2020.09.043}, DOI={10.1016/j.neuron.2020.09.043},
+  number={1}, journal={Neuron}, publisher={Elsevier BV}, author={Moreaux, Laurent
+  C. and Yatsenko, Dimitri and Sacher, Wesley D. and Choi, Jaebin and Lee, Changhyuk
+  and Kubat, Nicole J. and Cotton, R. James and Boyden, Edward S. and Lin, Michael
+  Z. and Tian, Lin and Tolias, Andreas S. and Poon, Joyce K.S. and Shepard, Kenneth
+  L. and Roukes, Michael L.}, year={2020}, month=oct, pages={66–92} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

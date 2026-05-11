@@ -19,10 +19,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{WANG_2019, title={Research progress and prospect of neural
+  activity-dependent tools}, volume={49}, ISSN={1674-7232}, url={http://dx.doi.org/10.1360/n052018-00292},
+  DOI={10.1360/n052018-00292}, number={3}, journal={SCIENTIA SINICA Vitae}, publisher={Science
+  China Press., Co. Ltd.}, author={WANG, JiHua and HU, HaiLan}, year={2019}, month=mar,
+  pages={202–219} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

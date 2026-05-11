@@ -1,7 +1,7 @@
 doi: 10.1088/1741-2552/aa6806
 openalex_id: W2616708953
 pmid: null
-pmcid: null
+pmcid: PMC5955387
 title: An open source, wireless capable miniature microscope system
 authors:
 - first: William A.
@@ -23,10 +23,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Liberti_2017, title={An open source, wireless capable miniature
+  microscope system}, volume={14}, ISSN={1741-2552}, url={http://dx.doi.org/10.1088/1741-2552/aa6806},
+  DOI={10.1088/1741-2552/aa6806}, number={4}, journal={Journal of Neural Engineering},
+  publisher={IOP Publishing}, author={Liberti, William A and Perkins, L Nathan and
+  Leman, Daniel P and Gardner, Timothy J}, year={2017}, month=may, pages={045001}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

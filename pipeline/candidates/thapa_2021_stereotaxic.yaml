@@ -1,7 +1,7 @@
 doi: 10.3791/63049
 openalex_id: W3203243087
 pmid: null
-pmcid: null
+pmcid: PMC9427020
 title: Stereotaxic Viral Injection and Gradient-Index Lens Implantation for Deep Brain
   &lt;em&gt;In Vivo&lt;/em&gt; Calcium Imaging
 authors:
@@ -24,10 +24,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Thapa_2021, title={Stereotaxic Viral Injection and Gradient-Index
+  Lens Implantation for Deep Brain &lt;em&gt;In Vivo&lt;/em&gt; Calcium Imaging},
+  ISSN={1940-087X}, url={http://dx.doi.org/10.3791/63049}, DOI={10.3791/63049}, number={176},
+  journal={Journal of Visualized Experiments}, publisher={MyJove Corporation}, author={Thapa,
+  Rashmi and Liang, Bo and Liu, Rongsong and Li, Yun}, year={2021}, month=oct }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

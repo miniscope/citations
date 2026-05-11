@@ -29,39 +29,38 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Abdou_2018, title={Synapse-specific representation of the identity
+  of overlapping memory engrams}, volume={360}, ISSN={1095-9203}, url={http://dx.doi.org/10.1126/science.aat3810},
+  DOI={10.1126/science.aat3810}, number={6394}, journal={Science}, publisher={American
+  Association for the Advancement of Science (AAAS)}, author={Abdou, Kareem and Shehata,
+  Mohammad and Choko, Kiriko and Nishizono, Hirofumi and Matsuo, Mina and Muramatsu,
+  Shin-ichi and Inokuchi, Kaoru}, year={2018}, month=jun, pages={1227–1231} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: none
   pdf_local_path: null
 analysis:
   status: reviewed
+  related_to_project: false
   uses_tool: false
   confidence: 0.85
   tools_identified: []
   evidence:
-    - "Paper is from University of Toyama, Japan (Inokuchi lab). Study uses optogenetics, c-Fos-based engram labeling, and electrophysiology to investigate synapse-specific memory engram identity."
-    - "No mention of miniature microscope, calcium imaging, or Miniscope in the abstract or any available metadata."
-    - "Cites seed paper Cai et al. 2016 for conceptual framework on memory linking/overlap of engrams, not for Miniscope tool usage."
-    - "Unpaywall confirms closed access (no OA full text available). No PMCID available for full-text retrieval."
-  paper_type: primary_research
+  - "Paper is from University of Toyama, Japan (Inokuchi lab). Study uses optogenetics, c-Fos-based engram labeling, and electrophysiology to investigate synapse-specific memory engram identity."
+  - "No mention of miniature microscope, calcium imaging, or Miniscope in the abstract or any available metadata."
+  - "Cites seed paper Cai et al. 2016 for conceptual framework on memory linking/overlap of engrams, not for Miniscope tool usage."
+  - "Unpaywall confirms closed access (no OA full text available). No PMCID available for full-text retrieval."
+  paper_type: unrelated
   suggested_component: null
   suggested_technique: null
-  reasoning: >
-    This paper studies how overlapping neuronal populations in the amygdala store
-    distinct memories via synapse-specific connectivity. The methods involve
-    optogenetics, electrophysiology, and c-Fos-based engram labeling -- not
-    miniature microscope calcium imaging. The citation of seed paper Cai et al. 2016
-    is for the conceptual framework of memory engram linking, not for the Miniscope
-    tool. No evidence of UCLA Miniscope, MiniLFOV, or MiniXL usage found. Full text
-    was unavailable (closed access, no PMCID), but the methodology described in
-    available metadata is clearly non-Miniscope. Confidence set at 0.85 rather than
-    higher because full text could not be verified, though all available evidence
-    strongly indicates no tool usage.
+  reasoning: "This paper studies how overlapping neuronal populations in the amygdala store distinct memories via synapse-specific connectivity. The methods involve optogenetics, electrophysiology, and c-Fos-based engram labeling -- not miniature microscope calcium imaging. The citation of seed paper Cai et al. 2016 is for the conceptual framework of memory engram linking, not for the Miniscope tool. No evidence of UCLA Miniscope v4, MiniLFOV, MiniXL, Minian, UCLA 2P Miniscope, or Miniscope DAQ usage found. Full text was unavailable (closed access, no PMCID), but the methodology described in available metadata is clearly non-Miniscope. Confidence set at 0.85 rather than higher because full text could not be verified, though all available evidence strongly indicates no tool usage."
 stage: rejected
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:43.317770+00:00'
 - stage: rejected
   timestamp: '2026-04-10T00:00:00+00:00'
-  reason: "No evidence of Miniscope tool usage. Paper uses optogenetics and electrophysiology, cites seed paper for engram concept only."
+  reason: No evidence of Miniscope tool usage. Paper uses optogenetics and electrophysiology,
+    cites seed paper for engram concept only.

@@ -1,7 +1,7 @@
 doi: 10.1016/j.neuron.2019.05.040
 openalex_id: W2955280141
 pmid: null
-pmcid: null
+pmcid: PMC7197404
 title: Strengthened Temporal Coordination within Pre-existing Sequential Cell Assemblies
   Supports Trajectory Replay
 authors:
@@ -24,10 +24,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Farooq_2019, title={Strengthened Temporal Coordination within
+  Pre-existing Sequential Cell Assemblies Supports Trajectory Replay}, volume={103},
+  ISSN={0896-6273}, url={http://dx.doi.org/10.1016/j.neuron.2019.05.040}, DOI={10.1016/j.neuron.2019.05.040},
+  number={4}, journal={Neuron}, publisher={Elsevier BV}, author={Farooq, Usman and
+  Sibille, Jeremie and Liu, Kefei and Dragoi, George}, year={2019}, month=aug, pages={719-733.e7}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,7 +1,7 @@
 doi: 10.1038/mp.2017.178
 openalex_id: W2755167598
 pmid: null
-pmcid: null
+pmcid: PMC5747312
 title: Molecular basis of dendritic atrophy and activity in stress susceptibility
 authors:
 - first: T. Chase
@@ -33,10 +33,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Francis_2017, title={Molecular basis of dendritic atrophy and
+  activity in stress susceptibility}, volume={22}, ISSN={1476-5578}, url={http://dx.doi.org/10.1038/mp.2017.178},
+  DOI={10.1038/mp.2017.178}, number={11}, journal={Molecular Psychiatry}, publisher={Springer
+  Science and Business Media LLC}, author={Francis, T C and Chandra, R and Gaynor,
+  A and Konkalmatt, P and Metzbower, S R and Evans, B and Engeln, M and Blanpied,
+  T A and Lobo, M K}, year={2017}, month=sep, pages={1512–1519} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

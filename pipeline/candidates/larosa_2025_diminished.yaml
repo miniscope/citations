@@ -1,7 +1,7 @@
 doi: 10.1016/j.bpsgos.2025.100455
 openalex_id: W4406980227
 pmid: null
-pmcid: null
+pmcid: PMC11925529
 title: Diminished Social Memory and Hippocampal Correlates of Social Interactions
   in Chronic Social Defeat Stress Susceptibility
 authors:
@@ -32,10 +32,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Larosa_2025, title={Diminished Social Memory and Hippocampal
+  Correlates of Social Interactions in Chronic Social Defeat Stress Susceptibility},
+  volume={5}, ISSN={2667-1743}, url={http://dx.doi.org/10.1016/j.bpsgos.2025.100455},
+  DOI={10.1016/j.bpsgos.2025.100455}, number={3}, journal={Biological Psychiatry Global
+  Open Science}, publisher={Elsevier BV}, author={Larosa, Amanda and Zhang, Tian Rui
+  and Wong, Alice S. and Fung, Cyrus Y.H. and Long, Xiong Ling Yun (Jenny) and Singh,
+  Prabhjeet and Fung, Benjamin C.M. and Wong, Tak Pan}, year={2025}, month=may, pages={100455}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

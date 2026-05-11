@@ -29,8 +29,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @inproceedings{Xiong_2017, title={Spatiotemporal compressed sensing
+  for video compression}, url={http://dx.doi.org/10.1109/mwscas.2017.8052917}, DOI={10.1109/mwscas.2017.8052917},
+  booktitle={2017 IEEE 60th International Midwest Symposium on Circuits and Systems
+  (MWSCAS)}, publisher={IEEE}, author={Xiong, Tao and Rattray, John and Zhang, Jie
+  and Thakur, Chetan Singh and Chin, Sang Peter and Tran, Trac D. and Etienne-Cummings,
+  Ralph}, year={2017}, month=aug, pages={289–292} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

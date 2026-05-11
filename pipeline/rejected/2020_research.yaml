@@ -26,22 +26,24 @@ fulltext:
   pdf_local_path: null
 analysis:
   status: completed
-  uses_tool: false
+  related_to_project: false
   confidence: 0.95
   tools_identified: []
   evidence: []
-  paper_type: materials_science
+  paper_type: unrelated
   suggested_component: null
   suggested_technique: null
   reasoning: >-
     Paper title "Research on emergent physical properties of integrated nanomaterials"
-    is clearly a materials science paper, not neuroscience. No DOI available to fetch
-    BibTeX or full text. No abstract available. OpenAlex topics are "Advanced Memory
+    is a materials science paper, not neuroscience. No DOI, PMID, or PMCID available;
+    no full text or abstract could be fetched. OpenAlex topics are "Advanced Memory
     and Neural Computing" (referring to memristors/neuromorphic computing, not
     biological neural imaging), "Transition Metal Oxide Nanomaterials", and "2D
-    Materials and Applications". No PMID/PMCID indicating it is not indexed in
-    biomedical databases. The citation of seed paper Cai et al. 2016 was likely
-    tangential. There is no evidence this paper uses any UCLA Miniscope tools.
+    Materials and Applications". The citation of seed paper Cai et al. 2016 was
+    likely tangential or erroneous. No companion .txt or .bib files exist. There is
+    no evidence this paper uses, extends, reviews, or relates to any UCLA Miniscope
+    family tool (UCLA Miniscope v4, MiniLFOV, MiniXL, Minian, UCLA 2P Miniscope,
+    Miniscope DAQ).
 stage: rejected
 stage_history:
 - stage: candidate

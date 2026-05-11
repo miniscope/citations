@@ -1,0 +1,70 @@
+doi: 10.1007/978-3-031-50624-6_7
+openalex_id: W4392165942
+pmid: null
+pmcid: null
+title: Proteomic-Based Studies on Memory Formation in Normal and Neurodegenerative
+  Disease-Affected Brains
+authors:
+- first: Ikaro Jesus Silva
+  last: Beraldo
+- first: Mateus
+  last: Rodrigues
+- first: Rafaela Schuttenberg
+  last: Polanczyk
+- first: Thiago
+  last: Verano‐Braga
+- first: Cleiton
+  last: Lopes‐Aguiar
+journal: Advances in experimental medicine and biology
+publication_year: 2024
+publication_date: '2024-01-01'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @inbook{da_Silva_Beraldo_2024, title={Proteomic-Based Studies on Memory
+  Formation in Normal and Neurodegenerative Disease-Affected Brains}, ISBN={9783031506246},
+  ISSN={2214-8019}, url={http://dx.doi.org/10.1007/978-3-031-50624-6_7}, DOI={10.1007/978-3-031-50624-6_7},
+  booktitle={Mass Spectrometry-Based Approaches for Treating Human Diseases and Diagnostics},
+  publisher={Springer International Publishing}, author={da Silva Beraldo, Ikaro Jesus
+  and Prates Rodrigues, Mateus and Polanczyk, Rafaela Schuttenberg and Verano-Braga,
+  Thiago and Lopes-Aguiar, Cleiton}, year={2024}, pages={129–158} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: complete
+  related_to_project: false
+  uses_tool: false
+  confidence: 0.92
+  tools_identified: []
+  evidence: []
+  paper_type: unrelated
+  suggested_component: null
+  suggested_technique: null
+  reasoning: >-
+    This is a proteomics review chapter in "Mass Spectrometry-Based Approaches for
+    Treating Human Diseases and Diagnostics" (Springer). It covers proteomic studies
+    of memory formation and neurodegeneration. The paper cites Cai et al. 2016 for
+    its scientific finding about shared neural ensembles linking contextual memories,
+    not for the UCLA Miniscope tool. The chapter's methodology is mass spectrometry
+    and proteomics, with no connection to miniature microscopy, calcium imaging, or
+    any Miniscope-family tool. No full text was available, but OpenAlex metadata
+    confirms topics are proteomics, neurodegeneration, and synaptic plasticity with
+    no imaging tool relevance. No abstract was available from OpenAlex either.
+    Confidence is high (0.92) that this is a purely contextual citation of the seed
+    paper's scientific result.
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.325988+00:00'
+- stage: rejected
+  timestamp: '2026-04-13'
+  reason: cites seed paper for scientific context only, no tool connection

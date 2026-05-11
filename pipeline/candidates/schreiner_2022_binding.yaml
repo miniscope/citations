@@ -1,7 +1,7 @@
 doi: 10.1177/17470218221096148
 openalex_id: W4223579334
 pmid: null
-pmcid: null
+pmcid: PMC10031638
 title: The binding structure of event elements in episodic memory and the role of
   animacy
 authors:
@@ -22,10 +22,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Schreiner_2022, title={The binding structure of event elements
+  in episodic memory and the role of animacy}, volume={76}, ISSN={1747-0226}, url={http://dx.doi.org/10.1177/17470218221096148},
+  DOI={10.1177/17470218221096148}, number={4}, journal={Quarterly Journal of Experimental
+  Psychology}, publisher={SAGE Publications}, author={Schreiner, Marcel R and Meiser,
+  Thorsten and Bröder, Arndt}, year={2022}, month=jun, pages={705–730} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,7 +1,7 @@
 doi: 10.1038/s41467-024-53690-8
 openalex_id: W4403836847
 pmid: null
-pmcid: null
+pmcid: PMC11519475
 title: Temporal dynamics of nucleus accumbens neurons in male mice during reward seeking
 authors:
 - first: Terra A.
@@ -47,10 +47,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Schall_2024, title={Temporal dynamics of nucleus accumbens
+  neurons in male mice during reward seeking}, volume={15}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-024-53690-8},
+  DOI={10.1038/s41467-024-53690-8}, number={1}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Schall, Terra A. and Li, King-Lun and Qi,
+  Xiguang and Lee, Brian T. and Wright, William J. and Alpaugh, Erin E. and Zhao,
+  Rachel J. and Liu, Jianwei and Li, Qize and Zeng, Bo and Wang, Lirong and Huang,
+  Yanhua H. and Schlüter, Oliver M. and Nestler, Eric J. and Nieh, Edward H. and Dong,
+  Yan}, year={2024}, month=oct }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

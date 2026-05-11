@@ -34,8 +34,16 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Ilyukov_2024, title={Task-specific approach in customized design
+  of EEG system for small laboratory animals}, volume={233}, ISSN={1951-6401}, url={http://dx.doi.org/10.1140/epjs/s11734-023-01082-2},
+  DOI={10.1140/epjs/s11734-023-01082-2}, number={3}, journal={The European Physical
+  Journal Special Topics}, publisher={Springer Science and Business Media LLC}, author={Ilyukov,
+  Egor and Myagkov, Dmitry and Tuktarov, Dmitry and Popov, Sergey and Inozemtsev,
+  Timofey and Blokhina, Inna and Terskov, Andrey and Adushkina, Viktoria and Zlatogorskaya,
+  Daria}, year={2024}, month=feb, pages={671–675} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

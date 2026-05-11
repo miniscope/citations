@@ -21,10 +21,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Folkerts_2017, title={Human episodic memory retrieval is accompanied
+  by a neural contiguity effect}, url={http://dx.doi.org/10.1101/117010}, DOI={10.1101/117010},
+  publisher={openRxiv}, author={Folkerts, Sarah and Rutishauser, Ueli and Howard,
+  Marc W.}, year={2017}, month=mar }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

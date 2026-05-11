@@ -1,7 +1,7 @@
 doi: 10.3389/fncel.2021.663418
 openalex_id: W3173681327
 pmid: null
-pmcid: null
+pmcid: PMC8258392
 title: Pituitary Adenylate Cyclase-Activating Polypeptide in Learning and Memory
 authors:
 - first: Marieke R.
@@ -19,10 +19,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Gilmartin_2021, title={Pituitary Adenylate Cyclase-Activating
+  Polypeptide in Learning and Memory}, volume={15}, ISSN={1662-5102}, url={http://dx.doi.org/10.3389/fncel.2021.663418},
+  DOI={10.3389/fncel.2021.663418}, journal={Frontiers in Cellular Neuroscience}, publisher={Frontiers
+  Media SA}, author={Gilmartin, Marieke R. and Ferrara, Nicole C.}, year={2021}, month=jun
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -21,8 +21,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Petousakis_2022, title={The impact of Hodgkin–Huxley models
+  on dendritic research}, volume={601}, ISSN={1469-7793}, url={http://dx.doi.org/10.1113/jp282756},
+  DOI={10.1113/jp282756}, number={15}, journal={The Journal of Physiology}, publisher={Wiley},
+  author={Petousakis, Konstantinos‐Evangelos and Apostolopoulou, Anthi A. and Poirazi,
+  Panayiota}, year={2022}, month=oct, pages={3091–3102} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

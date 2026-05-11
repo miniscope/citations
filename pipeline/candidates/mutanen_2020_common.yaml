@@ -21,8 +21,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Mutanen_2020, title={A Common Task Structure Links Together
+  the Fate of Different Types of Memories}, volume={30}, ISSN={0960-9822}, url={http://dx.doi.org/10.1016/j.cub.2020.03.043},
+  DOI={10.1016/j.cub.2020.03.043}, number={11}, journal={Current Biology}, publisher={Elsevier
+  BV}, author={Mutanen, Tuomas P. and Bracco, Martina and Robertson, Edwin M.}, year={2020},
+  month=jun, pages={2139-2145.e5} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

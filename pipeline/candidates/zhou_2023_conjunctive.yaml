@@ -28,10 +28,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhou_2023, title={Conjunctive vector coding and place coding
+  in hippocampus share a common directional signal}, url={http://dx.doi.org/10.1101/2023.06.02.543340},
+  DOI={10.1101/2023.06.02.543340}, publisher={openRxiv}, author={Zhou, Yue-Qing and
+  Puliyadi, Vyash and Chen, Xiaojing and Lee, Joonhee Leo and Zhang, Lan-Yuan and
+  Knierim, James J.}, year={2023}, month=jun }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

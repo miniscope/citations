@@ -24,8 +24,13 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lee_2019, title={The statistical structure of the hippocampal
+  code for space as a function of time, context, and value}, url={http://dx.doi.org/10.1101/615203},
+  DOI={10.1101/615203}, publisher={openRxiv}, author={Lee, Jae Sung and Briguglio,
+  John and Romani, Sandro and Lee, Albert K.}, year={2019}, month=apr }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

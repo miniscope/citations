@@ -1,0 +1,68 @@
+doi: 10.1162/jocn_a_02216
+openalex_id: W4400524405
+pmid: null
+pmcid: PMC11887591
+title: Causal and Chronological Relationships Predict Memory Organization for Nonlinear
+  Narratives
+authors:
+- first: James W.
+  last: Antony
+- first: Angelo
+  last: Lozano
+- first: Pahul
+  last: Dhoat
+- first: Janice
+  last: Chen
+- first: Kelly A.
+  last: Bennion
+journal: Journal of Cognitive Neuroscience
+publication_year: 2024
+publication_date: '2024-01-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://direct.mit.edu/jocn/article-pdf/36/11/2368/2475621/jocn_a_02216.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Antony_2024, title={Causal and Chronological Relationships
+  Predict Memory Organization for Nonlinear Narratives}, volume={36}, ISSN={1530-8898},
+  url={http://dx.doi.org/10.1162/jocn_a_02216}, DOI={10.1162/jocn_a_02216}, number={11},
+  journal={Journal of Cognitive Neuroscience}, publisher={MIT Press}, author={Antony,
+  James and Lozano, Angelo and Dhoat, Pahul and Chen, Janice and Bennion, Kelly},
+  year={2024}, pages={2368–2385} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.97
+  tools_identified: []
+  evidence:
+  - The hippocampus is involved not only in key memory processes ( Eichenbaum, Yonelinas,
+    & Ranganath, 2007 ) but also in inference to link across related memories ( Cai
+    et al
+  - Cai DJ , Aharoni D , Shuman T , Shobe J , Biane J , Song W , ( 2016 )
+  paper_type: unrelated
+  suggested_component: null
+  suggested_technique: null
+  reasoning: This is a human cognitive psychology paper about memory organization
+    during nonlinear narrative comprehension (participants watched the film Memento).
+    It cites Cai et al. 2016 solely for the neuroscience finding that the hippocampus
+    is involved in inference to link related memories. There is no mention of miniscopes,
+    calcium imaging, miniature microscopes, freely-moving animal recordings, or any
+    related tools. The paper contains zero references to mice, rodents, or in vivo
+    imaging. The citation to the seed paper is purely for scientific context with
+    no tool connection.
+  related_to_project: false
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321084+00:00'
+- stage: rejected
+  timestamp: '2026-04-10'

@@ -46,8 +46,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Wu_2025, title={A versatile miniature two-photon microscope
+  enabling multicolor deep-brain imaging}, volume={22}, ISSN={1548-7105}, url={http://dx.doi.org/10.1038/s41592-025-02780-6},
+  DOI={10.1038/s41592-025-02780-6}, number={9}, journal={Nature Methods}, publisher={Springer
+  Science and Business Media LLC}, author={Wu, Runlong and Zhao, Chunzhu and Qiu,
+  Shan and Zhu, Yufei and Zhang, Lifeng and Fu, Qiang and Hu, Yanhui and Wu, Dakun
+  and Yu, Fei and Zhou, Fangxu and Huang, Haipeng and Zhang, Yunfeng and Wang, Xianhua
+  and Wang, Aimin and Cheng, Heping}, year={2025}, month=aug, pages={1935–1943} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

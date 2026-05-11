@@ -22,8 +22,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Failla_2025, title={A common serial structure causes offline
+  excitability changes linked to generalization between different memory types}, volume={35},
+  ISSN={0960-9822}, url={http://dx.doi.org/10.1016/j.cub.2025.10.063}, DOI={10.1016/j.cub.2025.10.063},
+  number={24}, journal={Current Biology}, publisher={Elsevier BV}, author={Failla,
+  Alberto and Bracco, Martina and Robertson, Edwin M.}, year={2025}, month=dec, pages={6147-6154.e5}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

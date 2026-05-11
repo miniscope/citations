@@ -1,7 +1,7 @@
 doi: 10.1101/2025.05.30.657022
 openalex_id: W4410936382
 pmid: null
-pmcid: null
+pmcid: PMC12154755
 title: 'From Morphology to Computation: How Synaptic Organization Shapes Place Fields
   in CA1 Pyramidal Neurons'
 authors:
@@ -32,10 +32,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Tasciotti_2025, title={From Morphology to Computation: How
+  Synaptic Organization Shapes Place Fields in CA1 Pyramidal Neurons}, url={http://dx.doi.org/10.1101/2025.05.30.657022},
+  DOI={10.1101/2025.05.30.657022}, publisher={openRxiv}, author={Tasciotti, Simone
+  and Iascone, Daniel Maxim and Chavlis, Spyridon and Hammond, Luke and Katz, Yardena
+  and Losonczy, Attila and Polleux, Franck and Poirazi, Panayiota}, year={2025}, month=jun
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

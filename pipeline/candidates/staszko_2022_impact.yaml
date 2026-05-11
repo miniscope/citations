@@ -1,7 +1,7 @@
 doi: 10.1016/j.cub.2022.09.053
 openalex_id: W4306748269
 pmid: null
-pmcid: null
+pmcid: PMC9691541
 title: The impact of familiarity on cortical taste coding
 authors:
 - first: Stephanie M.
@@ -21,10 +21,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Staszko_2022, title={The impact of familiarity on cortical
+  taste coding}, volume={32}, ISSN={0960-9822}, url={http://dx.doi.org/10.1016/j.cub.2022.09.053},
+  DOI={10.1016/j.cub.2022.09.053}, number={22}, journal={Current Biology}, publisher={Elsevier
+  BV}, author={Staszko, Stephanie M. and Boughter, John D. and Fletcher, Max L.},
+  year={2022}, month=nov, pages={4914-4924.e4} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

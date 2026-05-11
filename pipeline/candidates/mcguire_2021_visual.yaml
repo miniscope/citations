@@ -28,10 +28,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{McGuire_2021, title={Visual association cortex links cues with
+  conjunctions of reward and locomotor contexts}, url={http://dx.doi.org/10.1101/2021.08.07.453879},
+  DOI={10.1101/2021.08.07.453879}, publisher={openRxiv}, author={McGuire, Kelly L.
+  and Amsalem, Oren and Sugden, Arthur U. and Ramesh, Rohan N. and Burgess, Christian
+  R. and Andermann, Mark L.}, year={2021}, month=aug }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

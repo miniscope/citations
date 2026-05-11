@@ -21,10 +21,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Marblestone_2016, title={Towards an integration of deep learning
+  and neuroscience}, url={http://dx.doi.org/10.1101/058545}, DOI={10.1101/058545},
+  publisher={openRxiv}, author={Marblestone, Adam Henry and Wayne, Greg and Kording,
+  Konrad P}, year={2016}, month=jun }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

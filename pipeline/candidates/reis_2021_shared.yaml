@@ -36,8 +36,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Reis_2021, title={Shared Dorsal Periaqueductal Gray Activation
+  Patterns during Exposure to Innate and Conditioned Threats}, volume={41}, ISSN={1529-2401},
+  url={http://dx.doi.org/10.1523/jneurosci.2450-20.2021}, DOI={10.1523/jneurosci.2450-20.2021},
+  number={25}, journal={The Journal of Neuroscience}, publisher={Society for Neuroscience},
+  author={Reis, Fernando M.C.V. and Liu, Jinhan and Schuette, Peter J. and Lee, Johannes
+  Y. and Maesta-Pereira, Sandra and Chakerian, Meghmik and Wang, Weisheng and Canteras,
+  Newton S. and Kao, Jonathan C. and Adhikari, Avishek}, year={2021}, month=apr, pages={5399–5420}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

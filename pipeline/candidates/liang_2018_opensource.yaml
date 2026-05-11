@@ -1,7 +1,7 @@
 doi: 10.1016/j.jneumeth.2018.10.013
 openalex_id: W2896167509
 pmid: null
-pmcid: null
+pmcid: PMC6258328
 title: An open-source automated surgical instrument for microendoscope implantation
 authors:
 - first: Bo
@@ -25,10 +25,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Liang_2019, title={An open-source automated surgical instrument
+  for microendoscope implantation}, volume={311}, ISSN={0165-0270}, url={http://dx.doi.org/10.1016/j.jneumeth.2018.10.013},
+  DOI={10.1016/j.jneumeth.2018.10.013}, journal={Journal of Neuroscience Methods},
+  publisher={Elsevier BV}, author={Liang, Bo and Zhang, Lifeng and Moffitt, Casey
+  and Li, Yun and Lin, Da-Ting}, year={2019}, month=jan, pages={83–88} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

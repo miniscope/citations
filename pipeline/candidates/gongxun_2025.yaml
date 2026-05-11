@@ -23,8 +23,14 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Jiang_Gongxun_2025, title={热调控光学器件研究进展（特邀）}, volume={62}, ISSN={1006-4125},
+  url={http://dx.doi.org/10.3788/lop251298}, DOI={10.3788/lop251298}, number={17},
+  journal={Laser &amp; Optoelectronics Progress}, publisher={Shanghai Institute of
+  Optics and Fine Mechanics}, author={Jiang Gongxun, 姜功勋 and Dai Bo, 戴博 and Wei Li,
+  魏利 and Zhang Dawei, 张大伟}, year={2025}, pages={1739012} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

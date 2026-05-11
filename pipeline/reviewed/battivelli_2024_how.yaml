@@ -1,0 +1,68 @@
+doi: 10.1038/s41583-024-00858-2
+openalex_id: W4403395768
+pmid: null
+pmcid: null
+title: How can ethology inform the neuroscience of fear, aggression and dominance?
+authors:
+- first: Dorian
+  last: Battivelli
+- first: Zhengxiao
+  last: Fan
+- first: Hailan
+  last: Hu
+- first: Cornelius T.
+  last: Gross
+journal: Nature reviews. Neuroscience
+publication_year: 2024
+publication_date: '2024-10-14'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Battivelli_2024, title={How can ethology inform the neuroscience
+  of fear, aggression and dominance?}, volume={25}, ISSN={1471-0048}, url={http://dx.doi.org/10.1038/s41583-024-00858-2},
+  DOI={10.1038/s41583-024-00858-2}, number={12}, journal={Nature Reviews Neuroscience},
+  publisher={Springer Science and Business Media LLC}, author={Battivelli, Dorian
+  and Fan, Zhengxiao and Hu, Hailan and Gross, Cornelius T.}, year={2024}, month=oct,
+  pages={809–819} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: completed
+  uses_tool: true
+  confidence: 0.45
+  tools_identified:
+  - UCLA Miniscope v4
+  evidence:
+  - "the recent advent of neural monitoring and manipulation tools adapted for use
+    in freely behaving animals has enabled neuroscientists to incorporate naturalistic
+    behaviours into their studies"
+  paper_type: review
+  suggested_component: UCLA Miniscope v4
+  suggested_technique: calcium imaging
+  reasoning: >-
+    This is a Nature Reviews Neuroscience review article examining how ethological
+    approaches can inform neuroscience research on fear, aggression, and dominance.
+    The paper cites the Shuman et al. 2019 UCLA Miniscope v4 paper and discusses
+    neural monitoring tools for freely behaving animals, which directly includes
+    miniature microscopes. As a review of methodological approaches in behavioral
+    neuroscience, it likely references the Miniscope as part of the toolkit enabling
+    naturalistic behavior studies. However, no full text was available for verification,
+    so confidence is capped at 0.45. The paper is from EMBL Rome and Zhejiang University,
+    not the tool developers' lab. The Miniscope citation is likely one among many tools
+    discussed in this broad review rather than a central focus.
+related_to_project: true
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374968+00:00'
+- stage: reviewed
+  timestamp: '2026-04-11'

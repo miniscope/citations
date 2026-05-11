@@ -22,10 +22,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: " @article{Exp_sito_2024, title={Astrocytes tune neuronal excitability\
+  \ through the Ca\n                  2+\n                  -activated K\n       \
+  \           +\n                  current sIAHP}, url={http://dx.doi.org/10.1101/2024.01.24.576973},\
+  \ DOI={10.1101/2024.01.24.576973}, publisher={openRxiv}, author={Expósito, Sara\
+  \ and Alberquilla, Samuel and Martín, Eduardo D.}, year={2024}, month=jan }\n"
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

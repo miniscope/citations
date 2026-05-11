@@ -28,8 +28,15 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Wang_2024, title={Tunable Imaging Distance Focusing Module
+  Directly Driven by a Thin‐plate Piezoelectric Actuator}, volume={35}, ISSN={1616-3028},
+  url={http://dx.doi.org/10.1002/adfm.202415918}, DOI={10.1002/adfm.202415918}, number={8},
+  journal={Advanced Functional Materials}, publisher={Wiley}, author={Wang, Yingzhi
+  and Deng, Jie and Ma, Shuo and Chen, Weishan and Zhang, Shijing and Liu, Yingxiang},
+  year={2024}, month=oct }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

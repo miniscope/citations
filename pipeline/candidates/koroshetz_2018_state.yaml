@@ -49,8 +49,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Koroshetz_2018, title={The State of the NIH BRAIN Initiative},
+  volume={38}, ISSN={1529-2401}, url={http://dx.doi.org/10.1523/jneurosci.3174-17.2018},
+  DOI={10.1523/jneurosci.3174-17.2018}, number={29}, journal={The Journal of Neuroscience},
+  publisher={Society for Neuroscience}, author={Koroshetz, Walter and Gordon, Joshua
+  and Adams, Amy and Beckel-Mitchener, Andrea and Churchill, James and Farber, Gregory
+  and Freund, Michelle and Gnadt, Jim and Hsu, Nina S. and Langhals, Nicholas and
+  Lisanby, Sarah and Liu, Guoying and Peng, Grace C.Y. and Ramos, Khara and Steinmetz,
+  Michael and Talley, Edmund and White, Samantha}, year={2018}, month=jun, pages={6427–6438}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

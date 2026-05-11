@@ -1,7 +1,7 @@
 doi: 10.21203/rs.3.rs-3938016/v1
 openalex_id: W4391677345
 pmid: null
-pmcid: null
+pmcid: PMC10889048
 title: Functionally refined encoding of threat memory by distinct populations of basal
   forebrain cholinergic projection neurons.
 authors:
@@ -46,10 +46,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Rajebhosale_2024, title={Functionally refined encoding of threat
+  memory by distinct populations of basal forebrain cholinergic projection neurons.},
+  url={http://dx.doi.org/10.21203/rs.3.rs-3938016/v1}, DOI={10.21203/rs.3.rs-3938016/v1},
+  publisher={Springer Science and Business Media LLC}, author={Rajebhosale, Prithviraj
+  and Ananth, Mala R. and Kim, Ronald and Crouse, Richard and Jiang, Li and López-Hernández,
+  Gretchen and Zhong, Chongbo and Arty, Christian and Wang, Shaohua and Jone, Alice
+  and Desai, Niraj S. and Li, Yulong and Picciotto, Marina R. and Role, Lorna W. and
+  Talmage, David A.}, year={2024}, month=feb }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

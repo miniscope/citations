@@ -30,10 +30,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Levy_2021, title={A manifold neural population code for space
+  in hippocampal coactivity dynamics independent of place fields}, url={http://dx.doi.org/10.1101/2021.07.26.453856},
+  DOI={10.1101/2021.07.26.453856}, publisher={openRxiv}, author={Levy, Eliott R.J.
+  and Carrillo-Segura, Simón and Park, Eun Hye and Redman, William T. and Hurtado,
+  José R. and Chung, SueYeon and Fenton, André A.}, year={2021}, month=jul }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,7 +1,7 @@
 doi: 10.1126/sciadv.adr6687
 openalex_id: W4414162346
 pmid: null
-pmcid: null
+pmcid: PMC12429034
 title: 'DeepInMiniscope: Deep learning–powered physics-informed integrated miniscope'
 authors:
 - first: Feng
@@ -21,10 +21,16 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Tian_2025, title={DeepInMiniscope: Deep learning–powered physics-informed
+  integrated miniscope}, volume={11}, ISSN={2375-2548}, url={http://dx.doi.org/10.1126/sciadv.adr6687},
+  DOI={10.1126/sciadv.adr6687}, number={37}, journal={Science Advances}, publisher={American
+  Association for the Advancement of Science (AAAS)}, author={Tian, Feng and Mattison,
+  Ben and Yang, Weijian}, year={2025}, month=sep }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

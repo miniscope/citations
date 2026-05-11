@@ -1,7 +1,7 @@
 doi: 10.1101/2024.11.27.625756
 openalex_id: W4404775994
 pmid: null
-pmcid: null
+pmcid: PMC11623656
 title: 'Chemotagging: a chemogenetic approach for identifying cell types with <i>in
   vivo</i> calcium imaging'
 authors:
@@ -24,10 +24,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: " @article{Ko_2024, title={Chemotagging: a chemogenetic approach for identifying\
+  \ cell types with\n                  in vivo\n                  calcium imaging},\
+  \ url={http://dx.doi.org/10.1101/2024.11.27.625756}, DOI={10.1101/2024.11.27.625756},\
+  \ publisher={openRxiv}, author={Ko, BumJin and Bacon, Madeline E. and Zaki, Yosif\
+  \ and Cai, Denise J.}, year={2024}, month=nov }\n"
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

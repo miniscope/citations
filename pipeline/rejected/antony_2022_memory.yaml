@@ -1,0 +1,70 @@
+doi: 10.1101/2022.12.01.518703
+openalex_id: W4310542764
+pmid: null
+pmcid: null
+title: 'Memory out of context: Spacing effects and decontextualization in a computational
+  model of the medial temporal lobe'
+authors:
+- first: James W.
+  last: Antony
+- first: Xiaonan L.
+  last: Liu
+- first: Yicong
+  last: Zheng
+- first: Charan
+  last: Ranganath
+- first: Randall C.
+  last: O’Reilly
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2022
+publication_date: '2022-12-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2023/01/05/2022.12.01.518703.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Antony_2022, title={Memory out of context: Spacing effects
+  and decontextualization in a computational model of the medial temporal lobe}, url={http://dx.doi.org/10.1101/2022.12.01.518703},
+  DOI={10.1101/2022.12.01.518703}, publisher={openRxiv}, author={Antony, James and
+  Liu, Xiaonan L. and Zheng, Yicong and Ranganath, Charan and O’Reilly, Randall C.},
+  year={2022}, month=dec }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.95
+  tools_identified: []
+  evidence:
+  - 'Abstract: We trained a neurobiologically realistic model of the entorhinal cortex
+    and hippocampus to learn paired associates alongside temporal context vectors
+    that drifted between learning episodes'
+  paper_type: unrelated
+  suggested_component: null
+  suggested_technique: null
+  reasoning: This is a purely computational/theoretical modeling paper about memory
+    spacing effects and decontextualization in the medial temporal lobe. It uses a
+    neurobiologically realistic model of the entorhinal cortex and hippocampus --
+    no experimental neuroscience or imaging tools are involved. The paper cites the
+    seed paper Cai et al. 2016 purely for scientific context (temporal context and
+    memory linking findings), with no connection to the Miniscope tool used in that
+    study. Full-text search found zero mentions of any Miniscope family tools, calcium
+    imaging, miniature microscopes, or related hardware/software. The authors (Antony,
+    Liu, Zheng, Ranganath, O'Reilly) are not affiliated with the UCLA Miniscope development
+    lab.
+  related_to_project: false
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.323466+00:00'
+- stage: rejected
+  timestamp: '2026-04-11'
+  reason: Purely computational modeling paper; cites seed paper for scientific context
+    only; zero Miniscope tool mentions in full text

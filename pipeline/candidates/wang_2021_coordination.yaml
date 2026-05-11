@@ -1,7 +1,7 @@
 doi: 10.1016/j.neuron.2021.03.033
 openalex_id: W3154972878
 pmid: null
-pmcid: null
+pmcid: PMC8178241
 title: Coordination of escape and spatial navigation circuits orchestrates versatile
   flight from threats
 authors:
@@ -52,10 +52,21 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Wang_2021, title={Coordination of escape and spatial navigation
+  circuits orchestrates versatile flight from threats}, volume={109}, ISSN={0896-6273},
+  url={http://dx.doi.org/10.1016/j.neuron.2021.03.033}, DOI={10.1016/j.neuron.2021.03.033},
+  number={11}, journal={Neuron}, publisher={Elsevier BV}, author={Wang, Weisheng and
+  Schuette, Peter J. and Nagai, Jun and Tobias, Brooke Christine and Cuccovia V. Reis,
+  Fernando Midea and Ji, Shiyu and de Lima, Miguel A.X. and La-Vu, Mimi Q. and Maesta-Pereira,
+  Sandra and Chakerian, Meghmik and Leonard, Saskia J. and Lin, Lilly and Severino,
+  Amie L. and Cahill, Catherine M. and Canteras, Newton S. and Khakh, Baljit S. and
+  Kao, Jonathan C. and Adhikari, Avishek}, year={2021}, month=jun, pages={1848-1860.e8}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

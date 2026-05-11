@@ -25,8 +25,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Han_2022, title={The essence of the engram: Cellular or synaptic?},
+  volume={125}, ISSN={1084-9521}, url={http://dx.doi.org/10.1016/j.semcdb.2021.05.033},
+  DOI={10.1016/j.semcdb.2021.05.033}, journal={Seminars in Cell &amp; Developmental
+  Biology}, publisher={Elsevier BV}, author={Han, Dae Hee and Park, Pojeong and Choi,
+  Dong Il and Bliss, Tim V.P. and Kaang, Bong-Kiun}, year={2022}, month=may, pages={122–135}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

@@ -39,10 +39,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Kumar_2023, title={MicroLED light source for optical sectioning
+  structured illumination microscopy}, volume={31}, ISSN={1094-4087}, url={http://dx.doi.org/10.1364/oe.486754},
+  DOI={10.1364/oe.486754}, number={10}, journal={Optics Express}, publisher={Optica
+  Publishing Group}, author={Kumar, Vikrant and Behrman, Keith and Speed, Forest and
+  Saladrigas, Catherine A. and Supekar, Omkar and Huang, Zicong and Bright, Victor
+  M. and Welle, Cristin G. and Restrepo, Diego and Gopinath, Juliet T. and Gibson,
+  Emily A. and Kymissis, Ioannis}, year={2023}, month=may, pages={16709} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

@@ -38,8 +38,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lesuis_2021, title={Glucocorticoids Promote Fear Generalization
+  by Increasing the Size of a Dentate Gyrus Engram Cell Population}, volume={90},
+  ISSN={0006-3223}, url={http://dx.doi.org/10.1016/j.biopsych.2021.04.010}, DOI={10.1016/j.biopsych.2021.04.010},
+  number={7}, journal={Biological Psychiatry}, publisher={Elsevier BV}, author={Lesuis,
+  Sylvie L. and Brosens, Niek and Immerzeel, Nathalie and van der Loo, Rolinka J.
+  and Mitrić, Miodrag and Bielefeld, Pascal and Fitzsimons, Carlos P. and Lucassen,
+  Paul J. and Kushner, Steven A. and van den Oever, Michel C. and Krugers, Harm J.},
+  year={2021}, month=oct, pages={494–504} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

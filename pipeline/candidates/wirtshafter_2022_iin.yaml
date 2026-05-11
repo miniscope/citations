@@ -20,8 +20,13 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: " @article{Wirtshafter_2022, title={In Vivo\n                    Multi-Day\
+  \ Calcium Imaging of CA1 Hippocampus in Freely Moving Rats Reveals a High Preponderance\
+  \ of Place Cells with Consistent Place Fields}, volume={42}, ISSN={1529-2401}, url={http://dx.doi.org/10.1523/jneurosci.1750-21.2022},\
+  \ DOI={10.1523/jneurosci.1750-21.2022}, number={22}, journal={The Journal of Neuroscience},\
+  \ publisher={Society for Neuroscience}, author={Wirtshafter, Hannah S. and Disterhoft,\
+  \ John F.}, year={2022}, month=may, pages={4538–4554} }\n"
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

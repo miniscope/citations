@@ -1,7 +1,7 @@
 doi: 10.1101/2024.05.30.596704
 openalex_id: W4399248514
 pmid: null
-pmcid: null
+pmcid: PMC11418945
 title: Disrupted Hippocampal Theta-Gamma Coupling and Spike-Field Coherence Following
   Experimental Traumatic Brain Injury
 authors:
@@ -32,32 +32,36 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Adam_2024, title={Disrupted Hippocampal Theta-Gamma Coupling
+  and Spike-Field Coherence Following Experimental Traumatic Brain Injury}, url={http://dx.doi.org/10.1101/2024.05.30.596704},
+  DOI={10.1101/2024.05.30.596704}, publisher={openRxiv}, author={Adam, Christopher
+  D. and Mirzakhalili, Ehsan and Gagnon, Kimberly G. and Cottone, Carlo and Arena,
+  John D. and Ulyanova, Alexandra V. and Johnson, Victoria E. and Wolf, John A.},
+  year={2024}, month=may }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: biorxiv_abstract
+  source: pmc
   pdf_local_path: null
 analysis:
   status: completed
+  related_to_project: false
   uses_tool: false
   confidence: 0.95
   tools_identified: []
   evidence: []
-  paper_type: science
+  paper_type: unrelated
   suggested_component: null
   suggested_technique: null
-  reasoning: >-
-    This paper studies hippocampal theta-gamma coupling and spike-field coherence
-    following traumatic brain injury in rats using high-density laminar
-    electrophysiology. The abstract explicitly states the method as "high-density
-    laminar electrophysiology" which is electrode-based recording, not calcium
-    imaging with a miniscope. There is no mention of Miniscope, miniature
-    microscope, calcium imaging, open-source miniscope, MiniLFOV, MiniXL, or any
-    related imaging tool in the abstract. The citation to Shuman et al. 2019 (seed
-    paper) is likely for context about hippocampal oscillatory dynamics, not because
-    the authors used a Miniscope tool. Full text could not be retrieved (only
-    abstract available via bioRxiv API), but the abstract provides clear evidence
-    that this is an electrophysiology study, not a calcium imaging study.
+  reasoning: Full text review confirms this is a high-density laminar electrophysiology
+    study of hippocampal theta-gamma coupling after traumatic brain injury in rats.
+    The methods describe multi-shank laminar electrodes implanted in CA1, with signals
+    sampled at 30 kHz and wirelessly transmitted. No mention of Miniscope, miniature
+    microscope, calcium imaging, GCaMP, GRIN lens, or any related imaging tool anywhere
+    in the full text. The Shuman et al. 2019 seed paper appears only as reference 139
+    in the bibliography, cited for scientific context about hippocampal oscillatory
+    dynamics in disease models, with no connection to Miniscope tools.
 stage: rejected
 stage_history:
 - stage: candidate
@@ -65,4 +69,4 @@ stage_history:
 - stage: in-progress
   timestamp: '2026-04-11T05:19:55+00:00'
 - stage: rejected
-  timestamp: '2026-04-10T12:00:00+00:00'
+  timestamp: '2026-04-11T12:00:00+00:00'

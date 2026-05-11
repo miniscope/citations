@@ -1,7 +1,7 @@
 doi: 10.1002/gps.5936
 openalex_id: W4378953632
 pmid: null
-pmcid: null
+pmcid: PMC10652707
 title: 'New horizons in emotional well‐being and brain aging: Potential lessons from
   cross‐species research'
 authors:
@@ -24,10 +24,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lin_2023, title={New horizons in emotional well‐being and brain
+  aging: Potential lessons from cross‐species research}, volume={38}, ISSN={1099-1166},
+  url={http://dx.doi.org/10.1002/gps.5936}, DOI={10.1002/gps.5936}, number={6}, journal={International
+  Journal of Geriatric Psychiatry}, publisher={Wiley}, author={Lin, Feng Vankee and
+  Zuo, Yi and Conwell, Yeates and Wang, Kuan Hong}, year={2023}, month=jun }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

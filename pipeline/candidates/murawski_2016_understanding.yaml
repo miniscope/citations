@@ -20,10 +20,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Murawski_2017, title={Understanding the contributions of visual
+  stimuli to contextual fear conditioning: A proof-of-concept study using LCD screens},
+  volume={637}, ISSN={0304-3940}, url={http://dx.doi.org/10.1016/j.neulet.2016.11.046},
+  DOI={10.1016/j.neulet.2016.11.046}, journal={Neuroscience Letters}, publisher={Elsevier
+  BV}, author={Murawski, Nathen J. and Asok, Arun}, year={2017}, month=jan, pages={80–84}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

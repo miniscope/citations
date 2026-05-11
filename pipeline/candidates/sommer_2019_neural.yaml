@@ -28,8 +28,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sommer_2019, title={Neural Pattern Similarity Differentially
+  Relates to Memory Performance in Younger and Older Adults}, volume={39}, ISSN={1529-2401},
+  url={http://dx.doi.org/10.1523/jneurosci.0197-19.2019}, DOI={10.1523/jneurosci.0197-19.2019},
+  number={41}, journal={The Journal of Neuroscience}, publisher={Society for Neuroscience},
+  author={Sommer, Verena R. and Fandakova, Yana and Grandy, Thomas H. and Shing, Yee
+  Lee and Werkle-Bergner, Markus and Sander, Myriam C.}, year={2019}, month=aug, pages={8089–8099}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

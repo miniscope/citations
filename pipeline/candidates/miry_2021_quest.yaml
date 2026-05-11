@@ -1,7 +1,7 @@
 doi: 10.3389/fnbeh.2020.632019
 openalex_id: W3123494408
 pmid: null
-pmcid: null
+pmcid: PMC7843437
 title: 'The Quest for the Hippocampal Memory Engram: From Theories to Experimental
   Evidence'
 authors:
@@ -22,10 +22,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Miry_2021, title={The Quest for the Hippocampal Memory Engram:
+  From Theories to Experimental Evidence}, volume={14}, ISSN={1662-5153}, url={http://dx.doi.org/10.3389/fnbeh.2020.632019},
+  DOI={10.3389/fnbeh.2020.632019}, journal={Frontiers in Behavioral Neuroscience},
+  publisher={Frontiers Media SA}, author={Miry, Omid and Li, Jie and Chen, Lu}, year={2021},
+  month=jan }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

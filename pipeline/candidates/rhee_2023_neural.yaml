@@ -27,10 +27,16 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Rhee_2023, title={Neural correlates of visual object recognition
+  in rats}, url={http://dx.doi.org/10.1101/2023.09.17.555183}, DOI={10.1101/2023.09.17.555183},
+  publisher={openRxiv}, author={Rhee, Juliana Y. and Echavarría, César and Soucy,
+  Ed and Greenwood, Joel and Masís, Javier A. and Cox, David D.}, year={2023}, month=sep
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

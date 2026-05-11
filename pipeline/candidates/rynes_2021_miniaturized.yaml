@@ -1,7 +1,7 @@
 doi: 10.1038/s41592-021-01104-8
 openalex_id: W3147351044
 pmid: null
-pmcid: null
+pmcid: PMC8034419
 title: Miniaturized head-mounted microscope for whole-cortex mesoscale imaging in
   freely behaving mice
 authors:
@@ -42,10 +42,20 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Rynes_2021, title={Miniaturized head-mounted microscope for
+  whole-cortex mesoscale imaging in freely behaving mice}, volume={18}, ISSN={1548-7105},
+  url={http://dx.doi.org/10.1038/s41592-021-01104-8}, DOI={10.1038/s41592-021-01104-8},
+  number={4}, journal={Nature Methods}, publisher={Springer Science and Business Media
+  LLC}, author={Rynes, Mathew L. and Surinach, Daniel A. and Linn, Samantha and Laroque,
+  Michael and Rajendran, Vijay and Dominguez, Judith and Hadjistamoulou, Orestes and
+  Navabi, Zahra S. and Ghanbari, Leila and Johnson, Gregory W. and Nazari, Mojtaba
+  and Mohajerani, Majid H. and Kodandaramaiah, Suhasa B.}, year={2021}, month=apr,
+  pages={417–425} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

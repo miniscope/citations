@@ -1,0 +1,67 @@
+doi: 10.1038/s41592-018-0266-x
+openalex_id: W2903842495
+pmid: null
+pmcid: PMC8320687
+title: 'All the light that we can see: a new era in miniaturized microscopy'
+authors:
+- first: Daniel
+  last: Aharoni
+- first: Baljit S.
+  last: Khakh
+- first: Alcino J.
+  last: Silva
+- first: Peyman
+  last: Golshani
+journal: Nature Methods
+publication_year: 2018
+publication_date: '2018-12-12'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.ncbi.nlm.nih.gov/pmc/articles/8320687
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Aharoni_2018, title={All the light that we can see: a new era
+  in miniaturized microscopy}, volume={16}, ISSN={1548-7105}, url={http://dx.doi.org/10.1038/s41592-018-0266-x},
+  DOI={10.1038/s41592-018-0266-x}, number={1}, journal={Nature Methods}, publisher={Springer
+  Science and Business Media LLC}, author={Aharoni, Daniel and Khakh, Baljit S. and
+  Silva, Alcino J. and Golshani, Peyman}, year={2018}, month=dec, pages={11–13} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: true
+  confidence: 0.99
+  tools_identified:
+  - UCLA Miniscope v4
+  - Miniscope DAQ
+  evidence:
+  - 'our miniature microscope project, UCLA Miniscope, focuses on the development of
+    a robust open-source imaging platform that a majority of research laboratories
+    around the world can afford, build, and use'
+  - 'The UCLA Miniscope has been used to image neural activity during behavior in hippocampus
+    17, 28 and striatum 26 by our research groups.'
+  - 'over 450 labs have begun actively using the UCLA Miniscope, making it one of the
+    most widely disseminated and used tools in neuroscience'
+  - 'Miniscopes have provided a base platform for advancements such as miniature light-field
+    microscopes, head-mounted wide-field macroscopes, and wire-free microscopes'
+  paper_type: review
+  suggested_component: UCLA Miniscope v4
+  suggested_technique: calcium imaging
+  reasoning: This is a review/perspective article in Nature Methods authored by Daniel
+    Aharoni (creator of the UCLA Miniscope) and colleagues from UCLA. The paper extensively
+    discusses the UCLA Miniscope platform, its development history, open-source philosophy,
+    widespread adoption (450+ labs), and future directions for miniaturized microscopy.
+    It is a core publication from the tool developers' lab that reviews the entire
+    field of miniature microscopy with the UCLA Miniscope as a central focus.
+  related_to_project: true
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.317785+00:00'

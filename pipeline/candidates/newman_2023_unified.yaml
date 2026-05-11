@@ -1,7 +1,7 @@
 doi: 10.1101/2023.08.30.554672
 openalex_id: W4386351696
 pmid: null
-pmcid: null
+pmcid: PMC10491150
 title: A unified open-source platform for multimodal neural recording and perturbation
   during naturalistic behavior
 authors:
@@ -44,10 +44,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Newman_2023, title={A unified open-source platform for multimodal
+  neural recording and perturbation during naturalistic behavior}, url={http://dx.doi.org/10.1101/2023.08.30.554672},
+  DOI={10.1101/2023.08.30.554672}, publisher={openRxiv}, author={Newman, Jonathan
+  P. and Zhang, Jie and Cuevas-López, Aarón and Miller, Nicholas J. and Honda, Takato
+  and van der Goes, Marie-Sophie H. and Leighton, Alexandra H. and Carvalho, Filipe
+  and Lopes, Gonçalo and Lakunina, Anna and Siegle, Joshua H. and Harnett, Mark T.
+  and Wilson, Matthew A. and Voigts, Jakob}, year={2023}, month=sep }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

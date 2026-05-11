@@ -28,10 +28,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Saidov_2019, title={New Tools in Cognitive Neurobiology: Biotin-Digoxigenin
+  Detection of Overlapping Active Neuronal Populations by Two-Color &lt;i&gt;c-fos&lt;/i&gt;
+  Compartment Analysis of Temporal Activity by Fluorescent &lt;i&gt;in situ&lt;/i&gt;
+  Hybridization (catFISH) and c-Fos Immunohistochemistry}, volume={03}, ISSN={2577-5790},
+  url={http://dx.doi.org/10.21926/obm.genet.1901065}, DOI={10.21926/obm.genet.1901065},
+  number={01}, journal={OBM Genetics}, publisher={LIDSEN Publishing Inc}, author={Saidov,
+  Khalid and Tiunova, Anna and Subach, Oksana and Subach, Fedor and Anokhin, Konstantin},
+  year={2019}, month=mar, pages={1–15} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

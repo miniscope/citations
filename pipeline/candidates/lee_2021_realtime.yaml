@@ -31,10 +31,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lee_2021, title={Real-time visualization of mRNA synthesis
+  during memory formation in live animals}, url={http://dx.doi.org/10.1101/2021.09.01.458476},
+  DOI={10.1101/2021.09.01.458476}, publisher={openRxiv}, author={Lee, Byung Hun and
+  Shim, Jae Youn and Moon, Hyungseok C. and Kim, Dong Wook and Kim, Jiwon and Yook,
+  Jang Soo and Kim, Jinhyun and Park, Hye Yoon}, year={2021}, month=sep }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

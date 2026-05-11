@@ -1,7 +1,7 @@
 doi: 10.1038/s41592-025-02684-5
 openalex_id: W4409952852
 pmid: null
-pmcid: null
+pmcid: PMC12165846
 title: 'Ring deconvolution microscopy: exploiting symmetry for efficient spatially
   varying aberration correction'
 authors:
@@ -36,10 +36,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Kohli_2025, title={Ring deconvolution microscopy: exploiting
+  symmetry for efficient spatially varying aberration correction}, volume={22}, ISSN={1548-7105},
+  url={http://dx.doi.org/10.1038/s41592-025-02684-5}, DOI={10.1038/s41592-025-02684-5},
+  number={6}, journal={Nature Methods}, publisher={Springer Science and Business Media
+  LLC}, author={Kohli, Amit and Angelopoulos, Anastasios N. and McAllister, David
+  and Whang, Esther and You, Sixian and Yanny, Kyrollos and Gasparoli, Federico M.
+  and Chang, Bo-Jui and Fiolka, Reto and Waller, Laura}, year={2025}, month=apr, pages={1311–1320}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

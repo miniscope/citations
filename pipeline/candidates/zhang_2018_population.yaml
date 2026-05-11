@@ -1,7 +1,7 @@
 doi: 10.1038/s41467-018-07679-9
 openalex_id: W2951945546
 pmid: null
-pmcid: null
+pmcid: PMC6281657
 title: Population coding of valence in the basolateral amygdala
 authors:
 - first: Xian
@@ -19,10 +19,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhang_2018, title={Population coding of valence in the basolateral
+  amygdala}, volume={9}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-018-07679-9},
+  DOI={10.1038/s41467-018-07679-9}, number={1}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Zhang, Xian and Li, Bo}, year={2018}, month=dec
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending
