@@ -49,7 +49,7 @@ analysis:
   - "also open-source systems are being provided by the community, e.g., the UCLA
     Miniscope [48]"
   paper_type: review
-  suggested_component: UCLA Miniscope v4
+  suggested_project: UCLA Miniscope v4
   suggested_technique: calcium imaging
   reasoning: >-
     This is a methods/review chapter in the Neuromethods book series on all-optical

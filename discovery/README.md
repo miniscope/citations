@@ -136,10 +136,10 @@ What the LLM looks for in paper text. Includes both hardware and software tools.
 tools:
   - name: "UCLA Miniscope v4"
     aliases: ["Miniscope v4", "open-source miniscope"]
-    wiki_component: "UCLA Miniscope v4"
+    wiki_project: "UCLA Miniscope v4"
   - name: "Minian"
     aliases: ["MiniAn", "miniscope analysis pipeline"]
-    wiki_component: "Minian"
+    wiki_project: "Minian"
 ```
 
 ### `search_keywords`
@@ -168,17 +168,37 @@ Updated after each weekly run. Used by `--since-last-run` for incremental discov
 | Provenance | `source`, `seed_paper_doi`, `batch_id` | Candidate creation |
 | BibTeX | `bibtex_raw`, `bibtex_source` | Pre-fetch (CrossRef) |
 | Full text | `fulltext.source` | Pre-fetch |
-| Analysis | `related_to_project`, `confidence`, `tools_identified`, `evidence`, `paper_type`, `reasoning` | Sub-agent analysis |
+| Analysis | `related_to_project`, `confidence`, `tools_identified`, `evidence`, `paper_type`, `suggested_project`, `suggested_keywords`, `reasoning` | Sub-agent analysis |
 | Stage | `stage`, `stage_history` | Every transition |
 
 ### Paper types
 
+The `paper_type` field is normalized to Title Case (matching `vocabulary.yaml`) on approval.
+
 - **science** -- Uses the tool for research
 - **methods** -- Extends or builds upon the tool
-- **software** -- Software/pipeline for the tool's data
+- **software** -- Software / analysis pipeline for the tool's data
 - **tool_paper** -- Introduces a tool in the project family
 - **review** -- Reviews the tool or its applications
-- **unrelated** -- No connection to the tools (rejected)
+- **opinion** -- Commentary, perspective, editorial
+- **protocol** -- Step-by-step protocol (Bio-Protocol, JoVE, Nature Protocols, etc.)
+- **unrelated** -- No connection to the tools (rejected; never reaches approved/)
+
+### Controlled vocabulary
+
+`vocabulary.yaml` at the repo root is the source of truth for the values that
+end up in BibTeX. The LLM agent emits values from this file into the YAML
+analysis section; `discovery/approve.py` writes them through to BibTeX:
+
+| YAML analysis field | BibTeX field | Wiki property |
+|---|---|---|
+| `suggested_project` | `project=` | `Has project` |
+| `paper_type` | `paper_type=` | `Has paper type` |
+| `suggested_keywords` | `keywords=` | `Has keyword` |
+
+When a paper needs a tag that isn't in vocabulary.yaml, the agent appends
+to `vocabulary.yaml/pending_suggestions` rather than emitting free-text. The
+curator reviews periodically and either promotes or rejects.
 
 ## CLI reference
 

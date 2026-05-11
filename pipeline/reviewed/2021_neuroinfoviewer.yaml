@@ -54,7 +54,7 @@ analysis:
       analysis. Paper cites the UCLA Miniscope v4 seed paper (Shuman et al. 2019).
       No abstract or full text available to confirm direct tool usage.
   paper_type: methods/software
-  suggested_component: UCLA Miniscope v4
+  suggested_project: UCLA Miniscope v4
   suggested_technique: calcium imaging
   reasoning: The paper title explicitly references "Miniscope Data" with Miniscope
     capitalized as a proper noun, and the paper cites the UCLA Miniscope v4 paper

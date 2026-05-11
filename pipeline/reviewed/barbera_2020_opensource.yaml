@@ -50,7 +50,7 @@ analysis:
   - "the custom FPGA platform, consisting of the XEM3010 FPGA board connected to custom PCB for interfacing both with the MPR121 and the miniScope [16]"
   - "Recent advances in miniature epifluorescence microscope (MiniScope) technology allow in vivo calcium imaging in freely behaving animals [5], [6], [7]"
   paper_type: methods
-  suggested_component: Miniscope DAQ
+  suggested_project: Miniscope DAQ
   suggested_technique: behavioral synchronization
   reasoning: >-
     This paper develops an open-source capacitive touch sensing device for automated

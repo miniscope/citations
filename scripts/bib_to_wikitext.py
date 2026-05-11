@@ -55,9 +55,7 @@ FIELD_MAP = {
     "pmid": "has_pubmed_id",
     # Custom fields for ontology cross-links
     "project": "has_project",
-    "component": "has_component",
-    "equipment": "has_equipment_used",
-    "technique": "has_technique",
+    "paper_type": "has_paper_type",
     "attachment": "has_attachment",
     "publication_status": "has_publication_status",
 }

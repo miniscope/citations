@@ -49,7 +49,7 @@ analysis:
   - "Following the MiniAn pipeline, output values of Ca2+ activity were normalized"
   - "described at http://Miniscope.org"
   paper_type: science
-  suggested_component: UCLA Miniscope v4;Miniscope DAQ;Minian
+  suggested_project: UCLA Miniscope v4;Miniscope DAQ;Minian
   suggested_technique: calcium imaging
   reasoning: This paper uses the UCLA Miniscope v4 (version 4.4) for in vivo calcium
     imaging of prefrontal cortex neurons during decision-making and habitual behavior

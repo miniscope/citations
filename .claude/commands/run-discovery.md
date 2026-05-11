@@ -62,14 +62,20 @@ Do NOT reject papers from the tool developers' lab.
 
 ## Steps
 1. Read the YAML, companion .txt file (pre-fetched full text), and .bib file
-   (pre-fetched BibTeX). Read discovery_config.yaml for the tools list.
+   (pre-fetched BibTeX). Also read discovery_config.yaml (for tool aliases used
+   in full-text matching) and vocabulary.yaml (controlled vocab for the fields
+   you'll emit).
 2. Check if DOI exists in references.bib -- if duplicate, reject.
 3. Store .bib contents in bibtex_raw, set bibtex_source: "crossref".
 4. Search the .txt full text for tool mentions. Tools: UCLA Miniscope v4, MiniLFOV,
    MiniXL, Minian, UCLA 2P Miniscope, Miniscope DAQ (check all aliases in config).
-5. Set: related_to_project (true/false), confidence (0-1),
-   paper_type (science|methods|software|tool_paper|review|unrelated),
-   suggested_component, suggested_technique, reasoning, evidence (direct quotes only).
+5. Set under analysis: related_to_project (true/false), confidence (0-1),
+   paper_type (science|methods|software|tool_paper|review|opinion|protocol|unrelated),
+   suggested_project (canonical project name from vocabulary.yaml/projects),
+   suggested_keywords (YAML list, each entry must match a vocabulary.yaml/keywords
+   value -- if a tag is missing from the vocab, propose it in
+   vocabulary.yaml/pending_suggestions instead of emitting free-text),
+   reasoning, evidence (direct quotes only).
 6. If related → move YAML to pipeline/reviewed/. If not → pipeline/rejected/.
 7. Print: RESULT: {filename} | related={t/f} | type={type} | confidence={0.XX}
 ```

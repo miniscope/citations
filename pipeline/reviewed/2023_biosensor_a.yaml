@@ -48,7 +48,7 @@ analysis:
     что поможет сделать биосенсорную систему портативной."'
   - '"67. C. Guo, G. J. Blair, M. Sehgal, et al. Sci. Adv., 9(16), eadg391 (2023)."'
   paper_type: science
-  suggested_component: MiniLFOV
+  suggested_project: MiniLFOV
   suggested_technique: optical imaging of olfactory bulb glomerular activity
   reasoning: 'Full-text analysis of Russian-language biosensor paper. The paper develops
     a biosensor system based on optical imaging of odor-evoked glomerular activity

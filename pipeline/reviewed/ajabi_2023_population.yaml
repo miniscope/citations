@@ -46,7 +46,7 @@ analysis:
   - "controlled using Miniscope custom acquisition software (https://miniscope.org)"
   - "Aharoni for advice and assistance with the UCLA miniscope"
   paper_type: science
-  suggested_component: UCLA Miniscope v4
+  suggested_project: UCLA Miniscope v4
   suggested_technique: calcium imaging
   reasoning: >-
     This paper uses the UCLA Miniscope (v3) and Miniscope DAQ hardware as the primary

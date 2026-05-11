@@ -57,7 +57,7 @@ analysis:
   - "optimized to support long-term miniscope in vivo imaging in rats while also mitigating many potentially detrimental risks"
   - "one such benefit provided by long term housing is to prolong the life of miniscope equipment"
   paper_type: methods
-  suggested_component: UCLA Miniscope v4
+  suggested_project: UCLA Miniscope v4
   suggested_technique: calcium imaging
   reasoning: >-
     This paper presents "The Miniscope Box," an open-source operant chamber specifically

@@ -52,7 +52,7 @@ analysis:
   - 'Miniscopes have provided a base platform for advancements such as miniature light-field
     microscopes, head-mounted wide-field macroscopes, and wire-free microscopes'
   paper_type: review
-  suggested_component: UCLA Miniscope v4
+  suggested_project: UCLA Miniscope v4
   suggested_technique: calcium imaging
   reasoning: This is a review/perspective article in Nature Methods authored by Daniel
     Aharoni (creator of the UCLA Miniscope) and colleagues from UCLA. The paper extensively
