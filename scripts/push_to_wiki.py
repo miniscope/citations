@@ -66,9 +66,18 @@ class WikiClient:
                 "format": "json",
             },
         )
-        result = resp.json()["login"]["result"]
+        login_obj = resp.json().get("login", {})
+        result = login_obj.get("result")
         if result != "Success":
-            print(f"Login failed: {result}", file=sys.stderr)
+            # MW returns a `reason` field on Failed/Aborted responses that
+            # explains the actual cause (wrong password, account locked, IP
+            # restriction, bot password deleted, etc.). Surface it so CI
+            # failures are diagnosable from the logs without re-running.
+            # The `details` field carries additional context when present.
+            reason = login_obj.get("reason", "(no reason returned)")
+            details = login_obj.get("details")
+            extra = f" — {details}" if details else ""
+            print(f"Login failed: {result} — {reason}{extra}", file=sys.stderr)
             sys.exit(1)
 
     def get_csrf_token(self):
