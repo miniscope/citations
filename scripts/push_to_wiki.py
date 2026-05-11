@@ -22,6 +22,9 @@ MARKER_PATTERN = re.compile(
     re.escape(MARKER_START) + r".*?" + re.escape(MARKER_END),
     re.DOTALL,
 )
+# Sentinel returned by WikiClient.delete_page for the idempotent "already
+# absent" case so the caller can distinguish it from a real delete.
+MISSING_PAGE = "__already_missing__"
 TEMPLATE_PARAMS_RE = re.compile(
     r"\|([^=|]+)=([^|]*?)(?=\n\||\n\}\}|\}\})", re.DOTALL
 )
@@ -130,7 +133,17 @@ class WikiClient:
         return True, edit_info.get("result", "Unknown")
 
     def delete_page(self, title, reason, csrf_token):
-        """Delete a wiki page. Returns (success, result_or_error)."""
+        """Delete a wiki page.
+
+        Idempotent: if the page is already absent (manual deletion, prior
+        sync, etc.) the call is treated as success rather than error — the
+        post-state matches the intent regardless of who removed the page.
+
+        Returns (success, marker). On true success, marker is the page title
+        the wiki echoed back. For the already-absent case, marker is the
+        sentinel `MISSING_PAGE` so the caller can log it differently and
+        keep it out of the deleted-count.
+        """
         resp = self.session.post(
             self.api_url,
             data={
@@ -143,6 +156,8 @@ class WikiClient:
         )
         result = resp.json()
         if "error" in result:
+            if result["error"].get("code") == "missingtitle":
+                return True, MISSING_PAGE
             return False, result["error"]["info"]
         return True, result.get("delete", {}).get("title", title)
 
@@ -282,19 +297,29 @@ def main():
 
     # Delete pages for removed citations
     deleted = 0
+    already_missing = 0
     for entry in deleted_entries:
         title = entry["page_title"]
         success, result = client.delete_page(
             title, "citations-sync: removed from BibTeX", csrf_token
         )
         if success:
-            deleted += 1
-            print(f"  - {title}")
+            if result == MISSING_PAGE:
+                # Page was already absent — idempotent no-op, not an error.
+                already_missing += 1
+                print(f"  - {title} (already absent)")
+            else:
+                deleted += 1
+                print(f"  - {title}")
         else:
             errors += 1
             print(f"  ! {title} (delete): {result}", file=sys.stderr)
 
-    print(f"\nDone: {created} created, {updated} updated, {skipped} unchanged, {deleted} deleted, {errors} errors")
+    missing_note = f", {already_missing} already absent" if already_missing else ""
+    print(
+        f"\nDone: {created} created, {updated} updated, {skipped} unchanged, "
+        f"{deleted} deleted{missing_note}, {errors} errors"
+    )
 
     if errors:
         sys.exit(1)
