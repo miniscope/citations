@@ -37,8 +37,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Ikebara_2025, title={Hippocampal Interneurons Shape Spatial
+  Coding Alterations in Neurological Disorders}, volume={62}, ISSN={1559-1182}, url={http://dx.doi.org/10.1007/s12035-025-05020-2},
+  DOI={10.1007/s12035-025-05020-2}, number={11}, journal={Molecular Neurobiology},
+  publisher={Springer Science and Business Media LLC}, author={Ikebara, Juliane Midori
+  and Jorge, Renata Silva and Marinho, Luciana Simões Rafagnin and Higa, Guilherme
+  Shigueto Vilar and Adhikari, Avishek and Reis, Fernando M. C. V. and Borges, Fernando
+  S. and Ulrich, Henning and Takada, Silvia Honda and De Pasquale, Roberto and Kihara,
+  Alexandre Hiroaki}, year={2025}, month=may, pages={14777–14800} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

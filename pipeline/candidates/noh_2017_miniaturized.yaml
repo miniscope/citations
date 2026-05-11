@@ -1,7 +1,7 @@
 doi: 10.1002/smll.201702479
 openalex_id: W2775073604
 pmid: null
-pmcid: null
+pmcid: PMC5912318
 title: Miniaturized, Battery‐Free Optofluidic Systems with Potential for Wireless
   Pharmacology and Optogenetics
 authors:
@@ -38,10 +38,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Noh_2017, title={Miniaturized, Battery‐Free Optofluidic Systems
+  with Potential for Wireless Pharmacology and Optogenetics}, volume={14}, ISSN={1613-6829},
+  url={http://dx.doi.org/10.1002/smll.201702479}, DOI={10.1002/smll.201702479}, number={4},
+  journal={Small}, publisher={Wiley}, author={Noh, Kyung Nim and Park, Sung Il and
+  Qazi, Raza and Zou, Zhanan and Mickle, Aaron D. and Grajales‐Reyes, Jose G. and
+  Jang, Kyung‐In and Gereau, Robert W. and Xiao, Jianliang and Rogers, John A. and
+  Jeong, Jae‐Woong}, year={2017}, month=dec }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

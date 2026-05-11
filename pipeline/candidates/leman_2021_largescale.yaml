@@ -48,10 +48,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Leman_2021, title={Large-scale cellular-resolution imaging
+  of neural activity in freely behaving mice}, url={http://dx.doi.org/10.1101/2021.01.15.426462},
+  DOI={10.1101/2021.01.15.426462}, publisher={openRxiv}, author={Leman, D.P. and Chen,
+  I.A. and Bolding, K.A. and Tai, J. and Wilmerding, L.K. and Gritton, H.J. and Cohen,
+  Y. and Yen, W.W. and Perkins, L.N. and Liberti, W.A. and Kilic, K. and Han, X. and
+  Cruz-Martín, A. and Gardner, T.J. and Otchy, T.M. and Davison, I.G.}, year={2021},
+  month=jan }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

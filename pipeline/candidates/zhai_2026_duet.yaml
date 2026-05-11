@@ -38,8 +38,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhai_2026, title={DUET: Motion-robust dual-color miniature
+  two-photon                     microscope with low-crosstalk in freely behaving
+  mice}, volume={1}, ISSN={2097-5813}, url={http://dx.doi.org/10.3724/pxlife.2026-0002},
+  DOI={10.3724/pxlife.2026-0002}, number={1}, journal={PhotoniX Life}, publisher={China
+  Science Publishing & Media Ltd.}, author={Zhai, Muyue and Yang, Bingyi and Han,
+  Jiaying and He, Cong and Hu, Yanhui and Wu, Dakun and Fu, Qiang and Zhu, Hua and
+  Wu, Runlong and Cheng, Heping and Wang, Aimin}, year={2026}, month=jan, pages={4}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

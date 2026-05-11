@@ -30,8 +30,15 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zheng_2025, title={Fast zoom portable night vision telescope
+  based on liquid lenses and folded optical structure}, volume={186}, ISSN={0030-3992},
+  url={http://dx.doi.org/10.1016/j.optlastec.2025.112620}, DOI={10.1016/j.optlastec.2025.112620},
+  journal={Optics &amp; Laser Technology}, publisher={Elsevier BV}, author={Zheng,
+  Yi and Li, Xiao-Wei and Wang, Zhi-Yu and Li, Jia-Ni and Zhang, Hao-Ran and Wang,
+  Qiong-Hua and Liu, Chao}, year={2025}, month=aug, pages={112620} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

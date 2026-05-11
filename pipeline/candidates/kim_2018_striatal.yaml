@@ -31,8 +31,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Kim_2018, title={A striatal interneuron circuit for continuous
+  target pursuit}, url={http://dx.doi.org/10.1101/386490}, DOI={10.1101/386490}, publisher={openRxiv},
+  author={Kim, Namsoo and Li, Haofang E. and Hughes, Ryan N. and Watson, Glenn D.
+  R. and Gallegos, David and West, Anne E. and Kim, Il Hwan and Yin, Henry H.}, year={2018},
+  month=aug }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

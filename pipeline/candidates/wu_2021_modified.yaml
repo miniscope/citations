@@ -1,7 +1,7 @@
 doi: 10.3389/fnint.2021.682019
 openalex_id: W3193517871
 pmid: null
-pmcid: null
+pmcid: PMC8415406
 title: A Modified Miniscope System for Simultaneous Electrophysiology and Calcium
   Imaging in vivo
 authors:
@@ -36,10 +36,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Wu_2021, title={A Modified Miniscope System for Simultaneous
+  Electrophysiology and Calcium Imaging in vivo}, volume={15}, ISSN={1662-5145}, url={http://dx.doi.org/10.3389/fnint.2021.682019},
+  DOI={10.3389/fnint.2021.682019}, journal={Frontiers in Integrative Neuroscience},
+  publisher={Frontiers Media SA}, author={Wu, Xiaoting and Yang, Xiangyu and Song,
+  Lulu and Wang, Yang and Li, Yamin and Liu, Yuanyuan and Yang, Xiaowei and Wang,
+  Yijun and Pei, Weihua and Li, Weidong}, year={2021}, month=aug }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

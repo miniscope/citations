@@ -1,0 +1,69 @@
+doi: 10.1038/s41586-024-07425-w
+openalex_id: W4396919828
+pmid: null
+pmcid: PMC11136659
+title: Volatile working memory representations crystallize with practice
+authors:
+- first: Arash
+  last: Bellafard
+- first: Ghazal
+  last: Namvar
+- first: Jonathan C.
+  last: Kao
+- first: Alipasha
+  last: Vaziri
+- first: Peyman
+  last: Golshani
+journal: Nature
+publication_year: 2024
+publication_date: '2024-05-15'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41586-024-07425-w.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Bellafard_2024, title={Volatile working memory representations
+  crystallize with practice}, volume={629}, ISSN={1476-4687}, url={http://dx.doi.org/10.1038/s41586-024-07425-w},
+  DOI={10.1038/s41586-024-07425-w}, number={8014}, journal={Nature}, publisher={Springer
+  Science and Business Media LLC}, author={Bellafard, Arash and Namvar, Ghazal and
+  Kao, Jonathan C. and Vaziri, Alipasha and Golshani, Peyman}, year={2024}, month=may,
+  pages={1109–1117} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: complete
+  related_to_project: false
+  uses_tool: false
+  confidence: 0.95
+  tools_identified: []
+  evidence:
+  - "mesoscopic two-photon calcium imaging"
+  - "Two-photon laser-scanning microscopy was conducted using the Thorlabs multiphoton mesoscope"
+  - "light-bead microscopy (LBM)"
+  - "head-fixed mice"
+  paper_type: science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: >-
+    This paper uses mesoscopic two-photon laser-scanning microscopy (Thorlabs multiphoton
+    mesoscope) and light-bead microscopy (LBM) in head-fixed mice to study working memory
+    representations in the secondary motor cortex. No UCLA Miniscope, MiniLFOV, MiniXL,
+    Minian, 2P Miniscope, or Miniscope DAQ is used or mentioned anywhere in the paper.
+    The seed paper (Shuman et al. 2020) is cited purely for its scientific findings about
+    cross-day population decoding stability, not for any miniscope tool. Although co-author
+    Peyman Golshani is a miniscope co-developer, the paper itself has no connection to any
+    miniscope tools -- it uses entirely different benchtop two-photon imaging systems.
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.373876+00:00'
+- stage: rejected
+  timestamp: '2026-04-13'
+  reason: No tool connection; seed paper cited for scientific context only

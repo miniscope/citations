@@ -19,8 +19,13 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: "@misc{https://doi.org/10.48550/arxiv.1907.02557,\n  doi = {10.48550/ARXIV.1907.02557},\n\
+  \  url = {https://arxiv.org/abs/1907.02557},\n  author = {Mishra, Sudhakar and Tiwary,\
+  \ U. S.},\n  keywords = {Neurons and Cognition (q-bio.NC), FOS: Biological sciences,\
+  \ FOS: Biological sciences},\n  title = {A Cognition-Affect Integrated Model of\
+  \ Emotion},\n  publisher = {arXiv},\n  year = {2019},\n  copyright = {arXiv.org\
+  \ perpetual, non-exclusive license}\n}\n"
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

@@ -38,10 +38,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Tak_cs_2025, title={Absolute Number of Three Populations of
+  Interneurons and All GABAergic Synapses in the Human Hippocampus}, volume={45},
+  ISSN={1529-2401}, url={http://dx.doi.org/10.1523/jneurosci.0372-24.2024}, DOI={10.1523/jneurosci.0372-24.2024},
+  number={10}, journal={The Journal of Neuroscience}, publisher={Society for Neuroscience},
+  author={Takács, Virág and Papp, Péter and Orosz, Áron and Bardóczi, Zsuzsanna and
+  Zsoldos, Tamás and Zichó, Krisztián and Watanabe, Masahiko and Maglóczky, Zsófia
+  and Gombás, Péter and Freund, Tamás F. and Nyiri, Gábor}, year={2025}, month=jan,
+  pages={e0372242024} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

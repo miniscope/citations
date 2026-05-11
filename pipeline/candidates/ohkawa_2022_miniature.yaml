@@ -20,8 +20,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @inbook{Ohkawa_2022, title={Miniature Microscopy of Hippocampal CA1
+  to Identify Engram Cells and Record Calcium Transients for Analyses of Ensemble
+  Activities}, ISBN={9781071623213}, ISSN={1940-6045}, url={http://dx.doi.org/10.1007/978-1-0716-2321-3_10},
+  DOI={10.1007/978-1-0716-2321-3_10}, booktitle={Behavioral Neurogenetics}, publisher={Springer
+  US}, author={Ohkawa, Noriaki and Ghandour, Khaled}, year={2022}, pages={157–174}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

@@ -32,35 +32,42 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Adam_2024, title={Disrupted Hippocampal Theta-Gamma Coupling
+  and Spike-Field Coherence Following Experimental Traumatic Brain Injury}, url={http://dx.doi.org/10.7554/elife.100642.1},
+  DOI={10.7554/elife.100642.1}, publisher={eLife Sciences Publications, Ltd}, author={Adam,
+  Christopher D and Mirzakhalili, Ehsan and Gagnon, Kimberly G and Cottone, Carlo
+  and Arena, John D and Ulyanova, Alexandra V and Johnson, Victoria E and Wolf, John
+  A}, year={2024}, month=sep }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: abstract_only
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: reviewed
+  related_to_project: false
   uses_tool: false
   confidence: 0.95
   tools_identified: []
   evidence:
-  - "Abstract states: 'Using high-density laminar electrophysiology, we discovered
-    a loss of oscillatory power across CA1 lamina'"
-  - "Study measures theta-gamma phase amplitude coupling, spike-field coherence, and
-    sharp-wave ripple events using electrode-based electrophysiology, not calcium imaging
-    or miniature microscopes"
-  - "No mention of miniscope, miniature microscope, calcium imaging, UCLA Miniscope,
-    or any Miniscope variant in abstract or paper metadata"
-  paper_type: electrophysiology
+  - 'Abstract states: ''Using high-density laminar electrophysiology, we discovered
+    a loss of oscillatory power across CA1 lamina'''
+  - Study measures theta-gamma phase amplitude coupling, spike-field coherence, and
+    sharp-wave ripple events using electrode-based electrophysiology, not calcium
+    imaging or miniature microscopes
+  - No mention of miniscope, miniature microscope, calcium imaging, UCLA Miniscope,
+    or any Miniscope variant anywhere in the full text
+  paper_type: unrelated
   suggested_component: null
   suggested_technique: null
   reasoning: This is a laminar electrophysiology study of hippocampal oscillations
     following traumatic brain injury. The paper uses silicon probe recordings (high-density
     laminar electrophysiology) to measure LFPs and single-unit activity in CA1, not
-    calcium imaging with a Miniscope. It cites the seed paper (Shuman et al. 2019)
-    as a reference but does not use any Miniscope lab tools. Confidence is 0.95 rather
-    than 1.0 because full text was unavailable, but the abstract explicitly describes
-    the recording methodology as electrophysiology with no indication of miniature
-    microscope use.
+    calcium imaging with a Miniscope. Full text search confirms zero mentions of any
+    Miniscope tool, calcium imaging, GCaMP, or related terms. It cites the seed paper
+    (Shuman et al. 2019) only in the reference list for scientific context about
+    hippocampal circuit dysfunction, with no tool connection whatsoever.
 stage: rejected
 stage_history:
 - stage: candidate

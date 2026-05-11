@@ -1,7 +1,7 @@
 doi: 10.3389/fnins.2019.00716
 openalex_id: W2896390128
 pmid: null
-pmcid: null
+pmcid: PMC6633209
 title: A Mechanism of Synaptic Clock Underlying Subjective Time Perception
 authors:
 - first: Bartosz
@@ -17,10 +17,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Jura_2019, title={A Mechanism of Synaptic Clock Underlying
+  Subjective Time Perception}, volume={13}, ISSN={1662-453X}, url={http://dx.doi.org/10.3389/fnins.2019.00716},
+  DOI={10.3389/fnins.2019.00716}, journal={Frontiers in Neuroscience}, publisher={Frontiers
+  Media SA}, author={Jura, Bartosz}, year={2019}, month=jul }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

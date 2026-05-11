@@ -1,7 +1,7 @@
 doi: 10.3389/fnsyn.2018.00005
 openalex_id: W2797718870
 pmid: null
-pmcid: null
+pmcid: PMC5904272
 title: 'Memory Synapses Are Defined by Distinct Molecular Complexes: A Proposal'
 authors:
 - first: Wayne S.
@@ -17,10 +17,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sossin_2018, title={Memory Synapses Are Defined by Distinct
+  Molecular Complexes: A Proposal}, volume={10}, ISSN={1663-3563}, url={http://dx.doi.org/10.3389/fnsyn.2018.00005},
+  DOI={10.3389/fnsyn.2018.00005}, journal={Frontiers in Synaptic Neuroscience}, publisher={Frontiers
+  Media SA}, author={Sossin, Wayne S.}, year={2018}, month=apr }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

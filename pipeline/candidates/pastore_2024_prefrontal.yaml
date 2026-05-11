@@ -32,8 +32,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Pastore_2024, title={Prefrontal multistimulus integration within
+  a dedicated disambiguation circuit guides interleaving contingency judgment learning},
+  volume={43}, ISSN={2211-1247}, url={http://dx.doi.org/10.1016/j.celrep.2024.114926},
+  DOI={10.1016/j.celrep.2024.114926}, number={11}, journal={Cell Reports}, publisher={Elsevier
+  BV}, author={Pastore, Justin D. and Mayer, Johannes and Steinhauser, Jordan and
+  Shuler, Kylene and Bailey, Tyler W. and Speigel, John H. and Papalexakis, Evangelos
+  E. and Korzus, Edward}, year={2024}, month=nov, pages={114926} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

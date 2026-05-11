@@ -52,10 +52,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Xu_2025, title={A thalamo-hippocampal circuit regulating memory
+  precision during contextual learning}, url={http://dx.doi.org/10.21203/rs.3.rs-7828569/v1},
+  DOI={10.21203/rs.3.rs-7828569/v1}, publisher={Springer Science and Business Media
+  LLC}, author={Xu, Chun and Wu, Qingge and Li, Yumian and Chen, Shishuo and Sun,
+  Zhou and Zhao, Bingqing and Huang, Yiming and Wang, Guangling and Yang, Mingpo and
+  Zhang, Runjiao and Zhang, Yimu and Chen, Yuejun and Li, Xiangning and Gong, Hui
+  and Sun, Yidi and Gu, Yu and Liu, Jing and He, Hua}, year={2025}, month=dec }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

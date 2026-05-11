@@ -1,7 +1,7 @@
 doi: 10.1088/1741-2552/acbe1e
 openalex_id: W4324311182
 pmid: null
-pmcid: null
+pmcid: PMC10790314
 title: Calcium imaging and analysis of the jugular-nodose ganglia enables identification
   of distinct vagal sensory neuron subsets
 authors:
@@ -34,10 +34,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Huerta_2023, title={Calcium imaging and analysis of the jugular-nodose
+  ganglia enables identification of distinct vagal sensory neuron subsets}, volume={20},
+  ISSN={1741-2552}, url={http://dx.doi.org/10.1088/1741-2552/acbe1e}, DOI={10.1088/1741-2552/acbe1e},
+  number={2}, journal={Journal of Neural Engineering}, publisher={IOP Publishing},
+  author={Huerta, Tomás S and Haider, Bilal and Adamovich-Zeitlin, Richard and Chen,
+  Adrian C and Chaudhry, Saher and Zanos, Theodoros P and Chavan, Sangeeta S and Tracey,
+  Kevin J and Chang, Eric H}, year={2023}, month=mar, pages={026014} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

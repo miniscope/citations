@@ -19,10 +19,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Heshmati_2022, title={Historical and Modern Evidence for the
+  Role of Reward Circuitry in Emergence}, volume={136}, ISSN={1528-1175}, url={http://dx.doi.org/10.1097/aln.0000000000004148},
+  DOI={10.1097/aln.0000000000004148}, number={6}, journal={Anesthesiology}, publisher={Ovid
+  Technologies (Wolters Kluwer Health)}, author={Heshmati, Mitra and Bruchas, Michael
+  R.}, year={2022}, month=mar, pages={997–1014} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

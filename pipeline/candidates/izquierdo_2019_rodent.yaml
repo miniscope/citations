@@ -23,8 +23,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @inbook{Izquierdo_2019, title={Rodent Models of Adaptive Value Learning
+  and Decision-Making}, ISBN={9781493995547}, ISSN={1940-6029}, url={http://dx.doi.org/10.1007/978-1-4939-9554-7_7},
+  DOI={10.1007/978-1-4939-9554-7_7}, booktitle={Psychiatric Disorders}, publisher={Springer
+  New York}, author={Izquierdo, Alicia and Aguirre, Claudia and Hart, Evan E. and
+  Stolyarova, Alexandra}, year={2019}, pages={105–119} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

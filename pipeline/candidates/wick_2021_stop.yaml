@@ -1,7 +1,7 @@
 doi: 10.1177/15357597211014187
 openalex_id: W3161134535
 pmid: null
-pmcid: null
+pmcid: PMC8512909
 title: 'To Stop the Seizure, You Must Become the Seizure: Closed-Loop Stimulation
   Phase Locked to Seizure Waves Disrupts Kindled Seizures While Open-Loop Stimulation
   Fails'
@@ -21,10 +21,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Christenson_Wick_2021, title={To Stop the Seizure, You Must
+  Become the Seizure: Closed-Loop Stimulation Phase Locked to Seizure Waves Disrupts
+  Kindled Seizures While Open-Loop Stimulation Fails}, volume={21}, ISSN={1535-7511},
+  url={http://dx.doi.org/10.1177/15357597211014187}, DOI={10.1177/15357597211014187},
+  number={4}, journal={Epilepsy Currents}, publisher={SAGE Publications}, author={Christenson
+  Wick, Zoé and Shuman, Tristan}, year={2021}, month=may, pages={293–294} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

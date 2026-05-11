@@ -49,10 +49,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Shen_2021, title={CCR5 closes the temporal window for memory
+  linking}, url={http://dx.doi.org/10.1101/2021.10.07.463602}, DOI={10.1101/2021.10.07.463602},
+  publisher={openRxiv}, author={Shen, Yang and Zhou, Miou and Cai, Denise and Filho,
+  Daniel Almeida and Fernandes, Giselle and Cai, Ying and Kim, Nury and Necula, Deanna
+  and Zhou, Chengbin and Liu, Andy and Kang, Xiaoman and Kamata, Masakazu and Lavi,
+  Ayal and Huang, Shan and Silva, Tawnie and Heo, Won Do and Silva, Alcino J.}, year={2021},
+  month=oct }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

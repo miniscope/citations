@@ -1,7 +1,7 @@
 doi: 10.1038/s41592-024-02521-1
 openalex_id: W4404224750
 pmid: null
-pmcid: null
+pmcid: PMC11725498
 title: 'ONIX: a unified open-source platform for multimodal neural recording and perturbation
   during naturalistic behavior'
 authors:
@@ -44,10 +44,20 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Newman_2024, title={ONIX: a unified open-source platform for
+  multimodal neural recording and perturbation during naturalistic behavior}, volume={22},
+  ISSN={1548-7105}, url={http://dx.doi.org/10.1038/s41592-024-02521-1}, DOI={10.1038/s41592-024-02521-1},
+  number={1}, journal={Nature Methods}, publisher={Springer Science and Business Media
+  LLC}, author={Newman, Jonathan P. and Zhang, Jie and Cuevas-López, Aarón and Miller,
+  Nicholas J. and Honda, Takato and van der Goes, Marie-Sophie H. and Leighton, Alexandra
+  H. and Carvalho, Filipe and Lopes, Gonçalo and Lakunina, Anna and Siegle, Joshua
+  H. and Harnett, Mark T. and Wilson, Matthew A. and Voigts, Jakob}, year={2024},
+  month=nov, pages={187–192} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

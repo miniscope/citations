@@ -1,7 +1,7 @@
 doi: 10.1016/j.neuron.2020.07.011
 openalex_id: W3047434011
 pmid: null
-pmcid: null
+pmcid: PMC7486247
 title: 'An Integrated Index: Engrams, Place Cells, and Hippocampal Memory'
 authors:
 - first: Travis D.
@@ -23,10 +23,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Goode_2020, title={An Integrated Index: Engrams, Place Cells,
+  and Hippocampal Memory}, volume={107}, ISSN={0896-6273}, url={http://dx.doi.org/10.1016/j.neuron.2020.07.011},
+  DOI={10.1016/j.neuron.2020.07.011}, number={5}, journal={Neuron}, publisher={Elsevier
+  BV}, author={Goode, Travis D. and Tanaka, Kazumasa Z. and Sahay, Amar and McHugh,
+  Thomas J.}, year={2020}, month=sep, pages={805–820} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

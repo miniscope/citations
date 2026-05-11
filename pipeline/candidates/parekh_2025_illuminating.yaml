@@ -1,7 +1,7 @@
 doi: 10.1016/j.ynstr.2025.100712
 openalex_id: W4407260474
 pmid: null
-pmcid: null
+pmcid: PMC11970376
 title: 'Illuminating the impact of stress: In vivo approaches to track stress-related
   neural adaptations'
 authors:
@@ -18,10 +18,16 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Parekh_2025, title={Illuminating the impact of stress: In vivo
+  approaches to track stress-related neural adaptations}, volume={35}, ISSN={2352-2895},
+  url={http://dx.doi.org/10.1016/j.ynstr.2025.100712}, DOI={10.1016/j.ynstr.2025.100712},
+  journal={Neurobiology of Stress}, publisher={Elsevier BV}, author={Parekh, Puja
+  K.}, year={2025}, month=mar, pages={100712} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

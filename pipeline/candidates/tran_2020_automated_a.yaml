@@ -28,10 +28,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Tran_2020, title={Automated curation of CNMF-E-extracted ROI
+  spatial footprints and calcium traces using open-source AutoML tools}, url={http://dx.doi.org/10.1101/2020.03.13.991216},
+  DOI={10.1101/2020.03.13.991216}, publisher={openRxiv}, author={Tran, LM and Mocle,
+  AJ and Ramsaran, AI and Jacob, AD and Frankland, PW and Josselyn, SA}, year={2020},
+  month=mar }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

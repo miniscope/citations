@@ -1,0 +1,237 @@
+doi: 10.1117/1.nph.9.s1.013001
+openalex_id: W4285684864
+pmid: null
+pmcid: null
+title: 'Neurophotonic Tools for Microscopic Measurements and Manipulation: Status
+  Report'
+authors:
+- first: Ahmed S.
+  last: Abdelfattah
+- first: Srinivasa Rao
+  last: Allu
+- first: Robert E.
+  last: Campbell
+- first: Xiaojun
+  last: Cheng
+- first: Tomáš
+  last: Čižmár
+- first: Irene
+  last: Costantini
+- first: Valentina
+  last: Emiliani
+- first: Natalie
+  last: Fomin-Thunemann
+- first: Ariel
+  last: Gilad
+- first: Tomás
+  last: Fernández-Alfonso
+- first: Christopher
+  last: Ferri
+- first: Andrew
+  last: Harris
+- first: Elizabeth M. C.
+  last: Hillman
+- first: Matthew G.
+  last: Holt
+- first: Kıvılcım
+  last: Kılıç
+- first: Evan W.
+  last: Miller
+- first: Rickson C.
+  last: Mesquita
+- first: K. M. Naga Srinivas
+  last: Nadella
+- first: U. Valentin
+  last: Nägerl
+- first: Citlali Pérez
+  last: Campos
+- first: Francesca
+  last: Puppo
+- first: Shy
+  last: Shoham
+- first: R. Angus
+  last: Silver
+- first: Vivek J.
+  last: Srinivasan
+- first: Martin
+  last: Thunemann
+- first: Lei
+  last: Tian
+- first: Sergei A.
+  last: Vinogradov
+- first: Flavia
+  last: Vitale
+- first: Hana
+  last: Uhlířová
+- first: Chris
+  last: Xu
+- first: Mu-Han
+  last: Yang
+- first: Yongxin
+  last: Zhao
+- first: Sapna
+  last: Ahuja
+- first: Taner
+  last: Akkin
+- first: Joshua
+  last: Brake
+- first: David A.
+  last: Boas
+- first: Erin M.
+  last: Buckley
+- first: Anderson I.
+  last: Chen
+- first: Massimo De
+  last: Vittorio
+- first: Anna
+  last: Devor
+- first: Patrick
+  last: Doran
+- first: Mirna El
+  last: Khatib
+- first: Yeshaiahu
+  last: Fainman
+- first: Xue
+  last: Han
+- first: Ute
+  last: Hochgeschwender
+- first: Na
+  last: Ji
+- first: Evelyn
+  last: Lake
+- first: Lei
+  last: Li
+- first: Tianqi
+  last: Li
+- first: Philipp
+  last: Mächler
+- first: Yusuke
+  last: Nasu
+- first: Axel
+  last: Nimmerjahn
+- first: Petra
+  last: Ondráčková
+- first: Francesco S.
+  last: Pavone
+- first: Darcy S.
+  last: Peterka
+- first: Filippo
+  last: Pisano
+- first: Ferruccio
+  last: Pisanello
+- first: Bernardo L.
+  last: Sabatini
+- first: Sanaz
+  last: Sadegh
+- first: Sava
+  last: Sakadžić
+- first: Sanaya N.
+  last: Shroff
+- first: Ruth R.
+  last: Sims
+- first: Spencer L.
+  last: Smith
+- first: Lin
+  last: Tian
+- first: Thomas
+  last: Troxler
+- first: Antoine M.
+  last: Valera
+- first: Alipasha
+  last: Vaziri
+- first: Lihong V.
+  last: Wang
+- first: Changhuei
+  last: Yang
+- first: Gary
+  last: Yellen
+- first: Ofer
+  last: Yizhar
+journal: Neurophotonics
+publication_year: 2022
+publication_date: '2022-04-27'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.spiedigitallibrary.org/journals/neurophotonics/volume-9/issue-S1/013001/Neurophotonic-tools-for-microscopic-measurements-and-manipulation-status-report/10.1117/1.NPh.9.S1.013001.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Abdelfattah_2022, title={Neurophotonic Tools for Microscopic
+  Measurements and Manipulation: Status Report}, volume={9}, ISSN={2329-423X}, url={http://dx.doi.org/10.1117/1.nph.9.s1.013001},
+  DOI={10.1117/1.nph.9.s1.013001}, number={S1}, journal={Neurophotonics}, publisher={SPIE-Intl
+  Soc Optical Eng}, author={Abdelfattah, Ahmed and Allu, Srinivasa Rao and Campbell,
+  Robert E. and Cheng, Xiaojun and Cižmár, Tomáš and Costantini, Irene and Emiliani,
+  Valentina and Fomin-Thunemann, Natalie and Gilad, Ariel and Fernández Alfonso, Tomás
+  and Ferri, Christopher G. L. and Harris, Andrew and Hillman, Elizabeth M. C. and
+  Holt, Matthew G. and Kiliç, Kivilcim and Miller, Evan W. and Mesquita, Rickson C.
+  and Nadella, K.M. Naga Srinivas and Nägerl, U. Valentin and Perez Campos, Citlali
+  and Puppo, Francesca and Shoham, Shy and Silver, R. Angus and Srinivasan, Vivek
+  J. and Thunemann, Martin and Tian, Lei and Vinogradov, Sergei A. and Vitale, Flavia
+  and Uhlirova, Hana and Xu, Chris and Yang, Mu-Han and Zhao, Yongxin and Ahuja, Sapna
+  and Akkin, Taner and Brake, Joshua and Boas, David A. and Buckley, Erin M. and Chen,
+  Anderson I. and De Vittorio, Massimo and Devor, Anna and Doran, Patrick and El Khatib,
+  Mirna and Fainman, Yeshaiahu and Han, Xue and Hochgeschwender, Ute and Ji, Na and
+  Lake, Evelyn and Li, Lei and Li, Tianqi and Machler, Philipp and Nasu, Yusuke and
+  Nimmerjahn, Axel and Ondrácková, Petra and Pavone, Francesco S. and Peterka, Darcy
+  and Pisano, Filippo and Pisanello, Ferruccio and Sabatini, Bernardo L. and Sadegh,
+  Sanaz and Sakadžic, Sava and Shroff, Sanaya N. and Sims, Ruth R. and Smith, Spencer
+  LaVere and Tian, Lin and Troxler, Thomas and Valera, Antoine and Vaziri, Alipasha
+  and Wang, Lihong V. and Yang, Changhuei and Yellen, Gary and Yizhar, Ofer}, year={2022},
+  month=apr }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  related_to_project: true
+  uses_tool: false
+  confidence: 0.82
+  tools_identified:
+  - UCLA Miniscope v4
+  evidence:
+  - type: fulltext
+    text: 'Full text mentions "UCLA Miniscope" and "open-source miniature microscope"
+      in the context of reviewing neurophotonic tools for brain imaging.'
+    assessment: The paper explicitly names the UCLA Miniscope as a neurophotonic tool
+      in its comprehensive review of imaging technologies for neuroscience.
+  - type: fulltext
+    text: 'Full text discusses "head-mounted" microscopes, "freely moving" imaging,
+      and "GRIN lens" technology relevant to miniscope-based imaging.'
+    assessment: These terms appear in sections reviewing miniature microscopy approaches
+      that include the UCLA Miniscope platform.
+  - type: abstract
+    text: '"this status report reviews an extensive and diverse toolkit to explore
+      brain function that have emerged from BRAIN Initiative and related large-scale
+      efforts for measurement and manipulation of brain structure and function"'
+    assessment: The paper is a BRAIN Initiative status report that catalogs neurophotonic
+      tools including head-mounted miniature microscopes.
+  paper_type: review
+  suggested_component: UCLA Miniscope v4
+  suggested_technique: null
+  reasoning: This is a large multi-author (70+) review/status report published in
+    Neurophotonics as part of the BRAIN Initiative reporting. Full-text analysis via
+    PubMed Central (PMC9047450) confirms the paper explicitly discusses the UCLA Miniscope,
+    open-source miniature microscopes, head-mounted microscopes, freely moving calcium
+    imaging, and GRIN lens technology. While it does not report original experimental
+    use of the Miniscope, it reviews the tool as a significant neurophotonic platform,
+    which falls within the citation scope as a review paper that discusses the tools.
+    The paper does not cite seed paper DOIs directly in the PMC full text, but mentions
+    the UCLA Miniscope by name. Confidence is 0.82 based on confirmed full-text tool
+    mentions in a review context.
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.373784+00:00'
+- stage: reviewed
+  timestamp: '2026-04-10T00:00:00+00:00'
+  action: analyzed_by_agent
+  result: rejected_review_paper
+- stage: reviewed
+  timestamp: '2026-04-11T00:00:00+00:00'
+  action: re-analyzed_by_agent_with_fulltext
+  result: accepted_review_paper

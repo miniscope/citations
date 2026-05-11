@@ -1,7 +1,7 @@
 doi: 10.1101/2025.09.10.675457
 openalex_id: W4414133657
 pmid: null
-pmcid: null
+pmcid: PMC12440021
 title: Interneuron theta phase locking controls seizure susceptibility
 authors:
 - first: Zoé Christenson
@@ -41,10 +41,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Wick_2025, title={Interneuron theta phase locking controls
+  seizure susceptibility}, url={http://dx.doi.org/10.1101/2025.09.10.675457}, DOI={10.1101/2025.09.10.675457},
+  publisher={openRxiv}, author={Wick, Zoé Christenson and Philipsberg, Paul A and
+  Kohler, Cassidy and Lamsifer, Sophia I and Katanov, Elizabeth and Adam, Christopher
+  D and Gordon, Kathryn E and Feng, Yu and Vetere, Lauren M and Donnelly, Genevra
+  C and Humphrey, Corin and Cai, Denise J and Shuman, Tristan}, year={2025}, month=sep
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

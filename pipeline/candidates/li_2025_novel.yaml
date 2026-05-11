@@ -1,7 +1,7 @@
 doi: 10.3389/fpsyt.2025.1692751
 openalex_id: W4416390641
 pmid: null
-pmcid: null
+pmcid: PMC12671390
 title: 'Novel and emerging anesthetic drugs for the treatments of major depression:
   a comprehensive review of efficacy, mechanism, and outlook'
 authors:
@@ -44,10 +44,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Li_2025, title={Novel and emerging anesthetic drugs for the
+  treatments of major depression: a comprehensive review of efficacy, mechanism, and
+  outlook}, volume={16}, ISSN={1664-0640}, url={http://dx.doi.org/10.3389/fpsyt.2025.1692751},
+  DOI={10.3389/fpsyt.2025.1692751}, journal={Frontiers in Psychiatry}, publisher={Frontiers
+  Media SA}, author={Li, Congyi and Wang, Zhihui and Ye, Xinman and Lv, Jiahui and
+  Chen, Fangming and Zhang, Yining and Liu, Jianhua and Li, Xin and Duan, Jinnian
+  and Wang, Ying and Wang, Bin and Tang, Wei and Zhang, Jinghui and Teng, Yun}, year={2025},
+  month=nov }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

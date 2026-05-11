@@ -38,8 +38,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Feng_2017, title={Barrel Cortical Neuron Integrates Triple
+  Associated Signals for Their Memory Through Receiving Epigenetic-Mediated New Synapse
+  Innervations}, volume={27}, ISSN={1460-2199}, url={http://dx.doi.org/10.1093/cercor/bhx292},
+  DOI={10.1093/cercor/bhx292}, number={12}, journal={Cerebral Cortex}, publisher={Oxford
+  University Press (OUP)}, author={Feng, Jing and Lu, Wei and Wang, Dangui and Ma,
+  Ke and Song, Zhenhua and Chen, Na and Sun, Yan and Du, Kaixin and Shen, Mengmeng
+  and Cui, Shan and Wang, Jin-Hui}, year={2017}, month=nov, pages={5858–5871} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

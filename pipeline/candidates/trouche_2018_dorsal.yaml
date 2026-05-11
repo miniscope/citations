@@ -38,8 +38,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Trouche_2018, title={A Dorsal Hippocampus-Accumbens Circuit
+  Motif to Guide Appetitive Memory in Space}, ISSN={1556-5068}, url={http://dx.doi.org/10.2139/ssrn.3188482},
+  DOI={10.2139/ssrn.3188482}, journal={SSRN Electronic Journal}, publisher={Elsevier
+  BV}, author={Trouche, Sttphanie and Koren, Vadim and Doig, Natalie M. and Ellender,
+  Tommas J. and Lopes-dos-Santos, VVtor and Perestenko, Pavel V. and El-Gaby, Mohamady
+  and Garas, Farid N. and Magill, Peter J. and Sharott, Andrew and Dupret, David},
+  year={2018} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

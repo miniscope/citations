@@ -30,8 +30,15 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Su_2023, title={Smart palm-size optofluidic hematology analyzer
+  for automated imaging-based leukocyte concentration detection}, volume={2}, ISSN={2097-4000},
+  url={http://dx.doi.org/10.29026/oes.2023.230018}, DOI={10.29026/oes.2023.230018},
+  number={12}, journal={Opto-Electronic Science}, publisher={Opto-Electronic Advances},
+  author={Su, Deer and Li, Xiangyu and Gao, Weida and Wei, Qiuhua and Li, Haoyu and
+  Guo, Changliang and Zhao, Weisong}, year={2023}, pages={230018} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

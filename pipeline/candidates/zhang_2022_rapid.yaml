@@ -35,10 +35,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhang_2022, title={Rapid deep widefield neuron finder driven
+  by virtual calcium imaging data}, url={http://dx.doi.org/10.1101/2022.01.25.474600},
+  DOI={10.1101/2022.01.25.474600}, publisher={openRxiv}, author={Zhang, Yuanlong and
+  Zhang, Guoxun and Han, Xiaofei and Wu, Jiamin and Li, Ziwei and Li, Xinyang and
+  Xiao, Guihua and Xie, Hao and Fang, Lu and Dai, Qionghai}, year={2022}, month=jan
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

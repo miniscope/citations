@@ -1,7 +1,7 @@
 doi: 10.1038/s41467-025-66975-3
 openalex_id: W4417037298
 pmid: null
-pmcid: null
+pmcid: PMC12783673
 title: Early intrinsic excitability plasticity of neocortical engram neurons defines
   memory formation and precision
 authors:
@@ -38,10 +38,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Hadzibegovic_2025, title={Early intrinsic excitability plasticity
+  of neocortical engram neurons defines memory formation and precision}, volume={17},
+  ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-025-66975-3}, DOI={10.1038/s41467-025-66975-3},
+  number={1}, journal={Nature Communications}, publisher={Springer Science and Business
+  Media LLC}, author={Hadzibegovic, Senka and Zhu, Liangying and Ginger, Melanie and
+  Gueidão Costa, Maria and Alvarez Menendez, Paula and De Sa, Rafaël and Le Corf,
+  Katy and Le Feuvre, Yves and Nicole, Olivier and Bontempi, Bruno and Frick, Andreas},
+  year={2025}, month=dec }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

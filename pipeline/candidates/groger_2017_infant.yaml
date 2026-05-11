@@ -31,8 +31,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Gr_ger_2017, title={Infant avoidance training alters cellular
+  activation patterns in prefronto-limbic circuits during adult avoidance learning:
+  I. Cellular imaging of neurons expressing the synaptic plasticity early growth response
+  protein 1 (Egr1)}, volume={222}, ISSN={1863-2661}, url={http://dx.doi.org/10.1007/s00429-017-1423-1},
+  DOI={10.1007/s00429-017-1423-1}, number={8}, journal={Brain Structure and Function},
+  publisher={Springer Science and Business Media LLC}, author={Gröger, Nicole and
+  Mannewitz, Anja and Bock, Jörg and de Schultz, Tony Fernando and Guttmann, Katja
+  and Poeggel, Gerd and Braun, Katharina}, year={2017}, month=apr, pages={3639–3651}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

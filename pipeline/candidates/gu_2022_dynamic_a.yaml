@@ -48,10 +48,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Gu_2022, title={Dynamic tripartite construct of interregional
+  engram circuits underlies forgetting of extinction memory}, url={http://dx.doi.org/10.1101/2022.04.30.490143},
+  DOI={10.1101/2022.04.30.490143}, publisher={openRxiv}, author={Gu, Xue and Wu, Yan-Jiao
+  and Zhu, Jia-Jie and Wu, Xin-Rong and Wang, Qi and Yi, Xin and Lin, Ze-Jie and Jiao,
+  Zhi-Han and Xu, Miao and Jiang, Qin and Li, Ying and Xu, Nan-Jie and Zhu, Michael
+  Xi and Wang, Lu-Yang and Xu, Tian-Le and Li, Wei-Guang}, year={2022}, month=may
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

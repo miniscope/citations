@@ -22,8 +22,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Graves_2020, title={Finding the Pattern: On-Line Extraction
+  of Spatial Structure During Virtual Navigation}, volume={31}, ISSN={1467-9280},
+  url={http://dx.doi.org/10.1177/0956797620948828}, DOI={10.1177/0956797620948828},
+  number={9}, journal={Psychological Science}, publisher={SAGE Publications}, author={Graves,
+  Kathryn N. and Antony, James W. and Turk-Browne, Nicholas B.}, year={2020}, month=aug,
+  pages={1183–1190} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null
@@ -41,3 +48,4 @@ stage: candidate
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:43.319475+00:00'
+:00'

@@ -24,10 +24,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Froula_2024, title={Distinct Functional Classes of CA1 Hippocampal
+  Interneurons Are Modulated by Cerebellar Stimulation in a Coordinated Manner}, volume={44},
+  ISSN={1529-2401}, url={http://dx.doi.org/10.1523/jneurosci.0887-24.2024}, DOI={10.1523/jneurosci.0887-24.2024},
+  number={49}, journal={The Journal of Neuroscience}, publisher={Society for Neuroscience},
+  author={Froula, Jessica M. and Rose, Jarrett J. and Krook-Magnuson, Chris and Krook-Magnuson,
+  Esther}, year={2024}, month=oct, pages={e0887242024} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,0 +1,71 @@
+doi: 10.1523/eneuro.0228-25.2025
+openalex_id: W4417001533
+pmid: null
+pmcid: null
+title: Pairing Mouse Social and Aversive Stimuli across Sexes Does Not Produce Social
+  Aversion in Females
+authors:
+- first: Jasmin N.
+  last: Beaver
+- first: Marissa M.
+  last: Nicodemus
+- first: Isabella R.
+  last: Spalding
+- first: Lauren R.
+  last: Scrimshaw
+- first: Sohini
+  last: Dutta
+- first: Aaron M.
+  last: Jasnow
+- first: T. Lee
+  last: Gilman
+journal: eNeuro
+publication_year: 2025
+publication_date: '2025-12-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.eneuro.org/content/eneuro/early/2025/12/03/ENEURO.0228-25.2025.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Beaver_2025, title={Pairing Mouse Social and Aversive Stimuli
+  across Sexes Does Not Produce Social Aversion in Females}, volume={12}, ISSN={2373-2822},
+  url={http://dx.doi.org/10.1523/eneuro.0228-25.2025}, DOI={10.1523/eneuro.0228-25.2025},
+  number={12}, journal={eneuro}, publisher={Society for Neuroscience}, author={Beaver,
+  Jasmin N. and Nicodemus, Marissa M. and Spalding, Isabella R. and Scrimshaw, Lauren
+  R. and Dutta, Sohini and Jasnow, Aaron M. and Gilman, Lee M.}, year={2025}, month=dec,
+  pages={ENEURO.0228-25.2025} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.95
+  tools_identified: []
+  evidence:
+  - "while still making execution of these experiments feasible within a 12 h lights-on
+    period (Wanisch et al., 2008; Cai et al., 2016; Lynch et al., 2017)"
+  - "Cai DJ et al. (2016) A shared neural ensemble links distinct contextual memories
+    encoded close in time. Nature 534:115-118."
+  paper_type: unrelated
+  suggested_component: null
+  suggested_technique: null
+  reasoning: This behavioral neuroscience paper studies social aversion conditioning
+    in mice using foot shocks and social stimuli. It cites the seed paper Cai et al.
+    2016 solely for the scientific concept of memory consolidation timing (temporal
+    separation of events to avoid interference between memory traces). The paper
+    contains no mention of any Miniscope, miniature microscope, calcium imaging, or
+    any related tool. It is a purely behavioral study with no imaging component.
+  related_to_project: false
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.326549+00:00'
+- stage: rejected
+  timestamp: '2026-04-11'

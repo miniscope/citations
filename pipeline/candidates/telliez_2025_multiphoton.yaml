@@ -1,7 +1,7 @@
 doi: 10.1021/acsphotonics.4c02101
 openalex_id: W4409168138
 pmid: null
-pmcid: null
+pmcid: PMC12279007
 title: 'Multiphoton Neurophotonics: Recent Advances in Imaging and Manipulating Neuronal
   Circuits'
 authors:
@@ -30,10 +30,17 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Telliez_2025, title={Multiphoton Neurophotonics: Recent Advances
+  in Imaging and Manipulating Neuronal Circuits}, volume={12}, ISSN={2330-4022}, url={http://dx.doi.org/10.1021/acsphotonics.4c02101},
+  DOI={10.1021/acsphotonics.4c02101}, number={7}, journal={ACS Photonics}, publisher={American
+  Chemical Society (ACS)}, author={Telliez, Cécile and Sims, Ruth and Faini, Giulia
+  and Berto, Pascal and Papagiakoumou, Eirini and Tanese, Dimitrii and Accanto, Nicolò},
+  year={2025}, month=apr, pages={3296–3318} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,7 +1,7 @@
 doi: 10.1016/j.nbd.2021.105562
 openalex_id: W3216152133
 pmid: null
-pmcid: null
+pmcid: PMC9482454
 title: Spatial coding defects of hippocampal neural ensemble calcium activities in
   the triple-transgenic Alzheimer's disease mouse model
 authors:
@@ -34,10 +34,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lin_2022, title={Spatial coding defects of hippocampal neural
+  ensemble calcium activities in the triple-transgenic Alzheimer’s disease mouse model},
+  volume={162}, ISSN={0969-9961}, url={http://dx.doi.org/10.1016/j.nbd.2021.105562},
+  DOI={10.1016/j.nbd.2021.105562}, journal={Neurobiology of Disease}, publisher={Elsevier
+  BV}, author={Lin, Xiaoxiao and Chen, Lujia and Baglietto-Vargas, David and Kamalipour,
+  Parsa and Ye, Qiao and LaFerla, Frank M. and Nitz, Douglas A. and Holmes, Todd C.
+  and Xu, Xiangmin}, year={2022}, month=jan, pages={105562} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

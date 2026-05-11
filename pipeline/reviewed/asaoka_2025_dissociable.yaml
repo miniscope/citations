@@ -1,0 +1,64 @@
+doi: 10.1101/2025.05.19.654900
+openalex_id: W4410579491
+pmid: null
+pmcid: null
+title: Dissociable roles of prefrontal plasticity in decision making strategy and
+  execution of habitual behavior
+authors:
+- first: Nozomi
+  last: Asaoka
+- first: Diane
+  last: Pagano
+- first: Yasunori
+  last: Hayashi
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2025
+publication_date: '2025-05-21'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2025/05/21/2025.05.19.654900.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Asaoka_2025, title={Dissociable roles of prefrontal plasticity
+  in decision making strategy and execution of habitual behavior}, url={http://dx.doi.org/10.1101/2025.05.19.654900},
+  DOI={10.1101/2025.05.19.654900}, publisher={openRxiv}, author={Asaoka, Nozomi and
+  Pagano, Diane and Hayashi, Yasunori}, year={2025}, month=may }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: completed
+  uses_tool: true
+  confidence: 0.98
+  tools_identified:
+  - UCLA Miniscope v4
+  - Miniscope DAQ
+  - Minian
+  evidence:
+  - "a baseplate for the UCLA Miniscope36 (version 4.4 purchased from"
+  - "calcium transients during the session were recorded at 30 Hz using the UCLA Miniscope
+    DAQ software (version 1.10)"
+  - "semi-automatically processed with the MiniAn pipeline69 for removing sensor noise
+    and background fluorescence, motion correction and source separation"
+  - "Following the MiniAn pipeline, output values of Ca2+ activity were normalized"
+  - "described at http://Miniscope.org"
+  paper_type: science
+  suggested_component: UCLA Miniscope v4;Miniscope DAQ;Minian
+  suggested_technique: calcium imaging
+  reasoning: This paper uses the UCLA Miniscope v4 (version 4.4) for in vivo calcium
+    imaging of prefrontal cortex neurons during decision-making and habitual behavior
+    tasks. Data was acquired using the Miniscope DAQ software (version 1.10) at 30
+    Hz. Calcium imaging data was processed using the MiniAn pipeline for noise removal,
+    motion correction, and source separation via CNMF. The paper directly uses three
+    tools from the Miniscope ecosystem.
+  related_to_project: true
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.326390+00:00'

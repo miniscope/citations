@@ -18,10 +18,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @misc{Giocomo_2023, title={eLife Assessment: Drift of neural ensembles
+  driven by slow fluctuations of intrinsic excitability}, url={http://dx.doi.org/10.7554/elife.88053.2.sa1},
+  DOI={10.7554/elife.88053.2.sa1}, publisher={eLife Sciences Publications, Ltd}, author={Giocomo,
+  Lisa M}, year={2023}, month=dec }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

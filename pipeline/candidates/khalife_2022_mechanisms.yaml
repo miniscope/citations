@@ -1,7 +1,7 @@
 doi: 10.3389/fneur.2022.878991
 openalex_id: W4280489915
 pmid: null
-pmcid: null
+pmcid: PMC9135108
 title: 'Mechanisms for Cognitive Impairment in Epilepsy: Moving Beyond Seizures'
 authors:
 - first: Mohamed R.
@@ -21,10 +21,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Khalife_2022, title={Mechanisms for Cognitive Impairment in
+  Epilepsy: Moving Beyond Seizures}, volume={13}, ISSN={1664-2295}, url={http://dx.doi.org/10.3389/fneur.2022.878991},
+  DOI={10.3389/fneur.2022.878991}, journal={Frontiers in Neurology}, publisher={Frontiers
+  Media SA}, author={Khalife, Mohamed R. and Scott, Rod C. and Hernan, Amanda E.},
+  year={2022}, month=may }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

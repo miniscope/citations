@@ -1,7 +1,7 @@
 doi: 10.1016/j.brs.2018.09.013
 openalex_id: W2893473387
 pmid: null
-pmcid: null
+pmcid: PMC6301121
 title: Vagus nerve stimulation promotes generalization of conditioned fear extinction
   and reduces anxiety in rats
 authors:
@@ -28,10 +28,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Noble_2019, title={Vagus nerve stimulation promotes generalization
+  of conditioned fear extinction and reduces anxiety in rats}, volume={12}, ISSN={1935-861X},
+  url={http://dx.doi.org/10.1016/j.brs.2018.09.013}, DOI={10.1016/j.brs.2018.09.013},
+  number={1}, journal={Brain Stimulation}, publisher={Elsevier BV}, author={Noble,
+  Lindsey J. and Meruva, Venkat B. and Hays, Seth A. and Rennaker, Robert L. and Kilgard,
+  Michael P. and McIntyre, Christa K.}, year={2019}, month=jan, pages={9–18} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

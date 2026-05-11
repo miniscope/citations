@@ -30,10 +30,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @inbook{Ozbay_2023, title={Miniature Multiphoton Microscopes for Recording
+  Neural Activity in Freely Moving Animals}, ISBN={9781071627648}, ISSN={1940-6045},
+  url={http://dx.doi.org/10.1007/978-1-0716-2764-8_7}, DOI={10.1007/978-1-0716-2764-8_7},
+  booktitle={All-Optical Methods to Study Neuronal Function}, publisher={Springer
+  US}, author={Ozbay, Baris N. and Futia, Gregory L. and Ma, Ming and McCullough,
+  Connor and Young, Michael D. and Restrepo, Diego and Gibson, Emily A.}, year={2023},
+  pages={187–230} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

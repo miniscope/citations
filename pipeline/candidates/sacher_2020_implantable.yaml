@@ -55,10 +55,20 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sacher_2020, title={Implantable photonic neural probes for
+  light-sheet fluorescence brain imaging}, url={http://dx.doi.org/10.1101/2020.09.30.317214},
+  DOI={10.1101/2020.09.30.317214}, publisher={openRxiv}, author={Sacher, Wesley D.
+  and Chen, Fu-Der and Moradi-Chameh, Homeira and Luo, Xianshu and Fomenko, Anton
+  and Shah, Prajay and Lordello, Thomas and Liu, Xinyu and Almog, Ilan Felts and Straguzzi,
+  John N. and Fowler, Trevor M. and Jung, Youngho and Hu, Ting and Jeong, Junho and
+  Lozano, Andres M. and Lo, Patrick Guo-Qiang and Valiante, Taufik A. and Moreaux,
+  Laurent C. and Poon, Joyce K. S. and Roukes, Michael L.}, year={2020}, month=sep
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

@@ -34,10 +34,18 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zheng_2024, title={Adaptive multiscale microscope with fast
+  zooming, extended working distance, and large field of view}, volume={5}, ISSN={2831-4093},
+  url={http://dx.doi.org/10.37188/lam.2024.008}, DOI={10.37188/lam.2024.008}, number={1},
+  journal={Light: Advanced Manufacturing}, publisher={Changchun Institute of Optics,
+  Fine Mechanics and Physics, Chinese Academy of Sciences}, author={Zheng, Yi and
+  Wang, Xin and Jiang, Zhao and Xu, Jinbo and Yuan, Rongying and Zhao, Youran and
+  Zhang, Haoran and Liu, Chao and Wang, Qionghua}, year={2024}, pages={1} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

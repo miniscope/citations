@@ -1,7 +1,7 @@
 doi: 10.1016/j.celrep.2024.115131
 openalex_id: W4406690247
 pmid: null
-pmcid: null
+pmcid: PMC11949077
 title: Distinct changes to hippocampal and medial entorhinal circuits emerge across
   the progression of cognitive deficits in epilepsy
 authors:
@@ -50,10 +50,21 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Feng_2025, title={Distinct changes to hippocampal and medial
+  entorhinal circuits emerge across the progression of cognitive deficits in epilepsy},
+  volume={44}, ISSN={2211-1247}, url={http://dx.doi.org/10.1016/j.celrep.2024.115131},
+  DOI={10.1016/j.celrep.2024.115131}, number={2}, journal={Cell Reports}, publisher={Elsevier
+  BV}, author={Feng, Yu and Diego, Keziah S. and Dong, Zhe and Christenson Wick, Zoé
+  and Page-Harley, Lucia and Page-Harley, Veronica and Schnipper, Julia and Lamsifer,
+  Sophia I. and Pennington, Zachary T. and Vetere, Lauren M. and Philipsberg, Paul
+  A. and Soler, Ivan and Jurkowski, Albert and Rosado, Christin J. and Khan, Nadia
+  N. and Cai, Denise J. and Shuman, Tristan}, year={2025}, month=feb, pages={115131}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

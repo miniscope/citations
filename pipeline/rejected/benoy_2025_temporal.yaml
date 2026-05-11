@@ -1,0 +1,62 @@
+doi: 10.1111/ejn.70258
+openalex_id: W4414408969
+pmid: null
+pmcid: null
+title: 'Temporal Flexibility in Associative Memory: Insights From Synaptic Tagging
+  and Capture'
+authors:
+- first: Amrita
+  last: Benoy
+- first: Dorothy
+  last: Tse
+journal: European Journal of Neuroscience
+publication_year: 2025
+publication_date: '2025-09-01'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Benoy_2025, title={Temporal Flexibility in Associative Memory:
+  Insights From Synaptic Tagging and Capture}, volume={62}, ISSN={1460-9568}, url={http://dx.doi.org/10.1111/ejn.70258},
+  DOI={10.1111/ejn.70258}, number={6}, journal={European Journal of Neuroscience},
+  publisher={Wiley}, author={Benoy, Amrita and Tse, Dorothy}, year={2025}, month=sep
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.85
+  tools_identified: []
+  evidence: []
+  paper_type: review
+  suggested_component: null
+  suggested_technique: null
+  reasoning: >-
+    This paper is a review focused on synaptic tagging and capture (STC) as a mechanism
+    for temporal flexibility in associative memory. It cites Cai et al. 2016 for the
+    scientific finding that memories formed close in time become linked, which is relevant
+    to STC theory. No full text was available for tool-mention search. Based on the title,
+    authors (Benoy and Tse are not Miniscope developers), journal (European Journal of
+    Neuroscience), and subject matter (molecular/synaptic-level memory consolidation
+    mechanisms), this paper almost certainly cites the seed paper for its scientific
+    context (temporal memory linking) rather than for any connection to Miniscope tools.
+    Confidence is 0.85 rather than higher because no full text was available to confirm
+    the absence of tool mentions.
+  related_to_project: false
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321510+00:00'
+- stage: reviewed
+  timestamp: '2026-04-13'
+- stage: rejected
+  timestamp: '2026-04-13'

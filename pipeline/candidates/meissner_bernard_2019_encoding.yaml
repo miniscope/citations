@@ -23,8 +23,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Meissner_Bernard_2019, title={Encoding of Odor Fear Memories
+  in the Mouse Olfactory Cortex}, volume={29}, ISSN={0960-9822}, url={http://dx.doi.org/10.1016/j.cub.2018.12.003},
+  DOI={10.1016/j.cub.2018.12.003}, number={3}, journal={Current Biology}, publisher={Elsevier
+  BV}, author={Meissner-Bernard, Claire and Dembitskaya, Yulia and Venance, Laurent
+  and Fleischmann, Alexander}, year={2019}, month=feb, pages={367-380.e4} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

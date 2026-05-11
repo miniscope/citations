@@ -1,7 +1,7 @@
 doi: 10.1101/2024.05.14.593969
 openalex_id: W4396935900
 pmid: null
-pmcid: null
+pmcid: PMC11118491
 title: Early and widespread cerebellar engagement during hippocampal seizures and
   interictal discharges
 authors:
@@ -32,10 +32,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Streng_2024, title={Early and widespread cerebellar engagement
+  during hippocampal seizures and interictal discharges}, url={http://dx.doi.org/10.1101/2024.05.14.593969},
+  DOI={10.1101/2024.05.14.593969}, publisher={openRxiv}, author={Streng, M.L. and
+  Kottke, B.W. and Wasserman, E.M. and Zecker, L. and Luong, L. and Kodandaramaiah,
+  S. and Ebner, T.J. and Krook-Magnuson, E.}, year={2024}, month=may }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

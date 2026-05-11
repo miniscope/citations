@@ -1,7 +1,7 @@
 doi: 10.1002/smll.202409571
 openalex_id: W4405916781
 pmid: null
-pmcid: null
+pmcid: PMC11817906
 title: 'Heart‐on‐a‐Miniscope: A Miniaturized Solution for Electrophysiological Drug
   Screening in Cardiac Organoids'
 authors:
@@ -34,10 +34,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Tirgar_2024, title={Heart‐on‐a‐Miniscope: A Miniaturized Solution
+  for Electrophysiological Drug Screening in Cardiac Organoids}, volume={21}, ISSN={1613-6829},
+  url={http://dx.doi.org/10.1002/smll.202409571}, DOI={10.1002/smll.202409571}, number={6},
+  journal={Small}, publisher={Wiley}, author={Tirgar, Pouria and Vikstrom, Abigail
+  and Sepúlveda, José Miguel Romero and Srivastava, Luv Kishore and Amini, Ali and
+  Tabata, Tomoka and Higo, Shuichiro and Bub, Gil and Ehrlicher, Allen}, year={2024},
+  month=dec }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

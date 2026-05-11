@@ -1,0 +1,87 @@
+doi: 10.1101/2020.05.14.095299
+openalex_id: W3025124325
+pmid: null
+pmcid: null
+title: Extended field-of-view ultrathin microendoscopes for high-resolution two-photon
+  imaging with minimal invasiveness in awake mice
+authors:
+- first: Andrea
+  last: Antonini
+- first: Andrea
+  last: Sattin
+- first: Monica
+  last: Moroni
+- first: Serena
+  last: Bovetti
+- first: Claudio
+  last: Moretti
+- first: Francesca
+  last: Succol
+- first: Angelo
+  last: Forli
+- first: Dania
+  last: Vecchia
+- first: Vijayakumar P.
+  last: Rajamanickam
+- first: Andrea
+  last: Bertoncini
+- first: Stefano
+  last: Panzeri
+- first: Carlo
+  last: Liberale
+- first: Tommaso
+  last: Fellin
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2020
+publication_date: '2020-05-14'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2020/05/14/2020.05.14.095299.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Antonini_2020, title={Extended field-of-view ultrathin microendoscopes
+  for high-resolution two-photon imaging with minimal invasiveness in awake mice},
+  url={http://dx.doi.org/10.1101/2020.05.14.095299}, DOI={10.1101/2020.05.14.095299},
+  publisher={openRxiv}, author={Antonini, Andrea and Sattin, Andrea and Moroni, Monica
+  and Bovetti, Serena and Moretti, Claudio and Succol, Francesca and Forli, Angelo
+  and Vecchia, Dania and Rajamanickam, Vijayakumar P. and Bertoncini, Andrea and Panzeri,
+  Stefano and Liberale, Carlo and Fellin, Tommaso}, year={2020}, month=may }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.95
+  tools_identified: []
+  evidence:
+  - Abstract describes 'correcting optical aberrations in gradient index lens-based
+    ultrathin microendoscopes using aspheric microlenses generated through 3D-microprinting'
+    for tabletop two-photon imaging
+  - No mentions of 'miniscope', 'UCLA', 'miniature microscope', 'Minian', 'MiniLFOV',
+    'MiniXL', 'Miniscope DAQ', or any UCLA Miniscope tool aliases found in full text
+  - Paper develops eFOV-microendoscopes for use with standard two-photon microscope
+    setups in head-fixed mice, not head-mounted miniature microscopes
+  paper_type: unrelated
+  suggested_component: null
+  suggested_technique: null
+  reasoning: This paper describes the design and validation of extended field-of-view
+    ultrathin GRIN lens microendoscopes for tabletop two-photon microscopy in head-fixed
+    mice. It cites the seed paper (Shuman et al. 2019) purely as scientific context
+    for deep brain imaging approaches. There is no use of, extension of, or connection
+    to any UCLA Miniscope family tool. The paper is from Istituto Italiano di Tecnologia
+    (Fellin lab) and concerns a fundamentally different imaging modality (tabletop
+    2P with GRIN lenses) from head-mounted single-photon miniscopes.
+  related_to_project: false
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.375602+00:00'
+- stage: rejected
+  timestamp: '2026-04-10'

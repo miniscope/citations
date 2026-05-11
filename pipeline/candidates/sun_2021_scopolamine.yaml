@@ -1,7 +1,7 @@
 doi: 10.3389/fnins.2021.640350
 openalex_id: W3138223377
 pmid: null
-pmcid: null
+pmcid: PMC8017225
 title: Scopolamine Impairs Spatial Information Recorded With “Miniscope” Calcium Imaging
   in Hippocampal Place Cells
 authors:
@@ -22,10 +22,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sun_2021, title={Scopolamine Impairs Spatial Information Recorded
+  With “Miniscope” Calcium Imaging in Hippocampal Place Cells}, volume={15}, ISSN={1662-453X},
+  url={http://dx.doi.org/10.3389/fnins.2021.640350}, DOI={10.3389/fnins.2021.640350},
+  journal={Frontiers in Neuroscience}, publisher={Frontiers Media SA}, author={Sun,
+  Dechuan and Unnithan, Ranjith Rajasekharan and French, Chris}, year={2021}, month=mar
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

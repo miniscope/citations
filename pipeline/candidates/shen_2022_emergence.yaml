@@ -1,7 +1,7 @@
 doi: 10.1186/s13041-021-00885-5
 openalex_id: W4205152053
 pmid: null
-pmcid: null
+pmcid: PMC8728933
 title: The emergence of molecular systems neuroscience
 authors:
 - first: Yang
@@ -25,10 +25,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Shen_2022, title={The emergence of molecular systems neuroscience},
+  volume={15}, ISSN={1756-6606}, url={http://dx.doi.org/10.1186/s13041-021-00885-5},
+  DOI={10.1186/s13041-021-00885-5}, number={1}, journal={Molecular Brain}, publisher={Springer
+  Science and Business Media LLC}, author={Shen, Yang and Luchetti, Alessandro and
+  Fernandes, Giselle and Do Heo, Won and Silva, Alcino J.}, year={2022}, month=jan
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

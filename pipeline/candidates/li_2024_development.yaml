@@ -30,8 +30,15 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Li_2024, title={Development of a large stroke 3-DOF piezoelectric
+  steering mirror for optical system}, volume={378}, ISSN={0924-4247}, url={http://dx.doi.org/10.1016/j.sna.2024.115824},
+  DOI={10.1016/j.sna.2024.115824}, journal={Sensors and Actuators A: Physical}, publisher={Elsevier
+  BV}, author={Li, Shuang and Jia, Botao and Wang, Liang and An, Haitao and Zhang,
+  Dandan and Wang, Ruijun and Zhao, Chunsheng}, year={2024}, month=nov, pages={115824}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

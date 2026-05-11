@@ -22,8 +22,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Bin_Ibrahim_2021, title={Long‐term plasticity in the hippocampus:
+  maintaining within and ‘tagging’ between synapses}, volume={289}, ISSN={1742-4658},
+  url={http://dx.doi.org/10.1111/febs.16065}, DOI={10.1111/febs.16065}, number={8},
+  journal={The FEBS Journal}, publisher={Wiley}, author={Bin Ibrahim, Mohammad Zaki
+  and Benoy, Amrita and Sajikumar, Sreedharan}, year={2021}, month=jun, pages={2176–2201}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

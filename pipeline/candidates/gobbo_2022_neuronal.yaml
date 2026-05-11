@@ -1,7 +1,7 @@
 doi: 10.1073/pnas.2212152119
 openalex_id: W4307188347
 pmid: null
-pmcid: null
+pmcid: PMC9636941
 title: Neuronal signature of spatial decision-making during navigation by freely moving
   rats by using calcium imaging
 authors:
@@ -30,10 +30,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Gobbo_2022, title={Neuronal signature of spatial decision-making
+  during navigation by freely moving rats by using calcium imaging}, volume={119},
+  ISSN={1091-6490}, url={http://dx.doi.org/10.1073/pnas.2212152119}, DOI={10.1073/pnas.2212152119},
+  number={44}, journal={Proceedings of the National Academy of Sciences}, publisher={Proceedings
+  of the National Academy of Sciences}, author={Gobbo, Francesco and Mitchell-Heggs,
+  Rufus and Tse, Dorothy and Al Omrani, Meera and Spooner, Patrick A. and Schultz,
+  Simon R. and Morris, Richard G. M.}, year={2022}, month=oct }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

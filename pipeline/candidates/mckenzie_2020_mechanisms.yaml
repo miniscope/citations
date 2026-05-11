@@ -1,7 +1,7 @@
 doi: 10.1098/rstb.2019.0237
 openalex_id: W3014247659
 pmid: null
-pmcid: null
+pmcid: PMC7209923
 title: Mechanisms of neural organization and rhythmogenesis during hippocampal and
   cortical ripples
 authors:
@@ -22,10 +22,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{McKenzie_2020, title={Mechanisms of neural organization and
+  rhythmogenesis during hippocampal and cortical ripples}, volume={375}, ISSN={1471-2970},
+  url={http://dx.doi.org/10.1098/rstb.2019.0237}, DOI={10.1098/rstb.2019.0237}, number={1799},
+  journal={Philosophical Transactions of the Royal Society B: Biological Sciences},
+  publisher={The Royal Society}, author={McKenzie, Sam and Nitzan, Noam and English,
+  Daniel F.}, year={2020}, month=apr, pages={20190237} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

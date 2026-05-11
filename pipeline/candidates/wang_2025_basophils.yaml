@@ -35,8 +35,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Wang_2026, title={Basophils activate oncostatin M receptor–expressing
+  vagal sensory neurons}, volume={157}, ISSN={0091-6749}, url={http://dx.doi.org/10.1016/j.jaci.2025.10.027},
+  DOI={10.1016/j.jaci.2025.10.027}, number={2}, journal={Journal of Allergy and Clinical
+  Immunology}, publisher={Elsevier BV}, author={Wang, Jo-Chiao and Park, Kicheon and
+  Roger, Anais and Nikpoor, Amin Reza and Crosson, Theo and Sunwoo, Hoon James and
+  Kaufmann, Eva and Rafei, Moutih and Chang, Eric H. and Talbot, Sebastien}, year={2026},
+  month=feb, pages={346–362} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

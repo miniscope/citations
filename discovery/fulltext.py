@@ -20,6 +20,7 @@ import sys
 import time
 from pathlib import Path
 
+import pymupdf
 import requests
 import yaml
 
@@ -77,6 +78,19 @@ def _strip_html(html):
     return text.strip()
 
 
+def _extract_text_from_pdf(pdf_bytes):
+    """Extract text from PDF bytes using PyMuPDF."""
+    try:
+        doc = pymupdf.open(stream=pdf_bytes, filetype="pdf")
+        pages = [page.get_text() for page in doc]
+        doc.close()
+        text = "\n".join(pages)
+        text = re.sub(r"\s+", " ", text).strip()
+        return text if len(text) > 50 else None
+    except Exception:
+        return None
+
+
 def _fetch_pmc_fulltext(pmcid):
     """Fetch full text from PubMed Central via the OA web service."""
     if not pmcid:
@@ -128,19 +142,42 @@ def _fetch_unpaywall_text(doi, email):
     if not best:
         return None, None
 
-    # Prefer HTML page over PDF (easier to extract text)
-    url = best.get("url") or best.get("url_for_pdf")
-    if not url:
-        return None, None
+    html_url = best.get("url")
+    pdf_url = best.get("url_for_pdf")
 
-    try:
-        resp = requests.get(url, timeout=30, headers={"User-Agent": "CitationDiscovery/1.0"})
-        if resp.status_code == 200 and len(resp.text) > 100:
-            text = _strip_html(resp.text)
-            if len(text) > 50:
-                return text, "unpaywall"
-    except (requests.RequestException, ConnectionError):
-        pass
+    # Try HTML first (cleaner text extraction)
+    if html_url:
+        try:
+            resp = requests.get(
+                html_url, timeout=30,
+                headers={"User-Agent": "CitationDiscovery/1.0"},
+            )
+            if resp.status_code == 200:
+                content_type = resp.headers.get("content-type", "")
+                if "pdf" in content_type or resp.content[:5] == b"%PDF-":
+                    text = _extract_text_from_pdf(resp.content)
+                    if text:
+                        return text, "unpaywall"
+                elif len(resp.text) > 100:
+                    text = _strip_html(resp.text)
+                    if len(text) > 50:
+                        return text, "unpaywall"
+        except (requests.RequestException, ConnectionError):
+            pass
+
+    # Fall back to PDF URL
+    if pdf_url and pdf_url != html_url:
+        try:
+            resp = requests.get(
+                pdf_url, timeout=30,
+                headers={"User-Agent": "CitationDiscovery/1.0"},
+            )
+            if resp.status_code == 200 and resp.content[:5] == b"%PDF-":
+                text = _extract_text_from_pdf(resp.content)
+                if text:
+                    return text, "unpaywall"
+        except (requests.RequestException, ConnectionError):
+            pass
 
     return None, None
 
@@ -230,6 +267,8 @@ def main():
     parser.add_argument("--email", help="Email for Unpaywall API")
     parser.add_argument("--stage", default="candidates",
                         help="Pipeline stage to process (default: candidates)")
+    parser.add_argument("--repair", action="store_true",
+                        help="Re-fetch only candidates with missing or binary .txt files")
     args = parser.parse_args()
 
     # Load email from config if not provided
@@ -246,6 +285,20 @@ def main():
         repo_root = Path(__file__).resolve().parent.parent
         stage_dir = repo_root / "pipeline" / args.stage
         yaml_files = sorted(stage_dir.glob("*.yaml"))
+
+    if args.repair:
+        # Only process candidates with missing or binary (PDF) .txt files
+        def _needs_repair(yaml_path):
+            txt_path = yaml_path.with_suffix(".txt")
+            if not txt_path.exists():
+                return True
+            content = txt_path.read_bytes()
+            if content[:5] == b"%PDF-":
+                return True
+            return False
+
+        yaml_files = [f for f in yaml_files if _needs_repair(f)]
+        print(f"Repair mode: {len(yaml_files)} candidates need full text re-fetch")
 
     stats = {"bibtex": 0, "fulltext": 0, "total": 0}
     for yaml_path in yaml_files:

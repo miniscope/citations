@@ -1,7 +1,7 @@
 doi: 10.1038/s41422-018-0121-8
 openalex_id: W2903359164
 pmid: null
-pmcid: null
+pmcid: PMC6318321
 title: m6A-epitranscriptome modulates memory strength
 authors:
 - first: Sebastian
@@ -19,10 +19,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Kr_ttner_2018, title={m6A-epitranscriptome modulates memory
+  strength}, volume={29}, ISSN={1748-7838}, url={http://dx.doi.org/10.1038/s41422-018-0121-8},
+  DOI={10.1038/s41422-018-0121-8}, number={1}, journal={Cell Research}, publisher={Springer
+  Science and Business Media LLC}, author={Krüttner, Sebastian and Caroni, Pico},
+  year={2018}, month=dec, pages={4–5} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

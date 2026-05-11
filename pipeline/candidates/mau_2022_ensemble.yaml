@@ -37,10 +37,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Mau_2022, title={Ensemble remodeling supports memory-updating},
+  url={http://dx.doi.org/10.1101/2022.06.02.494530}, DOI={10.1101/2022.06.02.494530},
+  publisher={openRxiv}, author={Mau, William and Baggetta, Austin M. and Dong, Zhe
+  and Sweis, Brian M. and Morales-Rodriguez, Denisse and Pennington, Zachary T. and
+  Francisco, Taylor and Freedman, David J. and Baxter, Mark G. and Shuman, Tristan
+  and Cai, Denise J.}, year={2022}, month=jun }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

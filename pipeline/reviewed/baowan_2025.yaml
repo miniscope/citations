@@ -1,0 +1,69 @@
+doi: 10.3788/lop251328
+openalex_id: W4414268041
+pmid: null
+pmcid: null
+title: 头戴式小型化显微镜在脑科学研究中的进展（特邀）
+authors:
+- first: 李宝万 Li
+  last: Baowan
+- first: 谢冕 Xie
+  last: Mian
+- first: 刘文灏 Liu
+  last: Wenhao
+- first: 赵唯淞 Zhao
+  last: Weisong
+- first: 李浩宇 Li
+  last: Haoyu
+- first: 郭长亮 Guo
+  last: Changliang
+journal: Laser & Optoelectronics Progress
+publication_year: 2025
+publication_date: '2025-01-01'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Li_Baowan_2025, title={头戴式小型化显微镜在脑科学研究中的进展（特邀）}, volume={62},
+  ISSN={1006-4125}, url={http://dx.doi.org/10.3788/lop251328}, DOI={10.3788/lop251328},
+  number={18}, journal={Laser &amp; Optoelectronics Progress}, publisher={Shanghai
+  Institute of Optics and Fine Mechanics}, author={Li Baowan, 李宝万 and Xie Mian, 谢冕
+  and Liu Wenhao, 刘文灏 and Zhao Weisong, 赵唯淞 and Li Haoyu, 李浩宇 and Guo Changliang,
+  郭长亮}, year={2025}, pages={1817009} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: true
+  confidence: 0.45
+  tools_identified:
+  - UCLA Miniscope v4
+  evidence:
+  - "Title: 头戴式小型化显微镜在脑科学研究中的进展（特邀） (Progress of Head-Mounted Miniaturized Microscopes in Brain Science Research, Invited Review)"
+  - "Cites seed paper Shuman et al. 2019 (UCLA Miniscope v4, doi:10.1038/s41593-019-0559-0)"
+  paper_type: review
+  suggested_component: UCLA Miniscope v4
+  suggested_technique: null
+  reasoning: >
+    This is an invited review paper in a Chinese optics journal covering progress in
+    head-mounted miniaturized microscopes for brain science research. It cites the UCLA
+    Miniscope v4 seed paper (Shuman et al. 2019), indicating the UCLA Miniscope is
+    discussed or referenced in this review. The subject matter -- head-mounted miniature
+    microscopes -- is the exact domain of the UCLA Miniscope family. However, no full
+    text or abstract is available to confirm the extent of discussion or identify specific
+    tool mentions. Confidence is capped at 0.45 due to lack of full text. Marked as
+    related because a review of miniature microscopes that cites the Miniscope v4 paper
+    almost certainly discusses the UCLA Miniscope platform.
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.376422+00:00'
+- stage: reviewed
+  timestamp: '2026-04-11'

@@ -19,8 +19,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Huston_2023, title={Probing the nature of episodic memory in
+  rodents}, volume={144}, ISSN={0149-7634}, url={http://dx.doi.org/10.1016/j.neubiorev.2022.104930},
+  DOI={10.1016/j.neubiorev.2022.104930}, journal={Neuroscience &amp; Biobehavioral
+  Reviews}, publisher={Elsevier BV}, author={Huston, Joseph P. and Chao, Owen Y.},
+  year={2023}, month=jan, pages={104930} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

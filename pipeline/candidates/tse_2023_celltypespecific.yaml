@@ -1,7 +1,7 @@
 doi: 10.1073/pnas.2307275120
 openalex_id: W4388406901
 pmid: null
-pmcid: null
+pmcid: PMC10655220
 title: Cell-type-specific optogenetic stimulation of the locus coeruleus induces slow-onset
   potentiation and enhances everyday memory in rats
 authors:
@@ -32,10 +32,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Tse_2023, title={Cell-type-specific optogenetic stimulation
+  of the locus coeruleus induces slow-onset potentiation and enhances everyday memory
+  in rats}, volume={120}, ISSN={1091-6490}, url={http://dx.doi.org/10.1073/pnas.2307275120},
+  DOI={10.1073/pnas.2307275120}, number={46}, journal={Proceedings of the National
+  Academy of Sciences}, publisher={Proceedings of the National Academy of Sciences},
+  author={Tse, Dorothy and Privitera, Lucia and Norton, Anna C. and Gobbo, Francesco
+  and Spooner, Patrick and Takeuchi, Tomonori and Martin, Stephen J. and Morris, Richard
+  G. M.}, year={2023}, month=nov }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

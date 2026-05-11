@@ -21,10 +21,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Jun_2023, title={Hippocampal Neuronal Activity Preceding Stimulus
+  Predicts Later Memory Success}, volume={10}, ISSN={2373-2822}, url={http://dx.doi.org/10.1523/eneuro.0252-22.2023},
+  DOI={10.1523/eneuro.0252-22.2023}, number={2}, journal={eneuro}, publisher={Society
+  for Neuroscience}, author={Jun, Soyeon and Kim, June Sic and Chung, Chun Kee}, year={2023},
+  month=jan, pages={ENEURO.0252-22.2023} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

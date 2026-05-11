@@ -1,7 +1,7 @@
 doi: 10.3390/ijms26157180
 openalex_id: W4412711638
 pmid: null
-pmcid: null
+pmcid: PMC12346443
 title: AI-Powered Mice Behavior Tracking and Its Application for Neuronal Manifold
   Analysis Based on Hippocampal Ensemble Activity in an Alzheimer’s Disease Mice Model
 authors:
@@ -26,10 +26,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Gerasimov_2025, title={AI-Powered Mice Behavior Tracking and
+  Its Application for Neuronal Manifold Analysis Based on Hippocampal Ensemble Activity
+  in an Alzheimer’s Disease Mice Model}, volume={26}, ISSN={1422-0067}, url={http://dx.doi.org/10.3390/ijms26157180},
+  DOI={10.3390/ijms26157180}, number={15}, journal={International Journal of Molecular
+  Sciences}, publisher={MDPI AG}, author={Gerasimov, Evgenii and Karasev, Viacheslav
+  and Umnov, Sergey and Chukanov, Viacheslav and Pchitskaya, Ekaterina}, year={2025},
+  month=jul, pages={7180} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,0 +1,63 @@
+doi: 10.1016/j.pneurobio.2022.102290
+openalex_id: W4281723154
+pmid: null
+pmcid: null
+title: Technologies for large-scale mapping of functional neural circuits active during
+  a user-defined time window
+authors:
+- first: Natalia V.
+  last: Barykina
+- first: Maksim M.
+  last: Karasev
+- first: Vladislav V.
+  last: Verkhusha
+- first: Daria M.
+  last: Shcherbakova
+journal: Progress in Neurobiology
+publication_year: 2022
+publication_date: '2022-05-30'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Barykina_2022, title={Technologies for large-scale mapping
+  of functional neural circuits active during a user-defined time window}, volume={216},
+  ISSN={0301-0082}, url={http://dx.doi.org/10.1016/j.pneurobio.2022.102290}, DOI={10.1016/j.pneurobio.2022.102290},
+  journal={Progress in Neurobiology}, publisher={Elsevier BV}, author={Barykina, Natalia
+  V. and Karasev, Maksim M. and Verkhusha, Vladislav V. and Shcherbakova, Daria M.},
+  year={2022}, month=sep, pages={102290} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: completed
+  uses_tool: false
+  confidence: 0.95
+  tools_identified: []
+  evidence: []
+  paper_type: unrelated
+  suggested_component: null
+  suggested_technique: null
+  reasoning: >-
+    This review covers activity-dependent neural labeling technologies (CaMPARI,
+    Cal-Light, FLARE, iTango, IEGs, optogenetics) for marking active neurons
+    during defined time windows. It cites the seed paper Cai et al. 2016 for the
+    CaMPARI calcium integrator molecule, which is purely scientific context with
+    no connection to UCLA Miniscope hardware or software tools. The abstract
+    contains no mention of miniscopes, miniature microscopes, calcium imaging
+    hardware, or any tools in the project family.
+  related_to_project: false
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320826+00:00'
+- stage: rejected
+  timestamp: '2026-04-11'
+  reason: Cites seed paper for CaMPARI molecular tool context only; no miniscope tool connection

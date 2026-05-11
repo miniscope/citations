@@ -34,10 +34,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Klimmt_2025, title={Learning reorganizes dendritic and stabilizes
+  axonal initial segment inhibitory synapses in CA1 pyramidal neurons}, url={http://dx.doi.org/10.1101/2025.03.04.641429},
+  DOI={10.1101/2025.03.04.641429}, publisher={openRxiv}, author={Klimmt, H. and Kappel,
+  D. and Ulivi, A.F. and Argunsah, A.Ö. and Murthy, B. and Somatakis, S. and Huettl,
+  R.E. and Remy, S. and Attardo, A.}, year={2025}, month=mar }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

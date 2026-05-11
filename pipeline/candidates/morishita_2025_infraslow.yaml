@@ -38,10 +38,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Morishita_2025, title={Infraslow histaminergic dynamics govern
+  priming states to gate moment-to-moment memory accessibility}, url={http://dx.doi.org/10.1101/2025.11.13.687922},
+  DOI={10.1101/2025.11.13.687922}, publisher={openRxiv}, author={Morishita, Yoshikazu
+  and Takamura, Yuki and Nishimura, Kyoka and Yokoi, Yuto and Ishihama, Yuya and Idutsu,
+  Rentaro and Ono, Misato and Matsumoto, Reika and Hitora-Imamura, Natsuko and Minami,
+  Masabumi and Nomura, Hiroshi}, year={2025}, month=nov }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

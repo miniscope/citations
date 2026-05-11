@@ -1,7 +1,7 @@
 doi: 10.3390/brainsci13081149
 openalex_id: W4385421389
 pmid: null
-pmcid: null
+pmcid: PMC10452117
 title: Differences in the EEG Power Spectrum and Cross-Frequency Coupling Patterns
   between Young and Elderly Patients during Sevoflurane Anesthesia
 authors:
@@ -36,10 +36,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhang_2023, title={Differences in the EEG Power Spectrum and
+  Cross-Frequency Coupling Patterns between Young and Elderly Patients during Sevoflurane
+  Anesthesia}, volume={13}, ISSN={2076-3425}, url={http://dx.doi.org/10.3390/brainsci13081149},
+  DOI={10.3390/brainsci13081149}, number={8}, journal={Brain Sciences}, publisher={MDPI
+  AG}, author={Zhang, Xinxin and Li, Ao and Wang, Sa and Wang, Tingting and Liu, Tiantian
+  and Wang, Yonghui and Fu, Jingwen and Zhao, Guangchao and Yang, Qianzi and Dong,
+  Hailong}, year={2023}, month=jul, pages={1149} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

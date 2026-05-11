@@ -1,0 +1,62 @@
+doi: null
+openalex_id: W2955342859
+pmid: null
+pmcid: null
+title: Interleaved training prevents catastrophic forgetting in spiking neural networks
+authors:
+- first: Maxim
+  last: Bazhenov
+- first: Ryan
+  last: Golden
+- first: Jean Erik
+  last: Delanois
+journal: null
+publication_year: 2019
+publication_date: '2019-07-01'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: |
+  @article{golden_2022_sleep,
+    title={Sleep prevents catastrophic forgetting in spiking neural networks by forming a joint synaptic weight representation},
+    author={Golden, Ryan and Delanois, Jean Erik and Sanda, Pavel and Bazhenov, Maxim},
+    journal={PLoS Computational Biology},
+    volume={18},
+    number={11},
+    pages={e1010628},
+    year={2022},
+    doi={10.1371/journal.pcbi.1010628}
+  }
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.95
+  tools_identified: []
+  evidence: []
+  paper_type: unrelated
+  suggested_component: null
+  suggested_technique: null
+  reasoning: >
+    This is a purely computational neuroscience paper modeling catastrophic
+    forgetting in spiking neural networks and the role of sleep-like offline
+    reactivation. The 2019 preprint (OpenAlex W2955342859) cited Cai et al.
+    2016 (seed paper), but the published 2022 version (PLoS Comput Biol,
+    DOI:10.1371/journal.pcbi.1010628) dropped that reference entirely. The
+    full text contains zero mentions of miniscope, miniature microscope,
+    calcium imaging, UCLA, GCaMP, or any related tool. The paper uses the
+    seed paper citation purely for scientific context about memory
+    consolidation, with no connection to any Miniscope hardware or software.
+  related_to_project: false
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324505+00:00'

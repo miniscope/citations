@@ -21,10 +21,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Hashemi_2025, title={Robust Input Disentanglement Through Dendritic
+  Calcium-Mediated Action Potentials}, url={http://dx.doi.org/10.1101/2025.06.10.658823},
+  DOI={10.1101/2025.06.10.658823}, publisher={openRxiv}, author={Hashemi, Sima and
+  Shafiee, Shirin and Tetzlaff, Christian}, year={2025}, month=jun }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

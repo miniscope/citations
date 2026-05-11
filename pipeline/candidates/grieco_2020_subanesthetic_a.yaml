@@ -38,10 +38,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Grieco_2020, title={Subanesthetic ketamine reactivates adult
+  cortical plasticity to restore vision from amblyopia}, url={http://dx.doi.org/10.1101/2020.03.16.994475},
+  DOI={10.1101/2020.03.16.994475}, publisher={openRxiv}, author={Grieco, Steven F.
+  and Qiao, Xin and Zheng, Xiaoting and Liu, Yongjun and Chen, Lujia and Zhang, Hai
+  and Gavornik, Jeffrey and Lai, Cary and Gandhi, Sunil and Holmes, Todd C. and Xu,
+  Xiangmin}, year={2020}, month=mar }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

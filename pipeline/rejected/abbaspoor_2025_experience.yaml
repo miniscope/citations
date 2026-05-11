@@ -1,7 +1,7 @@
 doi: 10.1101/2025.04.08.647787
 openalex_id: W4409502185
 pmid: null
-pmcid: null
+pmcid: PMC12363849
 title: Experience reorganizes content-specific memory traces in macaques
 authors:
 - first: Saman
@@ -24,13 +24,16 @@ batch_id: backlog_2026-04-10
 bibtex_raw: ' @article{Abbaspoor_2025, title={Experience reorganizes content-specific
   memory traces in macaques}, url={http://dx.doi.org/10.1101/2025.04.08.647787}, DOI={10.1101/2025.04.08.647787},
   publisher={openRxiv}, author={Abbaspoor, Saman and Aljishi, Ayman and Hoffman, Kari
-  L.}, year={2025}, month=apr }'
+  L.}, year={2025}, month=apr }
+
+  '
 bibtex_source: crossref
 fulltext:
-  source: biorxiv
+  source: pmc
   pdf_local_path: null
 analysis:
   status: completed
+  related_to_project: false
   uses_tool: false
   confidence: 0.95
   tools_identified: []
@@ -38,13 +41,12 @@ analysis:
   paper_type: science
   suggested_component: null
   suggested_technique: null
-  reasoning: >-
-    This paper studies memory formation via electrophysiology in freely moving
-    macaques (primates), recording neural ensemble activity from hippocampal regions.
-    The abstract mentions cell assemblies, CA1 pyramidal cells, and sleep reactivation
-    but makes no reference to any Miniscope, miniature microscope, or calcium imaging.
-    The UCLA Miniscope is designed for mice/rats, not macaques. The citation to Cai et al.
-    2016 is about memory linking concepts, not the Miniscope tool.
+  reasoning: This paper studies memory formation via electrophysiology in freely moving
+    macaques (primates), recording neural ensemble activity from hippocampal and associated
+    regions. The full text contains no mention of any Miniscope, miniature microscope,
+    calcium imaging, GCaMP, or any related tool. The citation to Cai et al. 2016
+    (ref 70) is purely for the scientific concept of shared neural ensembles linking
+    contextual memories, with no connection to the Miniscope tool.
 stage: rejected
 stage_history:
 - stage: candidate

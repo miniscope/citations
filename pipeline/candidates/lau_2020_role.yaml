@@ -1,7 +1,7 @@
 doi: 10.1016/j.nlm.2020.107284
 openalex_id: W3046642199
 pmid: null
-pmcid: null
+pmcid: PMC7583262
 title: The role of neuronal excitability, allocation to an engram and memory linking
   in the behavioral generation of a false memory in mice
 authors:
@@ -28,10 +28,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lau_2020, title={The role of neuronal excitability, allocation
+  to an engram and memory linking in the behavioral generation of a false memory in
+  mice}, volume={174}, ISSN={1074-7427}, url={http://dx.doi.org/10.1016/j.nlm.2020.107284},
+  DOI={10.1016/j.nlm.2020.107284}, journal={Neurobiology of Learning and Memory},
+  publisher={Elsevier BV}, author={Lau, Jocelyn M.H. and Rashid, Asim J. and Jacob,
+  Alexander D. and Frankland, Paul W. and Schacter, Daniel L. and Josselyn, Sheena
+  A.}, year={2020}, month=oct, pages={107284} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

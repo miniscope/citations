@@ -32,33 +32,42 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Adam_2024, title={Disrupted Hippocampal Theta-Gamma Coupling
+  and Spike-Field Coherence Following Experimental Traumatic Brain Injury}, url={http://dx.doi.org/10.7554/elife.100642},
+  DOI={10.7554/elife.100642}, publisher={eLife Sciences Publications, Ltd}, author={Adam,
+  Christopher D and Mirzakhalili, Ehsan and Gagnon, Kimberly G and Cottone, Carlo
+  and Arena, John D and Ulyanova, Alexandra V and Johnson, Victoria E and Wolf, John
+  A}, year={2024}, month=sep }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: abstract_only
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: reviewed
-  uses_tool: false
+  related_to_project: false
   confidence: 0.95
   tools_identified: []
   evidence:
-  - source: abstract
-    text: "Using high-density laminar electrophysiology, we identified diminished oscillatory
-      magnitude throughout CA1 regions, alongside substantial reductions in theta-gamma
-      phase-amplitude interactions in injured subjects."
-    assessment: "Paper explicitly uses laminar electrophysiology (electrode-based recording),
-      not miniature microscope calcium imaging. No mention of Miniscope, miniature
-      microscope, calcium imaging, GCaMP, or any optical imaging tool."
-  paper_type: primary_research
+  - source: full_text
+    text: Using high-density laminar electrophysiology, we discovered a loss of oscillatory
+      power across CA1 lamina, with a profound, layer-specific reduction in theta-gamma
+      phase amplitude coupling in injured rats.
+    assessment: Paper explicitly uses laminar electrophysiology (electrode-based recording),
+      not miniature microscope calcium imaging. Full-text search found zero mentions
+      of Miniscope, miniature microscope, calcium imaging, GCaMP, MiniLFOV, MiniXL,
+      Minian, 2P Miniscope, or Miniscope DAQ.
+  paper_type: science
   suggested_component: null
   suggested_technique: electrophysiology
-  reasoning: "This paper studies hippocampal theta-gamma coupling and spike-field coherence
-    after traumatic brain injury using high-density laminar electrophysiology. It cites
-    the seed paper (Shuman et al. 2019) for scientific context but does not use any
-    Miniscope lab tools. The methodology is entirely electrode-based (laminar probes,
-    spike sorting, LFP analysis), not optical imaging. Abstract-only analysis but
-    high confidence because the methods are explicitly stated as electrophysiology."
+  reasoning: This paper studies hippocampal theta-gamma coupling and spike-field coherence
+    after traumatic brain injury using high-density laminar electrophysiology in rats.
+    It cites Shuman et al. 2020 (seed paper) purely for scientific context regarding
+    similar electrophysiological deficits in epilepsy, with no connection to Miniscope
+    tools. Full-text analysis confirms the methodology is entirely electrode-based
+    (laminar probes, spike sorting, LFP analysis). No tool from the Miniscope family
+    is mentioned anywhere in the paper.
 stage: rejected
 stage_history:
 - stage: candidate
@@ -66,4 +75,4 @@ stage_history:
 - stage: reviewed
   timestamp: '2026-04-11T04:00:00.000000+00:00'
   result: rejected
-  reason: "Paper uses electrophysiology, not Miniscope tools"
+  reason: Paper uses electrophysiology, not Miniscope tools

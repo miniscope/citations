@@ -26,10 +26,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Hockeimer_2025, title={Leveraging place field repetition to
+  understand positional versus nonpositional inputs to hippocampal field CA1}, volume={14},
+  ISSN={2050-084X}, url={http://dx.doi.org/10.7554/elife.85599}, DOI={10.7554/elife.85599},
+  journal={eLife}, publisher={eLife Sciences Publications, Ltd}, author={Hockeimer,
+  William and Lai, Ruo-Yah and Natrajan, Maanasa and Snider, William and Knierim,
+  James J}, year={2025}, month=apr }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

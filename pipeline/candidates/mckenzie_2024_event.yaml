@@ -1,7 +1,7 @@
 doi: 10.1101/2024.07.30.605900
 openalex_id: W4401190321
 pmid: null
-pmcid: null
+pmcid: PMC11312532
 title: Event boundaries drive norepinephrine release and distinctive neural representations
   of space in the rodent hippocampus
 authors:
@@ -32,10 +32,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{McKenzie_2024, title={Event boundaries drive norepinephrine
+  release and distinctive neural representations of space in the rodent hippocampus},
+  url={http://dx.doi.org/10.1101/2024.07.30.605900}, DOI={10.1101/2024.07.30.605900},
+  publisher={openRxiv}, author={McKenzie, Sam and Sommer, Alexandra L. and Donaldson,
+  Tia N. and Pimentel, Infania and Kakani, Meenakshi and Choi, Irene Jungyeon and
+  Newman, Ehren L. and English, Daniel F.}, year={2024}, month=jul }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

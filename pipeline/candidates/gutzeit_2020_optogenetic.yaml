@@ -1,7 +1,7 @@
 doi: 10.1038/s41386-020-0631-1
 openalex_id: W3004682154
 pmid: null
-pmcid: null
+pmcid: PMC7162965
 title: Optogenetic reactivation of prefrontal social neural ensembles mimics social
   buffering of fear
 authors:
@@ -32,10 +32,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Gutzeit_2020, title={Optogenetic reactivation of prefrontal
+  social neural ensembles mimics social buffering of fear}, volume={45}, ISSN={1740-634X},
+  url={http://dx.doi.org/10.1038/s41386-020-0631-1}, DOI={10.1038/s41386-020-0631-1},
+  number={6}, journal={Neuropsychopharmacology}, publisher={Springer Science and Business
+  Media LLC}, author={Gutzeit, Vanessa A. and Ahuna, Kylia and Santos, Tabia L. and
+  Cunningham, Ashley M. and Sadsad Rooney, Meghin and Muñoz Zamora, Andrea and Denny,
+  Christine A. and Donaldson, Zoe R.}, year={2020}, month=feb, pages={1068–1077} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,7 +1,7 @@
 doi: 10.1016/j.neuron.2021.08.013
 openalex_id: W3197886185
 pmid: null
-pmcid: null
+pmcid: PMC8602755
 title: Orientation selectivity enhances context generalization and generative predictive
   coding in the hippocampus
 authors:
@@ -22,10 +22,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Liu_2021, title={Orientation selectivity enhances context generalization
+  and generative predictive coding in the hippocampus}, volume={109}, ISSN={0896-6273},
+  url={http://dx.doi.org/10.1016/j.neuron.2021.08.013}, DOI={10.1016/j.neuron.2021.08.013},
+  number={22}, journal={Neuron}, publisher={Elsevier BV}, author={Liu, Kefei and Sibille,
+  Jeremie and Dragoi, George}, year={2021}, month=nov, pages={3688-3698.e6} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

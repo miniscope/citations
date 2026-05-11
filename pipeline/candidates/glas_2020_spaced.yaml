@@ -23,10 +23,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Glas_2020, title={Spaced training enhances memory and prefrontal
+  ensemble stability in mice}, url={http://dx.doi.org/10.1101/2020.12.17.417451},
+  DOI={10.1101/2020.12.17.417451}, publisher={openRxiv}, author={Glas, Annet and Hübener,
+  Mark and Bonhoeffer, Tobias and Goltstein, Pieter M.}, year={2020}, month=dec }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

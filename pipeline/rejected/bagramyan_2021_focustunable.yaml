@@ -1,0 +1,73 @@
+doi: 10.1364/prj.418154
+openalex_id: W3143403620
+pmid: null
+pmcid: null
+title: Focus-tunable microscope for imaging small neuronal processes in freely moving
+  animals
+authors:
+- first: Arutyun
+  last: Bagramyan
+- first: Loïc
+  last: Tabourin
+- first: Ali
+  last: Rastqar
+- first: Narges
+  last: Karimi
+- first: Frédéric
+  last: Bretzner
+- first: Tigran
+  last: Galstian
+journal: Photonics Research
+publication_year: 2021
+publication_date: '2021-04-05'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Bagramyan_2021, title={Focus-tunable microscope for imaging
+  small neuronal processes in freely moving animals}, volume={9}, ISSN={2327-9125},
+  url={http://dx.doi.org/10.1364/prj.418154}, DOI={10.1364/prj.418154}, number={7},
+  journal={Photonics Research}, publisher={Optica Publishing Group}, author={Bagramyan,
+  Arutyun and Tabourin, Loïc and Rastqar, Ali and Karimi, Narges and Bretzner, Frédéric
+  and Galstian, Tigran}, year={2021}, month=jun, pages={1300} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.90
+  tools_identified: []
+  evidence:
+  - "Miniature single-photon microscopes have been widely used to image neuronal assemblies
+    in the brain of freely moving animals over the last decade."
+  - "We present a subcellular single-photon imaging device that uses an electrically
+    tunable liquid crystal lens to enable motion-free depth scanning"
+  paper_type: methods
+  suggested_component: null
+  suggested_technique: null
+  reasoning: >-
+    This paper presents an independent focus-tunable miniature microscope using liquid
+    crystal lens technology developed at Universite Laval (Canada). It cites Cai et al.
+    2016 and Ghosh et al. 2011 as foundational prior work in the miniaturized microscopy
+    field, but does NOT use, extend, or build upon any UCLA Miniscope tool. The device
+    described is a completely separate design with different optical architecture (liquid
+    crystal tunable lens vs. fixed GRIN lens). The citations to seed papers serve purely
+    as scientific context for the broader field of head-mounted miniature microscopes.
+    No mentions of UCLA Miniscope, Miniscope v4, MiniLFOV, MiniXL, Minian, 2P Miniscope,
+    or Miniscope DAQ found. Rejected: cites seed papers for context only with no tool
+    connection.
+  related_to_project: false
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320853+00:00'
+- stage: rejected
+  timestamp: '2026-04-11'

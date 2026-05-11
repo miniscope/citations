@@ -1,7 +1,7 @@
 doi: 10.3389/fncel.2022.820378
 openalex_id: W4221055903
 pmid: null
-pmcid: null
+pmcid: PMC8989074
 title: RNA N6-Methyladenosine Modifications and Its Roles in Alzheimer’s Disease
 authors:
 - first: Runjiao
@@ -25,10 +25,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhang_2022, title={RNA N6-Methyladenosine Modifications and
+  Its Roles in Alzheimer’s Disease}, volume={16}, ISSN={1662-5102}, url={http://dx.doi.org/10.3389/fncel.2022.820378},
+  DOI={10.3389/fncel.2022.820378}, journal={Frontiers in Cellular Neuroscience}, publisher={Frontiers
+  Media SA}, author={Zhang, Runjiao and Zhang, Yizhou and Guo, Fangzhen and Li, Sha
+  and Cui, Huixian}, year={2022}, month=mar }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

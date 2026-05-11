@@ -32,10 +32,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Yu_2023, title={Engineering a data processing pipeline for
+  an ultra-lightweight lensless fluorescence imaging device with neuronal-cluster
+  resolution}, volume={28}, ISSN={1614-7456}, url={http://dx.doi.org/10.1007/s10015-023-00875-x},
+  DOI={10.1007/s10015-023-00875-x}, number={3}, journal={Artificial Life and Robotics},
+  publisher={Springer Science and Business Media LLC}, author={Yu, Zihao and Guinto,
+  Mark Christian S. G. and Lim, Brian Godwin S. and Tan, Renzo Roel P. and Yoshimoto,
+  Junichiro and Ikeda, Kazushi and Ohta, Yasumi and Ohta, Jun}, year={2023}, month=jun,
+  pages={483–495} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

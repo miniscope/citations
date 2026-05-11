@@ -1,7 +1,7 @@
 doi: 10.1038/s44287-024-00121-x
 openalex_id: W4405419464
 pmid: null
-pmcid: null
+pmcid: PMC12183007
 title: Innovating beyond electrophysiology through multimodal neural interfaces
 authors:
 - first: Mehrdad
@@ -23,10 +23,17 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Ramezani_2024, title={Innovating beyond electrophysiology through
+  multimodal neural interfaces}, volume={2}, ISSN={2948-1201}, url={http://dx.doi.org/10.1038/s44287-024-00121-x},
+  DOI={10.1038/s44287-024-00121-x}, number={1}, journal={Nature Reviews Electrical
+  Engineering}, publisher={Springer Science and Business Media LLC}, author={Ramezani,
+  Mehrdad and Ren, Yundong and Cubukcu, Ertugrul and Kuzum, Duygu}, year={2024}, month=dec,
+  pages={42–57} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -29,10 +29,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Tadayon_2019, title={3D microphotonic probe for high resolution
+  deep tissue imaging}, volume={27}, ISSN={1094-4087}, url={http://dx.doi.org/10.1364/oe.27.022352},
+  DOI={10.1364/oe.27.022352}, number={16}, journal={Optics Express}, publisher={Optica
+  Publishing Group}, author={Tadayon, Mohammad Amin and Chaitanya, Shriddha and Martyniuk,
+  Kelly Marie and McGowan, Josephine Cecelia and Roberts, Samantha Pamela and Denny,
+  Christine Ann and Lipson, Michal}, year={2019}, month=jul, pages={22352} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

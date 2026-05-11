@@ -1,7 +1,7 @@
 doi: 10.3389/fnbeh.2022.845616
 openalex_id: W4224305424
 pmid: null
-pmcid: null
+pmcid: PMC9062293
 title: Understanding Associative Learning Through Higher-Order Conditioning
 authors:
 - first: Dilara
@@ -23,10 +23,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Gostolupce_2022, title={Understanding Associative Learning
+  Through Higher-Order Conditioning}, volume={16}, ISSN={1662-5153}, url={http://dx.doi.org/10.3389/fnbeh.2022.845616},
+  DOI={10.3389/fnbeh.2022.845616}, journal={Frontiers in Behavioral Neuroscience},
+  publisher={Frontiers Media SA}, author={Gostolupce, Dilara and Lay, Belinda P. P.
+  and Maes, Etienne J. P. and Iordanova, Mihaela D.}, year={2022}, month=apr }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

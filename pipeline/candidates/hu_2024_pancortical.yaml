@@ -1,7 +1,7 @@
 doi: 10.1101/2024.07.04.601964
 openalex_id: W4400386125
 pmid: null
-pmcid: null
+pmcid: PMC11245122
 title: Pan-cortical cellular imaging in freely behaving mice using a miniaturized
   micro-camera array microscope (mini-MCAM)
 authors:
@@ -44,10 +44,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Hu_2024, title={Pan-cortical cellular imaging in freely behaving
+  mice using a miniaturized micro-camera array microscope (mini-MCAM)}, url={http://dx.doi.org/10.1101/2024.07.04.601964},
+  DOI={10.1101/2024.07.04.601964}, publisher={openRxiv}, author={Hu, Jia and Cherkkil,
+  Arun and Surinach, Daniel A and Oladepo, Ibrahim and Hossain, Ridwan F and Fausner,
+  Skylar and Saxena, Kapil and Ko, Eunsong and Peters, Ryan and Feldkamp, Michael
+  and Konda, Pavan C and Pathak, Vinayak and Horstmeyer, Roarke and Kodandaramaiah,
+  Suhasa B}, year={2024}, month=jul }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,7 +1,7 @@
 doi: 10.1016/j.cell.2020.05.050
 openalex_id: W3039508055
 pmid: null
-pmcid: null
+pmcid: PMC7497728
 title: Microglial Remodeling of the Extracellular Matrix Promotes Synapse Plasticity
 authors:
 - first: Phi T.
@@ -37,10 +37,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Nguyen_2020, title={Microglial Remodeling of the Extracellular
+  Matrix Promotes Synapse Plasticity}, volume={182}, ISSN={0092-8674}, url={http://dx.doi.org/10.1016/j.cell.2020.05.050},
+  DOI={10.1016/j.cell.2020.05.050}, number={2}, journal={Cell}, publisher={Elsevier
+  BV}, author={Nguyen, Phi T. and Dorman, Leah C. and Pan, Simon and Vainchtein, Ilia
+  D. and Han, Rafael T. and Nakao-Inoue, Hiromi and Taloma, Sunrae E. and Barron,
+  Jerika J. and Molofsky, Ari B. and Kheirbek, Mazen A. and Molofsky, Anna V.}, year={2020},
+  month=jul, pages={388-403.e15} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,7 +1,7 @@
 doi: 10.3390/biom12070898
 openalex_id: W4283641489
 pmid: null
-pmcid: null
+pmcid: PMC9312763
 title: 'Regulation of Neural Circuitry under General Anesthesia: New Methods and Findings'
 authors:
 - first: Kai
@@ -21,10 +21,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhang_2022, title={Regulation of Neural Circuitry under General
+  Anesthesia: New Methods and Findings}, volume={12}, ISSN={2218-273X}, url={http://dx.doi.org/10.3390/biom12070898},
+  DOI={10.3390/biom12070898}, number={7}, journal={Biomolecules}, publisher={MDPI
+  AG}, author={Zhang, Kai and Pan, Jiacheng and Yu, Yonghao}, year={2022}, month=jun,
+  pages={898} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

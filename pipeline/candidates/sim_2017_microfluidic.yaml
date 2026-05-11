@@ -25,8 +25,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sim_2017, title={Microfluidic neural probes: in vivo tools
+  for advancing neuroscience}, volume={17}, ISSN={1473-0189}, url={http://dx.doi.org/10.1039/c7lc00103g},
+  DOI={10.1039/c7lc00103g}, number={8}, journal={Lab on a Chip}, publisher={Royal
+  Society of Chemistry (RSC)}, author={Sim, Joo Yong and Haney, Matthew P. and Park,
+  Sung Il and McCall, Jordan G. and Jeong, Jae-Woong}, year={2017}, pages={1406–1435}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

@@ -27,10 +27,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sarafraz_2024, title={Speckle-enabled in vivo demixing of neural
+  activity in the mouse brain}, volume={15}, ISSN={2156-7085}, url={http://dx.doi.org/10.1364/boe.524521},
+  DOI={10.1364/boe.524521}, number={6}, journal={Biomedical Optics Express}, publisher={Optica
+  Publishing Group}, author={Sarafraz, Hossein and Nöbauer, Tobias and Kim, Hyewon
+  and Soldevila, Fernando and Gigan, Sylvain and Vaziri, Alipasha}, year={2024}, month=may,
+  pages={3586} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

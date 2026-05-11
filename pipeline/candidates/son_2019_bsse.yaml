@@ -25,10 +25,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Son_2019, title={BSSE: An open-source image processing tool
+  for miniaturized microscopy}, volume={27}, ISSN={1094-4087}, url={http://dx.doi.org/10.1364/oe.27.017620},
+  DOI={10.1364/oe.27.017620}, number={13}, journal={Optics Express}, publisher={Optica
+  Publishing Group}, author={Son, Jeonghwan and Mandracchia, Biagio and Caponegro,
+  Michael D. and Tsirka, Stella E. and Jia, Shu}, year={2019}, month=jun, pages={17620}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,0 +1,62 @@
+doi: 10.1098/rstb.2017.0029
+openalex_id: W2785727065
+pmid: null
+pmcid: PMC5790827
+title: The mysteries of remote memory
+authors:
+- first: Zimbul
+  last: Albo
+- first: Johannes
+  last: Gräff
+journal: Philosophical Transactions of the Royal Society B Biological Sciences
+publication_year: 2018
+publication_date: '2018-01-29'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1098/rstb.2017.0029
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Albo_2018, title={The mysteries of remote memory}, volume={373},
+  ISSN={1471-2970}, url={http://dx.doi.org/10.1098/rstb.2017.0029}, DOI={10.1098/rstb.2017.0029},
+  number={1742}, journal={Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, publisher={The Royal Society}, author={Albo, Zimbul and Gräff, Johannes},
+  year={2018}, month=jan, pages={20170029} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.95
+  tools_identified: []
+  evidence:
+  - "used a series of state-of-the-art optogenetic and calcium imaging tools and found
+    that neocortical prefrontal memory engram neurons were already generated rapidly
+    during initial conditioning"
+  - "Cai DJ et al. 2016 A shared neural ensemble links distinct contextual memories
+    encoded close in time. Nature 534, 115-118"
+  paper_type: unrelated
+  suggested_component: null
+  suggested_technique: null
+  reasoning: >-
+    This is a review paper on remote memory consolidation mechanisms. It cites the
+    seed paper (Cai et al. 2016) purely as a neuroscience reference about shared
+    neural ensembles linking contextual memories -- a finding relevant to the memory
+    engram literature. The paper contains no mention of miniscopes, miniature
+    microscopes, UCLA Miniscope, MiniLFOV, MiniXL, Minian, 2P Miniscope, or
+    Miniscope DAQ. The only mention of calcium imaging refers to tools used by
+    Kitamura et al. in a different study. This paper has no connection to the
+    miniscope tool family.
+  related_to_project: false
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319792+00:00'
+- stage: rejected
+  timestamp: '2026-04-10T00:00:00+00:00'

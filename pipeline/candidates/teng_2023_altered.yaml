@@ -1,7 +1,7 @@
 doi: 10.1126/sciadv.adf0284
 openalex_id: W4379621669
 pmid: null
-pmcid: null
+pmcid: PMC10246907
 title: Altered fear engram encoding underlying conditioned versus unconditioned stimulus–initiated
   memory updating
 authors:
@@ -34,10 +34,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Teng_2023, title={Altered fear engram encoding underlying conditioned
+  versus unconditioned stimulus–initiated memory updating}, volume={9}, ISSN={2375-2548},
+  url={http://dx.doi.org/10.1126/sciadv.adf0284}, DOI={10.1126/sciadv.adf0284}, number={23},
+  journal={Science Advances}, publisher={American Association for the Advancement
+  of Science (AAAS)}, author={Teng, Shuai-Wen and Wang, Xin-Rong and Du, Bo-Wen and
+  Chen, Xiao-Lin and Fu, Guan-Zhou and Liu, Yun-Fei and Xu, Shu-Qi and Shuai, Jia-Chen
+  and Chen, Zhe-Yu}, year={2023}, month=jun }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

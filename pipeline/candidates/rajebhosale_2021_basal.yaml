@@ -43,10 +43,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Rajebhosale_2021, title={Basal forebrain cholinergic neurons
+  are part of the threat memory engram}, url={http://dx.doi.org/10.1101/2021.05.02.442364},
+  DOI={10.1101/2021.05.02.442364}, publisher={openRxiv}, author={Rajebhosale, Prithviraj
+  and Ananth, Mala and Crouse, Richard and Jiang, Li and Hernández, Gretchen López-
+  and Arty, Christian and Wang, Shaohua and Jone, Alice and Zhong, Chongbo and Desai,
+  Niraj S. and Li, Yulong and Picciotto, Marina R. and Role, Lorna W. and Talmage,
+  David A.}, year={2021}, month=may }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

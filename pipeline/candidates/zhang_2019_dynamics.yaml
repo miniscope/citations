@@ -1,7 +1,7 @@
 doi: 10.1371/journal.pone.0219152
 openalex_id: W2953614725
 pmid: null
-pmcid: null
+pmcid: PMC6608968
 title: Dynamics of a hippocampal neuronal ensemble encoding trace fear memory revealed
   by in vivo Ca2+ imaging
 authors:
@@ -30,10 +30,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhang_2019, title={Dynamics of a hippocampal neuronal ensemble
+  encoding trace fear memory revealed by in vivo Ca2+ imaging}, volume={14}, ISSN={1932-6203},
+  url={http://dx.doi.org/10.1371/journal.pone.0219152}, DOI={10.1371/journal.pone.0219152},
+  number={7}, journal={PLOS ONE}, publisher={Public Library of Science (PLoS)}, author={Zhang,
+  Liang and Chen, Xuanmao and Sindreu, Carlos and Lu, Song and Storm, Daniel R. and
+  Zweifel, Larry S. and Xia, Zhengui}, editor={Helmstetter, Fred J.}, year={2019},
+  month=jul, pages={e0219152} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

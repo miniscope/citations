@@ -1,7 +1,7 @@
 doi: 10.1101/2025.02.21.639600
 openalex_id: W4407931543
 pmid: null
-pmcid: null
+pmcid: PMC11888180
 title: Motivating Effects of Negative-hedonic Valence Encoded in Engrams
 authors:
 - first: Hermina
@@ -31,10 +31,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Nedelescu_2025, title={Motivating Effects of Negative-hedonic
+  Valence Encoded in Engrams}, url={http://dx.doi.org/10.1101/2025.02.21.639600},
+  DOI={10.1101/2025.02.21.639600}, publisher={openRxiv}, author={Nedelescu, Hermina
+  and Meamari, Elias and Rajaei, Nami and Grey, Alexus and Bullard, Ryan and O’Connor,
+  Nathan and Suto, Nobuyoshi and Weiss, Friedbert}, year={2025}, month=feb }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

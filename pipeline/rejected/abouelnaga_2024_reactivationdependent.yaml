@@ -26,37 +26,44 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Abouelnaga_2024, title={Reactivation-dependent transfer of
+  fear memory between contexts requires M1 muscarinic receptor stimulation in dorsal
+  hippocampus}, url={http://dx.doi.org/10.1101/2024.06.02.597068}, DOI={10.1101/2024.06.02.597068},
+  publisher={openRxiv}, author={Abouelnaga, Karim H. and Huff, Andrew E. and Jardine,
+  Kristen H. and O’Neill, Olivia S. and Winters, Boyer D.}, year={2024}, month=jun
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: abstract_only
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: reviewed
+  related_to_project: false
   uses_tool: false
-  confidence: 0.45
+  confidence: 0.95
   tools_identified: []
   evidence:
-  - source: abstract
-    text: "Following brief re-exposure to a previously fear conditioned context, male
-      rats (n=8-10/group) were placed into a neutral context to evaluate the transfer
-      of fear memory. We also infused the selective M1 receptor antagonist pirenzepine
-      into the dorsal hippocampus prior to memory reactivation to try to block this
-      effect."
-    assessment: "Methods describe behavioral fear conditioning and pharmacological
-      (drug microinjection) manipulations only. No mention of calcium imaging, miniscope,
-      miniature microscope, or any in vivo imaging tool."
-  paper_type: behavioral_pharmacology
+  - source: full_text
+    text: No mentions found for any tool name or alias (Miniscope, miniature microscope,
+      MiniLFOV, MiniXL, Minian, MiniAn, UCLA Miniscope, 2P Miniscope, Miniscope DAQ,
+      coax cable serdes, calcium imaging, GCaMP, fiber photometry, endoscope, fluorescence)
+      in the full text.
+    assessment: Full-text search confirms zero tool mentions. Paper uses purely behavioral
+      (freezing) and pharmacological (cannula drug infusion) methods with no imaging
+      component.
+  paper_type: unrelated
   suggested_component: null
   suggested_technique: null
-  reasoning: "This paper studies reactivation-dependent fear memory transfer using
-    contextual fear conditioning and M1 muscarinic receptor antagonism in dorsal hippocampus.
-    The methods are purely behavioral (freezing observation) and pharmacological (cannula
-    drug infusion). The abstract contains no mention of any Miniscope, miniature microscope,
-    calcium imaging, or any imaging tool from the Miniscope project. The paper likely
-    cites seed paper Cai et al. 2016 for its conceptual work on memory engrams, not
-    for the Miniscope hardware. Confidence capped below 0.5 due to abstract-only analysis,
-    but strong negative signal from methods description."
+  reasoning: Full-text analysis confirms this paper is unrelated to the Miniscope
+    project. It studies reactivation-dependent fear memory transfer between contexts
+    using contextual fear conditioning and M1 muscarinic receptor antagonism in dorsal
+    hippocampus. Methods are exclusively behavioral (freezing quantification) and
+    pharmacological (pirenzepine infusion via implanted cannulae). The paper cites
+    seed paper Cai et al. 2016 for its scientific findings on memory engrams, not
+    for any Miniscope hardware or software. Zero mentions of any Miniscope tool,
+    calcium imaging, or related imaging technology found in full text.
 stage: rejected
 stage_history:
 - stage: candidate
@@ -64,4 +71,9 @@ stage_history:
 - stage: reviewed
   timestamp: '2026-04-10T00:00:00+00:00'
   result: rejected
-  reason: "No evidence of Miniscope tool usage. Behavioral pharmacology study only."
+  reason: No evidence of Miniscope tool usage. Behavioral pharmacology study only.
+- stage: reviewed_fulltext
+  timestamp: '2026-04-11T00:00:00+00:00'
+  result: rejected
+  reason: Full-text search confirms zero mentions of any Miniscope tool or related
+    imaging technology. Paper cites seed paper for engram science only.

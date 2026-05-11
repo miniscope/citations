@@ -32,10 +32,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: " @article{Shen_2017, title={Songbird organotypic culture as an\n    \
+  \              in vitro\n                  model for interrogating sparse sequencing\
+  \ networks}, url={http://dx.doi.org/10.1101/164228}, DOI={10.1101/164228}, publisher={openRxiv},\
+  \ author={Shen, Jun and Blute, Todd A. and Liberti, William A. and Yen, William\
+  \ and Liberti, Derek C. and Kotten, Darrell N. and Cruz-Martín, Alberto and Gardner,\
+  \ Timothy J.}, year={2017}, month=jul }\n"
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,7 +1,7 @@
 doi: 10.1073/pnas.2114230119
 openalex_id: W4220726524
 pmid: null
-pmcid: null
+pmcid: PMC8944571
 title: Social reactivation of fear engrams enhances memory recall
 authors:
 - first: Abby Basya
@@ -29,10 +29,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Finkelstein_2022, title={Social reactivation of fear engrams
+  enhances memory recall}, volume={119}, ISSN={1091-6490}, url={http://dx.doi.org/10.1073/pnas.2114230119},
+  DOI={10.1073/pnas.2114230119}, number={12}, journal={Proceedings of the National
+  Academy of Sciences}, publisher={Proceedings of the National Academy of Sciences},
+  author={Finkelstein, Abby Basya and Leblanc, Héloïse and Cole, Rebecca H. and Gallerani,
+  Troy and Vieira, Anahita and Zaki, Yosif and Ramirez, Steve}, year={2022}, month=mar
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

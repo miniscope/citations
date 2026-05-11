@@ -1,7 +1,7 @@
 doi: 10.1162/jocn_a_01116
 openalex_id: W2591724603
 pmid: null
-pmcid: null
+pmcid: PMC5491348
 title: Temporal Proximity Promotes Integration of Overlapping Events
 authors:
 - first: Dagmar
@@ -19,10 +19,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zeithamova_2017, title={Temporal Proximity Promotes Integration
+  of Overlapping Events}, volume={29}, ISSN={1530-8898}, url={http://dx.doi.org/10.1162/jocn_a_01116},
+  DOI={10.1162/jocn_a_01116}, number={8}, journal={Journal of Cognitive Neuroscience},
+  publisher={MIT Press - Journals}, author={Zeithamova, Dagmar and Preston, Alison
+  R.}, year={2017}, month=aug, pages={1311–1323} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

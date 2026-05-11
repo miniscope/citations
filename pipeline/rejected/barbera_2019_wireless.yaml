@@ -1,0 +1,63 @@
+doi: 10.1016/j.jneumeth.2019.05.008
+openalex_id: W2945989623
+pmid: null
+pmcid: PMC6636826
+title: A wireless miniScope for deep brain imaging in freely moving mice
+authors:
+- first: Giovanni
+  last: Barbera
+- first: Bo
+  last: Liang
+- first: Lifeng
+  last: Zhang
+- first: Yun
+  last: Li
+- first: Da‐Ting
+  last: Lin
+journal: Journal of Neuroscience Methods
+publication_year: 2019
+publication_date: '2019-05-19'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.ncbi.nlm.nih.gov/pmc/articles/6636826
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Barbera_2019, title={A wireless miniScope for deep brain imaging
+  in freely moving mice}, volume={323}, ISSN={0165-0270}, url={http://dx.doi.org/10.1016/j.jneumeth.2019.05.008},
+  DOI={10.1016/j.jneumeth.2019.05.008}, journal={Journal of Neuroscience Methods},
+  publisher={Elsevier BV}, author={Barbera, Giovanni and Liang, Bo and Zhang, Lifeng
+  and Li, Yun and Lin, Da-Ting}, year={2019}, month=jul, pages={56–60} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.92
+  tools_identified: []
+  evidence:
+  - "Here we developed a miniature wireless fluorescence microscope (miniScope) that
+    allows recording of brain neural activities at single cell resolution."
+  - "a 3D printed miniature epifluorescence microscope body (Barbera et al., 2016)"
+  - "All the design files and codes can be found at the following GitHub link: https://github.com/giovannibarbera/wireless_v1.0"
+  paper_type: methods
+  suggested_component: null
+  suggested_technique: null
+  reasoning: This paper describes an independent wireless miniScope system developed
+    at NIH/NIDA by the Lin lab. It has its own design, FPGA-based data acquisition,
+    and separate GitHub repository. It cites the Cai et al. 2016 seed paper only as
+    general scientific context for miniaturized microscopy in neuroscience. There is
+    no use of or connection to any UCLA Miniscope platform tool (v4, MiniLFOV, MiniXL,
+    Minian, 2P Miniscope, or Miniscope DAQ). This is a competing/parallel miniScope
+    development with no tool dependency on the UCLA Miniscope project.
+  related_to_project: false
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.318572+00:00'

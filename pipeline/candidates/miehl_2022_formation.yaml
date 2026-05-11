@@ -23,8 +23,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Miehl_2022, title={Formation and computational implications
+  of assemblies in neural circuits}, volume={601}, ISSN={1469-7793}, url={http://dx.doi.org/10.1113/jp282750},
+  DOI={10.1113/jp282750}, number={15}, journal={The Journal of Physiology}, publisher={Wiley},
+  author={Miehl, Christoph and Onasch, Sebastian and Festa, Dylan and Gjorgjieva,
+  Julijana}, year={2022}, month=sep, pages={3071–3090} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

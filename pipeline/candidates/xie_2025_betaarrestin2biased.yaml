@@ -32,8 +32,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Xie_2025, title={Beta‐Arrestin2‐Biased Activation by Pilocarpine
+  Suppresses Microglial Inflammatory Response}, volume={169}, ISSN={1471-4159}, url={http://dx.doi.org/10.1111/jnc.70334},
+  DOI={10.1111/jnc.70334}, number={12}, journal={Journal of Neurochemistry}, publisher={Wiley},
+  author={Xie, Yuanyuan and Wang, Kaichun and Wang, Shiqi and Yao, Yunjin and Wang,
+  Dongxue and Chen, Hongzhuan and Zhao, Lanxue and Xu, Jianrong}, year={2025}, month=dec
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

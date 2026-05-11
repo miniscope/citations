@@ -1,7 +1,7 @@
 doi: 10.1016/j.beproc.2019.05.009
 openalex_id: W2944326275
 pmid: null
-pmcid: null
+pmcid: PMC6557689
 title: 'Quantity versus quality: Convergent findings in effort-based choice tasks'
 authors:
 - first: Evan E.
@@ -19,10 +19,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Hart_2019, title={Quantity versus quality: Convergent findings
+  in effort-based choice tasks}, volume={164}, ISSN={0376-6357}, url={http://dx.doi.org/10.1016/j.beproc.2019.05.009},
+  DOI={10.1016/j.beproc.2019.05.009}, journal={Behavioural Processes}, publisher={Elsevier
+  BV}, author={Hart, Evan E. and Izquierdo, Alicia}, year={2019}, month=jul, pages={178–185}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,7 +1,7 @@
 doi: 10.1186/s13041-018-0424-1
 openalex_id: W2936486365
 pmid: null
-pmcid: null
+pmcid: PMC6323779
 title: Artificial association of memory events by optogenetic stimulation of hippocampal
   CA3 cell ensembles
 authors:
@@ -36,10 +36,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Oishi_2019, title={Artificial association of memory events
+  by optogenetic stimulation of hippocampal CA3 cell ensembles}, volume={12}, ISSN={1756-6606},
+  url={http://dx.doi.org/10.1186/s13041-018-0424-1}, DOI={10.1186/s13041-018-0424-1},
+  number={1}, journal={Molecular Brain}, publisher={Springer Science and Business
+  Media LLC}, author={Oishi, Naoya and Nomoto, Masanori and Ohkawa, Noriaki and Saitoh,
+  Yoshito and Sano, Yoshitake and Tsujimura, Shuhei and Nishizono, Hirofumi and Matsuo,
+  Mina and Muramatsu, Shin-ichi and Inokuchi, Kaoru}, year={2019}, month=jan }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

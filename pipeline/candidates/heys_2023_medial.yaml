@@ -1,7 +1,7 @@
 doi: 10.21203/rs.3.rs-2681599/v1
 openalex_id: W4366207257
 pmid: null
-pmcid: null
+pmcid: PMC10153298
 title: Medial entorhinal cortex plays a specialized role in learning of flexible,
   context-dependent interval timing behavior
 authors:
@@ -24,10 +24,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Heys_2023, title={Medial entorhinal cortex plays a specialized
+  role in learning of flexible, context-dependent interval timing behavior}, url={http://dx.doi.org/10.21203/rs.3.rs-2681599/v1},
+  DOI={10.21203/rs.3.rs-2681599/v1}, publisher={Springer Science and Business Media
+  LLC}, author={Heys, James and Bigus, Erin and Lee, Hyun-Woo and Shi, Jiani}, year={2023},
+  month=apr }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

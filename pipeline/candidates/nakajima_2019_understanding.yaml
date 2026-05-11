@@ -19,8 +19,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Nakajima_2020, title={Understanding the circuit basis of cognitive
+  functions using mouse models}, volume={152}, ISSN={0168-0102}, url={http://dx.doi.org/10.1016/j.neures.2019.12.009},
+  DOI={10.1016/j.neures.2019.12.009}, journal={Neuroscience Research}, publisher={Elsevier
+  BV}, author={Nakajima, Miho and Schmitt, L. Ian}, year={2020}, month=mar, pages={44–58}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

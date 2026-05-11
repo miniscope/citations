@@ -1,7 +1,7 @@
 doi: 10.1016/j.jbc.2022.101866
 openalex_id: W4221134347
 pmid: null
-pmcid: null
+pmcid: PMC9065729
 title: 'Understanding the physical basis of memory: Molecular mechanisms of the engram'
 authors:
 - first: Clara Ortega‐de San
@@ -19,10 +19,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Ortega_de_San_Luis_2022, title={Understanding the physical
+  basis of memory: Molecular mechanisms of the engram}, volume={298}, ISSN={0021-9258},
+  url={http://dx.doi.org/10.1016/j.jbc.2022.101866}, DOI={10.1016/j.jbc.2022.101866},
+  number={5}, journal={Journal of Biological Chemistry}, publisher={Elsevier BV},
+  author={Ortega-de San Luis, Clara and Ryan, Tomás J.}, year={2022}, month=may, pages={101866}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -1,7 +1,7 @@
 doi: 10.1101/2024.10.21.619528
 openalex_id: W4403625451
 pmid: null
-pmcid: null
+pmcid: PMC11526896
 title: 'Opto2P-FCM: A MEMS based miniature two-photon microscope with two-photon patterned
   optogenetic stimulation'
 authors:
@@ -42,10 +42,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Futia_2024, title={Opto2P-FCM: A MEMS based miniature two-photon
+  microscope with two-photon patterned optogenetic stimulation}, url={http://dx.doi.org/10.1101/2024.10.21.619528},
+  DOI={10.1101/2024.10.21.619528}, publisher={openRxiv}, author={Futia, Gregory L.
+  and Zohrabi, Mo and McCullough, Connor and Teel, Alec and Simoes de Souza, Fabio
+  and Oroke, Ryan and Miscles, Eduardo J. and Ozbay, Baris N. and Kilborn, Karl and
+  Bright, Victor M. and Restrepo, Diego and Gopinath, Juliet T. and Gibson, Emily
+  A.}, year={2024}, month=oct }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

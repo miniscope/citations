@@ -32,8 +32,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhang_2022, title={A one-photon endoscope for simultaneous
+  patterned optogenetic stimulation and calcium imaging in freely behaving mice},
+  volume={7}, ISSN={2157-846X}, url={http://dx.doi.org/10.1038/s41551-022-00920-3},
+  DOI={10.1038/s41551-022-00920-3}, number={4}, journal={Nature Biomedical Engineering},
+  publisher={Springer Science and Business Media LLC}, author={Zhang, Jinyong and
+  Hughes, Ryan N. and Kim, Namsoo and Fallon, Isabella P. and Bakhurin, Konstantin
+  and Kim, Jiwon and Severino, Francesco Paolo Ulloa and Yin, Henry H.}, year={2022},
+  month=aug, pages={499–510} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

@@ -30,10 +30,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Gutzeit_2019, title={Optogenetic reactivation of prefrontal
+  social memory trace mimics social buffering of fear}, url={http://dx.doi.org/10.1101/752386},
+  DOI={10.1101/752386}, publisher={openRxiv}, author={Gutzeit, Vanessa A. and Ahuna,
+  Kylia and Santos, Tabia L. and Cunningham, Ashley M. and Rooney, Meghin Sadsad and
+  Denny, Christine A. and Donaldson, Zoe R.}, year={2019}, month=aug }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

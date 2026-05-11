@@ -34,10 +34,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Shimoda_2020, title={Extracellular glutamate and GABA transients
+  at the transition from interictal spiking to seizures}, url={http://dx.doi.org/10.1101/2020.11.13.381707},
+  DOI={10.1101/2020.11.13.381707}, publisher={openRxiv}, author={Shimoda, Yoshiteru
+  and Leite, Marco and Graham, Robert T and Marvin, Jonathan S and Hasseman, Jeremy
+  and Kolb, Ilya and Looger, Loren L and Magloire, Vincent and Kullmann, Dimitri M},
+  year={2020}, month=nov }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

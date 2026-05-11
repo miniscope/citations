@@ -21,8 +21,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lafferty_2022, title={All-optical approaches to studying psychiatric
+  disease}, volume={203}, ISSN={1046-2023}, url={http://dx.doi.org/10.1016/j.ymeth.2021.07.007},
+  DOI={10.1016/j.ymeth.2021.07.007}, journal={Methods}, publisher={Elsevier BV}, author={Lafferty,
+  Christopher K. and Christinck, Thomas D. and Britt, Jonathan P.}, year={2022}, month=jul,
+  pages={46–55} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

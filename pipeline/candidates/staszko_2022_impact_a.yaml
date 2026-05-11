@@ -21,10 +21,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Staszko_2022, title={The impact of familiarity on cortical
+  taste coding}, url={http://dx.doi.org/10.1101/2022.02.17.480922}, DOI={10.1101/2022.02.17.480922},
+  publisher={openRxiv}, author={Staszko, Stephanie M. and Boughter, John D. and Fletcher,
+  Max L.}, year={2022}, month=feb }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

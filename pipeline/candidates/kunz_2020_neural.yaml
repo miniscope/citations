@@ -39,10 +39,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Kunz_2020, title={A neural code for egocentric spatial maps
+  in the human medial temporal lobe}, url={http://dx.doi.org/10.1101/2020.03.03.973131},
+  DOI={10.1101/2020.03.03.973131}, publisher={openRxiv}, author={Kunz, Lukas and Brandt,
+  Armin and Reinacher, Peter C. and Staresina, Bernhard P. and Reifenstein, Eric T.
+  and Weidemann, Christoph T. and Herweg, Nora A. and Tsitsiklis, Melina and Kempter,
+  Richard and Kahana, Michael J. and Schulze-Bonhage, Andreas and Jacobs, Joshua},
+  year={2020}, month=mar }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

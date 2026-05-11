@@ -1,7 +1,7 @@
 doi: 10.1038/s41377-022-00708-9
 openalex_id: W4206916963
 pmid: null
-pmcid: null
+pmcid: PMC8786868
 title: Toward implantable devices for angle-sensitive, lens-less, multifluorescent,
   single-photon lifetime imaging in the brain using Fabry–Perot and absorptive color
   filters
@@ -27,10 +27,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Taal_2022, title={Toward implantable devices for angle-sensitive,
+  lens-less, multifluorescent, single-photon lifetime imaging in the brain using Fabry–Perot
+  and absorptive color filters}, volume={11}, ISSN={2047-7538}, url={http://dx.doi.org/10.1038/s41377-022-00708-9},
+  DOI={10.1038/s41377-022-00708-9}, number={1}, journal={Light: Science &amp; Applications},
+  publisher={Springer Science and Business Media LLC}, author={Taal, Adriaan J. and
+  Lee, Changhyuk and Choi, Jaebin and Hellenkamp, Björn and Shepard, Kenneth L.},
+  year={2022}, month=jan }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

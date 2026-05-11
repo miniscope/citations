@@ -1,7 +1,7 @@
 doi: 10.1101/cshperspect.a039792
 openalex_id: W3033567637
 pmid: null
-pmcid: null
+pmcid: PMC7799172
 title: Developments from Bulk Optogenetics to Single-Cell Strategies to Dissect the
   Neural Circuits that Underlie Aberrant Motivational States
 authors:
@@ -26,10 +26,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Rodriguez_Romaguera_2020, title={Developments from Bulk Optogenetics
+  to Single-Cell Strategies to Dissect the Neural Circuits that Underlie Aberrant
+  Motivational States}, volume={12}, ISSN={2157-1422}, url={http://dx.doi.org/10.1101/cshperspect.a039792},
+  DOI={10.1101/cshperspect.a039792}, number={3}, journal={Cold Spring Harbor Perspectives
+  in Medicine}, publisher={Cold Spring Harbor Laboratory}, author={Rodriguez-Romaguera,
+  Jose and Namboodiri, Vijay M.K. and Basiri, Marcus L. and Stamatakis, Alice M. and
+  Stuber, Garret D.}, year={2020}, month=jun, pages={a039792} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

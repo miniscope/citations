@@ -30,10 +30,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Maas_2022, title={Versatile and automated workflow for the
+  analysis of oligodendroglial calcium signals in preclinical mouse models of myelin
+  repair}, url={http://dx.doi.org/10.1101/2022.10.14.512256}, DOI={10.1101/2022.10.14.512256},
+  publisher={openRxiv}, author={Maas, Dorien A. and Manot-Saillet, Blandine and Bun,
+  Philippe and Habermacher, Chloé and Poilbout, Corinne and Rusconi, Filippo and Angulo,
+  Maria Cecilia}, year={2022}, month=oct }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

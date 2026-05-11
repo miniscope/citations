@@ -39,10 +39,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lopes_2020, title={BonVision – an open-source software to create
+  and control visual environments}, url={http://dx.doi.org/10.1101/2020.03.09.983775},
+  DOI={10.1101/2020.03.09.983775}, publisher={openRxiv}, author={Lopes, Gonçalo and
+  Farrell, Karolina and Horrocks, Edward A. B. and Lee, Chi-Yu and Morimoto, Mai M.
+  and Muzzu, Tomaso and Papanikolaou, Amalia and Rodrigues, Fabio R. and Wheatcroft,
+  Thomas and Zucca, Stefano and Solomon, Samuel G. and Saleem, Aman B.}, year={2020},
+  month=mar }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

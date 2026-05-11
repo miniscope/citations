@@ -30,10 +30,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Nebeling_2019, title={Microglia motility depends on neuronal
+  activity and promotes structural plasticity in the hippocampus}, url={http://dx.doi.org/10.1101/515759},
+  DOI={10.1101/515759}, publisher={openRxiv}, author={Nebeling, Felix C. and Poll,
+  Stefanie and Schmid, Lena C. and Mittag, Manuel and Steffen, Julia and Keppler,
+  Kevin and Fuhrmann, Martin}, year={2019}, month=jan }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

@@ -26,8 +26,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @inbook{Petzold_2024, title={Identification of State-Dependent Encoding
+  of Innate Rewards by Deep-Brain Single-Cell Imaging in Freely Behaving Mice}, ISBN={9781071640111},
+  ISSN={1940-6045}, url={http://dx.doi.org/10.1007/978-1-0716-4011-1_11}, DOI={10.1007/978-1-0716-4011-1_11},
+  booktitle={Fluorescence Imaging of the Brain}, publisher={Springer US}, author={Petzold,
+  Anne and Figge-Schlensok, Rebecca and van den Munkhof, Hanna Elin and Schumacher,
+  Carolin and Korotkova, Tatiana}, year={2024}, pages={219–244} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

@@ -20,8 +20,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Larosa_2022, title={The hippocampus in stress susceptibility
+  and resilience: Reviewing molecular and functional markers}, volume={119}, ISSN={0278-5846},
+  url={http://dx.doi.org/10.1016/j.pnpbp.2022.110601}, DOI={10.1016/j.pnpbp.2022.110601},
+  journal={Progress in Neuro-Psychopharmacology and Biological Psychiatry}, publisher={Elsevier
+  BV}, author={Larosa, Amanda and Wong, Tak Pan}, year={2022}, month=dec, pages={110601}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

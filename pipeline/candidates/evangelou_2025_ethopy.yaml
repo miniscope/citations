@@ -43,10 +43,18 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Evangelou_2025, title={EthoPy: Reproducible Behavioral Neuroscience
+  Made Simple}, url={http://dx.doi.org/10.1101/2025.09.08.673974}, DOI={10.1101/2025.09.08.673974},
+  publisher={openRxiv}, author={Evangelou, Alexandros and Diamantaki, Maria and Georgelou,
+  Konstantina and Drakaki, Zoi and Ntanavara, Lydia and Gerardos, Gerasimos and Morou,
+  Sofia and Chatziris, Nikolaos and Dogani, Zoi and Petsalaki, Elissavet Anna and
+  Raos, Odysseas Nikolaos and Gratsakis, Anastasios and Papoutsi, Athanasia and Froudarakis,
+  Emmanouil}, year={2025}, month=sep }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

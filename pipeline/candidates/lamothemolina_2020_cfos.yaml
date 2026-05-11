@@ -44,10 +44,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lamothe_Molina_2020, title={cFos ensembles in the dentate gyrus
+  rapidly segregate over time and do not form a stable map of space}, url={http://dx.doi.org/10.1101/2020.08.29.273391},
+  DOI={10.1101/2020.08.29.273391}, publisher={openRxiv}, author={Lamothe-Molina, Paul
+  J. and Franzelin, Andreas and Beck, Lennart and Li, Dong and Auksutat, Lea and Fieblinger,
+  Tim and Laprell, Laura and Alhbeck, Joachim and Gee, Christine E. and Kneussel,
+  Matthias and Engel, Andreas K. and Hilgetag, Claus C. and Morellini, Fabio and Oertner,
+  Thomas G.}, year={2020}, month=aug }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

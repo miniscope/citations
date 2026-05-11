@@ -1,7 +1,7 @@
 doi: 10.1016/j.neuron.2024.02.007
 openalex_id: W4392471559
 pmid: null
-pmcid: null
+pmcid: PMC11065628
 title: Excitability mediates allocation of pre-configured ensembles to a hippocampal
   engram supporting contextual conditioned threat in mice
 authors:
@@ -34,10 +34,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Mocle_2024, title={Excitability mediates allocation of pre-configured
+  ensembles to a hippocampal engram supporting contextual conditioned threat in mice},
+  volume={112}, ISSN={0896-6273}, url={http://dx.doi.org/10.1016/j.neuron.2024.02.007},
+  DOI={10.1016/j.neuron.2024.02.007}, number={9}, journal={Neuron}, publisher={Elsevier
+  BV}, author={Mocle, Andrew J. and Ramsaran, Adam I. and Jacob, Alexander D. and
+  Rashid, Asim J. and Luchetti, Alessandro and Tran, Lina M. and Richards, Blake A.
+  and Frankland, Paul W. and Josselyn, Sheena A.}, year={2024}, month=may, pages={1487-1497.e6}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

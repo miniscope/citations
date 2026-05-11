@@ -1,7 +1,7 @@
 doi: 10.1016/j.conb.2017.04.005
 openalex_id: W2610279851
 pmid: null
-pmcid: null
+pmcid: PMC5690575
 title: Hippocampal function in rodents
 authors:
 - first: Roland
@@ -19,10 +19,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zemla_2017, title={Hippocampal function in rodents}, volume={43},
+  ISSN={0959-4388}, url={http://dx.doi.org/10.1016/j.conb.2017.04.005}, DOI={10.1016/j.conb.2017.04.005},
+  journal={Current Opinion in Neurobiology}, publisher={Elsevier BV}, author={Zemla,
+  Roland and Basu, Jayeeta}, year={2017}, month=apr, pages={187–197} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -19,8 +19,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Poirazi_2020, title={Illuminating dendritic function with computational
+  models}, volume={21}, ISSN={1471-0048}, url={http://dx.doi.org/10.1038/s41583-020-0301-7},
+  DOI={10.1038/s41583-020-0301-7}, number={6}, journal={Nature Reviews Neuroscience},
+  publisher={Springer Science and Business Media LLC}, author={Poirazi, Panayiota
+  and Papoutsi, Athanasia}, year={2020}, month=may, pages={303–321} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

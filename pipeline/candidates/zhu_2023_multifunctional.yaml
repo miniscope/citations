@@ -29,8 +29,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @inproceedings{Zhu_2023, title={Multi-functional accessory toolkit for
+  Miniscope prototyping and image enhancement}, url={http://dx.doi.org/10.1117/12.2691914},
+  DOI={10.1117/12.2691914}, booktitle={Second Conference on Biomedical Photonics and
+  Cross-Fusion (BPC 2023)}, publisher={SPIE}, author={Zhu, Xinyi and Gu, Liangtao
+  and Li, Rui and Chen, Liang and Chen, Jingying and Zhou, Ning and Ren, Wuwei}, editor={Qu,
+  Junle and Zhang, Zhenxi and Li, Buhong}, year={2023}, month=jul, pages={24} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

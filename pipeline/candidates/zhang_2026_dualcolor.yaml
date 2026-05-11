@@ -1,7 +1,7 @@
 doi: 10.64898/2026.02.19.706914
 openalex_id: W7130680431
 pmid: null
-pmcid: null
+pmcid: PMC12934655
 title: A dual-color miniature endoscope for calcium imaging in behaving mice
 authors:
 - first: Jinyong
@@ -27,10 +27,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhang_2026, title={A dual-color miniature endoscope for calcium
+  imaging in behaving mice}, url={http://dx.doi.org/10.64898/2026.02.19.706914}, DOI={10.64898/2026.02.19.706914},
+  publisher={openRxiv}, author={Zhang, Jinyong and Hong, Feiyang and Kim, Jiwon and
+  Bakhurin, Konstantin and Kim, Namsoo and Yin, Henry H.}, year={2026}, month=feb
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -26,10 +26,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Etter_2023, title={A population code for idiothetic representations
+  in the hippocampal-septal circuit}, url={http://dx.doi.org/10.1101/2023.11.10.566641},
+  DOI={10.1101/2023.11.10.566641}, publisher={openRxiv}, author={Etter, Guillaume
+  and van der Veldt, Suzanne and Mosser, Coralie-Anne and Hasselmo, Michael E and
+  Williams, Sylvain}, year={2023}, month=nov }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

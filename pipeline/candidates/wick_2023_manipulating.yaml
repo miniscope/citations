@@ -1,7 +1,7 @@
 doi: 10.1101/2023.02.21.529420
 openalex_id: W4321482335
 pmid: null
-pmcid: null
+pmcid: PMC9980125
 title: 'Manipulating single-unit theta phase-locking with PhaSER: An open-source tool
   for real-time phase estimation and manipulation'
 authors:
@@ -32,10 +32,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Christenson_Wick_2023, title={Manipulating single-unit theta
+  phase-locking with PhaSER: An open-source tool for real-time phase estimation and
+  manipulation}, url={http://dx.doi.org/10.1101/2023.02.21.529420}, DOI={10.1101/2023.02.21.529420},
+  publisher={openRxiv}, author={Christenson Wick, Zoé and Philipsberg, Paul A and
+  Lamsifer, Sophia I and Kohler, Cassidy and Katanov, Elizabeth and Feng, Yu and Humphrey,
+  Corin and Shuman, Tristan}, year={2023}, month=feb }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

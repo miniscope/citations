@@ -22,10 +22,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sato_2024, title={Fluorescence microscopy for brain activity
+  imaging: one-photon microscopy and its application to pharmacological research},
+  volume={159}, ISSN={1347-8397}, url={http://dx.doi.org/10.1254/fpj.24012}, DOI={10.1254/fpj.24012},
+  number={4}, journal={Folia Pharmacologica Japonica}, publisher={Japanese Pharmacological
+  Society}, author={Sato, Masaaki and Kuronuma, Haruki and Matsumoto, Kosei}, year={2024},
+  month=jul, pages={229–234} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

@@ -37,10 +37,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Wang_2021, title={Decreased Intrinsic Neural Timescales in
+  Mesial Temporal Lobe Epilepsy}, volume={15}, ISSN={1662-5161}, url={http://dx.doi.org/10.3389/fnhum.2021.772365},
+  DOI={10.3389/fnhum.2021.772365}, journal={Frontiers in Human Neuroscience}, publisher={Frontiers
+  Media SA}, author={Wang, Kefan and Zhang, Xiaonan and Song, Chengru and Ma, Keran
+  and Bai, Man and Zheng, Ruiping and Wei, Yarui and Chen, Jingli and Cheng, Jingliang
+  and Zhang, Yong and Han, Shaoqiang}, year={2021}, month=dec }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

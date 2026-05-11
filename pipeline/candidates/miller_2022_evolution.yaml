@@ -27,10 +27,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Miller_2022, title={Evolution of predictive memory in the hippocampus},
+  url={http://dx.doi.org/10.1101/2022.09.08.507204}, DOI={10.1101/2022.09.08.507204},
+  publisher={openRxiv}, author={Miller, Adam M. P. and Jacob, Alex D. and Ramsaran,
+  Adam I. and De Snoo, Mitchell L. and Josselyn, Sheena A. and Frankland, Paul W.},
+  year={2022}, month=sep }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

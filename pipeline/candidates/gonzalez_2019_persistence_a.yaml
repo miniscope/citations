@@ -23,10 +23,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Gonzalez_2019, title={Persistence of neuronal representations
+  through time and damage in the hippocampus}, url={http://dx.doi.org/10.1101/559104},
+  DOI={10.1101/559104}, publisher={openRxiv}, author={Gonzalez, Walter G. and Zhang,
+  Hanwen and Harutyunyan, Anna and Lois, Carlos}, year={2019}, month=feb }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

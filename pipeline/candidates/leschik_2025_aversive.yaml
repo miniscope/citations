@@ -17,8 +17,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Leschik_2025, title={Aversive memory engrams in the hippocampus},
+  volume={3}, ISSN={2949-9216}, url={http://dx.doi.org/10.1016/j.bosn.2025.04.003},
+  DOI={10.1016/j.bosn.2025.04.003}, journal={Brain Organoid and Systems Neuroscience
+  Journal}, publisher={American Association for the Advancement of Science (AAAS)},
+  author={Leschik, Julia}, year={2025}, month=dec, pages={79–88} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

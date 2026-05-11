@@ -1,7 +1,7 @@
 doi: 10.1093/nsr/nwad294
 openalex_id: W4388925956
 pmid: null
-pmcid: null
+pmcid: PMC10824555
 title: Multi-region calcium imaging in freely behaving mice with ultra-compact head-mounted
   fluorescence microscopes
 authors:
@@ -42,10 +42,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Xue_2023, title={Multi-region calcium imaging in freely behaving
+  mice with ultra-compact head-mounted fluorescence microscopes}, volume={11}, ISSN={2053-714X},
+  url={http://dx.doi.org/10.1093/nsr/nwad294}, DOI={10.1093/nsr/nwad294}, number={1},
+  journal={National Science Review}, publisher={Oxford University Press (OUP)}, author={Xue,
+  Feng and Li, Fei and Zhang, Ke-ming and Ding, Lufeng and Wang, Yang and Zhao, Xingtao
+  and Xu, Fang and Zhang, Danke and Sun, Mingzhai and Lau, Pak-Ming and Zhu, Qingyuan
+  and Zhou, Pengcheng and Bi, Guo-Qiang}, year={2023}, month=nov }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

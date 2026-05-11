@@ -23,10 +23,13 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: " @article{Zhao_2021, title={Differential Conditioning Produces Merged\
+  \ Long-term Memory in\n                  Drosophila}, url={http://dx.doi.org/10.1101/2021.01.13.426486},\
+  \ DOI={10.1101/2021.01.13.426486}, publisher={openRxiv}, author={Zhao, Bohan and\
+  \ Sun, Jiameng and Li, Qian and Zhong, Yi}, year={2021}, month=jan }\n"
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

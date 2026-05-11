@@ -1,7 +1,7 @@
 doi: 10.1016/j.celrep.2020.108163
 openalex_id: W3089113584
 pmid: null
-pmcid: null
+pmcid: PMC8719477
 title: Inactivation of the Medial Entorhinal Cortex Selectively Disrupts Learning
   of Interval Timing
 authors:
@@ -24,10 +24,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Heys_2020, title={Inactivation of the Medial Entorhinal Cortex
+  Selectively Disrupts Learning of Interval Timing}, volume={32}, ISSN={2211-1247},
+  url={http://dx.doi.org/10.1016/j.celrep.2020.108163}, DOI={10.1016/j.celrep.2020.108163},
+  number={12}, journal={Cell Reports}, publisher={Elsevier BV}, author={Heys, James
+  G. and Wu, Zihan and Allegra Mascaro, Anna Letizia and Dombeck, Daniel A.}, year={2020},
+  month=sep, pages={108163} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

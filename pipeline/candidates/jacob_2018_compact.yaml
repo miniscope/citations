@@ -30,8 +30,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Jacob_2018, title={A Compact Head‐Mounted Endoscope for In
+  Vivo Calcium Imaging in Freely Behaving Mice}, volume={84}, ISSN={1934-8576}, url={http://dx.doi.org/10.1002/cpns.51},
+  DOI={10.1002/cpns.51}, number={1}, journal={Current Protocols in Neuroscience},
+  publisher={Wiley}, author={Jacob, Alexander D. and Ramsaran, Adam I. and Mocle,
+  Andrew J. and Tran, Lina M. and Yan, Chen and Frankland, Paul W. and Josselyn, Sheena
+  A.}, year={2018}, month=jun }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

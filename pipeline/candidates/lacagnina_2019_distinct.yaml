@@ -1,7 +1,7 @@
 doi: 10.1038/s41593-019-0361-z
 openalex_id: W2935468986
 pmid: null
-pmcid: null
+pmcid: PMC6705137
 title: Distinct hippocampal engrams control extinction and relapse of fear memory
 authors:
 - first: Anthony F.
@@ -35,10 +35,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lacagnina_2019, title={Distinct hippocampal engrams control
+  extinction and relapse of fear memory}, volume={22}, ISSN={1546-1726}, url={http://dx.doi.org/10.1038/s41593-019-0361-z},
+  DOI={10.1038/s41593-019-0361-z}, number={5}, journal={Nature Neuroscience}, publisher={Springer
+  Science and Business Media LLC}, author={Lacagnina, Anthony F. and Brockway, Emma
+  T. and Crovetti, Chelsea R. and Shue, Francis and McCarty, Meredith J. and Sattler,
+  Kevin P. and Lim, Sean C. and Santos, Sofia Leal and Denny, Christine A. and Drew,
+  Michael R.}, year={2019}, month=apr, pages={753–761} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

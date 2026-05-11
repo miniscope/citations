@@ -24,10 +24,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Habibollahi_2023, title={Neural Networks Are Tuned Near Criticality
+  During a Cognitive Task and Distanced from Criticality In a Psychopharmacological
+  Model of Alzheimer’s Disease}, url={http://dx.doi.org/10.1101/2023.08.16.553626},
+  DOI={10.1101/2023.08.16.553626}, publisher={openRxiv}, author={Habibollahi, Forough
+  and Sun, Dechuan and Burkitt, Anthony N. and French, Chris}, year={2023}, month=aug
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

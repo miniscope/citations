@@ -1,7 +1,7 @@
 doi: 10.1037/amp0000185
 openalex_id: W2797162597
 pmid: null
-pmcid: null
+pmcid: PMC5897133
 title: 'Memory creation and modification: Enhancing the treatment of psychological
   disorders.'
 authors:
@@ -22,10 +22,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Kredlow_2018, title={Memory creation and modification: Enhancing
+  the treatment of psychological disorders.}, volume={73}, ISSN={0003-066X}, url={http://dx.doi.org/10.1037/amp0000185},
+  DOI={10.1037/amp0000185}, number={3}, journal={American Psychologist}, publisher={American
+  Psychological Association (APA)}, author={Kredlow, M. Alexandra and Eichenbaum,
+  Howard and Otto, Michael W.}, year={2018}, month=apr, pages={269–285} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

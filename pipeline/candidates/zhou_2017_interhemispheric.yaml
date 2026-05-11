@@ -1,7 +1,7 @@
 doi: 10.1038/s41467-017-02315-4
 openalex_id: W2774843866
 pmid: null
-pmcid: null
+pmcid: PMC5736595
 title: The interhemispheric CA1 circuit governs rapid generalisation but not fear
   memory
 authors:
@@ -46,10 +46,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhou_2017, title={The interhemispheric CA1 circuit governs
+  rapid generalisation but not fear memory}, volume={8}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-017-02315-4},
+  DOI={10.1038/s41467-017-02315-4}, number={1}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Zhou, Heng and Xiong, Gui-Jing and Jing,
+  Liang and Song, Ning-Ning and Pu, De-Lin and Tang, Xun and He, Xiao-Bing and Xu,
+  Fu-Qiang and Huang, Jing-Fei and Li, Ling-Jiang and Richter-Levin, Gal and Mao,
+  Rong-Rong and Zhou, Qi-Xin and Ding, Yu-Qiang and Xu, Lin}, year={2017}, month=dec
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

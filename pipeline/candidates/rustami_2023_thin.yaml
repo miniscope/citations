@@ -1,7 +1,7 @@
 doi: 10.3390/s23073695
 openalex_id: W4362584415
 pmid: null
-pmcid: null
+pmcid: PMC10098729
 title: Thin and Scalable Hybrid Emission Filter via Plasma Etching for Low-Invasive
   Fluorescence Detection
 authors:
@@ -32,10 +32,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Rustami_2023, title={Thin and Scalable Hybrid Emission Filter
+  via Plasma Etching for Low-Invasive Fluorescence Detection}, volume={23}, ISSN={1424-8220},
+  url={http://dx.doi.org/10.3390/s23073695}, DOI={10.3390/s23073695}, number={7},
+  journal={Sensors}, publisher={MDPI AG}, author={Rustami, Erus and Sasagawa, Kiyotaka
+  and Sugie, Kenji and Ohta, Yasumi and Takehara, Hironari and Haruta, Makito and
+  Tashiro, Hiroyuki and Ohta, Jun}, year={2023}, month=apr, pages={3695} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

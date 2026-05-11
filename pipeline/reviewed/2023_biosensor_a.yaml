@@ -1,0 +1,72 @@
+doi: 10.31857/s0006302923060157
+openalex_id: W4394750492
+pmid: null
+pmcid: null
+title: 'Biosensor systems: determination of optimal time parameters of olfactory stimulation'
+authors:
+- first: А. Е.
+  last: Матухно
+- first: Mikhail
+  last: Petrushan
+- first: Larisa V.
+  last: Lysenko
+- first: V. N.
+  last: Kiroy
+journal: Биофизика
+publication_year: 2023
+publication_date: '2023-12-15'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://journals.rcsi.science/0006-3029/article/download/249701/227802
+source: openalex_cites
+seed_paper_doi: 10.1126/sciadv.adg3918
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Matukhno_2023, title={Biosensor systems: determination of optimal
+  time parameters of olfactory stimulation}, volume={68}, ISSN={0006-3029}, url={http://dx.doi.org/10.31857/s0006302923060157},
+  DOI={10.31857/s0006302923060157}, number={6}, journal={Биофизика}, publisher={The
+  Russian Academy of Sciences}, author={Matukhno, A. E and Petrushan, M. V and Lysenko,
+  L. V and Kiroy, V. N}, year={2023}, month=dec, pages={1237–1250} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: completed
+  uses_tool: false
+  related_to_project: true
+  confidence: 0.75
+  tools_identified:
+  - MiniLFOV
+  evidence:
+  - '"Эволюция предложенного нами подхода к разработке биосенсорной системы возможна
+    при использовании минископа с большим полем зрения [67], позволяющего проводить
+    оптическую визуализацию через краниальные окна у свободно подвижных грызунов,
+    что поможет сделать биосенсорную систему портативной."'
+  - '"67. C. Guo, G. J. Blair, M. Sehgal, et al. Sci. Adv., 9(16), eadg391 (2023)."'
+  paper_type: science
+  suggested_component: MiniLFOV
+  suggested_technique: optical imaging of olfactory bulb glomerular activity
+  reasoning: 'Full-text analysis of Russian-language biosensor paper. The paper develops
+    a biosensor system based on optical imaging of odor-evoked glomerular activity
+    patterns in the olfactory bulb. In its conclusion/discussion, it explicitly proposes
+    using a "miniscope with a large field of view" (минископа с большим полем зрения)
+    citing reference [67] (Guo et al. 2023, the MiniLFOV seed paper) as a future
+    direction to make the biosensor system portable for freely moving rodents. While
+    the paper does not use the MiniLFOV in its current experiments, it identifies
+    the MiniLFOV as a key enabling technology for the next stage of their biosensor
+    system development. This constitutes a meaningful tool connection beyond mere
+    scientific context citation.'
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:47.019723+00:00'
+- stage: rejected
+  timestamp: '2026-04-10T00:00:00+00:00'
+  reason: No evidence of tool usage found in abstract-only analysis
+- stage: reviewed
+  timestamp: '2026-04-11T00:00:00+00:00'
+  reason: Full-text analysis found explicit MiniLFOV reference as proposed future tool

@@ -1,0 +1,62 @@
+doi: 10.1371/journal.pcbi.1011167
+openalex_id: W4379536795
+pmid: null
+pmcid: PMC10275485
+title: Identifying properties of pattern completion neurons in a computational model
+  of the visual cortex
+authors:
+- first: Casey M.
+  last: Baker
+- first: Yiyang
+  last: Gong
+journal: PLoS Computational Biology
+publication_year: 2023
+publication_date: '2023-06-06'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1011167&type=printable
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Baker_2023, title={Identifying properties of pattern completion
+  neurons in a computational model of the visual cortex}, volume={19}, ISSN={1553-7358},
+  url={http://dx.doi.org/10.1371/journal.pcbi.1011167}, DOI={10.1371/journal.pcbi.1011167},
+  number={6}, journal={PLOS Computational Biology}, publisher={Public Library of Science
+  (PLoS)}, author={Baker, Casey M. and Gong, Yiyang}, editor={Yang, Tianming}, year={2023},
+  month=jun, pages={e1011167} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  confidence: 0.95
+  tools_identified: []
+  evidence:
+  - "They are found in diverse regions of the brain including the motor cortex, sensory cortices, and the hippocampus [ 6 – 10 ]"
+  - "recent experimental work has found ensembles that underlie associative memories, motor behaviors, and visual perception [ 6 – 8 ]"
+  - "Previous work used pattern completion properties to demonstrate the role of ensembles in visual perception: activation of ensembles via pattern completion neurons was sufficient to drive learned behavior in the absence of visual stimuli [ 8 ]"
+  paper_type: unrelated
+  suggested_component: null
+  suggested_technique: null
+  reasoning: >-
+    This is a computational modeling study that develops a spiking neural network
+    model of layer 2/3 of mouse visual cortex to study pattern completion properties
+    of neural ensembles. It cites Cai et al. 2016 (seed paper) purely for the
+    neuroscience finding that neural ensembles exist in the hippocampus and underlie
+    associative memories. There is no use of or reference to any UCLA Miniscope,
+    MiniLFOV, MiniXL, Minian, 2P Miniscope, or Miniscope DAQ. The paper discusses
+    calcium imaging and GCaMP only in the context of future in vivo validation
+    directions and general recording modality comparisons. No tool connection exists.
+  related_to_project: false
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321983+00:00'
+- stage: rejected
+  timestamp: '2026-04-11'

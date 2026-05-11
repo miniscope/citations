@@ -1,0 +1,62 @@
+doi: 10.1109/lpt.2020.3004283
+openalex_id: W3036017900
+pmid: null
+pmcid: null
+title: Lightweight 1-photon Miniscope for Imaging in Freely Behaving Animals at Subcellular
+  Resolution
+authors:
+- first: Arutyun
+  last: Bagramyan
+journal: IEEE Photonics Technology Letters
+publication_year: 2020
+publication_date: '2020-06-22'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Bagramyan_2020, title={Lightweight 1-photon Miniscope for Imaging
+  in Freely Behaving Animals at Subcellular Resolution}, volume={32}, ISSN={1941-0174},
+  url={http://dx.doi.org/10.1109/lpt.2020.3004283}, DOI={10.1109/lpt.2020.3004283},
+  number={15}, journal={IEEE Photonics Technology Letters}, publisher={Institute of
+  Electrical and Electronics Engineers (IEEE)}, author={Bagramyan, Arutyun}, year={2020},
+  month=aug, pages={909–912} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  related_to_project: true
+  confidence: 0.82
+  tools_identified: []
+  evidence:
+  - "The author presents a 1-photon miniscope device with significant mechanical (weight:
+    1.3g, small size: 10mm x 17mm x 12mm) and optical (lateral resolution: 1 um,
+    magnification: 12.5) advantages compared to existing systems."
+  - "Cites Cai et al. 2016 (doi:10.1038/nature17955) - the UCLA Miniscope seed paper
+    - as a key reference among existing miniature microscope systems."
+  paper_type: methods
+  suggested_component: UCLA Miniscope v4
+  suggested_technique: 1-photon calcium imaging
+  reasoning: >-
+    This paper presents a new lightweight 1-photon miniscope design from Universite
+    Laval (not the UCLA lab). It directly cites the UCLA Miniscope seed paper (Cai
+    et al. 2016) and positions itself as offering improvements over existing miniature
+    microscope systems including the UCLA Miniscope. While the paper does not USE
+    a UCLA Miniscope tool, it builds upon and references the UCLA Miniscope as a
+    key predecessor. The paper is a methods contribution presenting an alternative
+    miniscope design inspired by and compared against the UCLA Miniscope family.
+    No full text was available for deeper analysis, so confidence is moderated.
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322220+00:00'
+- stage: reviewed
+  timestamp: '2026-04-11'

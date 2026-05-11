@@ -1,7 +1,7 @@
 doi: 10.1126/scirobotics.adw8905
 openalex_id: W4415440541
 pmid: null
-pmcid: null
+pmcid: PMC13049599
 title: Bioinspired photoresponsive soft robotic lens
 authors:
 - first: Corey
@@ -19,10 +19,16 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zheng_2025, title={Bioinspired photoresponsive soft robotic
+  lens}, volume={10}, ISSN={2470-9476}, url={http://dx.doi.org/10.1126/scirobotics.adw8905},
+  DOI={10.1126/scirobotics.adw8905}, number={107}, journal={Science Robotics}, publisher={American
+  Association for the Advancement of Science (AAAS)}, author={Zheng, Corey and Jia,
+  Shu}, year={2025}, month=oct }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

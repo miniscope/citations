@@ -89,8 +89,20 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Shen_2026, title={Frontiers and trends in advanced scientific
+  instruments}, volume={1}, ISSN={3117-3748}, url={http://dx.doi.org/10.1016/j.asi.2026.100006},
+  DOI={10.1016/j.asi.2026.100006}, number={1}, journal={Advanced Scientific Instruments},
+  publisher={Elsevier BV}, author={Shen, Qian and Zhou, Xiong and Wang, Yuting and
+  Shao, Jiaqi and Chen, Qiwei and Cheng, Zhi Gang and Ding, Xumin and Guo, Zi-Han
+  and Hei, Daqian and Ji, Wei and Wang, Qiang and Kan, Ruifeng and Li, Guanxing and
+  Chen, Ping and Li, Haiyang and Lin, Junhao and Lin, Nan and Liu, Dairong and Luo,
+  Feng and Bao, Yifan and Song, Bai and Su, Haisheng and Wang, Huan and Wang, Xiang
+  and Wang, Yajun and An, Pan and Wang, Yuxi and Yang, Sen and Yao, Wenqing and Zhou,
+  Yu and Cheng, Qian and Huan, Qing and Ren, Bin and Wang, Yong and Xue, Xianghui
+  and Fu, Xuefeng and Wu, Kai}, year={2026}, month=mar, pages={100006} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

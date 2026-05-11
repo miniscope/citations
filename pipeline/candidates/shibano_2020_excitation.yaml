@@ -1,7 +1,7 @@
 doi: 10.1038/s41598-020-65597-7
 openalex_id: W3028406421
 pmid: null
-pmcid: null
+pmcid: PMC7248099
 title: Excitation of prefrontal cortical neurons during conditioning enhances fear
   memory formation
 authors:
@@ -34,10 +34,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Shibano_2020, title={Excitation of prefrontal cortical neurons
+  during conditioning enhances fear memory formation}, volume={10}, ISSN={2045-2322},
+  url={http://dx.doi.org/10.1038/s41598-020-65597-7}, DOI={10.1038/s41598-020-65597-7},
+  number={1}, journal={Scientific Reports}, publisher={Springer Science and Business
+  Media LLC}, author={Shibano, Natsumi and Yamazaki, Mio and Arima, Tomoki and Abe,
+  Konami and Kuroda, Marin and Kobayashi, Yuki and Itohara, Shigeyoshi and Furuichi,
+  Teiichi and Sano, Yoshitake}, year={2020}, month=may }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

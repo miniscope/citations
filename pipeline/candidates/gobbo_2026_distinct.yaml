@@ -1,7 +1,7 @@
 doi: 10.3389/fnmol.2025.1751677
 openalex_id: W7124886868
 pmid: null
-pmcid: null
+pmcid: PMC12864489
 title: Distinct spatial distribution of potentiated dendritic spines in encoding-
   and recall-activated hippocampal neurons
 authors:
@@ -28,10 +28,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Gobbo_2026, title={Distinct spatial distribution of potentiated
+  dendritic spines in encoding- and recall-activated hippocampal neurons}, volume={18},
+  ISSN={1662-5099}, url={http://dx.doi.org/10.3389/fnmol.2025.1751677}, DOI={10.3389/fnmol.2025.1751677},
+  journal={Frontiers in Molecular Neuroscience}, publisher={Frontiers Media SA}, author={Gobbo,
+  Francesco and Jacob, Ajesh and Pinto, Bruno and Mainardi, Marco and Cancedda, Laura
+  and Cattaneo, Antonino}, year={2026}, month=jan }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

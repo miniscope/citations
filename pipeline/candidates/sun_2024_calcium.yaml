@@ -1,7 +1,7 @@
 doi: 10.3390/cells14010004
 openalex_id: W4405782531
 pmid: null
-pmcid: null
+pmcid: PMC11719922
 title: Calcium Signalling in Neurological Disorders, with Insights from Miniature
   Fluorescence Microscopy
 authors:
@@ -26,10 +26,17 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sun_2024, title={Calcium Signalling in Neurological Disorders,
+  with Insights from Miniature Fluorescence Microscopy}, volume={14}, ISSN={2073-4409},
+  url={http://dx.doi.org/10.3390/cells14010004}, DOI={10.3390/cells14010004}, number={1},
+  journal={Cells}, publisher={MDPI AG}, author={Sun, Dechuan and Amiri, Mona and Meng,
+  Qi and Unnithan, Ranjith R. and French, Chris}, year={2024}, month=dec, pages={4}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

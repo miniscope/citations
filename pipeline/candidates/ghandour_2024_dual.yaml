@@ -35,10 +35,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Ghandour_2024, title={Dual roles of idling moments in past
+  and future memories}, url={http://dx.doi.org/10.1101/2024.06.27.600961}, DOI={10.1101/2024.06.27.600961},
+  publisher={openRxiv}, author={Ghandour, Khaled and Haga, Tatsuya and Ohkawa, Noriaki
+  and Fung, Chi Chung Alan and Nomoto, Masanori and Fayed, Mostafa R. and Asai, Hirotaka
+  and Sato, Masaaki and Fukai, Tomoki and Inokuchi, Kaoru}, year={2024}, month=jul
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

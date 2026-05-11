@@ -1,7 +1,7 @@
 doi: 10.1155/2021/6623926
 openalex_id: W3133132134
 pmid: null
-pmcid: null
+pmcid: PMC7925051
 title: Dynamics of a Large-Scale Spiking Neural Network with Quadratic Integrate-and-Fire
   Neurons
 authors:
@@ -18,10 +18,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Ye_2021, title={Dynamics of a Large-Scale Spiking Neural Network
+  with Quadratic Integrate-and-Fire Neurons}, volume={2021}, ISSN={2090-5904}, url={http://dx.doi.org/10.1155/2021/6623926},
+  DOI={10.1155/2021/6623926}, journal={Neural Plasticity}, publisher={Wiley}, author={Ye,
+  Weijie}, editor={Wang, Rubin}, year={2021}, month=feb, pages={1–10} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

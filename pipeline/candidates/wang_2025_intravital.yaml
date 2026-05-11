@@ -1,7 +1,7 @@
 doi: 10.52601/bpr.2025.250015
 openalex_id: W4409961944
 pmid: null
-pmcid: null
+pmcid: PMC12979932
 title: 'Intravital mesoscale optical imaging: challenges, techniques, and future perspectives'
 authors:
 - first: Mingrui
@@ -21,10 +21,16 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Wang_2026, title={Intravital mesoscale optical imaging: challenges,
+  techniques, and future perspectives}, volume={12}, ISSN={2364-3420}, url={http://dx.doi.org/10.52601/bpr.2025.250015},
+  DOI={10.52601/bpr.2025.250015}, number={1}, journal={Biophysics Reports}, publisher={Biophysical
+  Society of China}, author={Wang, Mingrui and Wu, Jiamin and Dai, Qionghai}, year={2026},
+  pages={34} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

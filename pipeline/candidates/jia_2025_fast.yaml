@@ -24,8 +24,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Jia_2025, title={Fast excitatory modulations paradoxically
+  reduce spiking activity in the network and single neuron with autapse: complex bifurcations
+  and unstable limit cycles}, volume={199}, ISSN={0960-0779}, url={http://dx.doi.org/10.1016/j.chaos.2025.116752},
+  DOI={10.1016/j.chaos.2025.116752}, journal={Chaos, Solitons &amp; Fractals}, publisher={Elsevier
+  BV}, author={Jia, Yanbing and Gu, Huaguang and Wang, Xianjun and Li, Yuye}, year={2025},
+  month=oct, pages={116752} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

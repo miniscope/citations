@@ -19,8 +19,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Schmidt_Hieber_2017, title={Synaptic integrative mechanisms
+  for spatial cognition}, volume={20}, ISSN={1546-1726}, url={http://dx.doi.org/10.1038/nn.4652},
+  DOI={10.1038/nn.4652}, number={11}, journal={Nature Neuroscience}, publisher={Springer
+  Science and Business Media LLC}, author={Schmidt-Hieber, Christoph and Nolan, Matthew
+  F}, year={2017}, month=nov, pages={1483–1492} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

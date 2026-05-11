@@ -31,10 +31,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhang_2021, title={All-optical imaging and patterned stimulation
+  with a one-photon endoscope}, url={http://dx.doi.org/10.1101/2021.12.19.473349},
+  DOI={10.1101/2021.12.19.473349}, publisher={openRxiv}, author={Zhang, Jinyong and
+  Hughes, Ryan N. and Kim, Namsoo and Fallon, Isabella P. and Bakhurin, Konstantin
+  and Kim, Jiwon and Ulloa Severino, Francesco Paolo and Yin, Henry H.}, year={2021},
+  month=dec }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

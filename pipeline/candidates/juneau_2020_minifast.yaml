@@ -40,10 +40,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Juneau_2020, title={MiniFAST: A sensitive and fast miniaturized
+  microscope for in vivo neural recording}, url={http://dx.doi.org/10.1101/2020.11.03.367466},
+  DOI={10.1101/2020.11.03.367466}, publisher={openRxiv}, author={Juneau, Jill and
+  Duret, Guillaume and Chu, Joshua and Rodriguez, Alex and Morozov, Savva and Aharoni,
+  Daniel and Robinson, Jacob and St-Pierre, Francois and Kemere, Caleb and Golshani,
+  Peyman and Dorian, Conor C and Madruga, Blake}, year={2020}, month=nov }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

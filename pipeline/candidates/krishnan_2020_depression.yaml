@@ -1,7 +1,7 @@
 doi: 10.1007/s11910-020-01065-z
 openalex_id: W3042872539
 pmid: null
-pmcid: null
+pmcid: PMC9157472
 title: 'Depression and Anxiety in the Epilepsies: from Bench to Bedside'
 authors:
 - first: Vaishnav
@@ -17,10 +17,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Krishnan_2020, title={Depression and Anxiety in the Epilepsies:
+  from Bench to Bedside}, volume={20}, ISSN={1534-6293}, url={http://dx.doi.org/10.1007/s11910-020-01065-z},
+  DOI={10.1007/s11910-020-01065-z}, number={9}, journal={Current Neurology and Neuroscience
+  Reports}, publisher={Springer Science and Business Media LLC}, author={Krishnan,
+  Vaishnav}, year={2020}, month=jul }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

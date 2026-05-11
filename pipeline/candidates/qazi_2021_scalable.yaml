@@ -1,7 +1,7 @@
 doi: 10.1038/s41551-021-00814-w
 openalex_id: W3215307240
 pmid: null
-pmcid: null
+pmcid: PMC10180496
 title: Scalable and modular wireless-network infrastructure for large-scale behavioural
   neuroscience
 authors:
@@ -54,10 +54,20 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Qazi_2021, title={Scalable and modular wireless-network infrastructure
+  for large-scale behavioural neuroscience}, volume={6}, ISSN={2157-846X}, url={http://dx.doi.org/10.1038/s41551-021-00814-w},
+  DOI={10.1038/s41551-021-00814-w}, number={6}, journal={Nature Biomedical Engineering},
+  publisher={Springer Science and Business Media LLC}, author={Qazi, Raza and Parker,
+  Kyle E. and Kim, Choong Yeon and Rill, Ruediger and Norris, Makenzie R. and Chung,
+  Jaeyoon and Bilbily, John and Kim, Jenny R. and Walicki, Marie C. and Gereau, Graydon
+  B. and Lim, Hyoyoung and Xiong, Yanyu and Lee, Jenna R. and Tapia, Melissa A. and
+  Kravitz, Alexxai V. and Will, Matthew J. and Ha, Sangtae and McCall, Jordan G. and
+  Jeong, Jae-Woong}, year={2021}, month=nov, pages={771–786} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

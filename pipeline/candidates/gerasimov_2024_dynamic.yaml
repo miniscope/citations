@@ -1,7 +1,7 @@
 doi: 10.1186/s13041-024-01168-5
 openalex_id: W4405543903
 pmid: null
-pmcid: null
+pmcid: PMC11653891
 title: Dynamic changes in the hippocampal neuronal circuits activity following acute
   stress revealed by miniature fluorescence microscopy imaging
 authors:
@@ -24,10 +24,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Gerasimov_2024, title={Dynamic changes in the hippocampal neuronal
+  circuits activity following acute stress revealed by miniature fluorescence microscopy
+  imaging}, volume={17}, ISSN={1756-6606}, url={http://dx.doi.org/10.1186/s13041-024-01168-5},
+  DOI={10.1186/s13041-024-01168-5}, number={1}, journal={Molecular Brain}, publisher={Springer
+  Science and Business Media LLC}, author={Gerasimov, Evgenii and Pchitskaya, Ekaterina
+  and Vlasova, Olga and Bezprozvanny, Ilya}, year={2024}, month=dec }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

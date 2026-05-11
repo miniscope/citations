@@ -1,7 +1,7 @@
 doi: 10.1073/pnas.2001338117
 openalex_id: W3032160040
 pmid: null
-pmcid: null
+pmcid: PMC7306990
 title: Spiking activity in the human hippocampus prior to encoding predicts subsequent
   memory
 authors:
@@ -30,10 +30,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Urgolites_2020, title={Spiking activity in the human hippocampus
+  prior to encoding predicts subsequent memory}, volume={117}, ISSN={1091-6490}, url={http://dx.doi.org/10.1073/pnas.2001338117},
+  DOI={10.1073/pnas.2001338117}, number={24}, journal={Proceedings of the National
+  Academy of Sciences}, publisher={Proceedings of the National Academy of Sciences},
+  author={Urgolites, Zhisen J. and Wixted, John T. and Goldinger, Stephen D. and Papesh,
+  Megan H. and Treiman, David M. and Squire, Larry R. and Steinmetz, Peter N.}, year={2020},
+  month=jun, pages={13767–13770} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

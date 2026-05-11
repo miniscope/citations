@@ -1,7 +1,7 @@
 doi: 10.1016/j.neuron.2021.06.014
 openalex_id: W3178483553
 pmid: null
-pmcid: null
+pmcid: PMC8416710
 title: Dimensions and mechanisms of memory organization
 authors:
 - first: André F. de
@@ -21,10 +21,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{de_Sousa_2021, title={Dimensions and mechanisms of memory organization},
+  volume={109}, ISSN={0896-6273}, url={http://dx.doi.org/10.1016/j.neuron.2021.06.014},
+  DOI={10.1016/j.neuron.2021.06.014}, number={17}, journal={Neuron}, publisher={Elsevier
+  BV}, author={de Sousa, André F. and Chowdhury, Ananya and Silva, Alcino J.}, year={2021},
+  month=sep, pages={2649–2662} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

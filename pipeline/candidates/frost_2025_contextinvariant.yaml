@@ -1,7 +1,7 @@
 doi: 10.1038/s41467-025-59575-8
 openalex_id: W4411846073
 pmid: null
-pmcid: null
+pmcid: PMC12218259
 title: Context-invariant socioemotional encoding by prefrontal ensembles
 authors:
 - first: Nicholas A.
@@ -23,10 +23,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Frost_2025, title={Context-invariant socioemotional encoding
+  by prefrontal ensembles}, volume={16}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-025-59575-8},
+  DOI={10.1038/s41467-025-59575-8}, number={1}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Frost, Nicholas A. and Donohue, Kevin C.
+  and Kwak, Damhyeon and Sohal, Vikaas S.}, year={2025}, month=jul }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

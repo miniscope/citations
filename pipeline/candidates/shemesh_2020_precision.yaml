@@ -1,7 +1,7 @@
 doi: 10.1016/j.neuron.2020.05.029
 openalex_id: W3037807978
 pmid: null
-pmcid: null
+pmcid: PMC7415598
 title: Precision Calcium Imaging of Dense Neural Populations via a Cell-Body-Targeted
   Calcium Indicator
 authors:
@@ -84,10 +84,24 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Shemesh_2020, title={Precision Calcium Imaging of Dense Neural
+  Populations via a Cell-Body-Targeted Calcium Indicator}, volume={107}, ISSN={0896-6273},
+  url={http://dx.doi.org/10.1016/j.neuron.2020.05.029}, DOI={10.1016/j.neuron.2020.05.029},
+  number={3}, journal={Neuron}, publisher={Elsevier BV}, author={Shemesh, Or A. and
+  Linghu, Changyang and Piatkevich, Kiryl D. and Goodwin, Daniel and Celiker, Orhan
+  Tunc and Gritton, Howard J. and Romano, Michael F. and Gao, Ruixuan and Yu, Chih-Chieh
+  (Jay) and Tseng, Hua-An and Bensussen, Seth and Narayan, Sujatha and Yang, Chao-Tsung
+  and Freifeld, Limor and Siciliano, Cody A. and Gupta, Ishan and Wang, Joyce and
+  Pak, Nikita and Yoon, Young-Gyu and Ullmann, Jeremy F.P. and Guner-Ataman, Burcu
+  and Noamany, Habiba and Sheinkopf, Zoe R. and Park, Won Min and Asano, Shoh and
+  Keating, Amy E. and Trimmer, James S. and Reimer, Jacob and Tolias, Andreas S. and
+  Bear, Mark F. and Tye, Kay M. and Han, Xue and Ahrens, Misha B. and Boyden, Edward
+  S.}, year={2020}, month=aug, pages={470-486.e11} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

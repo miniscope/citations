@@ -1,7 +1,7 @@
 doi: 10.1002/advs.202203395
 openalex_id: W4310644247
 pmid: null
-pmcid: null
+pmcid: PMC9839870
 title: Divergent Neural Activity in the VLPO During Anesthesia and Sleep
 authors:
 - first: Mengqiang
@@ -27,10 +27,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Luo_2022, title={Divergent Neural Activity in the VLPO During
+  Anesthesia and Sleep}, volume={10}, ISSN={2198-3844}, url={http://dx.doi.org/10.1002/advs.202203395},
+  DOI={10.1002/advs.202203395}, number={2}, journal={Advanced Science}, publisher={Wiley},
+  author={Luo, Mengqiang and Fei, Xiang and Liu, Xiaotong and Jin, Zikang and Wang,
+  Yingwei and Xu, Min}, year={2022}, month=dec }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

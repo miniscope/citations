@@ -1,7 +1,7 @@
 doi: 10.1038/s41467-025-57041-z
 openalex_id: W4408156182
 pmid: null
-pmcid: null
+pmcid: PMC11880300
 title: Processing of pain and itch information by modality-specific neurons within
   the anterior cingulate cortex in mice
 authors:
@@ -50,10 +50,20 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Ko_2025, title={Processing of pain and itch information by
+  modality-specific neurons within the anterior cingulate cortex in mice}, volume={16},
+  ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-025-57041-z}, DOI={10.1038/s41467-025-57041-z},
+  number={1}, journal={Nature Communications}, publisher={Springer Science and Business
+  Media LLC}, author={Ko, Hyoung-Gon and Jung, Hyunsu and Han, Seunghyo and Choi,
+  Dong Il and Lee, Chiwoo and Choi, Ja Eun and Oh, Jihae and Kwak, Chuljung and Han,
+  Dae Hee and Kim, Jun-Nyeong and Ye, Sanghyun and Lee, Jiah and Lee, Jaehyun and
+  Lee, Kyungmin and Lee, Jae-Hyung and Zhuo, Min and Kaang, Bong-Kiun}, year={2025},
+  month=mar }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

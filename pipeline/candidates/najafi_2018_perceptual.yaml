@@ -1,7 +1,7 @@
 doi: 10.1016/j.neuron.2018.10.017
 openalex_id: W2898543057
 pmid: null
-pmcid: null
+pmcid: PMC6427923
 title: 'Perceptual Decision-Making: A Field in the Midst of a Transformation'
 authors:
 - first: Farzaneh
@@ -19,10 +19,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Najafi_2018, title={Perceptual Decision-Making: A Field in
+  the Midst of a Transformation}, volume={100}, ISSN={0896-6273}, url={http://dx.doi.org/10.1016/j.neuron.2018.10.017},
+  DOI={10.1016/j.neuron.2018.10.017}, number={2}, journal={Neuron}, publisher={Elsevier
+  BV}, author={Najafi, Farzaneh and Churchland, Anne K.}, year={2018}, month=oct,
+  pages={453–462} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

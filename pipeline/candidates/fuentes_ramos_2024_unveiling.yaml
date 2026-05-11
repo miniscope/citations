@@ -20,10 +20,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @inbook{Fuentes_Ramos_2024, title={Unveiling Transcriptional and Epigenetic
+  Mechanisms Within Engram Cells: Insights into Memory Formation and Stability}, ISBN={9783031629839},
+  ISSN={2190-5223}, url={http://dx.doi.org/10.1007/978-3-031-62983-9_7}, DOI={10.1007/978-3-031-62983-9_7},
+  booktitle={Engrams}, publisher={Springer International Publishing}, author={Fuentes-Ramos,
+  Miguel and Barco, Ángel}, year={2024}, pages={111–129} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

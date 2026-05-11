@@ -1,7 +1,7 @@
 doi: 10.1364/optica.464700
 openalex_id: W4289593538
 pmid: null
-pmcid: null
+pmcid: PMC9731182
 title: Deep-learning-augmented computational miniature mesoscope
 authors:
 - first: Yujia
@@ -25,10 +25,16 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Xue_2022, title={Deep-learning-augmented computational miniature
+  mesoscope}, volume={9}, ISSN={2334-2536}, url={http://dx.doi.org/10.1364/optica.464700},
+  DOI={10.1364/optica.464700}, number={9}, journal={Optica}, publisher={Optica Publishing
+  Group}, author={Xue, Yujia and Yang, Qianwan and Hu, Guorong and Guo, Kehan and
+  Tian, Lei}, year={2022}, month=aug, pages={1009} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

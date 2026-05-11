@@ -1,7 +1,7 @@
 doi: 10.1371/journal.pone.0210876
 openalex_id: W2910630080
 pmid: null
-pmcid: null
+pmcid: PMC6336251
 title: Susceptibility of consolidated procedural memory to interference is independent
   of its active task-based retrieval
 authors:
@@ -38,10 +38,19 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Gabitov_2019, title={Susceptibility of consolidated procedural
+  memory to interference is independent of its active task-based retrieval}, volume={14},
+  ISSN={1932-6203}, url={http://dx.doi.org/10.1371/journal.pone.0210876}, DOI={10.1371/journal.pone.0210876},
+  number={1}, journal={PLOS ONE}, publisher={Public Library of Science (PLoS)}, author={Gabitov,
+  Ella and Boutin, Arnaud and Pinsard, Basile and Censor, Nitzan and Fogel, Stuart
+  M. and Albouy, Geneviève and King, Bradley R. and Carrier, Julie and Cohen, Leonardo
+  G. and Karni, Avi and Doyon, Julien}, editor={Ramanathan, Dhakshin}, year={2019},
+  month=jan, pages={e0210876} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

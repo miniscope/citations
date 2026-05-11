@@ -1,7 +1,7 @@
 doi: 10.1371/journal.pone.0323256
 openalex_id: W4410295381
 pmid: null
-pmcid: null
+pmcid: PMC12068630
 title: GRIN lens implantation strategies for in vivo calcium imaging using miniature
   microscopy
 authors:
@@ -22,10 +22,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhao_2025, title={GRIN lens implantation strategies for in
+  vivo calcium imaging using miniature microscopy}, volume={20}, ISSN={1932-6203},
+  url={http://dx.doi.org/10.1371/journal.pone.0323256}, DOI={10.1371/journal.pone.0323256},
+  number={5}, journal={PLOS One}, publisher={Public Library of Science (PLoS)}, author={Zhao,
+  Pingping and Aharoni, Daniel and Golshani, Peyman}, editor={Liang, Wenxuan}, year={2025},
+  month=may, pages={e0323256} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

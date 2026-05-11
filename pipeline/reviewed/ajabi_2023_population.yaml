@@ -1,0 +1,64 @@
+doi: 10.1038/s41586-023-05813-2
+openalex_id: W4353055589
+pmid: null
+pmcid: PMC10060160
+title: Population dynamics of head-direction neurons during drift and reorientation
+authors:
+- first: Zaki
+  last: Ajabi
+- first: Alexandra T.
+  last: Keinath
+- first: Xue-Xin
+  last: Wei
+- first: Mark P.
+  last: Brandon
+journal: Nature
+publication_year: 2023
+publication_date: '2023-03-22'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41586-023-05813-2.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Ajabi_2023, title={Population dynamics of head-direction neurons
+  during drift and reorientation}, volume={615}, ISSN={1476-4687}, url={http://dx.doi.org/10.1038/s41586-023-05813-2},
+  DOI={10.1038/s41586-023-05813-2}, number={7954}, journal={Nature}, publisher={Springer
+  Science and Business Media LLC}, author={Ajabi, Zaki and Keinath, Alexandra T. and
+  Wei, Xue-Xin and Brandon, Mark P.}, year={2023}, month=mar, pages={892–899} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: true
+  confidence: 0.98
+  tools_identified:
+  - UCLA Miniscope v4
+  - Miniscope DAQ
+  evidence:
+  - "calcium videos were recorded with a miniscope (v3; https://miniscope.org) containing a monochrome CMOS imaging sensor (MT9V032C12STM, ON Semiconductor) connected to a custom data acquisition (DAQ) box (https://miniscope.org)"
+  - "controlled using Miniscope custom acquisition software (https://miniscope.org)"
+  - "Aharoni for advice and assistance with the UCLA miniscope"
+  paper_type: science
+  suggested_component: UCLA Miniscope v4
+  suggested_technique: calcium imaging
+  reasoning: >-
+    This paper uses the UCLA Miniscope (v3) and Miniscope DAQ hardware as the primary
+    calcium imaging tool to record head-direction neurons in mice. The methods section
+    explicitly names the miniscope v3 from miniscope.org and the associated DAQ box.
+    The authors also acknowledge D. Aharoni for advice with the UCLA Miniscope. While
+    the device used is actually a v3 (predecessor to v4), it is part of the UCLA Miniscope
+    family and the paper clearly uses the tool for its core research.
+  related_to_project: true
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.318877+00:00'
+- stage: reviewed
+  timestamp: '2026-04-10T00:00:00+00:00'

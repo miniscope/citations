@@ -1,0 +1,62 @@
+doi: 10.15252/embj.2023113524
+openalex_id: W4387002765
+pmid: null
+pmcid: PMC11059975
+title: 'Sharpening the blades of the dentate gyrus: how adult‐born neurons differentially
+  modulate diverse aspects of hippocampal learning and memory'
+authors:
+- first: Gabriel
+  last: Berdugo‐Vega
+- first: Shonali
+  last: Dhingra
+- first: Federico
+  last: Calegari
+journal: The EMBO Journal
+publication_year: 2023
+publication_date: '2023-09-25'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.15252/embj.2023113524
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Berdugo_Vega_2023, title={Sharpening the blades of the dentate
+  gyrus: how adult‐born neurons differentially modulate diverse aspects of hippocampal
+  learning and memory}, volume={42}, ISSN={1460-2075}, url={http://dx.doi.org/10.15252/embj.2023113524},
+  DOI={10.15252/embj.2023113524}, number={22}, journal={The EMBO Journal}, publisher={Springer
+  Science and Business Media LLC}, author={Berdugo‐Vega, Gabriel and Dhingra, Shonali
+  and Calegari, Federico}, year={2023}, month=sep }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: completed
+  uses_tool: false
+  confidence: 0.95
+  tools_identified: []
+  evidence:
+  - "Cai et al , 2016 ). Recent findings also report the presence of functionally segregated
+    cells within the same DG blades"
+  paper_type: review
+  suggested_component: null
+  suggested_technique: null
+  reasoning: >-
+    This is a review paper on adult neurogenesis and dentate gyrus function in the
+    hippocampus. It cites the seed paper Cai et al. 2016 purely for its scientific
+    finding about contextual pattern separation in the dentate gyrus, with no mention
+    of or connection to any Miniscope hardware or software tools. No tool names or
+    aliases (UCLA Miniscope v4, MiniLFOV, MiniXL, Minian, UCLA 2P Miniscope, Miniscope
+    DAQ, miniature microscope, etc.) appear anywhere in the full text. The paper is
+    unrelated to the project.
+  related_to_project: false
+stage: rejected
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319442+00:00'
+- stage: rejected
+  timestamp: '2026-04-13'

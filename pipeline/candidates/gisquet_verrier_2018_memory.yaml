@@ -19,8 +19,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Gisquet_Verrier_2018, title={Memory integration: An alternative
+  to the consolidation/reconsolidation hypothesis}, volume={171}, ISSN={0301-0082},
+  url={http://dx.doi.org/10.1016/j.pneurobio.2018.10.002}, DOI={10.1016/j.pneurobio.2018.10.002},
+  journal={Progress in Neurobiology}, publisher={Elsevier BV}, author={Gisquet-Verrier,
+  Pascale and Riccio, David C.}, year={2018}, month=dec, pages={15–31} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

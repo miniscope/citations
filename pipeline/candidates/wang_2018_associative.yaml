@@ -1,7 +1,7 @@
 doi: 10.12688/f1000research.13665.1
 openalex_id: W2785211320
 pmid: null
-pmcid: null
+pmcid: PMC5806053
 title: Associative memory cells and their working principle in the brain
 authors:
 - first: Jinhui
@@ -19,10 +19,16 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Wang_2018, title={Associative memory cells and their working
+  principle in the brain}, volume={7}, ISSN={2046-1402}, url={http://dx.doi.org/10.12688/f1000research.13665.1},
+  DOI={10.12688/f1000research.13665.1}, journal={F1000Research}, publisher={F1000
+  Research Ltd}, author={Wang, Jin-Hui and Cui, Shan}, year={2018}, month=jan, pages={108}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

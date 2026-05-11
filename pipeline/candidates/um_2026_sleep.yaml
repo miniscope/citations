@@ -35,8 +35,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Um_2026, title={Sleep neural code perpetuates the evolving
+  negativity bias under stress}, url={http://dx.doi.org/10.64898/2026.03.03.709197},
+  DOI={10.64898/2026.03.03.709197}, publisher={openRxiv}, author={Um, Seung Min and
+  Okubo-Suzuki, Reiko and Nomoto, Masanori and Hanafy, Mahmoud Khaled and Emi, Murayama
+  and Yamada-Nomoto, Kaori and Asai, Hirotaka and Choko, Kiriko and Suzuki, Akinobu
+  and Inokuchi, Kaoru}, year={2026}, month=mar }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

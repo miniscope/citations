@@ -27,8 +27,14 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sheintuch_2020, title={Multiple Maps of the Same Spatial Context
+  Can Stably Coexist in the Mouse Hippocampus}, volume={30}, ISSN={0960-9822}, url={http://dx.doi.org/10.1016/j.cub.2020.02.018},
+  DOI={10.1016/j.cub.2020.02.018}, number={8}, journal={Current Biology}, publisher={Elsevier
+  BV}, author={Sheintuch, Liron and Geva, Nitzan and Baumer, Hadas and Rechavi, Yoav
+  and Rubin, Alon and Ziv, Yaniv}, year={2020}, month=apr, pages={1467-1476.e6} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

@@ -1,7 +1,7 @@
 doi: 10.1016/j.cell.2020.02.055
 openalex_id: W3011353299
 pmid: null
-pmcid: null
+pmcid: PMC7166195
 title: Functionally Distinct Neuronal Ensembles within the Memory Engram
 authors:
 - first: Xiaochen
@@ -33,10 +33,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sun_2020, title={Functionally Distinct Neuronal Ensembles within
+  the Memory Engram}, volume={181}, ISSN={0092-8674}, url={http://dx.doi.org/10.1016/j.cell.2020.02.055},
+  DOI={10.1016/j.cell.2020.02.055}, number={2}, journal={Cell}, publisher={Elsevier
+  BV}, author={Sun, Xiaochen and Bernstein, Max J. and Meng, Meizhen and Rao, Siyuan
+  and Sørensen, Andreas T. and Yao, Li and Zhang, Xiaohui and Anikeeva, Polina O.
+  and Lin, Yingxi}, year={2020}, month=apr, pages={410-423.e17} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

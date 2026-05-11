@@ -38,8 +38,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Schuette_2020, title={Long-Term Characterization of Hippocampal
+  Remapping during Contextual Fear Acquisition and Extinction}, volume={40}, ISSN={1529-2401},
+  url={http://dx.doi.org/10.1523/jneurosci.1022-20.2020}, DOI={10.1523/jneurosci.1022-20.2020},
+  number={43}, journal={The Journal of Neuroscience}, publisher={Society for Neuroscience},
+  author={Schuette, Peter J. and Reis, Fernando M. C. V. and Maesta-Pereira, Sandra
+  and Chakerian, Meghmik and Torossian, Anita and Blair, Garrett J. and Wang, Weisheng
+  and Blair, Hugh T. and Fanselow, Michael S. and Kao, Jonathan C. and Adhikari, Avishek},
+  year={2020}, month=sep, pages={8329–8342} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

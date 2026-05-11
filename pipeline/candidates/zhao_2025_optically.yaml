@@ -1,7 +1,7 @@
 doi: 10.34133/research.1072
 openalex_id: W4417278682
 pmid: null
-pmcid: null
+pmcid: PMC12804600
 title: The Optically Guided and Pre-assembled Implantation Cranial Window Reveals
   Cortical Spatial Representations during Navigation
 authors:
@@ -40,10 +40,18 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhao_2026, title={The Optically Guided and Pre-assembled Implantation
+  Cranial Window Reveals Cortical Spatial Representations during Navigation}, volume={9},
+  ISSN={2639-5274}, url={http://dx.doi.org/10.34133/research.1072}, DOI={10.34133/research.1072},
+  journal={Research}, publisher={American Association for the Advancement of Science
+  (AAAS)}, author={Zhao, Weihao and Gao, Lin and Wu, Yu and Xiao, Guihua and Li, Angran
+  and Wang, Mingrui and Liu, Hongyu and Yang, Jinyuan and Jin, Dongyue and Zhang,
+  Yuanlong and Yuan, Yongyi and Dai, Pu}, year={2026}, month=jan }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

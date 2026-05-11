@@ -1,7 +1,7 @@
 doi: 10.3389/fncir.2020.00032
 openalex_id: W3034933950
 pmid: null
-pmcid: null
+pmcid: PMC7296096
 title: Common Principles in Functional Organization of VIP/Calretinin Cell-Driven
   Disinhibitory Circuits Across Cortical Areas
 authors:
@@ -22,10 +22,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Guet_McCreight_2020, title={Common Principles in Functional
+  Organization of VIP/Calretinin Cell-Driven Disinhibitory Circuits Across Cortical
+  Areas}, volume={14}, ISSN={1662-5110}, url={http://dx.doi.org/10.3389/fncir.2020.00032},
+  DOI={10.3389/fncir.2020.00032}, journal={Frontiers in Neural Circuits}, publisher={Frontiers
+  Media SA}, author={Guet-McCreight, Alexandre and Skinner, Frances K. and Topolnik,
+  Lisa}, year={2020}, month=jun }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

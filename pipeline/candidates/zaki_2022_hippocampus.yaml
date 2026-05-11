@@ -1,7 +1,7 @@
 doi: 10.1038/s41386-022-01407-0
 openalex_id: W4290648348
 pmid: null
-pmcid: null
+pmcid: PMC9485238
 title: Hippocampus and amygdala fear memory engrams re-emerge after contextual fear
   relapse
 authors:
@@ -36,10 +36,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zaki_2022, title={Hippocampus and amygdala fear memory engrams
+  re-emerge after contextual fear relapse}, volume={47}, ISSN={1740-634X}, url={http://dx.doi.org/10.1038/s41386-022-01407-0},
+  DOI={10.1038/s41386-022-01407-0}, number={11}, journal={Neuropsychopharmacology},
+  publisher={Springer Science and Business Media LLC}, author={Zaki, Yosif and Mau,
+  William and Cincotta, Christine and Monasterio, Amy and Odom, Emma and Doucette,
+  Emily and Grella, Stephanie L. and Merfeld, Emily and Shpokayte, Monika and Ramirez,
+  Steve}, year={2022}, month=aug, pages={1992–2001} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

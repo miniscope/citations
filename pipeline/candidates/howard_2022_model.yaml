@@ -1,7 +1,7 @@
 doi: 10.3389/fnsys.2022.972235
 openalex_id: W4304889613
 pmid: null
-pmcid: null
+pmcid: PMC9606815
 title: A model of bi-directional interactions between complementary learning systems
   for memory consolidation of sequential experiences
 authors:
@@ -22,10 +22,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Howard_2022, title={A model of bi-directional interactions
+  between complementary learning systems for memory consolidation of sequential experiences},
+  volume={16}, ISSN={1662-5137}, url={http://dx.doi.org/10.3389/fnsys.2022.972235},
+  DOI={10.3389/fnsys.2022.972235}, journal={Frontiers in Systems Neuroscience}, publisher={Frontiers
+  Media SA}, author={Howard, Michael D. and Skorheim, Steven W. and Pilly, Praveen
+  K.}, year={2022}, month=oct }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

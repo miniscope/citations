@@ -1,0 +1,64 @@
+doi: 10.1038/s42003-024-06668-7
+openalex_id: W4401451175
+pmid: null
+pmcid: PMC11316101
+title: Accurate neuron segmentation method for one-photon calcium imaging videos combining
+  convolutional neural networks and clustering
+authors:
+- first: Yijun
+  last: Bao
+- first: Yiyang
+  last: Gong
+journal: Communications Biology
+publication_year: 2024
+publication_date: '2024-08-09'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s42003-024-06668-7.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Bao_2024, title={Accurate neuron segmentation method for one-photon
+  calcium imaging videos combining convolutional neural networks and clustering},
+  volume={7}, ISSN={2399-3642}, url={http://dx.doi.org/10.1038/s42003-024-06668-7},
+  DOI={10.1038/s42003-024-06668-7}, number={1}, journal={Communications Biology},
+  publisher={Springer Science and Business Media LLC}, author={Bao, Yijun and Gong,
+  Yiyang}, year={2024}, month=aug }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: reviewed
+  uses_tool: false
+  related_to_project: true
+  confidence: 0.55
+  tools_identified:
+  - Minian
+  evidence:
+  - "Another class of one-photon segmentation algorithms, MIN1PIPE 34 and Minian 35 , used a neuron-enhancing module based on denoising and morphological opening for background removal before neural signal extraction"
+  - "One-photon microscopy's simple optical design is potentially more accessible, enabling imaging activity in freely moving animals when executed with portable microendoscopes"
+  paper_type: software
+  suggested_component: Minian
+  suggested_technique: calcium imaging analysis
+  reasoning: >-
+    This paper develops SUNS2-ANE, a neuron segmentation pipeline for one-photon
+    calcium imaging videos from microendoscopes. It cites Minian (ref 35) as a
+    peer one-photon segmentation algorithm in the introduction, describing its
+    background removal approach. However, Minian is NOT directly benchmarked
+    against -- the actual comparisons are with MIN1PIPE, CNMF-E, EXTRACT, and
+    DeepWonder. The paper is relevant as a software tool in the same ecosystem
+    that processes the same type of data produced by Miniscopes, and it
+    acknowledges Minian as a related tool. Confidence is moderate because the
+    connection is indirect -- Minian is cited only in passing as related work,
+    not used or tested against directly.
+stage: reviewed
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322793+00:00'
+- stage: reviewed
+  timestamp: '2026-04-11'

@@ -22,8 +22,14 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lee_2023, title={Recent strategies for neural dynamics observation
+  at a larger scale and wider scope}, volume={240}, ISSN={0956-5663}, url={http://dx.doi.org/10.1016/j.bios.2023.115638},
+  DOI={10.1016/j.bios.2023.115638}, journal={Biosensors and Bioelectronics}, publisher={Elsevier
+  BV}, author={Lee, Chang Hak and Park, Young Kwon and Lee, Kwang}, year={2023}, month=nov,
+  pages={115638} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

@@ -22,10 +22,15 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Frost_2020, title={Dynamic patterns of correlated activity
+  in the prefrontal cortex encode information about social behavior}, url={http://dx.doi.org/10.1101/2020.08.05.238741},
+  DOI={10.1101/2020.08.05.238741}, publisher={openRxiv}, author={Frost, Nicholas A.
+  and Haggart, Anna and Sohal, Vikaas S.}, year={2020}, month=aug }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

@@ -25,37 +25,43 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: '@misc{Adamantidis_Yan_Calcini_Rusterholz_Herrera_2025, title={Temporal drift
-  of sleep-wake representations in hypothalamic neuronal ensembles}, url={http://dx.doi.org/10.21203/rs.3.rs-6960125/v1},
-  DOI={10.21203/rs.3.rs-6960125/v1}, publisher={Research Square Platform LLC}, author={Adamantidis,
-  Antoine and Yan, Yudong and Calcini, Niccol\`{o} and Rusterholz, Thomas and Gutierrez
-  Herrera, Carolina}, year={2025}, month=aug}'
+bibtex_raw: ' @article{Adamantidis_2025, title={Temporal drift of sleep-wake representations
+  in hypothalamic neuronal ensembles}, url={http://dx.doi.org/10.21203/rs.3.rs-6960125/v1},
+  DOI={10.21203/rs.3.rs-6960125/v1}, publisher={Springer Science and Business Media
+  LLC}, author={Adamantidis, Antoine and Yan, Yudong and Calcini, Niccolo and Rusterholz,
+  Thomas and Herrera, Carolina Gutierrez}, year={2025}, month=aug }
+
+  '
 bibtex_source: crossref
 fulltext:
-  source: none
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: completed
   uses_tool: false
-  confidence: 0.85
+  confidence: 0.98
   tools_identified: []
-  evidence: []
+  evidence:
+  - '"Inscopix Data Acquisition Software (IDAS) with typical excitation light intensities
+    ranging from 0.6-1.2 mW/mm2 (30-60% of maximum power, nVista 3, Inscopix)"'
+  - '"micro-endoscope (nVista 3, Inscopix) was determined"'
+  - '"image stacks were exported to Fiji (Im...plane using Inscopix Data Processing
+    software 1.9.1 (Inscopix)"'
+  - '"D. J. Cai, D. Aharoni, T. Shuman, J. Shobe, J. Biane, W. Song...A shared neural
+    ensemble links distinct contextual memories encoded close in time. Nature 534,
+    115-118 (2016)"'
   paper_type: science
   suggested_component: null
   suggested_technique: null
-  reasoning: >-
-    This paper studies temporal drift of sleep-wake representations in hypothalamic
-    neuronal ensembles. It cites Cai et al. 2016 (seed paper) for memory linking
-    concepts, NOT for the UCLA Miniscope tool. The paper does not cite any of the
-    Miniscope tool papers (Shuman et al. 2019, Guo et al. MiniLFOV, Zhao et al. MiniXL).
-    The reference list (75 papers) contains no Miniscope-related methodology papers.
-    The Adamantidis lab (University of Bern) is known for optogenetics and fiber
-    photometry, not UCLA Miniscope systems. No abstract was available from OpenAlex,
-    and full text could not be retrieved (Research Square preprint, PDF access denied
-    by automated tools). The OA URL was confirmed via Unpaywall but PDF content could
-    not be extracted. Without abstract or full text, confidence is capped below 1.0,
-    but the strong indirect evidence (no tool paper citations, lab methodology profile,
-    sleep-focused reference list) supports rejection at 0.85 confidence.
+  reasoning: Full text confirms this paper uses the Inscopix nVista 3 system for calcium
+    imaging, NOT a UCLA Miniscope. The paper cites Cai et al. 2016 (ref 39) purely
+    for its scientific finding about shared neural ensembles linking contextual memories,
+    not for the UCLA Miniscope tool. The terms "miniature microscope" and "miniscope"
+    appear in the text but refer to the Inscopix commercial system. Data processing
+    used Inscopix Data Processing software 1.9.1, not Minian. No UCLA Miniscope, MiniLFOV,
+    MiniXL, Minian, 2P Miniscope, or Miniscope DAQ are mentioned anywhere in the
+    27-page manuscript. No other seed papers (Shuman et al. 2019, Guo et al., Zhao
+    et al.) are cited. Confidence is 0.98 (full text reviewed).
 stage: rejected
 stage_history:
 - stage: candidate
@@ -65,5 +71,11 @@ stage_history:
 - stage: rejected
   timestamp: '2026-04-11T06:05:00+00:00'
   agent: citation-analysis-agent
-  note: 'No evidence of Miniscope tool usage. Cites Cai et al. 2016 for memory linking
-    concepts only. No tool papers cited. No abstract/fulltext available to confirm.'
+  note: No evidence of Miniscope tool usage. Cites Cai et al. 2016 for memory linking
+    concepts only. No tool papers cited. No abstract/fulltext available to confirm.
+- stage: rejected
+  timestamp: '2026-04-11T12:00:00+00:00'
+  agent: citation-analysis-agent-review
+  note: Full text reviewed. Paper uses Inscopix nVista 3, not UCLA Miniscope. Cai
+    et al. 2016 cited for science only. No tool connection found. Confidence raised
+    to 0.98.

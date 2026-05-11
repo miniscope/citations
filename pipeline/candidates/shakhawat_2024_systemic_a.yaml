@@ -26,10 +26,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Shakhawat_2024, title={Systemic pharmacological suppression
+  of neural activity reverses learning impairment in a mouse model of Fragile X syndrome},
+  url={http://dx.doi.org/10.7554/elife.92543.2}, DOI={10.7554/elife.92543.2}, publisher={eLife
+  Sciences Publications, Ltd}, author={Shakhawat, Amin Md and Foltz, Jacqueline G
+  and Nance, Adam B. and Bhateja, Jaydev and Raymond, Jennifer L}, year={2024}, month=may
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

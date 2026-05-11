@@ -1,7 +1,7 @@
 doi: 10.1016/j.celrep.2023.112119
 openalex_id: W4321188323
 pmid: null
-pmcid: null
+pmcid: PMC9989830
 title: Organization of hippocampal CA3 into correlated cell assemblies supports a
   stable spatial code
 authors:
@@ -26,10 +26,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Sheintuch_2023, title={Organization of hippocampal CA3 into
+  correlated cell assemblies supports a stable spatial code}, volume={42}, ISSN={2211-1247},
+  url={http://dx.doi.org/10.1016/j.celrep.2023.112119}, DOI={10.1016/j.celrep.2023.112119},
+  number={2}, journal={Cell Reports}, publisher={Elsevier BV}, author={Sheintuch,
+  Liron and Geva, Nitzan and Deitch, Daniel and Rubin, Alon and Ziv, Yaniv}, year={2023},
+  month=feb, pages={112119} }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

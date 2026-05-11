@@ -27,8 +27,15 @@ source: openalex_cites
 seed_paper_doi: 10.1126/sciadv.adg3918
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhou_2025, title={Large-field-of-view narrowband light collection
+  enabled by metasurfaces}, volume={64}, ISSN={2155-3165}, url={http://dx.doi.org/10.1364/ao.571628},
+  DOI={10.1364/ao.571628}, number={28}, journal={Applied Optics}, publisher={Optica
+  Publishing Group}, author={Zhou, Zhihao and Zhan, Alan and Colburn, Shane and Lee,
+  Myunghoo and Majumdar, Arka and Fröch, Johannes E.}, year={2025}, month=sep, pages={8479}
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

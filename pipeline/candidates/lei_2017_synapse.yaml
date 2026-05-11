@@ -1,7 +1,7 @@
 doi: 10.3389/fncel.2017.00316
 openalex_id: W2767148699
 pmid: null
-pmcid: null
+pmcid: PMC5661269
 title: Synapse Innervation and Associative Memory Cell Are Recruited for Integrative
   Storage of Whisker and Odor Signals in the Barrel Cortex through miRNA-Mediated
   Processes
@@ -33,10 +33,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lei_2017, title={Synapse Innervation and Associative Memory
+  Cell Are Recruited for Integrative Storage of Whisker and Odor Signals in the Barrel
+  Cortex through miRNA-Mediated Processes}, volume={11}, ISSN={1662-5102}, url={http://dx.doi.org/10.3389/fncel.2017.00316},
+  DOI={10.3389/fncel.2017.00316}, journal={Frontiers in Cellular Neuroscience}, publisher={Frontiers
+  Media SA}, author={Lei, Zhuofan and Wang, Dangui and Chen, Na and Ma, Ke and Lu,
+  Wei and Song, Zhenhua and Cui, Shan and Wang, Jin-Hui}, year={2017}, month=oct }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending

@@ -43,10 +43,18 @@ source: openalex_cites
 seed_paper_doi: 10.1038/s41593-019-0559-0
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lee_2024, title={Improving positively tuned voltage indicators
+  for brightness and kinetics}, url={http://dx.doi.org/10.1101/2024.06.21.599617},
+  DOI={10.1101/2024.06.21.599617}, publisher={openRxiv}, author={Lee, Sungmoo and
+  Zhang, Guofeng and Gomez, Laura C. and Testa-Silva, Guilherme and Hao, Yukun Alex
+  and Hiramoto, Atsuki and Jiang, Dongyun and Roth, Richard H. and Ding, Jun and Clandinin,
+  Thomas R. and Roska, Botond and Feldman, Daniel and Ji, Na and Lin, Michael Z.},
+  year={2024}, month=jun }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: unpaywall
   pdf_local_path: null
 analysis:
   status: pending

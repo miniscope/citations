@@ -1,7 +1,7 @@
 doi: 10.1038/s42003-022-04167-1
 openalex_id: W4308485469
 pmid: null
-pmcid: null
+pmcid: PMC9633825
 title: A short-term memory trace persists for days in the mouse hippocampus
 authors:
 - first: Maha E.
@@ -25,10 +25,17 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Wally_2022, title={A short-term memory trace persists for days
+  in the mouse hippocampus}, volume={5}, ISSN={2399-3642}, url={http://dx.doi.org/10.1038/s42003-022-04167-1},
+  DOI={10.1038/s42003-022-04167-1}, number={1}, journal={Communications Biology},
+  publisher={Springer Science and Business Media LLC}, author={Wally, Maha E. and
+  Nomoto, Masanori and Abdou, Kareem and Murayama, Emi and Inokuchi, Kaoru}, year={2022},
+  month=nov }
+
+  '
+bibtex_source: crossref
 fulltext:
-  source: null
+  source: pmc
   pdf_local_path: null
 analysis:
   status: pending
