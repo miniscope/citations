@@ -3,6 +3,12 @@
 
 Generates one .wikitext file per BibTeX entry under output/, using template
 invocations compatible with SemanticSchemas-generated templates.
+
+Schema target: Category:Publication is self-sufficient (no Document parent).
+Template params use the full ``has_<field>`` snake_case naming convention
+the SemanticSchemas dispatcher emits (e.g. ``has_title``, ``has_doi``).
+Author entries are emitted as ``{{Publication author/subobject|...}}``
+calls below the main template.
 """
 
 import json
@@ -19,7 +25,7 @@ from bib_utils import (
     load_config,
 )
 
-# BibTeX entry type → ontology Has_publication_type allowed value
+# BibTeX entry type → Has publication type allowed value
 ENTRY_TYPE_MAP = {
     "article": "Journal Article",
     "inproceedings": "Conference Paper",
@@ -31,34 +37,38 @@ ENTRY_TYPE_MAP = {
     "unpublished": "Preprint",
 }
 
-# BibTeX field → Publication template parameter name
-# (SemanticSchemas NamingHelper: remove "Has " prefix, lowercase, spaces→underscores)
+# BibTeX field → Publication template parameter name.
+# Params are the snake_case form of the property name *including* the
+# "has_" prefix — that's the convention the SemanticSchemas dispatcher
+# generates for category templates (see e.g. The_Hobbit fixture in the
+# SemanticSchemas test data).
 FIELD_MAP = {
-    "doi": "doi",
-    "journal": "journal",
-    "booktitle": "journal",  # conference proceedings → journal field
-    "volume": "volume",
-    "number": "issue",
-    "pages": "pages",
-    "abstract": "abstract",
-    "keywords": "keyword",
-    "url": "website",
-    "pmid": "pubmed_id",
+    "doi": "has_doi",
+    "journal": "has_journal",
+    "booktitle": "has_journal",  # conference proceedings → journal field
+    "volume": "has_volume",
+    "number": "has_issue",
+    "pages": "has_pages",
+    "abstract": "has_abstract",
+    "keywords": "has_keyword",
+    "url": "has_website",
+    "pmid": "has_pubmed_id",
     # Custom fields for ontology cross-links
-    "project": "project",
-    "component": "component",
-    "equipment": "equipment_used",
-    "technique": "technique",
-    "attachment": "attachment",
-    "publication_status": "publication_status",
+    "project": "has_project",
+    "component": "has_component",
+    "equipment": "has_equipment_used",
+    "technique": "has_technique",
+    "attachment": "has_attachment",
+    "publication_status": "has_publication_status",
 }
-
 
 
 def parse_author_name(name_str):
     """Parse a single author name string into first/middle/last parts.
 
     Handles both "Last, First Middle" and "First Middle Last" formats.
+    Returns a dict keyed by the ``has_<field>`` template params used by
+    the Publication author subobject template.
     """
     name_str = clean_latex(name_str.strip())
     if not name_str:
@@ -73,15 +83,15 @@ def parse_author_name(name_str):
         # "First Middle Last"
         words = name_str.split()
         if len(words) == 1:
-            return {"last_name": words[0]}
+            return {"has_last_name": words[0]}
         last_name = words[-1]
         first_parts = words[:-1]
 
-    result = {"last_name": last_name}
+    result = {"has_last_name": last_name}
     if first_parts:
-        result["first_name"] = first_parts[0]
+        result["has_first_name"] = first_parts[0]
         if len(first_parts) > 1:
-            result["middle_name"] = " ".join(first_parts[1:])
+            result["has_middle_name"] = " ".join(first_parts[1:])
     return result
 
 
@@ -92,43 +102,49 @@ def entry_to_wikitext(entry):
     # -- Main Publication template params --
     params = {}
 
-    # Title → description (inherited from Document)
+    # Title is its own property on Publication (no longer overloaded onto
+    # Has description, which was the old Document-parent pattern).
     if "title" in entry:
-        params["description"] = clean_latex(entry["title"])
+        params["has_title"] = clean_latex(entry["title"])
 
-    # Document parent fields
-    params["document_type"] = "Publication"
-    if "year" in entry:
-        params["document_date"] = entry["year"]
-
-    # Publication status
-    params["publication_status"] = "Published"
+    # Publication status — default Published, downgrade to Preprint when the
+    # entry type or eprint/arxivid fields signal a non-peer-reviewed work.
+    # A `publication_status=` field on the entry overrides this further down
+    # via FIELD_MAP.
+    params["has_publication_status"] = "Published"
     if entry_type == "unpublished":
-        params["publication_status"] = "Preprint"
+        params["has_publication_status"] = "Preprint"
     elif entry_type == "misc":
         if "eprint" in entry or "arxivid" in entry:
-            params["publication_status"] = "Preprint"
+            params["has_publication_status"] = "Preprint"
 
-    # Publication year
+    # Publication year — kept as a plain integer so SMW indexes it as a
+    # Number and the wiki can sort/filter chronologically.
     if "year" in entry:
-        params["publication_year"] = entry["year"]
+        params["has_publication_year"] = entry["year"]
 
-    # Publication type
+    # Publication type (from entry @type)
     pub_type = ENTRY_TYPE_MAP.get(entry_type)
     if pub_type:
-        params["publication_type"] = pub_type
+        params["has_publication_type"] = pub_type
 
-    # Mapped fields
+    # Mapped fields. Don't overwrite anything we set above
+    # (in practice this only matters for publication_status — an explicit
+    # `publication_status=` field in the .bib wins).
     for bib_field, param_name in FIELD_MAP.items():
-        if bib_field in entry and param_name not in params:
+        if bib_field in entry:
             value = clean_latex(entry[bib_field])
             if bib_field == "pages":
-                value = value.replace("--", "\u2013")
+                value = value.replace("--", "–")
             params[param_name] = value
 
     main_block = build_template_call("Publication", params)
 
     # -- Author subobject template calls --
+    # Emitted as {{Publication author/subobject|...}}, matching the
+    # SemanticSchemas subobject-template naming convention
+    # (`<Category>/subobject`, e.g. {{Chapter/subobject|...}} in the
+    # SemanticSchemas Book fixtures).
     author_blocks = []
     if "author" in entry:
         # bibtexparser v1 gives author as a single string with " and " separators
@@ -140,10 +156,10 @@ def entry_to_wikitext(entry):
             if not a_params:
                 continue
             if i == 0:
-                a_params["is_first_author"] = "Yes"
+                a_params["has_is_first_author"] = "true"
 
             author_blocks.append(
-                build_template_call("Subobject/Has publication author", a_params)
+                build_template_call("Publication author/subobject", a_params)
             )
 
     # -- Assemble page --
