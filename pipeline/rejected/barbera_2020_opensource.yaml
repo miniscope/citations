@@ -62,9 +62,15 @@ analysis:
     extension that builds on the Miniscope DAQ platform for behavioral measurement,
     not merely a passing citation.
   related_to_project: true
-stage: reviewed
+stage: rejected
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:43.321302+00:00'
 - stage: reviewed
   timestamp: '2026-04-11'
+- stage: reviewed
+  timestamp: '2026-05-11T00:00:00+00:00'
+  agent: curator
+  reason: Rejected during high-confidence triage. Per curator (project lead) — the
+    "miniScope" referenced here is Barbera's own miniscope_v2.0 lineage (Lin lab),
+    not UCLA Miniscope or UCLA Miniscope DAQ. LLM was misled by the shared name.

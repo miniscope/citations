@@ -48,8 +48,12 @@ analysis:
     and background fluorescence, motion correction and source separation"
   - "Following the MiniAn pipeline, output values of Ca2+ activity were normalized"
   - "described at http://Miniscope.org"
-  paper_type: science
-  suggested_project: UCLA Miniscope v4;Miniscope DAQ;Minian
+  paper_type: Science
+  suggested_project: Miniscope V4, Miniscope DAQ, Minian
+  suggested_keywords:
+  - Calcium Imaging
+  - Freely-Behaving
+  - Prefrontal Cortex
   suggested_technique: calcium imaging
   reasoning: This paper uses the UCLA Miniscope v4 (version 4.4) for in vivo calcium
     imaging of prefrontal cortex neurons during decision-making and habitual behavior
@@ -58,7 +62,12 @@ analysis:
     motion correction, and source separation via CNMF. The paper directly uses three
     tools from the Miniscope ecosystem.
   related_to_project: true
-stage: reviewed
+stage: approved
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:43.326390+00:00'
+- stage: reviewed
+  timestamp: '2026-05-11T00:00:00+00:00'
+  agent: curator
+  reason: Approved during high-confidence triage; project list comma-normalized;
+    keywords added.

@@ -57,9 +57,15 @@ analysis:
     is moderate (0.72) because full text was inaccessible for direct quote extraction,
     but the reference list and topic strongly indicate Miniscope coverage.
   related_to_project: true
-stage: reviewed
+stage: rejected
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:43.321099+00:00'
 - stage: reviewed
   timestamp: '2026-04-13'
+- stage: reviewed
+  timestamp: '2026-05-12T00:00:00+00:00'
+  agent: curator
+  reason: Rejected during high-confidence triage. Data-processing review that cites
+    Cai 2016 + CaImAn but full text was inaccessible — depth of engagement with our
+    tools unclear. Rejected by default per peripheral-mention precedent.

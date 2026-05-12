@@ -26,7 +26,8 @@
 # the aliases there to detect tool mentions, then maps to the canonical
 # `name` here for the BibTeX field.
 projects:
-  - name: "UCLA Miniscope v4"
+  - name: "Miniscope V3"
+  - name: "Miniscope V4"
   - name: "MiniLFOV"
   - name: "MiniXL"
   - name: "Minian"
@@ -45,6 +46,8 @@ paper_types:
     description: "Paper extending or developing methodology"
   - name: "Software"
     description: "Software or analysis pipeline paper"
+  - name: "Analysis Pipeline"
+    description: "Data-processing / analysis pipeline paper (e.g. miniscope analysis pipelines, cell segmentation pipelines)"
   - name: "Tool Paper"
     description: "Introduces a new tool in the project family"
   - name: "Review"
@@ -104,4 +107,21 @@ keywords:
 #
 # The maintainer reviews periodically. Promoted entries move into the
 # appropriate list above; rejected entries are deleted from this section.
-pending_suggestions: []
+pending_suggestions:
+  - target: "keywords"
+    name: "Nucleus Accumbens"
+    proposed_by: "curator"
+    rationale: "Major reward/motivation recording target; appears in protocol papers
+      and reward/decision-making studies. Parallel to existing Hippocampus / Prefrontal
+      Cortex / Amygdala entries."
+    example_dois:
+      - "10.1002/cpz1.70090"  # beacher_2025_miniscope
+    proposed_date: "2026-05-11"
+  - target: "keywords"
+    name: "Anterior Thalamus"
+    proposed_by: "curator"
+    rationale: "Head-direction cell recording target; comes up in HD-cell papers
+      from Brandon, Taube, etc. Likely recurs across multiple papers in the corpus."
+    example_dois:
+      - "10.1038/s41586-023-05813-2"  # ajabi_2023_population
+    proposed_date: "2026-05-11"

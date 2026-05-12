@@ -78,8 +78,14 @@ analysis:
       Guo et al. MiniLFOV 2023 (ref 7)'
     note: References multiple Miniscope family papers as foundational 1P work that
       motivated this 2P system.
-  paper_type: tool_paper
+  paper_type: Tool Paper
   suggested_project: UCLA 2P Miniscope
+  suggested_keywords:
+  - Open-Source
+  - Two-Photon
+  - Calcium Imaging
+  - Freely-Behaving
+  - Hippocampus
   suggested_technique: two-photon calcium imaging
   reasoning: This paper introduces the UCLA 2P Miniscope, which is explicitly listed
     as a tracked tool in discovery_config.yaml. It is authored by the Miniscope project's
@@ -88,7 +94,7 @@ analysis:
     microscope, demonstrating calcium imaging in hippocampal CA1, retrosplenial cortex
     dendrites, and dentate gyrus at depths over 620 um. As a tool paper that introduces
     a tracked instrument in the Miniscope family, it is clearly related to the project.
-stage: reviewed
+stage: approved
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:26.374449+00:00'
@@ -102,3 +108,7 @@ stage_history:
   agent: citation-analysis-agent
   reason: 'Tool paper introducing UCLA 2P Miniscope, a tracked tool in the Miniscope
     family. From the tool developers'' lab (Aharoni/Golshani). Related: true.'
+- stage: reviewed
+  timestamp: '2026-05-11T00:00:00+00:00'
+  agent: curator
+  reason: Approved during high-confidence triage; added keywords from vocabulary.

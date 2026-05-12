@@ -54,9 +54,15 @@ analysis:
     key predecessor. The paper is a methods contribution presenting an alternative
     miniscope design inspired by and compared against the UCLA Miniscope family.
     No full text was available for deeper analysis, so confidence is moderated.
-stage: reviewed
+stage: rejected
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:43.322220+00:00'
 - stage: reviewed
   timestamp: '2026-04-11'
+- stage: reviewed
+  timestamp: '2026-05-11T00:00:00+00:00'
+  agent: curator
+  reason: Rejected during high-confidence triage. Independent miniscope design from
+    Bagramyan / Universite Laval — cites Cai 2016 as predecessor context but does
+    not use any UCLA Miniscope hardware. Not in our project family.

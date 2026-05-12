@@ -45,8 +45,12 @@ analysis:
   - "calcium videos were recorded with a miniscope (v3; https://miniscope.org) containing a monochrome CMOS imaging sensor (MT9V032C12STM, ON Semiconductor) connected to a custom data acquisition (DAQ) box (https://miniscope.org)"
   - "controlled using Miniscope custom acquisition software (https://miniscope.org)"
   - "Aharoni for advice and assistance with the UCLA miniscope"
-  paper_type: science
-  suggested_project: UCLA Miniscope v4
+  paper_type: Science
+  suggested_project: Miniscope V3, Miniscope DAQ
+  suggested_keywords:
+  - Calcium Imaging
+  - Freely-Behaving
+  - Spatial Navigation
   suggested_technique: calcium imaging
   reasoning: >-
     This paper uses the UCLA Miniscope (v3) and Miniscope DAQ hardware as the primary
@@ -56,9 +60,14 @@ analysis:
     the device used is actually a v3 (predecessor to v4), it is part of the UCLA Miniscope
     family and the paper clearly uses the tool for its core research.
   related_to_project: true
-stage: reviewed
+stage: approved
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:43.318877+00:00'
 - stage: reviewed
   timestamp: '2026-04-10T00:00:00+00:00'
+- stage: reviewed
+  timestamp: '2026-05-11T00:00:00+00:00'
+  agent: curator
+  reason: Approved during high-confidence triage; project set to Miniscope V3 +
+    Miniscope DAQ per explicit v3 callout in methods; keywords added.

@@ -61,9 +61,16 @@ analysis:
     tool mentions. Confidence is capped at 0.45 due to lack of full text. Marked as
     related because a review of miniature microscopes that cites the Miniscope v4 paper
     almost certainly discusses the UCLA Miniscope platform.
-stage: reviewed
+stage: rejected
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:26.376422+00:00'
 - stage: reviewed
   timestamp: '2026-04-11'
+- stage: reviewed
+  timestamp: '2026-05-12T00:00:00+00:00'
+  agent: curator
+  reason: Rejected during high-confidence triage. Chinese-language invited review on
+    head-mounted miniature microscopes — almost certainly discusses UCLA Miniscope
+    by topic, but no full text or abstract available to verify depth of engagement.
+    Rejected as too uncertain.

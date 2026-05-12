@@ -63,7 +63,14 @@ analysis:
     in detail. Confidence is 0.82 rather than higher because the paper covers a broad
     range of optical methods and the Miniscope discussion is one component of the
     larger chapter.
-stage: reviewed
+stage: rejected
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:43.322709+00:00'
+- stage: reviewed
+  timestamp: '2026-05-11T00:00:00+00:00'
+  agent: curator
+  reason: Rejected during high-confidence triage. Book chapter on all-optical
+    physiology methods mentions UCLA Miniscope-v4 as one of several open-source
+    1P options but does not substantively engage with the tool — too peripheral
+    to include.

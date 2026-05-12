@@ -60,7 +60,7 @@ analysis:
     the MiniLFOV as a key enabling technology for the next stage of their biosensor
     system development. This constitutes a meaningful tool connection beyond mere
     scientific context citation.'
-stage: reviewed
+stage: rejected
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:47.019723+00:00'
@@ -70,3 +70,10 @@ stage_history:
 - stage: reviewed
   timestamp: '2026-04-11T00:00:00+00:00'
   reason: Full-text analysis found explicit MiniLFOV reference as proposed future tool
+- stage: reviewed
+  timestamp: '2026-05-12T00:00:00+00:00'
+  agent: curator
+  reason: Rejected during high-confidence triage. Paper proposes MiniLFOV as future
+    direction to make their biosensor portable but does not currently use any of our
+    tools — too peripheral. Same precedent as backhaus_2023, bagramyan_2020,
+    barbera_2022.

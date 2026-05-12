@@ -50,23 +50,35 @@ analysis:
   - 'Author keyword: "miniscope Ca(2+) imaging"'
   - 'Abstract: "Deep-brain calcium imaging shows that the peak of trace activity in
     the CA1 and subiculum is extended toward the US"'
-  paper_type: science
-  suggested_project: UCLA Miniscope v4
+  paper_type: Science
+  suggested_project: Miniscope V4, Miniscope DAQ
+  suggested_keywords:
+  - Calcium Imaging
+  - Freely-Behaving
+  - Fear & Anxiety
+  - Memory
+  - Hippocampus
   suggested_technique: deep-brain calcium imaging
   reasoning: >-
     Paper uses miniscope calcium imaging for deep-brain recordings in CA1 and
     subiculum during trace fear conditioning in freely moving mice. The authors
     explicitly list "miniscope Ca(2+) imaging" as a keyword. The paper cites seed
     paper Cai et al. 2016 (doi:10.1038/nature17955), a foundational UCLA Miniscope
-    paper. The research is from Chinese Academy of Sciences (external lab). No full
-    text was available in PMC, but the author-provided keyword "miniscope Ca(2+)
-    imaging" is strong direct evidence of tool usage. Confidence is 0.90 rather than
-    higher because without full text we cannot confirm the exact miniscope model
-    (v3 vs v4), though v4 is most likely given the 2023 publication date.
+    paper. The research is from Chinese Academy of Sciences (external lab). Methods
+    section labels the scope "UCLA V2, LabMaker" — per curator (project lead),
+    this is a LABmaker-side labeling artifact and the actual hardware is the UCLA
+    Miniscope V4. Acquisition via MiniScopeControl + Miniscope DAQ.
   related_to_project: true
-stage: reviewed
+stage: approved
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:43.320990+00:00'
 - stage: reviewed
   timestamp: '2026-04-11T00:00:00+00:00'
+- stage: reviewed
+  timestamp: '2026-05-11T00:00:00+00:00'
+  agent: curator
+  reason: 'Approved during high-confidence triage. Paper labels miniscope "UCLA
+    V2, LabMaker" in methods, but per curator (project lead) this is a LABmaker
+    labeling artifact — actual scope is UCLA Miniscope V4. Project: Miniscope V4 +
+    Miniscope DAQ. Keywords added.'

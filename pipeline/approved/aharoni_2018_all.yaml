@@ -51,17 +51,25 @@ analysis:
     most widely disseminated and used tools in neuroscience'
   - 'Miniscopes have provided a base platform for advancements such as miniature light-field
     microscopes, head-mounted wide-field macroscopes, and wire-free microscopes'
-  paper_type: review
-  suggested_project: UCLA Miniscope v4
+  paper_type: Review
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Open-Source
+  - Calcium Imaging
+  - Freely-Behaving
+  - Wire-Free
   suggested_technique: calcium imaging
   reasoning: This is a review/perspective article in Nature Methods authored by Daniel
     Aharoni (creator of the UCLA Miniscope) and colleagues from UCLA. The paper extensively
     discusses the UCLA Miniscope platform, its development history, open-source philosophy,
     widespread adoption (450+ labs), and future directions for miniaturized microscopy.
     It is a core publication from the tool developers' lab that reviews the entire
-    field of miniature microscopy with the UCLA Miniscope as a central focus.
+    field of miniature microscopy with the UCLA Miniscope as a central focus. Tagged
+    as Miniscope V3 (curator override) since v4 postdates this 2018 paper.
   related_to_project: true
-stage: reviewed
+stage: approved
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:43.317785+00:00'
+- stage: reviewed
+  timestamp: '2026-05-11T00:00:00+00:00'

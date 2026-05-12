@@ -67,9 +67,16 @@ analysis:
     that positions itself relative to the UCLA Miniscope ecosystem. Confidence is
     moderate (0.75) because while it substantively references and compares against
     the tools, it does not actually use them -- it builds its own independent system.
-stage: reviewed
+stage: rejected
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:47.019187+00:00'
 - stage: reviewed
   timestamp: '2026-04-11'
+- stage: reviewed
+  timestamp: '2026-05-12T00:00:00+00:00'
+  agent: curator
+  reason: Rejected during high-confidence triage. Barbera lineage miniature scope
+    (Lin lab) — competing design that cites and compares against UCLA Miniscope /
+    MiniLFOV but does not use them. Same precedent as rejected barbera_2020_opensource
+    and bagramyan_2020_lightweight.

@@ -21,12 +21,12 @@ seed_papers:
 # Tools: what to look for in paper full text.
 # Each tool has a canonical name (used in BibTeX component field) and aliases.
 tools:
-  - name: "UCLA Miniscope v4"
+  - name: "Miniscope V4"
     aliases:
       - "Miniscope v4"
       - "open-source miniscope"
       - "miniature microscope"
-    wiki_project: "UCLA Miniscope v4"
+    wiki_project: "Miniscope V4"
   - name: "MiniLFOV"
     aliases:
       - "Miniscope-LFOV"

@@ -43,8 +43,13 @@ analysis:
   - "As part of the UCLA Miniscope project"
   - "Making use of the UCLA Miniscope imaging and data"
   - "An MLA was implemented in a reconfigured UCLA Miniscope"
-  paper_type: review
-  suggested_project: UCLA Miniscope v4
+  paper_type: Review
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Open-Source
+  - Calcium Imaging
+  - Wire-Free
+  - Freely-Behaving
   suggested_technique: calcium imaging
   reasoning: >-
     This is a review paper authored by Daniel Aharoni (UCLA Miniscope project lead)
@@ -55,9 +60,14 @@ analysis:
     wide-field/volumetric imaging capabilities. This is a core tool paper from
     the project developers themselves.
   related_to_project: true
-stage: reviewed
+stage: approved
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:43.317696+00:00'
 - stage: reviewed
   timestamp: '2026-04-10'
+- stage: reviewed
+  timestamp: '2026-05-11T00:00:00+00:00'
+  agent: curator
+  reason: Approved during high-confidence triage; project corrected to Miniscope V3
+    (pre-v4 era); keywords added.

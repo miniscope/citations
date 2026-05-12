@@ -210,8 +210,12 @@ analysis:
       efforts for measurement and manipulation of brain structure and function"'
     assessment: The paper is a BRAIN Initiative status report that catalogs neurophotonic
       tools including head-mounted miniature microscopes.
-  paper_type: review
-  suggested_project: UCLA Miniscope v4
+  paper_type: Review
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Open-Source
+  - Calcium Imaging
+  - Freely-Behaving
   suggested_technique: null
   reasoning: This is a large multi-author (70+) review/status report published in
     Neurophotonics as part of the BRAIN Initiative reporting. Full-text analysis via
@@ -223,7 +227,7 @@ analysis:
     The paper does not cite seed paper DOIs directly in the PMC full text, but mentions
     the UCLA Miniscope by name. Confidence is 0.82 based on confirmed full-text tool
     mentions in a review context.
-stage: reviewed
+stage: approved
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:26.373784+00:00'
@@ -235,3 +239,10 @@ stage_history:
   timestamp: '2026-04-11T00:00:00+00:00'
   action: re-analyzed_by_agent_with_fulltext
   result: accepted_review_paper
+- stage: reviewed
+  timestamp: '2026-05-12T00:00:00+00:00'
+  agent: curator
+  reason: Approved during high-confidence triage. Per curator (project lead), the
+    review showcases Miniscope V3 specifically — substantive enough to include
+    (vs. Backhaus/Bagramyan which only namedropped the scope). Project set to
+    Miniscope V3; paper_type kept as Review (BRAIN Initiative status report).

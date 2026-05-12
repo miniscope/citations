@@ -79,8 +79,11 @@ analysis:
     text: Daniel Aharoni is a co-author
     note: Paper is from the Miniscope project team. Tool developer papers must not
       be rejected.
-  paper_type: software
+  paper_type: Analysis Pipeline
   suggested_project: Minian
+  suggested_keywords:
+  - Open-Source
+  - Calcium Imaging
   suggested_technique: calcium imaging analysis
   reasoning: This paper introduces Minian, which is explicitly listed as one of the
     Miniscope project's tools in discovery_config.yaml. Minian is an open-source
@@ -90,7 +93,7 @@ analysis:
     rejected per the analysis rules. The paper describes the software's architecture,
     validation, and interactive visualization features. Confidence is 0.99 as this
     is unambiguously a core project tool paper.
-stage: reviewed
+stage: approved
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:26.373490+00:00'
@@ -103,3 +106,8 @@ stage_history:
   timestamp: '2026-04-10T00:00:00+00:00'
   agent: citation-analysis-agent
   reason: Minian is a listed project tool; paper introduces it; authored by tool developers
+- stage: reviewed
+  timestamp: '2026-05-11T00:00:00+00:00'
+  agent: curator
+  reason: Approved during high-confidence triage; paper_type set to Analysis Pipeline
+    (new vocab entry); keywords added.

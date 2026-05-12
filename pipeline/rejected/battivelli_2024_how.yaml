@@ -59,10 +59,17 @@ analysis:
     so confidence is capped at 0.45. The paper is from EMBL Rome and Zhejiang University,
     not the tool developers' lab. The Miniscope citation is likely one among many tools
     discussed in this broad review rather than a central focus.
-related_to_project: true
-stage: reviewed
+  related_to_project: true
+stage: rejected
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:26.374968+00:00'
 - stage: reviewed
   timestamp: '2026-04-11'
+- stage: reviewed
+  timestamp: '2026-05-12T00:00:00+00:00'
+  agent: curator
+  reason: Rejected during high-confidence triage. Behavior/ethology review (Nature
+    Reviews Neuroscience) — cites Shuman 2019 in passing as one of many neural
+    monitoring tools for freely behaving animals; no substantive engagement.
+    Fixed indentation of related_to_project (was at top level).

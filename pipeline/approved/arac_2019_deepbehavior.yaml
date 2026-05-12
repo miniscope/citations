@@ -48,14 +48,24 @@ analysis:
   - social interaction test in freely moving mice with simultaneous miniscope calcium
     imaging
   - one of them wearing a miniaturized microscope
-  paper_type: software
-  suggested_project: UCLA Miniscope v4
+  paper_type: Software
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Calcium Imaging
+  - Freely-Behaving
+  - Social Behavior
   suggested_technique: calcium imaging; behavior analysis
   reasoning: DeepBehavior toolbox demonstrates tracking mice during social interaction
     where one mouse wears a UCLA Miniscope for simultaneous calcium imaging. Senior
     author Peyman Golshani is from the UCLA Miniscope development group.
   related_to_project: true
-stage: reviewed
+stage: approved
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:43.318141+00:00'
+- stage: reviewed
+  timestamp: '2026-05-11T00:00:00+00:00'
+  agent: curator
+  reason: Approved during high-confidence triage. Software paper from Golshani lab
+    (DeepBehavior toolbox) — miniscope use is a demo application; tagged Miniscope
+    V3 (pre-v4 era). DeepBehavior itself left out of vocab for now.
