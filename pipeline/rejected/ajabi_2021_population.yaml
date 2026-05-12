@@ -57,9 +57,16 @@ analysis:
     strong evidence of tool usage. Confidence is 0.85 rather than higher because
     the full text could not be fully parsed (PDF binary) so the exact methods
     sentence naming the device could not be directly quoted.
-stage: reviewed
+stage: rejected
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:43.323595+00:00'
 - stage: reviewed
   timestamp: '2026-04-10'
+- stage: reviewed
+  timestamp: '2026-05-11T00:00:00+00:00'
+  agent: curator
+  reason: Rejected as duplicate. This bioRxiv preprint (2021) was superseded by the
+    peer-reviewed Nature 2023 version (doi 10.1038/s41586-023-05813-2, already
+    approved as ajabi_2023_population). Policy — prefer peer-reviewed publication
+    over preprint when both exist.

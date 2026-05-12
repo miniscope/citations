@@ -58,8 +58,15 @@ analysis:
     and future"
   - "miniscope imaging is a fantastic tool to identify underlying neurobiological functions
     of SI and SUD"
-  paper_type: review
-  suggested_project: UCLA Miniscope v4
+  paper_type: Review
+  suggested_project: null   # ecosystem-adjacent: field review, no specific scope used
+  suggested_keywords:
+  - Open-Source
+  - Calcium Imaging
+  - Freely-Behaving
+  - Wire-Free
+  - Social Behavior
+  - Reward
   suggested_technique: calcium imaging
   reasoning: This is a mini-review paper that extensively discusses and advocates the
     use of open-source miniscopes for studying social interaction (SI) and substance
@@ -68,10 +75,16 @@ analysis:
     and discusses wire-free miniscopes, motorized commutators, and other miniscope
     hardware advances. The paper reviews how miniscopes enable deep brain calcium imaging
     in freely behaving animals and advocates their use for SI and SUD research.
-related_to_project: true
-stage: reviewed
+  related_to_project: true
+stage: approved
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:26.374316+00:00'
 - stage: reviewed
   timestamp: '2026-04-11'
+- stage: reviewed
+  timestamp: '2026-05-11T00:00:00+00:00'
+  agent: curator
+  reason: Approved during high-confidence triage. Field-review paper; project left
+    empty (ecosystem-adjacent). Keywords added. Fixed indentation of related_to_project
+    (was at top level, moved under analysis).

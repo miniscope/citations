@@ -29,6 +29,7 @@ _PAPER_TYPE_CANONICAL = {
     "science": "Science",
     "methods": "Methods",
     "software": "Software",
+    "analysis_pipeline": "Analysis Pipeline",
     "tool_paper": "Tool Paper",
     "review": "Review",
     "opinion": "Opinion",

@@ -56,9 +56,15 @@ analysis:
     acknowledges Minian as a related tool. Confidence is moderate because the
     connection is indirect -- Minian is cited only in passing as related work,
     not used or tested against directly.
-stage: reviewed
+stage: rejected
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:43.322793+00:00'
 - stage: reviewed
   timestamp: '2026-04-11'
+- stage: reviewed
+  timestamp: '2026-05-12T00:00:00+00:00'
+  agent: curator
+  reason: Rejected during high-confidence triage. Competing one-photon segmentation
+    pipeline (SUNS2-ANE) — cites Minian once in related-work but does not benchmark
+    against or use it. Same precedent as competing-tool rejections.

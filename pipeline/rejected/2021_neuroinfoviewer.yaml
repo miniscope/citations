@@ -63,7 +63,7 @@ analysis:
     Unpaywall, CrossRef). The paper is closed access with no OA copy. Confidence is
     capped well below 0.5 due to absence of both abstract and full text. Manual review
     with full text access is recommended.
-stage: reviewed
+stage: rejected
 stage_history:
 - stage: candidate
   timestamp: '2026-04-11T03:20:26.374829+00:00'
@@ -72,3 +72,10 @@ stage_history:
   agent: citation-analysis-agent
   note: 'Marked needs_fulltext: no abstract or full text available. Title and seed
     paper citation suggest UCLA Miniscope usage but cannot confirm with direct quotes.'
+- stage: reviewed
+  timestamp: '2026-05-12T00:00:00+00:00'
+  agent: curator
+  reason: Rejected during high-confidence triage. Title suggests miniscope analysis
+    software, but no full text available to determine whether this is an
+    ecosystem-extending tool (processes our scope's output) or a competing analysis
+    tool. 0.35 confidence too low to approve without verification.
