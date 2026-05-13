@@ -54,6 +54,9 @@ analysis:
   suggested_technique: null
   reasoning: null
   suggested_project: Miniscope V3
+  suggested_keywords:
+  - Aging
+  - Ensemble Tagging
 stage: approved
 stage_history:
 - stage: candidate

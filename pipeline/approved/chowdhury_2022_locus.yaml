@@ -61,6 +61,8 @@ analysis:
   suggested_project: Miniscope V3
   suggested_keywords:
   - Hippocampus
+  - Dopamine
+  - Locus Coeruleus
 stage: approved
 stage_history:
 - stage: candidate

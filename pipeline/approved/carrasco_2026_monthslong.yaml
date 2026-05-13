@@ -39,6 +39,7 @@ analysis:
   suggested_project: Miniscope V4
   suggested_keywords:
   - Memory
+  - Neural Circuits
 stage: approved
 stage_history:
 - stage: candidate

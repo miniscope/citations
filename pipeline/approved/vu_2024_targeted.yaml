@@ -64,6 +64,8 @@ analysis:
   suggested_technique: null
   reasoning: null
   suggested_project: Miniscope DAQ
+  suggested_keywords:
+  - Dopamine
 stage: approved
 stage_history:
 - stage: candidate
