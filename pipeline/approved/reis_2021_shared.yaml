@@ -1,0 +1,77 @@
+doi: 10.1523/jneurosci.2450-20.2021
+openalex_id: W3156464842
+pmid: null
+pmcid: null
+title: Shared Dorsal Periaqueductal Gray Activation Patterns during Exposure to Innate
+  and Conditioned Threats
+authors:
+- first: Fernando MCV
+  last: Reis
+- first: Jinhan
+  last: Liu
+- first: Peter J.
+  last: Schuette
+- first: Johannes Y.
+  last: Lee
+- first: Sandra
+  last: Maesta‐Pereira
+- first: Meghmik
+  last: Chakerian
+- first: Weisheng
+  last: Wang
+- first: Newton S.
+  last: Canteras
+- first: Jonathan C.
+  last: Kao
+- first: Avishek
+  last: Adhikari
+journal: Journal of Neuroscience
+publication_year: 2021
+publication_date: '2021-04-21'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.jneurosci.org/content/jneuro/41/25/5399.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Reis_2021, title={Shared Dorsal Periaqueductal Gray Activation
+  Patterns during Exposure to Innate and Conditioned Threats}, volume={41}, ISSN={1529-2401},
+  url={http://dx.doi.org/10.1523/jneurosci.2450-20.2021}, DOI={10.1523/jneurosci.2450-20.2021},
+  number={25}, journal={The Journal of Neuroscience}, publisher={Society for Neuroscience},
+  author={Reis, Fernando M.C.V. and Liu, Jinhan and Schuette, Peter J. and Lee, Johannes
+  Y. and Maesta-Pereira, Sandra and Chakerian, Meghmik and Wang, Weisheng and Canteras,
+  Newton S. and Kao, Jonathan C. and Adhikari, Avishek}, year={2021}, month=apr, pages={5399–5420}
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Calcium Imaging
+  - Fear & Anxiety
+  - Periaqueductal Gray
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.318855+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:39.822889+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: reisSharedDorsalPeriaqueductal2021a
+  match_method: doi
+  similarity: 1.0

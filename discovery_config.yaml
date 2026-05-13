@@ -24,6 +24,8 @@ tools:
   - name: "Miniscope V4"
     aliases:
       - "Miniscope v4"
+      - "V4"
+      - "v4"
       - "open-source miniscope"
       - "miniature microscope"
     wiki_project: "Miniscope V4"

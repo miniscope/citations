@@ -1,0 +1,52 @@
+doi: 10.3791/62611
+openalex_id: W3167748044
+pmid: null
+pmcid: null
+title: Using Baseplating and a Miniscope Preanchored with an Objective Lens for Calcium
+  Transient Research in Mice
+authors:
+- first: Yi‐Tse
+  last: Hsiao
+- first: Angela Yu-Chi
+  last: Wang
+- first: Ting-Yen
+  last: Lee
+- first: Ching‐Yuan
+  last: Chang
+journal: Journal of Visualized Experiments
+publication_year: 2021
+publication_date: '2021-06-05'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Protocol
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:24.084981+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.615571+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: hsiaoUsingBaseplatingMiniscope2021a
+  match_method: doi
+  similarity: 1.0

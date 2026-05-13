@@ -1,0 +1,66 @@
+doi: 10.1016/j.isci.2023.108603
+openalex_id: W4389208161
+pmid: null
+pmcid: PMC10713853
+title: Hippocampal cognitive and relational map paradigms explored by multisensory
+  encoding recording with wide-field calcium imaging
+authors:
+- first: Dechuan
+  last: Sun
+- first: Noor E Karishma
+  last: Shaik
+- first: Ranjith Rajasekharan
+  last: Unnithan
+- first: Chris
+  last: French
+journal: iScience
+publication_year: 2023
+publication_date: '2023-11-30'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.cell.com/article/S2589004223026809/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Sun_2024, title={Hippocampal cognitive and relational map paradigms
+  explored by multisensory encoding recording with wide-field calcium imaging}, volume={27},
+  ISSN={2589-0042}, url={http://dx.doi.org/10.1016/j.isci.2023.108603}, DOI={10.1016/j.isci.2023.108603},
+  number={1}, journal={iScience}, publisher={Elsevier BV}, author={Sun, Dechuan and
+  Shaik, Noor E. Karishma and Unnithan, Ranjith Rajasekharan and French, Chris}, year={2024},
+  month=jan, pages={108603} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: 'Curator review 1-by-1. French lab (Melbourne) iScience 2023 hippocampal
+    cognitive/relational maps. Fulltext explicit: ''UCLA miniscope version 4''; Raspberry
+    Pi 3 DAQ; Aharoni cited 2x; miniscope.org link. Corrects earlier V3 guess (French/Sun
+    lab pattern) — actual version is V4.'
+  suggested_project: Miniscope V4
+  suggested_keywords:
+  - Hippocampus
+  - Calcium Imaging
+  - Memory
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374692+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:10.146224+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: sunHippocampalCognitiveRelational2024
+  match_method: doi
+  similarity: 1.0

@@ -1,0 +1,61 @@
+doi: 10.7554/elife.83600
+openalex_id: W4366602886
+pmid: null
+pmcid: null
+title: Elucidating a locus coeruleus-dentate gyrus dopamine pathway for operant reinforcement
+authors:
+- first: Elijah A.
+  last: Petter
+- first: Isabella P.
+  last: Fallon
+- first: Ryan N.
+  last: Hughes
+- first: Glenn D. R.
+  last: Watson
+- first: Warren H.
+  last: Meck
+- first: Francesco Paolo Ulloa
+  last: Severino
+- first: Henry H.
+  last: Yin
+journal: eLife
+publication_year: 2023
+publication_date: '2023-04-21'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.7554/elife.83600
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Hippocampus
+  - Dopamine
+  - Locus Coeruleus
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:27.286077+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.633584+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: petterElucidatingLocusCoeruleusdentate2023
+  match_method: doi
+  similarity: 1.0

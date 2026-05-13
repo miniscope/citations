@@ -1,0 +1,53 @@
+doi: 10.1016/j.ohx.2023.e00429
+openalex_id: W4376956795
+pmid: null
+pmcid: null
+title: 'Open-MAC: A low-cost open-source motorized commutator for electro- and opto-physiological
+  recordings in freely moving rodents'
+authors:
+- first: Sampath K. T.
+  last: Kapanaiah
+- first: Dennis
+  last: Kätzel
+journal: HardwareX
+publication_year: 2023
+publication_date: '2023-05-16'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.hardware-x.com/article/S2468067223000366/pdf
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Tool Paper
+  suggested_component: null
+  suggested_technique: null
+  reasoning: Curator review 1-by-1. Open-source motorized commutator (HardwareX).
+    Explicitly supports UCLA Miniscope v3/v4 plus electrophysiology and optogenetics.
+    Companion hardware, not a Miniscope itself; project intentionally left null.
+  suggested_keywords:
+  - Open-Source
+  - Freely-Behaving
+  - Optogenetics
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:30.649954+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.651080+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: kapanaiahOpenMACLowcostOpensource2023
+  match_method: doi
+  similarity: 1.0

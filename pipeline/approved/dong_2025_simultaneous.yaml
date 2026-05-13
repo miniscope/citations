@@ -1,0 +1,99 @@
+doi: 10.1126/sciadv.adr6470
+openalex_id: W4411948236
+pmid: null
+pmcid: null
+title: Simultaneous two-color imaging with a dual-channel miniscope in freely behaving
+  mice
+authors:
+- first: Zhe
+  last: Dong
+- first: Yu
+  last: Feng
+- first: Keziah S.
+  last: Diego
+- first: Austin M.
+  last: Baggetta
+- first: Brian M.
+  last: Sweis
+- first: Zachary T.
+  last: Pennington
+- first: Sophia I.
+  last: Lamsifer
+- first: Yosif
+  last: Zaki
+- first: Federico
+  last: Sangiuliano
+- first: Paul A.
+  last: Philipsberg
+- first: Denisse
+  last: Morales-Rodriguez
+- first: Daniel M.
+  last: Kircher
+- first: Paul A.
+  last: Slesinger
+- first: Tristan
+  last: Shuman
+- first: Daniel
+  last: Aharoni
+- first: Denise J.
+  last: Cai
+journal: Science Advances
+publication_year: 2025
+publication_date: '2025-07-02'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1126/sciadv.adr6470
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Dong_2025, title={Simultaneous two-color imaging with a dual-channel
+  miniscope in freely behaving mice}, volume={11}, ISSN={2375-2548}, url={http://dx.doi.org/10.1126/sciadv.adr6470},
+  DOI={10.1126/sciadv.adr6470}, number={27}, journal={Science Advances}, publisher={American
+  Association for the Advancement of Science (AAAS)}, author={Dong, Zhe and Feng,
+  Yu and Diego, Keziah and Baggetta, Austin M. and Sweis, Brian M. and Pennington,
+  Zachary T. and Lamsifer, Sophia I. and Zaki, Yosif and Sangiuliano, Federico and
+  Philipsberg, Paul A. and Morales-Rodriguez, Denisse and Kircher, Daniel and Slesinger,
+  Paul and Shuman, Tristan and Aharoni, Daniel and Cai, Denise J.}, year={2025}, month=July
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Tool Paper
+  suggested_component: null
+  suggested_technique: null
+  reasoning: Curator review 1-by-1. Aharoni+Cai labs introduce new open-source dual-channel
+    Miniscope (two-color GCaMP+tdTomato) built on V4 base. Now published in Science
+    Advances 2025; metadata updated from bioRxiv preprint.
+  suggested_project: Miniscope V4
+  suggested_keywords:
+  - Calcium Imaging
+  - Hippocampus
+  - Place Cells
+  - Open-Source
+  - Freely-Behaving
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.375453+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:39.881451+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: dongSimultaneousDualcolorCalcium2024
+  match_method: doi
+  similarity: 1.0
+- stage: approved
+  timestamp: '2026-05-13T19:25:04.205102+00:00'
+  source: curator review
+  note: Metadata updated from bioRxiv preprint 10.1101/2024.07.03.601770 to Science
+    Advances published version 10.1126/sciadv.adr6470 (2025-07-04).

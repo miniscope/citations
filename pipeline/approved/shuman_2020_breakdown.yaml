@@ -1,0 +1,111 @@
+doi: 10.1038/s41593-019-0559-0
+openalex_id: W2996854824
+pmid: null
+pmcid: null
+title: Breakdown of spatial coding and interneuron synchronization in epileptic mice
+authors:
+- first: Tristan
+  last: Shuman
+- first: Daniel
+  last: Aharoni
+- first: Denise J.
+  last: Cai
+- first: Christopher R.
+  last: Lee
+- first: Spyridon
+  last: Chavlis
+- first: Lucia
+  last: Page-Harley
+- first: Lauren M.
+  last: Vetere
+- first: Yu
+  last: Feng
+- first: Chen
+  last: Yang
+- first: Irene
+  last: Mollinedo-Gajate
+- first: Lingxuan
+  last: Chen
+- first: Zachary T.
+  last: Pennington
+- first: Jiannis
+  last: Taxidis
+- first: Sergio E.
+  last: Flores
+- first: Kevin
+  last: Cheng
+- first: Milad
+  last: Javaherian
+- first: Christina C.
+  last: Kaba
+- first: Naina
+  last: Rao
+- first: Mimi Q
+  last: La-Vu
+- first: Ioanna
+  last: Pandi
+- first: Matthew
+  last: Shtrahman
+- first: Konstantin I.
+  last: Bakhurin
+- first: Sotiris C.
+  last: Masmanidis
+- first: Baljit S.
+  last: Khakh
+- first: Panayiota
+  last: Poirazi
+- first: Alcino J.
+  last: Silva
+- first: Peyman
+  last: Golshani
+journal: Nature Neuroscience
+publication_year: 2020
+publication_date: '2020-01-06'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.ncbi.nlm.nih.gov/pmc/articles/7259114
+source: trusted_bib_seed
+seed_paper_doi: self (founding tool paper)
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_seed_2026-05-13
+bibtex_raw: ' @article{Shuman_2020, title={Breakdown of spatial coding and interneuron
+  synchronization in epileptic mice}, volume={23}, ISSN={1546-1726}, url={http://dx.doi.org/10.1038/s41593-019-0559-0},
+  DOI={10.1038/s41593-019-0559-0}, number={2}, journal={Nature Neuroscience}, publisher={Springer
+  Science and Business Media LLC}, author={Shuman, Tristan and Aharoni, Daniel and
+  Cai, Denise J. and Lee, Christopher R. and Chavlis, Spyridon and Page-Harley, Lucia
+  and Vetere, Lauren M. and Feng, Yu and Yang, Chen Yi and Mollinedo-Gajate, Irene
+  and Chen, Lingxuan and Pennington, Zachary T. and Taxidis, Jiannis and Flores, Sergio
+  E. and Cheng, Kevin and Javaherian, Milad and Kaba, Christina C. and Rao, Naina
+  and La-Vu, Mimi and Pandi, Ioanna and Shtrahman, Matthew and Bakhurin, Konstantin
+  I. and Masmanidis, Sotiris C. and Khakh, Baljit S. and Poirazi, Panayiota and Silva,
+  Alcino J. and Golshani, Peyman}, year={2020}, month=Jan, pages={229–238} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: Founding tool paper for the project; approved as seed.
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Hippocampus
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T19:10:07.464354+00:00'
+- stage: approved
+  timestamp: '2026-05-13T19:10:07.464356+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib (seed paper)
+  trusted_bib_key: shuman2019
+  match_method: doi
+  similarity: 1.0

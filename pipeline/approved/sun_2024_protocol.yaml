@@ -1,0 +1,59 @@
+doi: 10.1016/j.xpro.2024.103110
+openalex_id: W4399352472
+pmid: null
+pmcid: PMC11216012
+title: Protocol for calcium imaging and analysis of hippocampal CA1 activity evoked
+  by non-spatial stimuli
+authors:
+- first: Dechuan
+  last: Sun
+- first: Mona
+  last: Amiri
+- first: Ranjith Rajasekharan
+  last: Unnithan
+- first: Chris
+  last: French
+journal: STAR Protocols
+publication_year: 2024
+publication_date: '2024-06-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.xpro.2024.103110
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Sun_2024, title={Protocol for calcium imaging and analysis
+  of hippocampal CA1 activity evoked by non-spatial stimuli}, volume={5}, ISSN={2666-1667},
+  url={http://dx.doi.org/10.1016/j.xpro.2024.103110}, DOI={10.1016/j.xpro.2024.103110},
+  number={2}, journal={STAR Protocols}, publisher={Elsevier BV}, author={Sun, Dechuan
+  and Amiri, Mona and Unnithan, Ranjith Rajasekharan and French, Chris}, year={2024},
+  month=jun, pages={103110} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Protocol
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.375307+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:10.143644+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: sunProtocolCalciumImaging2024
+  match_method: doi
+  similarity: 1.0

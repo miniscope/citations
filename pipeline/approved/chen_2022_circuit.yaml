@@ -1,0 +1,72 @@
+doi: 10.1038/s41380-022-01742-0
+openalex_id: W4293176284
+pmid: null
+pmcid: null
+title: A circuit from lateral septum neurotensin neurons to tuberal nucleus controls
+  hedonic feeding
+authors:
+- first: Zijun
+  last: Chen
+- first: Gaowei
+  last: Chen
+- first: Jiafeng
+  last: Zhong
+- first: Shaolei
+  last: Jiang
+- first: Shishi
+  last: Lai
+- first: Hua
+  last: Xu
+- first: Xiaofei
+  last: Deng
+- first: Fengling
+  last: Li
+- first: Shanshan
+  last: Lu
+- first: Kuikui
+  last: Zhou
+- first: Changlin
+  last: Li
+- first: Zhongdong
+  last: Liu
+- first: Xu
+  last: Zhang
+- first: Yingjie
+  last: Zhu
+journal: Molecular Psychiatry
+publication_year: 2022
+publication_date: '2022-08-26'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41380-022-01742-0.pdf
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V4
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:26.413420+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.627973+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: chenCircuitLateralSeptum2022
+  match_method: doi
+  similarity: 1.0

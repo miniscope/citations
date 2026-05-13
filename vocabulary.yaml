@@ -70,11 +70,13 @@ keywords:
   - "Wire-Free"
   - "Open-Source"
 
-  # Imaging technique
+  # Recording / labeling modality
   - "Calcium Imaging"
   - "Voltage Imaging"
   - "Two-Photon"
   - "Optogenetics"
+  - "Electrophysiology"
+  - "Ensemble Tagging"
 
   # Behavior / cognition
   - "Memory"
@@ -83,16 +85,26 @@ keywords:
   - "Fear & Anxiety"
   - "Reward"
   - "Social Behavior"
+  - "Engrams"
+  - "Aging"
 
   # Recording context
   - "Freely-Behaving"
   - "Chronic Imaging"
   - "Multi-Region"
+  - "Neural Circuits"
+
+  # Neuromodulators
+  - "Dopamine"
 
   # Brain regions
   - "Hippocampus"
   - "Prefrontal Cortex"
   - "Amygdala"
+  - "Nucleus Accumbens"
+  - "Anterior Thalamus"
+  - "Locus Coeruleus"
+  - "Periaqueductal Gray"
 
 # === Pending suggestions ======================================================
 # When an agent or curator wants to tag a paper with a concept that doesn't
@@ -107,21 +119,4 @@ keywords:
 #
 # The maintainer reviews periodically. Promoted entries move into the
 # appropriate list above; rejected entries are deleted from this section.
-pending_suggestions:
-  - target: "keywords"
-    name: "Nucleus Accumbens"
-    proposed_by: "curator"
-    rationale: "Major reward/motivation recording target; appears in protocol papers
-      and reward/decision-making studies. Parallel to existing Hippocampus / Prefrontal
-      Cortex / Amygdala entries."
-    example_dois:
-      - "10.1002/cpz1.70090"  # beacher_2025_miniscope
-    proposed_date: "2026-05-11"
-  - target: "keywords"
-    name: "Anterior Thalamus"
-    proposed_by: "curator"
-    rationale: "Head-direction cell recording target; comes up in HD-cell papers
-      from Brandon, Taube, etc. Likely recurs across multiple papers in the corpus."
-    example_dois:
-      - "10.1038/s41586-023-05813-2"  # ajabi_2023_population
-    proposed_date: "2026-05-11"
+pending_suggestions: []

@@ -1,0 +1,56 @@
+doi: 10.1101/2023.05.07.539721
+openalex_id: W4375862785
+pmid: null
+pmcid: null
+title: The subiculum encodes environmental geometry
+authors:
+- first: Yanjun
+  last: Sun
+- first: Douglas A.
+  last: Nitz
+- first: Xiangmin
+  last: Xu
+- first: Lisa M.
+  last: Giocomo
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2023
+publication_date: '2023-05-07'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2023/05/07/2023.05.07.539721.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Sun_2023, title={The subiculum encodes environmental geometry},
+  url={http://dx.doi.org/10.1101/2023.05.07.539721}, DOI={10.1101/2023.05.07.539721},
+  publisher={openRxiv}, author={Sun, Yanjun and Nitz, Douglas A and Xu, Xiangmin and
+  Giocomo, Lisa M}, year={2023}, month=may }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324341+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:10.221314+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: sunSubiculumEncodesEnvironmental2023a
+  match_method: doi
+  similarity: 1.0

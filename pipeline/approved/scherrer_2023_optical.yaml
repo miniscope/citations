@@ -1,0 +1,59 @@
+doi: 10.1038/s41592-023-01806-1
+openalex_id: W4327568964
+pmid: null
+pmcid: null
+title: An optical design enabling lightweight and large field-of-view head-mounted
+  microscopes
+authors:
+- first: Joseph R.
+  last: Scherrer
+- first: Galen F.
+  last: Lynch
+- first: Jie
+  last: Zhang
+- first: Michale S.
+  last: Fee
+journal: Nature Methods
+publication_year: 2023
+publication_date: '2023-03-16'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1038/s41592-023-01806-1
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Scherrer_2023, title={An optical design enabling lightweight
+  and large field-of-view head-mounted microscopes}, volume={20}, ISSN={1548-7105},
+  url={http://dx.doi.org/10.1038/s41592-023-01806-1}, DOI={10.1038/s41592-023-01806-1},
+  number={4}, journal={Nature Methods}, publisher={Springer Science and Business Media
+  LLC}, author={Scherrer, Josefa R. and Lynch, Galen F. and Zhang, Jie J. and Fee,
+  Michale S.}, year={2023}, month=mar, pages={546–549} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope DAQ
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.319148+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:10.344410+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: scherrerOpticalDesignEnabling2023a
+  match_method: doi
+  similarity: 1.0

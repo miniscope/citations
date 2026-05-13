@@ -1,0 +1,79 @@
+doi: 10.1523/jneurosci.1022-20.2020
+openalex_id: W3087467736
+pmid: null
+pmcid: null
+title: Long-Term Characterization of Hippocampal Remapping during Contextual Fear
+  Acquisition and Extinction
+authors:
+- first: Peter J.
+  last: Schuette
+- first: Fernando MCV
+  last: Reis
+- first: Sandra
+  last: Maesta‐Pereira
+- first: Meghmik
+  last: Chakerian
+- first: Anita
+  last: Torossian
+- first: Garrett J.
+  last: Blair
+- first: Weisheng
+  last: Wang
+- first: Hugh T.
+  last: Blair
+- first: Michael S.
+  last: Fanselow
+- first: Jonathan C.
+  last: Kao
+- first: Avishek
+  last: Adhikari
+journal: Journal of Neuroscience
+publication_year: 2020
+publication_date: '2020-09-21'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.jneurosci.org/content/jneuro/40/43/8329.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Schuette_2020, title={Long-Term Characterization of Hippocampal
+  Remapping during Contextual Fear Acquisition and Extinction}, volume={40}, ISSN={1529-2401},
+  url={http://dx.doi.org/10.1523/jneurosci.1022-20.2020}, DOI={10.1523/jneurosci.1022-20.2020},
+  number={43}, journal={The Journal of Neuroscience}, publisher={Society for Neuroscience},
+  author={Schuette, Peter J. and Reis, Fernando M. C. V. and Maesta-Pereira, Sandra
+  and Chakerian, Meghmik and Torossian, Anita and Blair, Garrett J. and Wang, Weisheng
+  and Blair, Hugh T. and Fanselow, Michael S. and Kao, Jonathan C. and Adhikari, Avishek},
+  year={2020}, month=sep, pages={8329–8342} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Calcium Imaging
+  - Hippocampus
+  - Place Cells
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.318405+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:39.819574+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: schuetteLongTermCharacterizationHippocampal2020a
+  match_method: doi
+  similarity: 1.0

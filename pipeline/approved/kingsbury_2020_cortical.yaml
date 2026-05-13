@@ -1,0 +1,66 @@
+doi: 10.1016/j.neuron.2020.06.020
+openalex_id: W3040701282
+pmid: null
+pmcid: null
+title: Cortical Representations of Conspecific Sex Shape Social Behavior
+authors:
+- first: Lyle
+  last: Kingsbury
+- first: Shan
+  last: Huang
+- first: Tara
+  last: Raam
+- first: Letizia S.
+  last: Ye
+- first: Wei
+  last: Don
+- first: Rongfeng K.
+  last: Hu
+- first: Ye
+  last: Li
+- first: Weizhe
+  last: Hong
+journal: Neuron
+publication_year: 2020
+publication_date: '2020-07-13'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.cell.com/article/S0896627320304748/pdf
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: Curator review 1-by-1. Hong lab (Caltech) follow-up to 2019 hyperscanning
+    paper. PFC activity-dependent labeling (E-SARE/Fos) tagging neurons responsive
+    to conspecific sex. 2020 Neuron → V3 era. Engram-labeling tokens (E-SARE, Fos)
+    match pending_suggestion 'Ensemble Tagging'.
+  suggested_keywords:
+  - Prefrontal Cortex
+  - Social Behavior
+  - Calcium Imaging
+  suggested_project: Miniscope V3
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:34.472273+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.669363+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: kingsburyCorticalRepresentationsConspecific2020
+  match_method: doi
+  similarity: 1.0

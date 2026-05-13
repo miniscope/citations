@@ -1,0 +1,61 @@
+doi: 10.1109/embc44109.2020.9176536
+openalex_id: W3082688077
+pmid: null
+pmcid: null
+title: Novel Virtual Reality System for Auditory Tasks in Head-fixed Mice
+authors:
+- first: Sibo
+  last: Gao
+- first: James
+  last: Webb
+- first: Zakir
+  last: Mridha
+- first: Anton
+  last: Banta
+- first: Caleb
+  last: Kemere
+- first: Matthew J.
+  last: McGinley
+journal: null
+publication_year: 2020
+publication_date: '2020-07-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://ieeexplore.ieee.org/ielx7/9167168/9175149/09176536.pdf
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: Curator review 1-by-1. McGinley lab head-fixed auditory VR. CA1 calcium
+    imaging with 'modified Miniscope.org system' — UCLA 1P miniscope, V3 era (2020).
+    Head-fixed but still uses the open-source UCLA Miniscope hardware.
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Hippocampus
+  - Spatial Navigation
+  - Calcium Imaging
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:39.058026+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.695272+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: gaoNovelVirtualReality2020
+  match_method: doi
+  similarity: 1.0

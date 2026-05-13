@@ -1,0 +1,59 @@
+doi: 10.1038/s41586-021-03962-w
+openalex_id: W3206129109
+pmid: null
+pmcid: null
+title: Neural control of affiliative touch in prosocial interaction
+authors:
+- first: Ye
+  last: Wu
+- first: James
+  last: Dang
+- first: Lyle
+  last: Kingsbury
+- first: Mingmin
+  last: Zhang
+- first: Fangmiao
+  last: Sun
+- first: Rongfeng K.
+  last: Hu
+- first: Weizhe
+  last: Hong
+journal: Nature
+publication_year: 2021
+publication_date: '2021-10-13'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.ncbi.nlm.nih.gov/pmc/articles/8605624
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V4
+  suggested_keywords:
+  - Neural Circuits
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:27.718226+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.636171+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: wuNeuralControlAffiliative2021
+  match_method: doi
+  similarity: 1.0

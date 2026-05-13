@@ -1,0 +1,59 @@
+doi: 10.1101/2021.10.28.466306
+openalex_id: W3211156283
+pmid: null
+pmcid: null
+title: Vagus nerve stimulation accelerates motor learning through cholinergic modulation
+authors:
+- first: Spencer
+  last: Bowles
+- first: Jordan
+  last: Hickman
+- first: Xiaoyu
+  last: Peng
+- first: W. Ryan
+  last: Williamson
+- first: Rongchen
+  last: Huang
+- first: Kayden A.
+  last: Washington
+- first: Dane
+  last: Donegan
+- first: Cristin G.
+  last: Welle
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2021
+publication_date: '2021-10-29'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2021/11/19/2021.10.28.466306.full.pdf
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:37.725553+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.687260+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: bowlesVagusNerveStimulation2021
+  match_method: doi
+  similarity: 1.0

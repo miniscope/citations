@@ -1,0 +1,71 @@
+doi: 10.1016/j.neuroimage.2022.119016
+openalex_id: W4213353528
+pmid: null
+pmcid: null
+title: Environmental enrichment leads to behavioral circadian shifts enhancing brain-wide
+  functional connectivity between sensory cortices and eliciting increased hippocampal
+  spiking
+authors:
+- first: Francis A. M.
+  last: Manno
+- first: Ziqi
+  last: An
+- first: Rachit
+  last: Kumar
+- first: Junfeng
+  last: Su
+- first: Jiaming
+  last: Liu
+- first: EX
+  last: Wu
+- first: Jufang
+  last: He
+- first: Yanqiu
+  last: Feng
+- first: Condon
+  last: Lau
+journal: NeuroImage
+publication_year: 2022
+publication_date: '2022-02-18'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.neuroimage.2022.119016
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Manno_2022, title={Environmental enrichment leads to behavioral
+  circadian shifts enhancing brain-wide functional connectivity between sensory cortices
+  and eliciting increased hippocampal spiking}, volume={252}, ISSN={1053-8119}, url={http://dx.doi.org/10.1016/j.neuroimage.2022.119016},
+  DOI={10.1016/j.neuroimage.2022.119016}, journal={NeuroImage}, publisher={Elsevier
+  BV}, author={Manno, Francis A.M. and An, Ziqi and Kumar, Rachit and Su, Junfeng
+  and Liu, Jiaming and Wu, Ed X. and He, Jufang and Feng, Yanqiu and Lau, Condon},
+  year={2022}, month=may, pages={119016} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320862+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:10.305077+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: mannoEnvironmentalEnrichmentLeads2022b
+  match_method: doi
+  similarity: 1.0

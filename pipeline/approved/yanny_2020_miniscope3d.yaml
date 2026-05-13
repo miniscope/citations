@@ -1,0 +1,61 @@
+doi: 10.1038/s41377-020-00403-7
+openalex_id: W3089710967
+pmid: null
+pmcid: null
+title: 'Miniscope3D: optimized single-shot miniature 3D fluorescence microscopy'
+authors:
+- first: Kyrollos
+  last: Yanny
+- first: Nick
+  last: Antipa
+- first: William
+  last: Liberti
+- first: Sam
+  last: Dehaeck
+- first: Kristina
+  last: Monakhova
+- first: Fanglin Linda
+  last: Liu
+- first: Konlin
+  last: Shen
+- first: Ren
+  last: Ng
+- first: Laura
+  last: Waller
+journal: Light Science & Applications
+publication_year: 2020
+publication_date: '2020-10-02'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41377-020-00403-7.pdf
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:17.306462+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.578382+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: yannyMiniscope3DOptimizedSingleshot2020
+  match_method: doi
+  similarity: 1.0

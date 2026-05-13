@@ -1,0 +1,56 @@
+doi: 10.1101/2020.08.25.264200
+openalex_id: W3080378609
+pmid: null
+pmcid: null
+title: Loud noise exposure differentially affects subpopulations of auditory cortex
+  pyramidal cells
+authors:
+- first: Ingrid
+  last: Nogueira
+- first: Jéssica
+  last: Winne
+- first: Thiago Z.
+  last: Lima
+- first: T
+  last: Malfatti
+- first: Richardson N.
+  last: Leão
+- first: Katarina E.
+  last: Leão
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2020
+publication_date: '2020-08-25'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2020/08/31/2020.08.25.264200.full.pdf
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:34.924215+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.671948+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: nogueiraLoudNoiseExposure2020
+  match_method: doi
+  similarity: 1.0

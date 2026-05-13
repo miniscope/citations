@@ -1,0 +1,67 @@
+doi: 10.3389/fnins.2020.00819
+openalex_id: W3048791289
+pmid: null
+pmcid: PMC7432153
+title: Deciphering Brain Function by Miniaturized Fluorescence Microscopy in Freely
+  Behaving Animals
+authors:
+- first: Sarah
+  last: Malvaut
+- first: Vlad-Stefan
+  last: Constantinescu
+- first: Harold
+  last: Dehez
+- first: Sead
+  last: Dorić
+- first: Armen
+  last: Saghatelyan
+journal: Frontiers in Neuroscience
+publication_year: 2020
+publication_date: '2020-08-11'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.frontiersin.org/articles/10.3389/fnins.2020.00819/pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Malvaut_2020, title={Deciphering Brain Function by Miniaturized
+  Fluorescence Microscopy in Freely Behaving Animals}, volume={14}, ISSN={1662-453X},
+  url={http://dx.doi.org/10.3389/fnins.2020.00819}, DOI={10.3389/fnins.2020.00819},
+  journal={Frontiers in Neuroscience}, publisher={Frontiers Media SA}, author={Malvaut,
+  Sarah and Constantinescu, Vlad-Stefan and Dehez, Harold and Doric, Sead and Saghatelyan,
+  Armen}, year={2020}, month=aug }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Review
+  suggested_component: null
+  suggested_technique: null
+  reasoning: Curator review 1-by-1. Broad review of mini-endoscopic imaging covering
+    UCLA Miniscope, Inscopix, and Doric platforms equally (Dorić Lenses co-author).
+    Project left null since the review doesn't focus on any single platform; this
+    differs from abdelfattah_2022 which specifically showcased Miniscope V3.
+  suggested_keywords:
+  - Calcium Imaging
+  - Freely-Behaving
+  - Open-Source
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.374651+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:10.265296+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: malvautDecipheringBrainFunction2020a
+  match_method: doi
+  similarity: 1.0

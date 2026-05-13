@@ -1,0 +1,81 @@
+doi: 10.1038/s41467-025-56081-9
+openalex_id: W4406411606
+pmid: null
+pmcid: null
+title: 'Syntalos: a software for precise synchronization of simultaneous multi-modal
+  data acquisition and closed-loop interventions'
+authors:
+- first: Matthias
+  last: Klumpp
+- first: Lee
+  last: Embray
+- first: Filippo
+  last: Heimburg
+- first: Ana Luiza Alves
+  last: Dias
+- first: Justus
+  last: Simon
+- first: Alexander
+  last: Groh
+- first: Andreas
+  last: Draguhn
+- first: Martin
+  last: Both
+journal: Nature Communications
+publication_year: 2025
+publication_date: '2025-01-15'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41467-025-56081-9.pdf
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: ' @article{Klumpp_2025, title={Syntalos: a software for precise synchronization
+  of simultaneous multi-modal data acquisition and closed-loop interventions}, volume={16},
+  ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-025-56081-9}, DOI={10.1038/s41467-025-56081-9},
+  number={1}, journal={Nature Communications}, publisher={Springer Science and Business
+  Media LLC}, author={Klumpp, Matthias and Embray, Lee and Heimburg, Filippo and Alves
+  Dias, Ana Luiza and Simon, Justus and Groh, Alexander and Draguhn, Andreas and Both,
+  Martin}, year={2025}, month=Jan }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Software
+  suggested_component: null
+  suggested_technique: null
+  reasoning: Curator review 1-by-1. Open-source DAQ + closed-loop synchronization
+    software with explicit UCLA Miniscope V3/V4 integration (26 'Miniscope' mentions
+    in published text). Companion software, not a Miniscope variant; project left
+    null (consistent with Open-MAC). Metadata updated from Research Square preprint
+    to Nature Communications 2025.
+  suggested_project: null
+  suggested_keywords:
+  - Open-Source
+  - Multi-Region
+  - Optogenetics
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:28.641323+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.640969+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: klumppSyntalosSoftwarePrecise2024
+  match_method: doi
+  similarity: 1.0
+- stage: approved
+  timestamp: '2026-05-13T19:31:54.017233+00:00'
+  source: curator review
+  note: Metadata updated from Research Square preprint 10.21203/rs.3.rs-3793251/v1
+    to Nature Communications published version 10.1038/s41467-025-56081-9 (2025-01-15).

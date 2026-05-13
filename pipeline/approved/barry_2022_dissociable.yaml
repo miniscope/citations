@@ -1,0 +1,64 @@
+doi: 10.3389/fncir.2022.983323
+openalex_id: W4307553638
+pmid: null
+pmcid: null
+title: Dissociable effects of oxycodone on behavior, calcium transient activity, and
+  excitability of dorsolateral striatal neurons
+authors:
+- first: Joshua
+  last: Barry
+- first: Katerina D.
+  last: Oikonomou
+- first: Allison
+  last: Peng
+- first: Daniel
+  last: Yu
+- first: Chenyi
+  last: Yang
+- first: Peyman
+  last: Golshani
+- first: Christopher J.
+  last: Evans
+- first: Michael S.
+  last: Levine
+- first: Carlos
+  last: Cepeda
+journal: Frontiers in Neural Circuits
+publication_year: 2022
+publication_date: '2022-10-26'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.3389/fncir.2022.983323
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Electrophysiology
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:32.859609+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.660807+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: barryDissociableEffectsOxycodone2022
+  match_method: doi
+  similarity: 1.0

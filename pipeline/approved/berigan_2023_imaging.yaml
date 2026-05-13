@@ -1,0 +1,54 @@
+doi: 10.1152/jn.00450.2022
+openalex_id: W4317215178
+pmid: null
+pmcid: null
+title: Imaging neuro-urodynamics of mouse major pelvic ganglion with a micro-endoscopic
+  approach
+authors:
+- first: Benton R.
+  last: Berigan
+- first: Jing
+  last: Wang
+- first: David J.
+  last: Schulz
+- first: Ilker
+  last: Ozden
+journal: Journal of Neurophysiology
+publication_year: 2023
+publication_date: '2023-01-18'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Calcium Imaging
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:41.747560+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.709300+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: beriganImagingNeurourodynamicsMouse2023
+  match_method: doi
+  similarity: 1.0

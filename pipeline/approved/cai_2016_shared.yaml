@@ -1,0 +1,99 @@
+doi: 10.1038/nature17955
+openalex_id: W2404947714
+pmid: null
+pmcid: null
+title: A shared neural ensemble links distinct contextual memories encoded close in
+  time
+authors:
+- first: Denise J.
+  last: Cai
+- first: Daniel
+  last: Aharoni
+- first: Tristan
+  last: Shuman
+- first: Justin L.
+  last: Shobe
+- first: Jeremy S.
+  last: Biane
+- first: Weilin
+  last: Song
+- first: Brandon
+  last: Wei
+- first: Michael
+  last: Veshkini
+- first: Mimi Q
+  last: La-Vu
+- first: Jerry J.
+  last: Lou
+- first: Sergio E.
+  last: Flores
+- first: Isaac
+  last: Kim
+- first: Yoshitake
+  last: Sano
+- first: Miou
+  last: Zhou
+- first: Karsten
+  last: Baumgaertel
+- first: Ayal
+  last: Lavi
+- first: Masakazu
+  last: Kamata
+- first: Mark H.
+  last: Tuszynski
+- first: Mark
+  last: Mayford
+- first: Peyman
+  last: Golshani
+- first: Alcino J.
+  last: Silva
+journal: Nature
+publication_year: 2016
+publication_date: '2016-05-21'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.ncbi.nlm.nih.gov/pmc/articles/5063500
+source: trusted_bib_seed
+seed_paper_doi: self (founding tool paper)
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_seed_2026-05-13
+bibtex_raw: ' @article{Cai_2016, title={A shared neural ensemble links distinct contextual
+  memories encoded close in time}, volume={534}, ISSN={1476-4687}, url={http://dx.doi.org/10.1038/nature17955},
+  DOI={10.1038/nature17955}, number={7605}, journal={Nature}, publisher={Springer
+  Science and Business Media LLC}, author={Cai, Denise J. and Aharoni, Daniel and
+  Shuman, Tristan and Shobe, Justin and Biane, Jeremy and Song, Weilin and Wei, Brandon
+  and Veshkini, Michael and La-Vu, Mimi and Lou, Jerry and Flores, Sergio E. and Kim,
+  Isaac and Sano, Yoshitake and Zhou, Miou and Baumgaertel, Karsten and Lavi, Ayal
+  and Kamata, Masakazu and Tuszynski, Mark and Mayford, Mark and Golshani, Peyman
+  and Silva, Alcino J.}, year={2016}, month=May, pages={115–118} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Tool Paper
+  suggested_component: null
+  suggested_technique: null
+  reasoning: Founding tool paper for the project; approved as seed.
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Memory
+  - Hippocampus
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T19:10:07.796683+00:00'
+- stage: approved
+  timestamp: '2026-05-13T19:10:07.796685+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib (seed paper)
+  trusted_bib_key: caiSharedNeuralEnsemble2016c
+  match_method: doi
+  similarity: 1.0

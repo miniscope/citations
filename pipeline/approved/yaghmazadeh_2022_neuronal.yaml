@@ -1,0 +1,66 @@
+doi: 10.1038/s44172-022-00014-7
+openalex_id: W4283750214
+pmid: null
+pmcid: PMC10732550
+title: Neuronal activity under transcranial radio-frequency stimulation in metal-free
+  rodent brains in-vivo
+authors:
+- first: Omid
+  last: Yaghmazadeh
+- first: Mihály
+  last: Vöröslakos
+- first: Leeor
+  last: Alon
+- first: Giuseppe
+  last: Carluccio
+- first: Christopher M.
+  last: Collins
+- first: Daniel K.
+  last: Sodickson
+- first: György
+  last: Buzsáki
+journal: Communications Engineering
+publication_year: 2022
+publication_date: '2022-07-01'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s44172-022-00014-7.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Yaghmazadeh_2022, title={Neuronal activity under transcranial
+  radio-frequency stimulation in metal-free rodent brains in-vivo}, volume={1}, ISSN={2731-3395},
+  url={http://dx.doi.org/10.1038/s44172-022-00014-7}, DOI={10.1038/s44172-022-00014-7},
+  number={1}, journal={Communications Engineering}, publisher={Springer Science and
+  Business Media LLC}, author={Yaghmazadeh, Omid and Vöröslakos, Mihály and Alon,
+  Leeor and Carluccio, Giuseppe and Collins, Christopher and Sodickson, Daniel K.
+  and Buzsáki, György}, year={2022}, month=jul }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.321572+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:10.320147+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: yaghmazadehNeuronalActivityTranscranial2022b
+  match_method: doi
+  similarity: 1.0

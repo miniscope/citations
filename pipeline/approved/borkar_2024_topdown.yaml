@@ -1,0 +1,77 @@
+doi: 10.1038/s41586-023-06912-w
+openalex_id: W4390940935
+pmid: null
+pmcid: null
+title: Top-down control of flight by a non-canonical cortico-amygdala pathway
+authors:
+- first: Chandrashekhar D.
+  last: Borkar
+- first: Claire E.
+  last: Stelly
+- first: Xin
+  last: Fu
+- first: Мария
+  last: Дорофейкова
+- first: Quan-Son Eric
+  last: Le
+- first: Rithvik
+  last: Vutukuri
+- first: Catherine
+  last: Vo
+- first: Alice Breaux
+  last: Walker
+- first: Samhita
+  last: Basavanhalli
+- first: Anh
+  last: Duong
+- first: Erin
+  last: Bean
+- first: Alexis
+  last: Resendez
+- first: Jones G.
+  last: Parker
+- first: Jeffrey G.
+  last: Tasker
+- first: Jonathan P.
+  last: Fadok
+journal: Nature
+publication_year: 2024
+publication_date: '2024-01-17'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10878556/pdf/nihms-1961313.pdf
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V4
+  suggested_keywords:
+  - Amygdala
+  - Prefrontal Cortex
+  - Neural Circuits
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:36.833217+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.681931+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: borkarTopcontrolFlightNoncanonical2024
+  match_method: doi
+  similarity: 1.0

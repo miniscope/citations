@@ -11,3 +11,6 @@ pipeline/in-progress/
 pipeline/pdfs/
 pipeline/**/*.txt
 pipeline/**/*.bib
+
+# Curator-only working files (not part of the published pipeline)
+Publications Using Our Tools.bib

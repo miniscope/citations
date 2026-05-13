@@ -1,0 +1,81 @@
+doi: 10.1038/s41467-024-50112-7
+openalex_id: W4400689698
+pmid: null
+pmcid: null
+title: Distinct neural mechanisms for heading retrieval and context recognition in
+  the hippocampus during spatial reorientation
+authors:
+- first: Celia
+  last: Gagliardi
+- first: Marc E.
+  last: Normandin
+- first: Alexandra T.
+  last: Keinath
+- first: Joshua B.
+  last: Julian
+- first: Matthew R.
+  last: Lopez
+- first: Manuel M.
+  last: Ramos‐Álvarez
+- first: Russell A.
+  last: Epstein
+- first: Isabel A.
+  last: Muzzio
+journal: Nature Communications
+publication_year: 2024
+publication_date: '2024-07-16'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41467-024-50112-7.pdf
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: ' @article{Gagliardi_2024, title={Distinct neural mechanisms for heading
+  retrieval and context recognition in the hippocampus during spatial reorientation},
+  volume={15}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-024-50112-7},
+  DOI={10.1038/s41467-024-50112-7}, number={1}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Gagliardi, Celia M. and Normandin, Marc
+  E. and Keinath, Alexandra T. and Julian, Joshua B. and Lopez, Matthew R. and Ramos-Alvarez,
+  Manuel-Miguel and Epstein, Russell A. and Muzzio, Isabel A.}, year={2024}, month=July
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: Curator review 1-by-1. Muzzio + Keinath lab CA1 place-cell paper on spatial
+    reorientation (geometry vs feature cues). Miniscope V3 era (Keinath ex-Brandon-lab;
+    canonical V3-style place-cell methodology). Metadata updated from Research Square
+    preprint to Nature Communications 2024.
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Hippocampus
+  - Place Cells
+  - Spatial Navigation
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:34.024893+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.666506+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: gagliardiDistinctNeuralMechanisms2023
+  match_method: doi
+  similarity: 1.0
+- stage: approved
+  timestamp: '2026-05-13T19:37:37.242239+00:00'
+  source: curator review
+  note: Metadata updated from Research Square preprint 10.21203/rs.3.rs-2724785/v1
+    to Nature Communications published version 10.1038/s41467-024-50112-7 (2024-07-16).

@@ -1,0 +1,56 @@
+doi: 10.1038/s41467-022-34114-x
+openalex_id: W4308404203
+pmid: null
+pmcid: PMC9640587
+title: Neural circuit dynamics of drug-context associative learning in the mouse hippocampus
+authors:
+- first: Yanjun
+  last: Sun
+- first: Lisa M.
+  last: Giocomo
+journal: Nature Communications
+publication_year: 2022
+publication_date: '2022-11-07'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41467-022-34114-x.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Sun_2022, title={Neural circuit dynamics of drug-context associative
+  learning in the mouse hippocampus}, volume={13}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-022-34114-x},
+  DOI={10.1038/s41467-022-34114-x}, number={1}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Sun, Yanjun and Giocomo, Lisa M.}, year={2022},
+  month=nov }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Hippocampus
+  - Neural Circuits
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320685+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:10.208579+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: sunNeuralCircuitDynamics2022a
+  match_method: doi
+  similarity: 1.0
