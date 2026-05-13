@@ -5,7 +5,7 @@ pmcid: null
 title: Implementing simultaneous calcium imaging and optogenetics in freely moving
   rodents to investigate the role of local inhibition in place field stability
 authors:
-- first: Helena
+- first: Helena Z. H.
   last: Yan
 journal: Wellesley College Digital RepositoryWellesley (Wellesley College)
 publication_year: 2018
@@ -18,8 +18,12 @@ source: openalex_cites
 seed_paper_doi: 10.1038/nature17955
 discovered_date: '2026-04-10'
 batch_id: backlog_2026-04-10
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: "@mastersthesis{yan_2018_implementing,\n  title  = {Implementing simultaneous\
+  \ calcium imaging and optogenetics in freely moving rodents to investigate the role\
+  \ of local inhibition in place field stability},\n  author = {Yan, Helena Z. H.},\n\
+  \  school = {Wellesley College},\n  year   = {2018},\n  month  = may,\n  url   \
+  \ = {https://repository.wellesley.edu/thesiscollection/574},\n}\n"
+bibtex_source: trusted_bib_manual
 fulltext:
   source: null
   pdf_local_path: null
@@ -29,11 +33,21 @@ analysis:
   confidence: null
   tools_identified: []
   evidence: []
-  paper_type: null
+  paper_type: Methods
   suggested_component: null
   suggested_technique: null
-  reasoning: null
-  suggested_project: Miniscope DAQ
+  reasoning: Wellesley College senior thesis (no DOI assigned by repo). BibTeX hand-crafted
+    from trusted-bib metadata + Wellesley repository URL. Author list reduced to Helena
+    Yan (candidate); Wilson/Newman/Wasserman/Wiest were committee in the trusted bib
+    but aren't BibTeX co-authors. paper_type=Methods (thesis implements simultaneous
+    imaging+opto rig); project=V3+DAQ per trusted-bib tags.
+  suggested_project: Miniscope V3, Miniscope DAQ
+  suggested_keywords:
+  - Calcium Imaging
+  - Optogenetics
+  - Place Cells
+  - Hippocampus
+  - Open-Source
 stage: approved
 stage_history:
 - stage: candidate
