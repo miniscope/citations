@@ -44,8 +44,17 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Chen_2022, title={A circuit from lateral septum neurotensin
+  neurons to tuberal nucleus controls hedonic feeding}, volume={27}, ISSN={1476-5578},
+  url={http://dx.doi.org/10.1038/s41380-022-01742-0}, DOI={10.1038/s41380-022-01742-0},
+  number={12}, journal={Molecular Psychiatry}, publisher={Springer Science and Business
+  Media LLC}, author={Chen, Zijun and Chen, Gaowei and Zhong, Jiafeng and Jiang, Shaolei
+  and Lai, Shishi and Xu, Hua and Deng, Xiaofei and Li, Fengling and Lu, Shanshan
+  and Zhou, Kuikui and Li, Changlin and Liu, Zhongdong and Zhang, Xu and Zhu, Yingjie},
+  year={2022}, month=Aug, pages={4843–4860} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

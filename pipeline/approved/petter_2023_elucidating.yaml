@@ -29,8 +29,15 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Petter_2023, title={Elucidating a locus coeruleus-dentate gyrus
+  dopamine pathway for operant reinforcement}, volume={12}, ISSN={2050-084X}, url={http://dx.doi.org/10.7554/elife.83600},
+  DOI={10.7554/elife.83600}, journal={eLife}, publisher={eLife Sciences Publications,
+  Ltd}, author={Petter, Elijah A and Fallon, Isabella P and Hughes, Ryan N and Watson,
+  Glenn DR and Meck, Warren H and Ulloa Severino, Francesco Paolo and Yin, Henry H},
+  year={2023}, month=Apr }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

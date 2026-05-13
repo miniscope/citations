@@ -34,8 +34,16 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Barry_2022, title={Dissociable effects of oxycodone on behavior,
+  calcium transient activity, and excitability of dorsolateral striatal neurons},
+  volume={16}, ISSN={1662-5110}, url={http://dx.doi.org/10.3389/fncir.2022.983323},
+  DOI={10.3389/fncir.2022.983323}, journal={Frontiers in Neural Circuits}, publisher={Frontiers
+  Media SA}, author={Barry, Joshua and Oikonomou, Katerina D. and Peng, Allison and
+  Yu, Daniel and Yang, Chenyi and Golshani, Peyman and Evans, Christopher J. and Levine,
+  Michael S. and Cepeda, Carlos}, year={2022}, month=Oct }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

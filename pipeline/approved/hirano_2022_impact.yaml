@@ -24,8 +24,15 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Hirano_2022, title={The impact of pitolisant, an H3 receptor
+  antagonist/inverse agonist, on perirhinal cortex activity in individual neuron and
+  neuronal population levels}, volume={12}, ISSN={2045-2322}, url={http://dx.doi.org/10.1038/s41598-022-11032-y},
+  DOI={10.1038/s41598-022-11032-y}, number={1}, journal={Scientific Reports}, publisher={Springer
+  Science and Business Media LLC}, author={Hirano, Kyosuke and Morishita, Yoshikazu
+  and Minami, Masabumi and Nomura, Hiroshi}, year={2022}, month=may }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

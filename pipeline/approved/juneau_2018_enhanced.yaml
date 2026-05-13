@@ -23,8 +23,15 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @inproceedings{Juneau_2018, title={Enhanced Image Sensor Module for
+  Head-Mounted Microscopes}, url={http://dx.doi.org/10.1109/embc.2018.8512387}, DOI={10.1109/embc.2018.8512387},
+  booktitle={2018 40th Annual International Conference of the IEEE Engineering in
+  Medicine and Biology Society (EMBC)}, publisher={IEEE}, author={Juneau, Jill and
+  Duret, Guillaume and Robinson, Jacob and Kemere, Caleb}, year={2018}, month=jul,
+  pages={826–829} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

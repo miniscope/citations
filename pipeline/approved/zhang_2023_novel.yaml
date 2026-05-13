@@ -19,8 +19,14 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhang_2023, title={A Novel Design Method of Uniformity Energy
+  Distribution Lens for Miniscopes}, volume={15}, ISSN={1943-0647}, url={http://dx.doi.org/10.1109/jphot.2023.3306806},
+  DOI={10.1109/jphot.2023.3306806}, number={5}, journal={IEEE Photonics Journal},
+  publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Zhang,
+  Jinyong and Xin, Xuegang}, year={2023}, month=Oct, pages={1–6} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

@@ -33,8 +33,16 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Yanny_2020, title={Miniscope3D: optimized single-shot miniature
+  3D fluorescence microscopy}, volume={9}, ISSN={2047-7538}, url={http://dx.doi.org/10.1038/s41377-020-00403-7},
+  DOI={10.1038/s41377-020-00403-7}, number={1}, journal={Light: Science &amp; Applications},
+  publisher={Springer Science and Business Media LLC}, author={Yanny, Kyrollos and
+  Antipa, Nick and Liberti, William and Dehaeck, Sam and Monakhova, Kristina and Liu,
+  Fanglin Linda and Shen, Konlin and Ng, Ren and Waller, Laura}, year={2020}, month=Oct
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

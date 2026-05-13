@@ -30,8 +30,15 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Kingsbury_2019, title={Correlated Neural Activity and Encoding
+  of Behavior across Brains of Socially Interacting Animals}, volume={178}, ISSN={0092-8674},
+  url={http://dx.doi.org/10.1016/j.cell.2019.05.022}, DOI={10.1016/j.cell.2019.05.022},
+  number={2}, journal={Cell}, publisher={Elsevier BV}, author={Kingsbury, Lyle and
+  Huang, Shan and Wang, Jun and Gu, Ken and Golshani, Peyman and Wu, Ye Emily and
+  Hong, Weizhe}, year={2019}, month=jul, pages={429–446.e16} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

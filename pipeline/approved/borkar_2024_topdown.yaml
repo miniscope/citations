@@ -45,8 +45,17 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Borkar_2024, title={Top-down control of flight by a non-canonical
+  cortico-amygdala pathway}, volume={625}, ISSN={1476-4687}, url={http://dx.doi.org/10.1038/s41586-023-06912-w},
+  DOI={10.1038/s41586-023-06912-w}, number={7996}, journal={Nature}, publisher={Springer
+  Science and Business Media LLC}, author={Borkar, Chandrashekhar D. and Stelly, Claire
+  E. and Fu, Xin and Dorofeikova, Maria and Le, Quan-Son Eric and Vutukuri, Rithvik
+  and Vo, Catherine and Walker, Alice Breaux and Basavanhalli, Samhita and Duong,
+  Anh and Bean, Erin and Resendez, Alexis and Parker, Jones G. and Tasker, Jeffrey
+  G. and Fadok, Jonathan P.}, year={2024}, month=Jan, pages={743–749} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

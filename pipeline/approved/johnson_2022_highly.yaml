@@ -58,8 +58,20 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Johnson_2022, title={Highly unstable heterogeneous representations
+  in VIP interneurons of the anterior cingulate cortex}, volume={27}, ISSN={1476-5578},
+  url={http://dx.doi.org/10.1038/s41380-022-01485-y}, DOI={10.1038/s41380-022-01485-y},
+  number={5}, journal={Molecular Psychiatry}, publisher={Springer Science and Business
+  Media LLC}, author={Johnson, Connor and Kretsge, Lisa N. and Yen, William W. and
+  Sriram, Balaji and O’Connor, Alexandra and Liu, Ruichen Sky and Jimenez, Jessica
+  C. and Phadke, Rhushikesh A. and Wingfield, Kelly K. and Yeung, Charlotte and Jinadasa,
+  Tushare J. and Nguyen, Thanh P. H. and Cho, Eun Seon and Fuchs, Erelle and Spevack,
+  Eli D. and Velasco, Berta Escude and Hausmann, Frances S. and Fournier, Luke A.
+  and Brack, Alison and Melzer, Sarah and Cruz-Martín, Alberto}, year={2022}, month=Mar,
+  pages={2602–2618} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

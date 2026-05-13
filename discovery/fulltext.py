@@ -56,6 +56,21 @@ def fetch_and_save_bibtex(yaml_path):
     if not bibtex or "@" not in bibtex:
         return None
 
+    # Normalize month names to the lowercase 3-letter abbreviations that
+    # bibtexparser's `common_strings=True` recognizes. CrossRef sometimes
+    # emits `month=July` (capitalized full name) or `month=Sept` (the
+    # non-standard 4-letter abbreviation), either of which would raise
+    # UndefinedString during parsing.
+    _MONTH_VARIANTS = {
+        "January": "jan", "February": "feb", "March": "mar", "April": "apr",
+        "May": "may", "June": "jun", "July": "jul", "August": "aug",
+        "September": "sep", "October": "oct", "November": "nov",
+        "December": "dec",
+        "Sept": "sep",  # non-standard CrossRef abbreviation
+    }
+    for _variant, _abbr in _MONTH_VARIANTS.items():
+        bibtex = re.sub(rf"(month\s*=\s*){_variant}\b", rf"\g<1>{_abbr}", bibtex, flags=re.IGNORECASE)
+
     # Save companion .bib file
     bib_path = yaml_path.with_suffix(".bib")
     bib_path.write_text(bibtex, encoding="utf-8")

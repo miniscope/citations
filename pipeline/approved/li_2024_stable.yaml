@@ -32,8 +32,14 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Li_2024, title={Stable sequential dynamics in prefrontal cortex
+  represents subjective estimation of time}, url={http://dx.doi.org/10.1101/2024.02.26.582071},
+  DOI={10.1101/2024.02.26.582071}, publisher={openRxiv}, author={Li, Yiting and Yin,
+  Wenqu and Wang, Xin and Li, Jiawen and Zhou, Shanglin and Ma, Chaolin and Yuan,
+  Peng and Li, Baoming}, year={2024}, month=Feb }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

@@ -28,8 +28,15 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Chen_2022, title={Ubiquitous proximity to a critical state
+  for collective neural activity in the CA1 region of freely moving mice}, volume={77},
+  ISSN={0577-9073}, url={http://dx.doi.org/10.1016/j.cjph.2021.12.010}, DOI={10.1016/j.cjph.2021.12.010},
+  journal={Chinese Journal of Physics}, publisher={Elsevier BV}, author={Chen, Yi-Ling
+  and Chen, Chun-Chung and Mei, Yu-Ying and Zhou, Ning and Wu, Dongchuan and Lee,
+  Ting-Kuo}, year={2022}, month=jun, pages={497–510} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

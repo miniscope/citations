@@ -31,8 +31,15 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Bowles_2021, title={Vagus nerve stimulation accelerates motor
+  learning through cholinergic modulation}, url={http://dx.doi.org/10.1101/2021.10.28.466306},
+  DOI={10.1101/2021.10.28.466306}, publisher={openRxiv}, author={Bowles, Spencer and
+  Hickman, Jordan and Peng, Xiaoyu and Williamson, W. Ryan and Huang, Rongchen and
+  Washington, Kayden and Donegan, Dane and Welle, Cristin G}, year={2021}, month=Oct
+  }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

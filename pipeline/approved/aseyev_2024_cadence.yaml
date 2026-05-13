@@ -29,8 +29,15 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Aseyev_2024, title={CADENCE — Neuroinformatics Tool for Supervised
+  Calcium Events Detection}, volume={22}, ISSN={1559-0089}, url={http://dx.doi.org/10.1007/s12021-024-09677-3},
+  DOI={10.1007/s12021-024-09677-3}, number={3}, journal={Neuroinformatics}, publisher={Springer
+  Science and Business Media LLC}, author={Aseyev, Nikolay and Borodinova, Anastasia
+  and Pavlova, Svetlana and Roshchina, Marina and Roshchin, Matvey and Nikitin, Evgeny
+  and Balaban, Pavel}, year={2024}, month=jul, pages={379–387} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

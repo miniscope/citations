@@ -24,8 +24,14 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Lee_2023, title={Identifying representational structure in
+  CA1 to benchmark theoretical models of cognitive mapping}, url={http://dx.doi.org/10.1101/2023.10.08.561112},
+  DOI={10.1101/2023.10.08.561112}, publisher={openRxiv}, author={Lee, J. Quinn and
+  Keinath, Alexandra T. and Cianfarano, Erica and Brandon, Mark P.}, year={2023},
+  month=Oct }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

@@ -23,8 +23,14 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Zhang_2024, title={Cortical regulation of helping behaviour
+  towards others in pain}, volume={626}, ISSN={1476-4687}, url={http://dx.doi.org/10.1038/s41586-023-06973-x},
+  DOI={10.1038/s41586-023-06973-x}, number={7997}, journal={Nature}, publisher={Springer
+  Science and Business Media LLC}, author={Zhang, Mingmin and Wu, Ye Emily and Jiang,
+  Mengping and Hong, Weizhe}, year={2024}, month=Jan, pages={136–144} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

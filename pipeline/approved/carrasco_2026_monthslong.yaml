@@ -21,8 +21,14 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Skromne_Carrasco_2026, title={Months-long stability of the
+  head-direction system}, volume={652}, ISSN={1476-4687}, url={http://dx.doi.org/10.1038/s41586-025-10096-w},
+  DOI={10.1038/s41586-025-10096-w}, number={8108}, journal={Nature}, publisher={Springer
+  Science and Business Media LLC}, author={Skromne Carrasco, Sofia and Viejo, Guillaume
+  and Peyrache, Adrien}, year={2026}, month=Feb, pages={167–173} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null
