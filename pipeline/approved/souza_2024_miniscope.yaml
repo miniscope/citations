@@ -36,8 +36,15 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Simoes_de_Souza_2024, title={Miniscope Recording Calcium Signals
+  at Hippocampus of Mice Navigating an Odor Plume}, url={http://dx.doi.org/10.1101/2024.06.12.598681},
+  DOI={10.1101/2024.06.12.598681}, publisher={openRxiv}, author={Simoes de Souza,
+  Fabio M. and Williamson, Ryan and McCullough, Connor and Teel, Alec and Futia, Gregory
+  and Ma, Ming and True, Aaron and Crimaldi, John. P. and Gibson, Emily and Restrepo,
+  Diego}, year={2024}, month=jun }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

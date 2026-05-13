@@ -20,8 +20,14 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Kapanaiah_2023, title={Open-MAC: A low-cost open-source motorized
+  commutator for electro- and opto-physiological recordings in freely moving rodents},
+  volume={14}, ISSN={2468-0672}, url={http://dx.doi.org/10.1016/j.ohx.2023.e00429},
+  DOI={10.1016/j.ohx.2023.e00429}, journal={HardwareX}, publisher={Elsevier BV}, author={Kapanaiah,
+  Sampath K.T. and Kätzel, Dennis}, year={2023}, month=jun, pages={e00429} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

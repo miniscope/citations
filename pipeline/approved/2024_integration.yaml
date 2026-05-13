@@ -26,8 +26,16 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Erofeev_2024, title={Integration of Single-Photon Miniature
+  Fluorescence Microscopy and Electrophysiological Recording Methods  for in vivo
+  Studying Hippocampal Neuronal Activity}, volume={60}, ISSN={1608-3202}, url={http://dx.doi.org/10.1134/s0022093024040264},
+  DOI={10.1134/s0022093024040264}, number={4}, journal={Journal of Evolutionary Biochemistry
+  and Physiology}, publisher={Pleiades Publishing Ltd}, author={Erofeev, A. I. and
+  Vinokurov, E. K. and Antifeev, I. E. and Vlasova, O. L. and Bezprozvanny, I. B.},
+  year={2024}, month=jul, pages={1586–1606} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

@@ -30,8 +30,14 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Mishchanchuk_2024, title={Hidden state inference requires abstract
+  contextual representations in ventral hippocampus}, url={http://dx.doi.org/10.1101/2024.05.17.594673},
+  DOI={10.1101/2024.05.17.594673}, publisher={openRxiv}, author={Mishchanchuk, Karyna
+  and Gregoriou, Gabrielle and Qü, Albert and Kastler, Alizée and Huys, Quentin and
+  Wilbrecht, Linda and MacAskill, Andrew F.}, year={2024}, month=may }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

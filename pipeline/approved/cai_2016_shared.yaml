@@ -66,7 +66,7 @@ bibtex_raw: ' @article{Cai_2016, title={A shared neural ensemble links distinct 
   and Veshkini, Michael and La-Vu, Mimi and Lou, Jerry and Flores, Sergio E. and Kim,
   Isaac and Sano, Yoshitake and Zhou, Miou and Baumgaertel, Karsten and Lavi, Ayal
   and Kamata, Masakazu and Tuszynski, Mark and Mayford, Mark and Golshani, Peyman
-  and Silva, Alcino J.}, year={2016}, month=May, pages={115–118} }
+  and Silva, Alcino J.}, year={2016}, month=may, pages={115–118} }
 
   '
 bibtex_source: crossref

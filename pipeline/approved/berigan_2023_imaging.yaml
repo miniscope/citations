@@ -24,8 +24,15 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Berigan_2023, title={Imaging neuro-urodynamics of mouse major
+  pelvic ganglion with a micro-endoscopic approach}, volume={129}, ISSN={1522-1598},
+  url={http://dx.doi.org/10.1152/jn.00450.2022}, DOI={10.1152/jn.00450.2022}, number={2},
+  journal={Journal of Neurophysiology}, publisher={American Physiological Society},
+  author={Berigan, Benton R. and Wang, Jing and Schulz, David J. and Ozden, Ilker},
+  year={2023}, month=Feb, pages={479–493} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

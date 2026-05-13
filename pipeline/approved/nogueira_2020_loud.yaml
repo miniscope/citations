@@ -28,8 +28,14 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Nogueira_2020, title={Loud noise exposure differentially affects
+  subpopulations of auditory cortex pyramidal cells}, url={http://dx.doi.org/10.1101/2020.08.25.264200},
+  DOI={10.1101/2020.08.25.264200}, publisher={openRxiv}, author={Nogueira, Ingrid
+  and Winne, Jessica and Lima, Thiago Z. and Malfatti, Thawann and Leao, Richardson
+  N. and Leao, Katarina E.}, year={2020}, month=Aug }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

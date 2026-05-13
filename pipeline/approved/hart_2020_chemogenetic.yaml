@@ -26,8 +26,16 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Hart_2020, title={Chemogenetic Modulation and Single-Photon
+  Calcium Imaging in Anterior Cingulate Cortex Reveal a Mechanism for Effort-Based
+  Decisions}, volume={40}, ISSN={1529-2401}, url={http://dx.doi.org/10.1523/jneurosci.2548-19.2020},
+  DOI={10.1523/jneurosci.2548-19.2020}, number={29}, journal={The Journal of Neuroscience},
+  publisher={Society for Neuroscience}, author={Hart, Evan E. and Blair, Garrett J.
+  and O’Dell, Thomas J. and Blair, Hugh T. and Izquierdo, Alicia}, year={2020}, month=jun,
+  pages={5628–5643} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

@@ -28,8 +28,16 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Long_2024, title={Constraints on the subsecond modulation of
+  striatal dynamics by physiological dopamine signaling}, volume={27}, ISSN={1546-1726},
+  url={http://dx.doi.org/10.1038/s41593-024-01699-z}, DOI={10.1038/s41593-024-01699-z},
+  number={10}, journal={Nature Neuroscience}, publisher={Springer Science and Business
+  Media LLC}, author={Long, Charltien and Lee, Kwang and Yang, Long and Dafalias,
+  Theresia and Wu, Alexander K. and Masmanidis, Sotiris C.}, year={2024}, month=jul,
+  pages={1977–1986} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

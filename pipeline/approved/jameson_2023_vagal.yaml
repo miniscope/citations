@@ -37,8 +37,15 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Jameson_2023, title={Vagal interoception of microbial metabolites
+  from the small intestinal lumen}, url={http://dx.doi.org/10.1101/2023.12.18.572257},
+  DOI={10.1101/2023.12.18.572257}, publisher={openRxiv}, author={Jameson, Kelly G.
+  and Kazmi, Sabeen A. and Son, Celine and Mazdeyasnan, Donya and Leshan, Emma and
+  Vuong, Helen E. and Paramo, Jorge and Lopez-Romero, Arlene and Yang, Long and Schweizer,
+  Felix E. and Hsiao, Elaine Y.}, year={2023}, month=Dec }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

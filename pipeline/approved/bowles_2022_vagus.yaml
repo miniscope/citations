@@ -32,8 +32,16 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Bowles_2022, title={Vagus nerve stimulation drives selective
+  circuit modulation through cholinergic reinforcement}, volume={110}, ISSN={0896-6273},
+  url={http://dx.doi.org/10.1016/j.neuron.2022.06.017}, DOI={10.1016/j.neuron.2022.06.017},
+  number={17}, journal={Neuron}, publisher={Elsevier BV}, author={Bowles, Spencer
+  and Hickman, Jordan and Peng, Xiaoyu and Williamson, W. Ryan and Huang, Rongchen
+  and Washington, Kayden and Donegan, Dane and Welle, Cristin G.}, year={2022}, month=sep,
+  pages={2867–2885.e7} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

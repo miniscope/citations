@@ -27,8 +27,13 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @article{Larosa_2024, title={Social valence dictates sex differences
+  in identity recognition}, url={http://dx.doi.org/10.1101/2024.06.07.598039}, DOI={10.1101/2024.06.07.598039},
+  publisher={openRxiv}, author={Larosa, Amanda and Xu, Qi Wei and Wong, Alice S. and
+  Lee, J. Quinn and Brandon, Mark P. and Wong, Tak Pan}, year={2024}, month=jun }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

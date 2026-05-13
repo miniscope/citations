@@ -18,8 +18,13 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: "@article{https://doi.org/10.11588/heidok.00025508,\n  doi = {10.11588/HEIDOK.00025508},\n\
+  \  url = {http://archiv.ub.uni-heidelberg.de/volltextserver/id/eprint/25508},\n\
+  \  author = {Pfarr, Simone},\n  keywords = {570 Life sciences},\n  title = {The\
+  \ Role of the Medial Prefrontal Cortex in Reward Seeking: Functional Evidence on\
+  \ Cellular and Molecular Mechanisms underlying Drug and Natural Reward Seeking},\n\
+  \  publisher = {Heidelberg University Library},\n  year = {2018}\n}\n"
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null

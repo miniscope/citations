@@ -27,8 +27,15 @@ source: trusted_bib
 seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
 discovered_date: '2026-05-13'
 batch_id: trusted_bib_ingest_2026-05-13
-bibtex_raw: null
-bibtex_source: null
+bibtex_raw: ' @inproceedings{Gao_2020, title={Novel Virtual Reality System for Auditory
+  Tasks in Head-fixed Mice}, url={http://dx.doi.org/10.1109/embc44109.2020.9176536},
+  DOI={10.1109/embc44109.2020.9176536}, booktitle={2020 42nd Annual International
+  Conference of the IEEE Engineering in Medicine &amp; Biology Society (EMBC)}, publisher={IEEE},
+  author={Gao, Sibo and Webb, James and Mridha, Zakir and Banta, Anton and Kemere,
+  Caleb and McGinley, Matthew}, year={2020}, month=jul, pages={2925–2928} }
+
+  '
+bibtex_source: crossref
 fulltext:
   source: null
   pdf_local_path: null
