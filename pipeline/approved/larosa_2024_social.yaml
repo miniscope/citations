@@ -1,0 +1,55 @@
+doi: 10.1101/2024.06.07.598039
+openalex_id: W4399466801
+pmid: null
+pmcid: null
+title: Social valence dictates sex differences in identity recognition
+authors:
+- first: Amanda
+  last: Larosa
+- first: Qi
+  last: Xu
+- first: Alice S.
+  last: Wong
+- first: J. Quinn
+  last: Lee
+- first: Mark P.
+  last: Brandon
+- first: Tak Pan
+  last: Wong
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2024
+publication_date: '2024-06-08'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2024/06/08/2024.06.07.598039.full.pdf
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:25.879656+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.625111+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: larosaSocialValenceDictates2024
+  match_method: doi
+  similarity: 1.0

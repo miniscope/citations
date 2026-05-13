@@ -1,0 +1,64 @@
+doi: 10.1101/2024.06.12.598681
+openalex_id: W4399690851
+pmid: null
+pmcid: null
+title: Miniscope Recording Calcium Signals at Hippocampus of Mice Navigating an Odor
+  Plume
+authors:
+- first: Fábio M. Simões de
+  last: Souza
+- first: Ryan C.
+  last: Williamson
+- first: Connor
+  last: McCullough
+- first: A.R.
+  last: Teel
+- first: Gregory L.
+  last: Futia
+- first: Ming
+  last: Ma
+- first: Aaron C.
+  last: 'True'
+- first: John P.
+  last: Crimaldi
+- first: Emily A.
+  last: Gibson
+- first: Diego
+  last: Restrepo
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2024
+publication_date: '2024-06-13'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2024/07/08/2024.06.12.598681.full.pdf
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V4
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:19.675064+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.591616+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: souzaMiniscopeRecordingCalcium2024a
+  match_method: doi
+  similarity: 1.0

@@ -1,0 +1,49 @@
+doi: 10.1101/2024.06.13.598909
+openalex_id: W4399693345
+pmid: null
+pmcid: null
+title: Months-long stability of the head-direction system
+authors:
+- first: Sofía Skromne
+  last: Carrasco
+- first: Guillaume
+  last: Viejo
+- first: Adrien
+  last: Peyrache
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2024
+publication_date: '2024-06-13'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2024/06/13/2024.06.13.598909.full.pdf
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V4
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:28.215983+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.638573+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: carrascoMonthslongStabilityHeaddirection2024c
+  match_method: doi
+  similarity: 1.0

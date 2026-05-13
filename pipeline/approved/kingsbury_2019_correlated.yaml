@@ -1,0 +1,64 @@
+doi: 10.1016/j.cell.2019.05.022
+openalex_id: W2950053601
+pmid: null
+pmcid: null
+title: Correlated Neural Activity and Encoding of Behavior across Brains of Socially
+  Interacting Animals
+authors:
+- first: Lyle
+  last: Kingsbury
+- first: Shan
+  last: Huang
+- first: Jun
+  last: Wang
+- first: Ken
+  last: Gu
+- first: Peyman
+  last: Golshani
+- first: Ye
+  last: Wu
+- first: Weizhe
+  last: Hong
+journal: Cell
+publication_year: 2019
+publication_date: '2019-06-20'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.cell.com/article/S0092867419305501/pdf
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: Curator review 1-by-1. Hong (Caltech) + Golshani (UCLA) Cell paper on
+    inter-brain synchrony in socially interacting mice. mPFC dual-recording. 2019
+    → V3 era; Golshani co-author confirms UCLA Miniscope.
+  suggested_keywords:
+  - Prefrontal Cortex
+  - Social Behavior
+  - Calcium Imaging
+  suggested_project: Miniscope V3
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:33.312281+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.663803+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: kingsburyCorrelatedNeuralActivity2019a
+  match_method: doi
+  similarity: 1.0

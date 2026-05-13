@@ -1,0 +1,85 @@
+doi: 10.1101/2024.09.27.615291
+openalex_id: W4402971287
+pmid: null
+pmcid: null
+title: Temporal Dynamics of Nucleus Accumbens Neurons in Male Mice During Reward Seeking
+authors:
+- first: Terra A.
+  last: Schall
+- first: King-Lun
+  last: Li
+- first: Xiguang
+  last: Qi
+- first: Brian T.
+  last: Lee
+- first: William J.
+  last: Wright
+- first: Erin E.
+  last: Alpaugh
+- first: Rachel J.
+  last: Zhao
+- first: Jianwei
+  last: Liu
+- first: Qize
+  last: Li
+- first: Bo
+  last: Zeng
+- first: Lirong
+  last: Wang
+- first: Yanhua H.
+  last: Huang
+- first: Oliver
+  last: Schlueter
+- first: Eric J.
+  last: Nestler
+- first: Edward H.
+  last: Nieh
+- first: Yan
+  last: Dong
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2024
+publication_date: '2024-09-30'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Schall_2024, title={Temporal Dynamics of Nucleus Accumbens
+  Neurons in Male Mice During Reward Seeking}, url={http://dx.doi.org/10.1101/2024.09.27.615291},
+  DOI={10.1101/2024.09.27.615291}, publisher={openRxiv}, author={Schall, Terra A.
+  and Li, King-Lun and Qi, Xiguang and Lee, Brian T. and Wright, William J. and Alpaugh,
+  Erin E. and Zhao, Rachel J. and Liu, Jianwei and Li, Qize and Zeng, Bo and Wang,
+  Lirong and Huang, Yanhua H. and Schlüter, Oliver M. and Nestler, Eric J. and Nieh,
+  Edward H. and Dong, Yan}, year={2024}, month=sep }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Wire-Free
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.326151+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:10.383011+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: schallTemporalDynamicsNucleus2024
+  match_method: doi
+  similarity: 1.0

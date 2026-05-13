@@ -1,0 +1,60 @@
+doi: 10.1101/2024.02.28.582584
+openalex_id: W4392343364
+pmid: null
+pmcid: null
+title: 'Neural coding in gustatory cortex reflects consumption decisions: Evidence
+  from conditioned taste aversion'
+authors:
+- first: Martin A.
+  last: Raymond
+- first: Ian F.
+  last: Chapman
+- first: Stephanie M.
+  last: Staszko
+- first: Max L.
+  last: Fletcher
+- first: John D.
+  last: Boughter
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2024
+publication_date: '2024-03-03'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2024/03/03/2024.02.28.582584.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Raymond_2024, title={Neural coding in gustatory cortex reflects
+  consumption decisions: Evidence from conditioned taste aversion}, url={http://dx.doi.org/10.1101/2024.02.28.582584},
+  DOI={10.1101/2024.02.28.582584}, publisher={openRxiv}, author={Raymond, Martin A.
+  and Chapman, Ian F. and Staszko, Stephanie M. and Fletcher, Max L. and Boughter,
+  John D.}, year={2024}, month=mar }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V4
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.324466+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:10.366092+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: raymondNeuralCodingGustatory2024
+  match_method: doi
+  similarity: 1.0

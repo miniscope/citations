@@ -1,0 +1,57 @@
+doi: 10.1523/jneurosci.1750-21.2022
+openalex_id: W4225274175
+pmid: null
+pmcid: null
+title: <i>In Vivo</i> Multi-Day Calcium Imaging of CA1 Hippocampus in Freely Moving
+  Rats Reveals a High Preponderance of Place Cells with Consistent Place Fields
+authors:
+- first: Hannah S.
+  last: Wirtshafter
+- first: John F.
+  last: Disterhoft
+journal: Journal of Neuroscience
+publication_year: 2022
+publication_date: '2022-05-02'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.jneurosci.org/content/jneuro/42/22/4538.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: " @article{Wirtshafter_2022, title={In Vivo\n                    Multi-Day\
+  \ Calcium Imaging of CA1 Hippocampus in Freely Moving Rats Reveals a High Preponderance\
+  \ of Place Cells with Consistent Place Fields}, volume={42}, ISSN={1529-2401}, url={http://dx.doi.org/10.1523/jneurosci.1750-21.2022},\
+  \ DOI={10.1523/jneurosci.1750-21.2022}, number={22}, journal={The Journal of Neuroscience},\
+  \ publisher={Society for Neuroscience}, author={Wirtshafter, Hannah S. and Disterhoft,\
+  \ John F.}, year={2022}, month=may, pages={4538–4554} }\n"
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V4
+  suggested_keywords:
+  - Calcium Imaging
+  - Hippocampus
+  - Place Cells
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.373763+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:39.832260+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: wirtshafterVivoMultiDayCalcium2022a
+  match_method: doi
+  similarity: 1.0

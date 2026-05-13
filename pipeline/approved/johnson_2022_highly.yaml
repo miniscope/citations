@@ -1,0 +1,93 @@
+doi: 10.1038/s41380-022-01485-y
+openalex_id: W4220750672
+pmid: null
+pmcid: null
+title: Highly unstable heterogeneous representations in VIP interneurons of the anterior
+  cingulate cortex
+authors:
+- first: Connor
+  last: Johnson
+- first: Lisa N.
+  last: Kretsge
+- first: William
+  last: Yen
+- first: Balaji
+  last: Sriram
+- first: Alexandra
+  last: O’Connor
+- first: Ruichen Sky
+  last: Liu
+- first: Jessica
+  last: Jimenez
+- first: Rhushikesh A.
+  last: Phadke
+- first: Kelly K.
+  last: Wingfield
+- first: Charlotte
+  last: Yeung
+- first: Tushare
+  last: Jinadasa
+- first: Thanh P. H.
+  last: Nguyen
+- first: Eun Seon
+  last: Cho
+- first: Erelle
+  last: Fuchs
+- first: Eli D.
+  last: Spevack
+- first: Berta Escude
+  last: Velasco
+- first: Frances S.
+  last: Hausmann
+- first: Luke A.
+  last: Fournier
+- first: Alison
+  last: Brack
+- first: Sarah
+  last: Melzer
+- first: Alberto
+  last: Cruz‐Martín
+journal: Molecular Psychiatry
+publication_year: 2022
+publication_date: '2022-03-04'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.ncbi.nlm.nih.gov/pmc/articles/11128891
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: Curator review 1-by-1. Cruz-Martín lab (BU) ACC VIP interneuron paper.
+    Acknowledgments name Aharoni+Golshani donating camera sensor + DAQ board, confirming
+    UCLA Miniscope. V3 (2022 paper, donated V3-era kit; experiments started earlier).
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Prefrontal Cortex
+  - Fear & Anxiety
+  - Social Behavior
+  - Calcium Imaging
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:18.906961+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.587066+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: johnsonHighlyUnstableHeterogeneous2022
+  match_method: doi
+  similarity: 1.0

@@ -1,0 +1,67 @@
+doi: 10.1016/j.talanta.2024.126537
+openalex_id: W4400451293
+pmid: null
+pmcid: null
+title: A dual-mode, image-enhanced, miniaturized microscopy system for incubator-compatible
+  monitoring of live cells
+authors:
+- first: Yuheng
+  last: Liao
+- first: Chunlian
+  last: Qin
+- first: Xiaoyu
+  last: Zhang
+- first: Jing
+  last: Ye
+- first: Zhongyuan
+  last: Xu
+- first: Haotian
+  last: Zong
+- first: Ning
+  last: Hu
+- first: Diming
+  last: Zhang
+journal: Talanta
+publication_year: 2024
+publication_date: '2024-07-09'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Liao_2024, title={A dual-mode, image-enhanced, miniaturized
+  microscopy system for incubator-compatible monitoring of live cells}, volume={278},
+  ISSN={0039-9140}, url={http://dx.doi.org/10.1016/j.talanta.2024.126537}, DOI={10.1016/j.talanta.2024.126537},
+  journal={Talanta}, publisher={Elsevier BV}, author={Liao, Yuheng and Qin, Chunlian
+  and Zhang, Xiaoyu and Ye, Jing and Xu, Zhongyuan and Zong, Haotian and Hu, Ning
+  and Zhang, Diming}, year={2024}, month=oct, pages={126537} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V4
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.322635+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:10.368981+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: liaoDualmodeImageenhancedMiniaturized2024a
+  match_method: doi
+  similarity: 1.0

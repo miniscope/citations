@@ -1,0 +1,76 @@
+doi: 10.1016/j.neuron.2023.12.011
+openalex_id: W4391056187
+pmid: null
+pmcid: null
+title: Targeted micro-fiber arrays for measuring and manipulating localized multi-scale
+  neural dynamics over large, deep brain volumes during behavior
+authors:
+- first: Mai-Anh
+  last: Vu
+- first: E.
+  last: Brown
+- first: Michelle J.
+  last: Wen
+- first: Christian A.
+  last: Noggle
+- first: Zicheng
+  last: Zhang
+- first: Kevin J.
+  last: Monk
+- first: Safa
+  last: Bouabid
+- first: Lydia
+  last: Mroz
+- first: Benjamin
+  last: Graham
+- first: Yizhou
+  last: Zhuo
+- first: Yulong
+  last: Li
+- first: Timothy M.
+  last: Otchy
+- first: Lin
+  last: Tian
+- first: Ian G.
+  last: Davison
+- first: David A.
+  last: Boas
+- first: Mark W.
+  last: Howe
+journal: Neuron
+publication_year: 2024
+publication_date: '2024-01-21'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: http://www.cell.com/article/S0896627323009704/pdf
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope DAQ
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:36.297767+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.678383+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: vuTargetedMicrofiberArrays2024
+  match_method: doi
+  similarity: 1.0

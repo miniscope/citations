@@ -1,0 +1,72 @@
+doi: 10.1038/s41467-019-10716-w
+openalex_id: W2952472513
+pmid: null
+pmcid: PMC6586681
+title: A striatal interneuron circuit for continuous target pursuit
+authors:
+- first: Namsoo
+  last: Kim
+- first: Haofang E.
+  last: Li
+- first: Ryan N.
+  last: Hughes
+- first: Glenn D. R.
+  last: Watson
+- first: David A.
+  last: Gallegos
+- first: Anne E.
+  last: West
+- first: Il Hwan
+  last: Kim
+- first: Henry H.
+  last: Yin
+journal: Nature Communications
+publication_year: 2019
+publication_date: '2019-06-20'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.nature.com/articles/s41467-019-10716-w.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Kim_2019, title={A striatal interneuron circuit for continuous
+  target pursuit}, volume={10}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-019-10716-w},
+  DOI={10.1038/s41467-019-10716-w}, number={1}, journal={Nature Communications}, publisher={Springer
+  Science and Business Media LLC}, author={Kim, Namsoo and Li, Haofang E. and Hughes,
+  Ryan N. and Watson, Glenn D. R. and Gallegos, David and West, Anne E. and Kim, Il
+  Hwan and Yin, Henry H.}, year={2019}, month=jun }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: 'Curator review 1-by-1. Yin lab (Duke) striatal FSI-SPN circuit paper
+    on target pursuit. Methods: dual-rig (some mice Inscopix nVista, some UCLA Miniscope;
+    baseplate explicitly ''Inscopix or UCLA Miniscope''). 2019 → V3 era for the UCLA
+    side. Striatum/basal-ganglia tag not in current vocab.'
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Calcium Imaging
+  - Reward
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.318914+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:10.375230+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: kimStriatalInterneuronCircuit2019a
+  match_method: doi
+  similarity: 1.0

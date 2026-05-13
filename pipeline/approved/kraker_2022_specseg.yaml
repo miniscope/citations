@@ -1,0 +1,72 @@
+doi: 10.1016/j.crmeth.2022.100299
+openalex_id: W4297902633
+pmid: null
+pmcid: PMC9606108
+title: SpecSeg is a versatile toolbox that segments neurons and neurites in chronic
+  calcium imaging datasets based on low-frequency cross-spectral power
+authors:
+- first: Leander de
+  last: Kraker
+- first: Koen
+  last: Seignette
+- first: Premnath
+  last: Thamizharasu
+- first: Bastijn J.G. van den
+  last: Boom
+- first: Ildefonso Ferreira
+  last: Pica
+- first: Ingo
+  last: Willuhn
+- first: Christiaan N.
+  last: Levelt
+- first: Chris van der
+  last: Togt
+journal: Cell Reports Methods
+publication_year: 2022
+publication_date: '2022-09-20'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://doi.org/10.1016/j.crmeth.2022.100299
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{de_Kraker_2022, title={SpecSeg is a versatile toolbox that
+  segments neurons and neurites in chronic calcium imaging datasets based on low-frequency
+  cross-spectral power}, volume={2}, ISSN={2667-2375}, url={http://dx.doi.org/10.1016/j.crmeth.2022.100299},
+  DOI={10.1016/j.crmeth.2022.100299}, number={10}, journal={Cell Reports Methods},
+  publisher={Elsevier BV}, author={de Kraker, Leander and Seignette, Koen and Thamizharasu,
+  Premnath and van den Boom, Bastijn J.G. and Ferreira Pica, Ildefonso and Willuhn,
+  Ingo and Levelt, Christiaan N. and Togt, Chris van der}, year={2022}, month=oct,
+  pages={100299} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Calcium Imaging
+  - Two-Photon
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.320919+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:10.164054+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: krakerSpecSegVersatileToolbox2022
+  match_method: doi
+  similarity: 1.0

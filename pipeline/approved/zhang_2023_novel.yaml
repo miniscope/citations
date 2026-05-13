@@ -1,0 +1,49 @@
+doi: 10.1109/jphot.2023.3306806
+openalex_id: W4386025835
+pmid: null
+pmcid: null
+title: A Novel Design Method of Uniformity Energy Distribution Lens for Miniscopes
+authors:
+- first: Jinyong
+  last: Zhang
+- first: Xuegang
+  last: Xin
+journal: IEEE photonics journal
+publication_year: 2023
+publication_date: '2023-08-21'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://ieeexplore.ieee.org/ielx7/4563994/4814557/10225258.pdf
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: null
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Calcium Imaging
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:16.862267+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.575489+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: zhangNovelDesignMethod2023
+  match_method: doi
+  similarity: 1.0

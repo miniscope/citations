@@ -1,0 +1,88 @@
+doi: 10.1101/2024.03.12.584697
+openalex_id: W4392791561
+pmid: null
+pmcid: PMC10979962
+title: Distinct changes to hippocampal and medial entorhinal circuits emerge across
+  the progression of cognitive deficits in epilepsy
+authors:
+- first: Yu
+  last: Feng
+- first: Keziah S.
+  last: Diego
+- first: Zhe
+  last: Dong
+- first: Zoé Christenson
+  last: Wick
+- first: Lucia
+  last: Page-Harley
+- first: Veronica
+  last: Page-Harley
+- first: Julia
+  last: Schnipper
+- first: Sophia I.
+  last: Lamsifer
+- first: Zachary T.
+  last: Pennington
+- first: Lauren M.
+  last: Vetere
+- first: Paul A.
+  last: Philipsberg
+- first: Iván
+  last: Soler
+- first: A
+  last: Jurkowski
+- first: Christin J.
+  last: Rosado
+- first: Nadia
+  last: Khan
+- first: Denise J.
+  last: Cai
+- first: Tristan
+  last: Shuman
+journal: bioRxiv (Cold Spring Harbor Laboratory)
+publication_year: 2024
+publication_date: '2024-03-14'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.biorxiv.org/content/biorxiv/early/2024/03/14/2024.03.12.584697.full.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/s41593-019-0559-0
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Feng_2024, title={Distinct changes to hippocampal and medial
+  entorhinal circuits emerge across the progression of cognitive deficits in epilepsy},
+  url={http://dx.doi.org/10.1101/2024.03.12.584697}, DOI={10.1101/2024.03.12.584697},
+  publisher={openRxiv}, author={Feng, Yu and Diego, Keziah S. and Dong, Zhe and Wick,
+  Zoé Christenson and Page-Harley, Lucia and Page-Harley, Veronica and Schnipper,
+  Julia and Lamsifer, Sophia I. and Pennington, Zachary T. and Vetere, Lauren M. and
+  Philipsberg, Paul A. and Soler, Ivan and Jurkowski, Albert and Rosado, Christin
+  J. and Khan, Nadia N. and Cai, Denise J. and Shuman, Tristan}, year={2024}, month=mar
+  }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:26.376143+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:10.152870+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: fengDistinctChangesHippocampal2024
+  match_method: doi
+  similarity: 1.0

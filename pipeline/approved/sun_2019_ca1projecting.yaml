@@ -1,0 +1,79 @@
+doi: 10.1038/s41593-019-0496-y
+openalex_id: W2974108795
+pmid: null
+pmcid: PMC6819262
+title: CA1-projecting subiculum neurons facilitate object–place learning
+authors:
+- first: Yanjun
+  last: Sun
+- first: Suoqin
+  last: Jin
+- first: Xiaoxiao
+  last: Lin
+- first: Lujia
+  last: Chen
+- first: Xin
+  last: Qiao
+- first: Li
+  last: Jiang
+- first: Pengcheng
+  last: Zhou
+- first: Kevin G.
+  last: Johnston
+- first: Peyman
+  last: Golshani
+- first: Qing
+  last: Nie
+- first: Todd C.
+  last: Holmes
+- first: Douglas A.
+  last: Nitz
+- first: Xiangmin
+  last: Xu
+journal: Nature Neuroscience
+publication_year: 2019
+publication_date: '2019-09-23'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Sun_2019, title={CA1-projecting subiculum neurons facilitate
+  object–place learning}, volume={22}, ISSN={1546-1726}, url={http://dx.doi.org/10.1038/s41593-019-0496-y},
+  DOI={10.1038/s41593-019-0496-y}, number={11}, journal={Nature Neuroscience}, publisher={Springer
+  Science and Business Media LLC}, author={Sun, Yanjun and Jin, Suoqin and Lin, Xiaoxiao
+  and Chen, Lujia and Qiao, Xin and Jiang, Li and Zhou, Pengcheng and Johnston, Kevin
+  G. and Golshani, Peyman and Nie, Qing and Holmes, Todd C. and Nitz, Douglas A. and
+  Xu, Xiangmin}, year={2019}, month=sep, pages={1857–1870} }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: pmc
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+  suggested_keywords:
+  - Hippocampus
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.318153+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:10.192216+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: sunCA1projectingSubiculumNeurons2019b
+  match_method: doi
+  similarity: 1.0

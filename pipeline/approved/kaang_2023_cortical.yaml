@@ -1,0 +1,79 @@
+doi: 10.21203/rs.3.rs-3480103/v1
+openalex_id: W4388529438
+pmid: null
+pmcid: null
+title: Cortical processing of pain and itch information by distinct neuronal populations
+authors:
+- first: Bong‐Kiun
+  last: Kaang
+- first: Hyoung‐Gon
+  last: Ko
+- first: Dong Il
+  last: Choi
+- first: Chiwoo
+  last: Lee
+- first: Ja Eun
+  last: Choi
+- first: Jihae
+  last: Oh
+- first: Seunghyo
+  last: Han
+- first: Sanghyun
+  last: Ye
+- first: Jiah
+  last: Lee
+- first: Hyunsu
+  last: Jung
+- first: Jaehyun
+  last: Lee
+- first: Kyungmin
+  last: Lee
+- first: Jae‐Hyung
+  last: Lee
+- first: Min
+  last: Zhuo
+journal: Research Square
+publication_year: 2023
+publication_date: '2023-11-09'
+is_retracted: false
+open_access:
+  is_oa: true
+  oa_url: https://www.researchsquare.com/article/rs-3480103/latest.pdf
+source: openalex_cites
+seed_paper_doi: 10.1038/nature17955
+discovered_date: '2026-04-10'
+batch_id: backlog_2026-04-10
+bibtex_raw: ' @article{Kaang_2023, title={Cortical processing of pain and itch information
+  by distinct neuronal populations}, url={http://dx.doi.org/10.21203/rs.3.rs-3480103/v1},
+  DOI={10.21203/rs.3.rs-3480103/v1}, publisher={Springer Science and Business Media
+  LLC}, author={Kaang, Bong-Kiun and Ko, Hyoung-Gon and Choi, Dong Il and Lee, Chiwoo
+  and Choi, Ja Eun and Oh, Jihae and Han, Seunghyo and Ye, Sanghyun and Lee, Jiah
+  and Jung, Hyunsu and Lee, Jaehyun and Lee, Kyungmin and Lee, Jae-Hyung and Zhuo,
+  Min}, year={2023}, month=nov }
+
+  '
+bibtex_source: crossref
+fulltext:
+  source: unpaywall
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Science
+  suggested_component: null
+  suggested_technique: null
+  reasoning: null
+  suggested_project: Miniscope V3
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-04-11T03:20:43.325912+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:43:10.170426+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: kaangCorticalProcessingPain2023
+  match_method: doi
+  similarity: 1.0

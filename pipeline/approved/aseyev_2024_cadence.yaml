@@ -1,0 +1,61 @@
+doi: 10.1007/s12021-024-09677-3
+openalex_id: W4400177524
+pmid: null
+pmcid: null
+title: CADENCE — Neuroinformatics Tool for Supervised Calcium Events Detection
+authors:
+- first: Nikolay
+  last: Aseyev
+- first: А. А.
+  last: Бородинова
+- first: Svitlana
+  last: Pavlova
+- first: M. A.
+  last: Roshchina
+- first: Matvey
+  last: Roshchin
+- first: Е. С.
+  last: Никитин
+- first: П. М.
+  last: Балабан
+journal: Neuroinformatics
+publication_year: 2024
+publication_date: '2024-07-01'
+is_retracted: false
+open_access:
+  is_oa: false
+  oa_url: null
+source: trusted_bib
+seed_paper_doi: trusted_bib:Publications Using Our Tools.bib
+discovered_date: '2026-05-13'
+batch_id: trusted_bib_ingest_2026-05-13
+bibtex_raw: null
+bibtex_source: null
+fulltext:
+  source: null
+  pdf_local_path: null
+analysis:
+  status: trusted_bib_approved
+  uses_tool: null
+  confidence: null
+  tools_identified: []
+  evidence: []
+  paper_type: Analysis Pipeline
+  suggested_component: null
+  suggested_technique: null
+  reasoning: 'Approved during 1-by-1 spot review. Downstream supervised calcium-events
+    detection tool; cites Minian and lists Miniscope as one of its input data sources.
+    Ecosystem-adjacent: no specific Miniscope project.'
+  suggested_keywords:
+  - Calcium Imaging
+  - Open-Source
+stage: approved
+stage_history:
+- stage: candidate
+  timestamp: '2026-05-13T18:45:29.786127+00:00'
+- stage: approved
+  timestamp: '2026-05-13T18:46:01.646328+00:00'
+  source: trusted_bib:Publications Using Our Tools.bib
+  trusted_bib_key: aseyevCADENCENeuroinformaticsTool2024
+  match_method: doi
+  similarity: 1.0
